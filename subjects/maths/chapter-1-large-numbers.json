@@ -1,0 +1,3522 @@
+[
+  {
+      "question": "In what century CE does the Vasavadatta, a Sanskrit drama by Subandhu, contain the earliest known explicit reference to zero as a number?",
+      "choices": [
+          "5th century",
+          "6th century",
+          "7th century",
+          "8th century"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote the Aryabhatiya, including mathematical concepts and calculations using zero, between the 7th and 8th century CE?",
+      "choices": [
+          "Brahmagupta",
+          "Subandhu",
+          "Al-Khwarizmi",
+          "Aryabhata"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Brahmagupta wrote the Brahmasphutasiddhanta in which century CE?",
+      "choices": [
+          "6th century",
+          "7th century",
+          "8th century",
+          "9th century"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these calculations rules are presented in the Brahmasphutasiddhanta?",
+      "choices": [
+          "Only using zero",
+          "Only using negative number",
+          "Using zero and negative numbers",
+          "Using exponents and logarithms"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Islamic scholars translated Indian mathematical texts into Arabic in which century CE?",
+      "choices": [
+          "7th to 8th",
+          "8th to 9th",
+          "9th to 12th",
+          "12th to 13th"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Al-Khwarizmi and Al-Kindi were from where?",
+      "choices": [
+          "Indian",
+          "Italian",
+          "Arabic",
+          "Islamic"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Who popularized the Indian numeral system in Europe?",
+      "choices": [
+          "Al-Khwarizmi",
+          "Aryabhata",
+          "Leonardo Fibonacci",
+          "Brahmagupta"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In what century CE did Leonardo Fibonacci popularized the Indian numeral system?",
+      "choices": [
+          "11th century",
+          "12th century",
+          "13th century",
+          "14th century"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Leonardo Fibonacci popularized the Indian numeral system in Europe through which book?",
+      "choices": [
+          "Aryabhatiya",
+          "Brahmasphutasiddhanta",
+          "Liber Abaci",
+          "Vasavadatta"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Vasavadatta is a Sanskrit drama written by whom?",
+      "choices": [
+          "Aryabhata",
+          "Brahmagupta",
+          "Subandhu",
+          "Fibonacci"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Aryabhata was an Indian mathematician and?",
+      "choices": [
+          "Astronomer",
+          "Historian",
+          "Philosopher",
+          "Writer"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Brahmasphutasiddhanta presented rules for arithmetic calculations using what type of numbers?",
+      "choices": [
+          "Positive numbers",
+          "Imaginary numbers",
+          "Complex numbers",
+          "Zero and negative numbers"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What was one of the main things that Islamic scholars did?",
+      "choices": [
+          "Invented zero",
+          "Discovered calculus",
+          "Translated Indian mathematical texts",
+          "Built the pyramids"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What number system did Leonardo Fibonacci popularize in Europe?",
+      "choices": [
+          "Roman numeral system",
+          "Egyptian numeral system",
+          "Babylonian numeral system",
+          "Indian numeral system"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What did the timeline provide an overview of?",
+      "choices": [
+          "Planets discovery",
+          "Ancient civilizations",
+          "Development of number systems",
+          "The origin of universe"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which civilization developed the sexagesimal number system?",
+      "choices": [
+          "Egyptians",
+          "Mayans",
+          "Sumerians",
+          "Babylonians"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What base was the sexagesimal system based on?",
+      "choices": [
+          "10",
+          "20",
+          "60",
+          "100"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Around what time did the Sumerians develop the sexagesimal system?",
+      "choices": [
+          "2600 BCE",
+          "300 BCE",
+          "3000 BCE",
+          "900 CE"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The ancient Egyptians developed a number system based on:",
+      "choices": [
+          "Dots and bars",
+          "Hieroglyphic symbols",
+          "Base-60 system",
+          "A combination of symbols"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The ancient Egyptians used what type of number system?",
+      "choices": [
+          "Sexagesimal",
+          "Decimal",
+          "Vigesimal",
+          "Binary"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which number system lacked a symbol for zero?",
+      "choices": [
+          "Mayan",
+          "Sexagesimal",
+          "Egyptian",
+          "Indian"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which civilization developed the vigesimal number system?",
+      "choices": [
+          "Sumerians",
+          "Egyptians",
+          "Mayans",
+          "Babylonians"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What was the base of the vigesimal number system?",
+      "choices": [
+          "10",
+          "20",
+          "60",
+          "100"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Mayan civilization used a combination of what to represent numbers?",
+      "choices": [
+          "Letters and symbols",
+          "Dots and bars",
+          "Hieroglyphs",
+          "A base-60 system"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Yajurveda is one of the four sacred texts of which religion?",
+      "choices": [
+          "Buddhism",
+          "Hinduism",
+          "Judaism",
+          "Christianity"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Bakshali Manuscript was discovered in what is now?",
+      "choices": [
+          "India",
+          "Iraq",
+          "Pakistan",
+          "Egypt"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Bakshali Manuscript is one of the earliest known texts to feature the use of zero as a:",
+      "choices": [
+          "Number",
+          "Symbol",
+          "Placeholder",
+          "Constant"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The story of the Buddha is described in what scriptures?",
+      "choices": [
+          "Hindu",
+          "Buddhist",
+          "Mayan",
+          "Egyptian"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the 5th century BCE, what text contains references to numbers and mathematical concepts but doesn't explicitly mention zero?",
+      "choices": [
+          "The Bakshali Manuscript",
+          "The Yajurveda",
+          "Buddhist Scriptures",
+          "The Egyptian Papyrus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Around what year did the Mayan civilization develop the Vigesimal System?",
+      "choices": [
+          "3000 BCE",
+          "2600 BCE",
+          "300 BCE to 900 CE",
+          "5th century BCE"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the number 56042555, what digit is in the ten lakhs place?",
+      "choices": [
+          "5",
+          "6",
+          "0",
+          "4"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "According to the Indian place value system, in what period does the digit 4 appear in the number 56042555?",
+      "choices": [
+          "Ones",
+          "Thousands",
+          "Lakhs",
+          "Crores"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is the correct way to write 56042555 in words, according to the Indian place value system?",
+      "choices": [
+          "Five crore sixty lakh forty-two thousand five hundred fifty-five",
+          "Fifty-six million forty-two thousand five hundred fifty-five",
+          "Five crore six million forty-two thousand five hundred fifty-five",
+          "Fifty-six crore forty-two thousand five hundred fifty-five"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many lakhs are there in 56042555?",
+      "choices": [
+          "560",
+          "56",
+          "604",
+          "42"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A company donated \u20b956042555. How would you write this amount using commas as per the International place value system?",
+      "choices": [
+          "\u20b95,60,42,555",
+          "\u20b956,042,555",
+          "\u20b9560,42,555",
+          "\u20b956,04,25,55"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of the digit '4' in the number \u20b956042555 according to the Indian place value system?",
+      "choices": [
+          "Ten Thousands",
+          "Lakhs",
+          "Ten Lakhs",
+          "Thousands"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the value of 'E' if E stands for 100?",
+      "choices": [
+          "10",
+          "1000",
+          "100",
+          "1"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If 'A' stands for 10, 'E' stands for 100 and 'T' stands for 1000, what is the value of A+E+T?",
+      "choices": [
+          "110",
+          "111",
+          "1110",
+          "100010010"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If you have the digits 9, 4, 0, 5, 3, 7 and 1, what is the largest 7-digit number you can form?",
+      "choices": [
+          "9754310",
+          "1034579",
+          "9405371",
+          "9876543"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "If you have the digits 9, 4, 0, 5, 3, 7 and 1, what is the smallest 7-digit number you can form?",
+      "choices": [
+          "1034579",
+          "9754310",
+          "1345790",
+          "1975430"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What counters did the 7 students pick?",
+      "choices": [
+          "9, 4, 0, 5, 3, 7 and 1",
+          "1, 2, 3, 4, 5, 6, 7",
+          "0, 1, 2, 3, 4, 5, 6",
+          "1, 4, 5, 6, 7, 8, 9"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What materials were required for the math lab activity?",
+      "choices": [
+          "Calculators",
+          "Counters with numbers from 0 to 9 written on them",
+          "Rulers and Pencils",
+          "Graph Paper"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the aim of the math lab activity?",
+      "choices": [
+          "To learn addition",
+          "To understand the concept of building numbers",
+          "To learn subtraction",
+          "To practice multiplication"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If the digits picked by students are 9, 4, 0, 5, 3, 7 and 1, form an even number?",
+      "choices": [
+          "9405371",
+          "9405370",
+          "9405373",
+          "9405379"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If the digits picked by students are 9, 4, 0, 5, 3, 7 and 1, form an odd number?",
+      "choices": [
+          "9405370",
+          "9405374",
+          "9405376",
+          "9405371"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the result of XXX + IX in Roman numerals?",
+      "choices": [
+          "XXXIX",
+          "XL",
+          "XXIX",
+          "XXI"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the result of XXXVIII + XXII in Roman numerals?",
+      "choices": [
+          "L",
+          "LX",
+          "LXXX",
+          "XLII"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the result of CLV + XVII in Roman numerals?",
+      "choices": [
+          "CLXXII",
+          "CLXVI",
+          "CLXVIII",
+          "CXXII"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the result of CCLXII + CXIII in Roman numerals?",
+      "choices": [
+          "CCCLXXV",
+          "CCCLXXII",
+          "CCCLXXI",
+          "CCCLX"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the result of MCXVII + MCXVI in Roman numerals?",
+      "choices": [
+          "MMCCCXXXIII",
+          "MMCCXXXIII",
+          "MMCCXXXI",
+          "MMCXXXIII"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the result of MCLVIII + CII in Roman numerals?",
+      "choices": [
+          "MCLX",
+          "MCLXI",
+          "MCLXII",
+          "MCLXIII"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the given example of adding Roman numerals, which step involves substituting a symbol of bigger value in place of 2 or more same symbols of smaller values?",
+      "choices": [
+          "Combining all the symbols",
+          "Regrouping the common symbols",
+          "Substituting symbols",
+          "Adding the numerals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which art/social studies topic is being discussed in the first half of the text?",
+      "choices": [
+          "Indian Geography",
+          "Regional New Year",
+          "Indian Art",
+          "Social Celebrations"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, in which month do many states in India celebrate their New Year?",
+      "choices": [
+          "January",
+          "March",
+          "April",
+          "December"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The exercise on Roman numerals focuses on:",
+      "choices": [
+          "Subtraction",
+          "Multiplication",
+          "Addition",
+          "Division"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The 'Mental Maths' section deals with what mathematical concept?",
+      "choices": [
+          "Algebra",
+          "Calculus",
+          "Roman Numerals",
+          "Geometry"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The 'Understand' section describes the process of adding which Roman numerals?",
+      "choices": [
+          "CCCI and CCLVI",
+          "MCLVIII and CII",
+          "MCXVII and MCXVI",
+          "CLV and XVII"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The 'Perform' section deals with what mathematical operation with Roman numerals?",
+      "choices": [
+          "Division",
+          "Addition",
+          "Subtraction",
+          "Multiplication"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of country is India described as being, in the context of its heritage?",
+      "choices": [
+          "Economically powerful",
+          "Culturally diverse",
+          "Politically stable",
+          "Technologically advanced"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many states should students find for the activity related to Regional New Year?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the number 2,10,56,734, what is the place value of the digit 5?",
+      "choices": [
+          "5",
+          "50",
+          "50,000",
+          "5,00,000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the number 5,27,60,480, what is the place value of the digit 5?",
+      "choices": [
+          "5",
+          "50",
+          "50,000",
+          "5,00,00,000"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In the number 13,06,25,425, what is the place value of the digit 5?",
+      "choices": [
+          "5",
+          "50",
+          "500",
+          "5,000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following shows the number 15,73,091 in expanded form?",
+      "choices": [
+          "10,00,000 + 5,00,000 + 70,000 + 3,000 + 90 + 1",
+          "10,00,000 + 50,000 + 70,000 + 3,000 + 90 + 1",
+          "10,00,000 + 5,00,000 + 70,000 + 3,000 + 91",
+          "1,00,000 + 50,000 + 7,000 + 300 + 90 + 1"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following shows the number 4,05,68,330 in expanded form?",
+      "choices": [
+          "4,00,00,000 + 5,00,000 + 60,000 + 8,000 + 300 + 30",
+          "4,00,00,000 + 50,000 + 6,000 + 800 + 300 + 30",
+          "4,00,00,000 + 5,00,000 + 68,000 + 300 + 30",
+          "4,00,00,000 + 5,00,000 + 60,000 + 8,000 + 330"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following shows the number 6,18,07,520 in expanded form?",
+      "choices": [
+          "6,00,00,000 + 18,00,000 + 7,000 + 500 + 20",
+          "6,00,00,000 + 10,00,000 + 8,00,000 + 7,000 + 500 + 20",
+          "6,00,00,000 + 10,00,000 + 80,000 + 7,000 + 500 + 20",
+          "6,00,00,000 + 10,00,000 + 8,00,000 + 7,000 + 5,000 + 20"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the standard form of 4,00,000 + 40,000 + 400 + 4?",
+      "choices": [
+          "400404",
+          "404404",
+          "440404",
+          "44004"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the standard form of 50,00,000 + 4,000 + 20 + 8?",
+      "choices": [
+          "5004028",
+          "5040028",
+          "5000428",
+          "50040028"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor and predecessor of 25,20,100?",
+      "choices": [
+          "25,20,099 and 25,20,101",
+          "25,20,101 and 25,20,099",
+          "25,19,100 and 25,21,100",
+          "25,21,100 and 25,19,100"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the successor and predecessor of 80,64,925?",
+      "choices": [
+          "80,64,924 and 80,64,926",
+          "80,64,926 and 80,64,924",
+          "80,65,925 and 80,63,925",
+          "80,63,925 and 80,65,925"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the successor and predecessor of 2,25,40,509?",
+      "choices": [
+          "2,25,40,508 and 2,25,40,510",
+          "2,25,40,510 and 2,25,40,508",
+          "2,25,41,509 and 2,25,39,509",
+          "2,25,39,509 and 2,25,41,509"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the successor and predecessor of 2,19,99,999?",
+      "choices": [
+          "2,19,99,998 and 2,20,00,000",
+          "2,20,00,000 and 2,19,99,998",
+          "2,20,00,000 and 2,19,99,000",
+          "2,20,00,000 and 2,18,99,998"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 25,18,573 to the nearest 100?",
+      "choices": [
+          "25,18,500",
+          "25,18,600",
+          "25,18,000",
+          "25,19,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 68,20,998 to the nearest 1000?",
+      "choices": [
+          "68,20,000",
+          "68,21,000",
+          "68,00,000",
+          "68,30,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 3,50,19,099 to the nearest 10?",
+      "choices": [
+          "3,50,19,090",
+          "3,50,19,100",
+          "3,50,19,000",
+          "3,50,20,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is the face value of a digit in a number?",
+      "choices": [
+          "Value of the digit x Value of the place",
+          "The digit itself",
+          "Value of the place",
+          "Value of the digit"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do you calculate the place value of a digit?",
+      "choices": [
+          "Face value of the digit + Value of the place",
+          "Face value of the digit - Value of the place",
+          "Face value of the digit x Value of the place",
+          "Face value of the digit / Value of the place"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is expressing a number as the sum of the place values of all its digits called?",
+      "choices": [
+          "Standard form",
+          "Expanded form",
+          "Short form",
+          "Number Name"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which number is greater?",
+      "choices": [
+          "The number with more number of digits",
+          "The number with less number of digits",
+          "Both are equal",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "When comparing numbers with equal number of digits, where do you start comparing the digits?",
+      "choices": [
+          "From the right",
+          "From the middle",
+          "From the left",
+          "It doesn't matter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How can the smallest and greatest numbers be formed from given digits?",
+      "choices": [
+          "Arranging in random order",
+          "Arranging in descending order",
+          "Arranging in ascending order",
+          "Arranging in ascending and descending order, respectively"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which symbols are used to represent numbers in the Roman numeral system?",
+      "choices": [
+          "A, B, C, D, E",
+          "I, V, X, L, C, D, M",
+          "1, 2, 3, 4, 5",
+          "a, b, c, d, e"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is 26,04,783 written in number names?",
+      "choices": [
+          "Twenty-six thousand four hundred and seventy-eighty-three",
+          "Twenty-six lakh four thousand seven hundred and eighty-three",
+          "Two million six hundred four thousand seven hundred eighty-three",
+          "Twenty-six million four thousand seven hundred and eighty-three"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is 5,901,080 written in number names?",
+      "choices": [
+          "Five million nine hundred one thousand eighty",
+          "Five lakh nine hundred one thousand eighty",
+          "Fifty-nine lakh ten thousand and eighty",
+          "Five million nine hundred one hundred eighty"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How is 4,63,20,539 written in number names?",
+      "choices": [
+          "Four million sixty-three thousand two hundred and five hundred thirty-nine",
+          "Four crore sixty-three lakh twenty thousand five hundred thirty-nine",
+          "Forty-six lakh thirty-two thousand five hundred thirty-nine",
+          "Four crore sixty-three thousand twenty thousand five hundred thirty-nine"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is 70,051,900 written in number names?",
+      "choices": [
+          "Seventy thousand fifty-one thousand nine hundred",
+          "Seven million fifty-one thousand nine hundred",
+          "Seventy million fifty-one thousand nine hundred",
+          "Seventy crore fifty-one thousand nine hundred"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How is 17,25,09,250 written in number names?",
+      "choices": [
+          "Seventeen crore twenty five lakh nine thousand two hundred fifty",
+          "Seventeen million twenty five thousand nine thousand two hundred fifty",
+          "One billion seventeen million twenty-five thousand nine thousand two hundred fifty",
+          "One billion two hundred seventeen million five hundred and twenty-five thousand nine hundred and fifty"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How is 905,203,417 written in number names?",
+      "choices": [
+          "Nine hundred five million two hundred three thousand four hundred seventeen",
+          "Nine hundred and five crore two lakh three thousand four hundred seventeen",
+          "Nine hundred five million two hundred three thousand four hundred and seventeen",
+          "Nine hundred and five million two hundred three thousand four hundred and seventeen"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In Indian and International place value systems, what separates the periods?",
+      "choices": [
+          "Dots",
+          "Spaces",
+          "Commas",
+          "Semicolons"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In Indian and International systems, how many of the first places are the same?",
+      "choices": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the Hindu-Arabic numeral for LXIX?",
+      "choices": [
+          "49",
+          "69",
+          "59",
+          "119"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the Hindu-Arabic numeral for XLVIII?",
+      "choices": [
+          "38",
+          "48",
+          "58",
+          "68"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the Hindu-Arabic numeral for XCIV?",
+      "choices": [
+          "84",
+          "114",
+          "94",
+          "104"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the Hindu-Arabic numeral for CCCXLIX?",
+      "choices": [
+          "369",
+          "349",
+          "249",
+          "449"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the Hindu-Arabic numeral for CXLII?",
+      "choices": [
+          "162",
+          "142",
+          "152",
+          "132"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the Roman numeral for 59?",
+      "choices": [
+          "LIX",
+          "XLIX",
+          "IL",
+          "XLVIV"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the Roman numeral for 98?",
+      "choices": [
+          "XCVIII",
+          "LXXXXVIII",
+          "CII",
+          "IC"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the Roman numeral for 324?",
+      "choices": [
+          "CCCXXIV",
+          "CCXXIV",
+          "CCCXIV",
+          "CDXXIV"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the Roman numeral for 447?",
+      "choices": [
+          "CDXLVII",
+          "CCCCLVII",
+          "CDLVII",
+          "CDMVII"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the Roman numeral for 210?",
+      "choices": [
+          "CCX",
+          "CXX",
+          "CCXX",
+          "CDX"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which symbols can be repeated in Roman Numerals?",
+      "choices": [
+          "V, L, D",
+          "I, X, C, M",
+          "V, X, C",
+          "L, C, D, M"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which symbols are never subtracted?",
+      "choices": [
+          "I, X, C",
+          "V, X, C",
+          "V, L, D",
+          "I, V, X"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "From which symbols can 'I' be subtracted?",
+      "choices": [
+          "V and X only",
+          "L and C only",
+          "D and M only",
+          "V and L only"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "From which symbols can 'X' be subtracted?",
+      "choices": [
+          "V and X only",
+          "L and C only",
+          "D and M only",
+          "V and L only"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "From which symbols can 'C' be subtracted?",
+      "choices": [
+          "V and X only",
+          "L and C only",
+          "D and M only",
+          "V and L only"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Round off 23 to the nearest 10.",
+      "choices": [
+          "20",
+          "30",
+          "25",
+          "10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round off 146 to the nearest 10.",
+      "choices": [
+          "140",
+          "150",
+          "100",
+          "200"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 258 to the nearest 10.",
+      "choices": [
+          "250",
+          "260",
+          "300",
+          "200"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 1062 to the nearest 10.",
+      "choices": [
+          "1060",
+          "1070",
+          "1100",
+          "1000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round off 83 to the nearest 10.",
+      "choices": [
+          "80",
+          "90",
+          "100",
+          "70"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round off 237 to the nearest 10.",
+      "choices": [
+          "230",
+          "240",
+          "200",
+          "300"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 479 to the nearest 10.",
+      "choices": [
+          "470",
+          "480",
+          "500",
+          "400"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 1252 to the nearest 10.",
+      "choices": [
+          "1250",
+          "1260",
+          "1300",
+          "1200"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round off 3496 to the nearest 100.",
+      "choices": [
+          "3400",
+          "3500",
+          "3600",
+          "3000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 5998 to the nearest 100.",
+      "choices": [
+          "5900",
+          "6000",
+          "5000",
+          "5990"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round off 1058 to the nearest 100.",
+      "choices": [
+          "1000",
+          "1100",
+          "1060",
+          "1200"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the value of 'X' in the Roman Numeral system?",
+      "choices": [
+          "1",
+          "5",
+          "10",
+          "50"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the value of 'M' in the Roman Numeral system?",
+      "choices": [
+          "10",
+          "100",
+          "500",
+          "1000"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the value of 'L' in the Roman Numeral system?",
+      "choices": [
+          "10",
+          "50",
+          "100",
+          "500"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a symbol is repeated in the Roman Numeral system, its value is?",
+      "choices": [
+          "Subtracted",
+          "Added",
+          "Multiplied",
+          "Divided"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, what is the first step in the shortcut method of rounding off?",
+      "choices": [
+          "Compare the highlighted digit with 5.",
+          "Replace all digits with zeros.",
+          "Identify the place to be rounded off and underline the digit at this place.",
+          "Highlight the digit to the immediate right of the underlined digit."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What should you do if the digit to the right of the underlined digit is less than 5?",
+      "choices": [
+          "Round the number up and increase the underlined digit by 1.",
+          "Round the number down and replace all digits to the right of the underlined digit with zero.",
+          "Round the number up and replace all digits to the right of the underlined digit with zero.",
+          "Leave the number as it is."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do if the digit to the right of the underlined digit is equal to or greater than 5?",
+      "choices": [
+          "Round the number down.",
+          "Leave the underlined digit as is and replace all numbers to the right of it with zeros.",
+          "Round the number up and increase the underlined digit by 1, replacing all numbers to the right of it with zeros.",
+          "Do nothing."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, what should NOT be rounded off?",
+      "choices": [
+          "Weight",
+          "Length",
+          "Date and time",
+          "Temperature"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Round 72 to the nearest 10.",
+      "choices": [
+          "60",
+          "70",
+          "80",
+          "75"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round 2,538 to the nearest 100.",
+      "choices": [
+          "2,500",
+          "2,600",
+          "2,540",
+          "2,000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round 21,620 to the nearest 1000.",
+      "choices": [
+          "21,000",
+          "22,000",
+          "21,700",
+          "21,600"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round 47,580 to the nearest 1000.",
+      "choices": [
+          "47,000",
+          "47,500",
+          "48,000",
+          "47,600"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the multiple of 1000 that is nearest to 6800?",
+      "choices": [
+          "6000",
+          "6500",
+          "7000",
+          "8000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What lies closer between 6000 and 7000 to 6800?",
+      "choices": [
+          "6000",
+          "6500",
+          "7000",
+          "8000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What lies closer between 200 and 300 to 230?",
+      "choices": [
+          "200",
+          "250",
+          "300",
+          "350"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round 78 to the nearest 10.",
+      "choices": [
+          "60",
+          "70",
+          "80",
+          "90"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Round 2,462 to the nearest 100.",
+      "choices": [
+          "2,400",
+          "2,500",
+          "2,460",
+          "2,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Round 21,390 to the nearest 1000.",
+      "choices": [
+          "21,000",
+          "22,000",
+          "21,400",
+          "21,300"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Round 47,680 to the nearest 1000.",
+      "choices": [
+          "47,000",
+          "47,500",
+          "48,000",
+          "47,700"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When a number is rounded off to a lower number, we say that it is:",
+      "choices": [
+          "Rounded up",
+          "Rounded down",
+          "Rounded even",
+          "Rounded odd"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When a number is rounded off to a higher number, we say that it is:",
+      "choices": [
+          "Rounded down",
+          "Rounded even",
+          "Rounded up",
+          "Rounded odd"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To round off a given number to the nearest 10, find out the multiple of 10 that is:",
+      "choices": [
+          "Largest",
+          "Smallest",
+          "Nearest to the given number",
+          "Farthest from the given number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the 'Grasp It' note, a number at the midway point is always rounded:",
+      "choices": [
+          "Down",
+          "Up",
+          "To zero",
+          "To five"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the 'Grasp It' note, 25 will be rounded off to:",
+      "choices": [
+          "20",
+          "25",
+          "30",
+          "0"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "23 lies between which numbers when rounding off to the nearest 10?",
+      "choices": [
+          "10 and 20",
+          "20 and 30",
+          "20 and 25",
+          "30 and 40"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "68 lies between which numbers when rounding off to the nearest 10?",
+      "choices": [
+          "50 and 60",
+          "60 and 65",
+          "60 and 70",
+          "70 and 80"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the 'Grasp It' note, 95 will be rounded off to:",
+      "choices": [
+          "90",
+          "95",
+          "100",
+          "0"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To round off a given number to the nearest 100, find out the multiple of 100 that is:",
+      "choices": [
+          "Largest",
+          "Smallest",
+          "Nearest to the given number",
+          "Farthest to the given number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "230 lies between which numbers when rounding off to the nearest 100?",
+      "choices": [
+          "100 and 200",
+          "200 and 250",
+          "200 and 300",
+          "300 and 400"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When we round off 23 to the nearest 10:",
+      "choices": [
+          "20",
+          "30",
+          "25",
+          "24"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "When we round off 68 to the nearest 10:",
+      "choices": [
+          "60",
+          "70",
+          "65",
+          "69"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a number is exactly at the midpoint, it's always rounded...",
+      "choices": [
+          "Down",
+          "Up",
+          "To the nearest even number",
+          "To the nearest odd number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When we round off 230 to the nearest 100:",
+      "choices": [
+          "200",
+          "300",
+          "250",
+          "240"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What number should you look for that is the multiple of 10, when rounding off to the nearest 10?",
+      "choices": [
+          "Smallest",
+          "Nearest",
+          "Largest",
+          "Most Odd"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many lakhs are there in 1 million?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many millions are there in 1 crore?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many thousands are there in 1 lakh?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many millions are there in 1 billion?",
+      "choices": [
+          "10",
+          "100",
+          "1000",
+          "10000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is rounding off?",
+      "choices": [
+          "Finding an exact number",
+          "Finding an approximate number",
+          "Adding 10 to a number",
+          "Subtracting 10 from a number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When rounding off, what type of number do we try to find?",
+      "choices": [
+          "A prime number",
+          "A factor",
+          "A multiple of 10, 100, or 1000",
+          "A fraction"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What number did Anshul use to approximate the number of guests at his party?",
+      "choices": [
+          "20",
+          "25",
+          "28",
+          "30"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Rounding off provides which type of number?",
+      "choices": [
+          "Exact",
+          "Approximate",
+          "Fractional",
+          "Imaginary"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What makes a number easy to remember when rounding off?",
+      "choices": [
+          "Being a perfect square",
+          "Being a multiple of 10, 100 or 1000",
+          "Being a prime number",
+          "Being an odd number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the relationship between the rounded number and the original number?",
+      "choices": [
+          "The rounded number is much larger than the original",
+          "The rounded number is much smaller than the original",
+          "The rounded number is close to the original number",
+          "There is no relationship"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is considered an example of a number that is easy to remember?",
+      "choices": [
+          "23",
+          "47",
+          "100",
+          "53"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of numbers are 10, 100, and 1000?",
+      "choices": [
+          "Prime Numbers",
+          "Rounded off Numbers",
+          "Multiples",
+          "Complex Numbers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In International system what place value is given?",
+      "choices": [
+          "Lakhs",
+          "Crores",
+          "Millions",
+          "Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In indian system what place value is given?",
+      "choices": [
+          "Millions",
+          "Billions",
+          "Lakhs",
+          "Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What did Anshul organize?",
+      "choices": [
+          "A Marathon",
+          "A Game",
+          "A Birthday Party",
+          "A Quiz"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the 'Grasp It' box, 1 million is equal to how many lakhs?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the 'Grasp It' box, 10 millions is equal to how many crores?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "According to the 'Grasp It' box, 1 trillion is equal to how many billions?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the 'Grasp It' box, 1 billion is equal to how many millions?",
+      "choices": [
+          "1",
+          "10",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "1 lakh is equal to how many thousands?",
+      "choices": [
+          "10",
+          "100",
+          "1000",
+          "10000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the International system, after Millions comes?",
+      "choices": [
+          "Thousands",
+          "Lakhs",
+          "Billions",
+          "Crores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the International system, after Billions comes?",
+      "choices": [
+          "Millions",
+          "Lakhs",
+          "Trillions",
+          "Crores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Question 3, option a, after rearrangement commas becomes : 89,76,86,824",
+      "choices": [
+          "897,686,824",
+          "89,768,68,24",
+          "8,976,868,24",
+          "897,68,68,24"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Question 3, option b, after rearrangement commas becomes : 49,00,70,100",
+      "choices": [
+          "49,007,010",
+          "490,070,100",
+          "49,007,0100",
+          "4900,701,00"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Question 3, option c, after rearrangement commas becomes : 98,05,45,283",
+      "choices": [
+          "9,805,452,83",
+          "98,054,52,83",
+          "980,545,283",
+          "98,05452,83"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Question 3, option d, after rearrangement commas becomes : 25,36,87,304",
+      "choices": [
+          "253,687,304",
+          "25,368,73,04",
+          "2,536,873,04",
+          "25,36873,04"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Question 3, option e, after rearrangement commas becomes : 70,99,140",
+      "choices": [
+          "7,099,140",
+          "70,991,40",
+          "709,914,0",
+          "7,09,914,0"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Question 3, option f, after rearrangement commas becomes : 6,79,402",
+      "choices": [
+          "679,402",
+          "67,940,2",
+          "6794,02",
+          "67,94,02"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Question 3, option g, after rearrangement commas becomes : 8,35,44,738",
+      "choices": [
+          "83,544,738",
+          "835,447,38",
+          "83,54,47,38",
+          "83,5447,38"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Question 3, option h, after rearrangement commas becomes : 7,87,36,438",
+      "choices": [
+          "78,736,438",
+          "787,364,38",
+          "78,73,64,38",
+          "78,7364,38"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the International place value system, how many places does each period have?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "Varies"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian place value system, how many places does the ones period have?",
+      "choices": [
+          "1",
+          "2",
+          "3",
+          "4"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, the places from ones till __________ are the same in both the Indian and International systems.",
+      "choices": [
+          "thousands",
+          "ten thousands",
+          "hundred thousands",
+          "millions"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the number 45,276,981 written as in the Indian system?",
+      "choices": [
+          "Forty-five million two hundred seventy-six thousand nine hundred eighty-one",
+          "Four crore fifty-two lakh seventy-six thousand nine hundred eighty-one",
+          "Four million fifty-two lakh seventy-six thousand nine hundred eighty-one",
+          "Forty-five crore twenty-seven lakh sixty-nine thousand eight hundred one"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the number 45,276,981 written as in the International system?",
+      "choices": [
+          "Forty-five million two hundred seventy-six thousand nine hundred eighty-one",
+          "Four crore fifty-two lakh seventy-six thousand nine hundred eighty-one",
+          "Forty-five billion two hundred seventy-six million nine hundred eighty-one",
+          "Four million fifty-two lakh seventy-six thousand nine hundred eighty-one"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of 4 in the number 452760318 in International place value system?",
+      "choices": [
+          "Hundred Million",
+          "Ten Million",
+          "Million",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of 5 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten Million",
+          "Hundred Million",
+          "Million",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of 2 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten Million",
+          "Hundred Million",
+          "Million",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of 7 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten Million",
+          "Hundred Million",
+          "Million",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the place value of 6 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten Million",
+          "Ten Thousand",
+          "Million",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of 3 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten Million",
+          "Ten Thousand",
+          "Hundred",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of 1 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten",
+          "Ten Thousand",
+          "Hundred",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of 8 in the number 452760318 in International place value system?",
+      "choices": [
+          "Ten",
+          "Ones",
+          "Hundred",
+          "Hundred Thousand"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the expanded form of 452760318 in figures?",
+      "choices": [
+          "400,000,000 + 50,000,000 + 2,000,000 + 700,000 + 60,000 + 300 + 10 + 8",
+          "40,000,000 + 5,000,000 + 2,000,000 + 700,000 + 60,000 + 300 + 10 + 8",
+          "400,000,000 + 50,000,000 + 2,000,000 + 7,000 + 60,000 + 300 + 10 + 8",
+          "400,000 + 50,000,000 + 2,000,000 + 700,000 + 60,000 + 300 + 10 + 8"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which city has a larger population of youngsters, City A (2340569) or City B (3100112)?",
+      "choices": [
+          "City A",
+          "City B",
+          "Both are equal",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the International place value system, how many periods are the first nine places grouped into?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian place value system, how many periods are the first nine places grouped into?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a period in the International place value system?",
+      "choices": [
+          "Lakhs",
+          "Crores",
+          "Millions",
+          "Ten Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a period in the Indian place value system?",
+      "choices": [
+          "Millions",
+          "Ten Thousands",
+          "Lakhs",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Th' stand for in the International Place Value System?",
+      "choices": [
+          "Ten",
+          "Thousands",
+          "Ten Thousands",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'TTh' stand for in the International Place Value System?",
+      "choices": [
+          "Ten",
+          "Thousands",
+          "Ten Thousands",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'HTh' stand for in the International Place Value System?",
+      "choices": [
+          "Ten",
+          "Thousands",
+          "Ten Thousands",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does 'M' stand for in the International Place Value System?",
+      "choices": [
+          "Millions",
+          "Ten Thousands",
+          "Thousands",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'TM' stand for in the International Place Value System?",
+      "choices": [
+          "Ten Thousands",
+          "Millions",
+          "Ten Millions",
+          "Hundred Thousands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'HM' stand for in the International Place Value System?",
+      "choices": [
+          "Ten Thousands",
+          "Millions",
+          "Ten Millions",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does 'C' stand for in the Indian Place Value System?",
+      "choices": [
+          "Crores",
+          "Ten Thousands",
+          "Ten Millions",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'TC' stand for in the Indian Place Value System?",
+      "choices": [
+          "Crores",
+          "Ten Crores",
+          "Ten Millions",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'TL' stand for in the Indian Place Value System?",
+      "choices": [
+          "Lakhs",
+          "Ten Crores",
+          "Ten Lakhs",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'L' stand for in the Indian Place Value System?",
+      "choices": [
+          "Lakhs",
+          "Ten Crores",
+          "Ten Lakhs",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'H' stand for in the Indian and International Place Value System?",
+      "choices": [
+          "Hundred",
+          "Thousands",
+          "Ten Lakhs",
+          "Hundred Millions"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor of 7,67,84,895?",
+      "choices": [
+          "7,67,84,894",
+          "7,67,84,896",
+          "7,67,84,897",
+          "7,67,84,900"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 1,58,90,281?",
+      "choices": [
+          "1,58,90,280",
+          "1,58,90,282",
+          "1,58,90,279",
+          "1,58,90,283"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor of 9,38,75,659?",
+      "choices": [
+          "9,38,75,658",
+          "9,38,75,660",
+          "9,38,75,661",
+          "9,38,75,657"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 3,89,02,499?",
+      "choices": [
+          "3,89,02,500",
+          "3,89,02,498",
+          "3,89,02,501",
+          "3,89,02,497"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the successor of 3,52,06,419?",
+      "choices": [
+          "3,52,06,418",
+          "3,52,06,420",
+          "3,52,06,421",
+          "3,52,06,417"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 5,77,94,815?",
+      "choices": [
+          "5,77,94,814",
+          "5,77,94,816",
+          "5,77,94,813",
+          "5,77,94,817"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor of 8,58,90,281?",
+      "choices": [
+          "8,58,90,280",
+          "8,58,90,282",
+          "8,58,90,283",
+          "8,58,90,279"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 5,69,93,875?",
+      "choices": [
+          "5,69,93,876",
+          "5,69,93,874",
+          "5,69,93,873",
+          "5,69,93,877"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the successor of 9,03,89,249?",
+      "choices": [
+          "9,03,89,250",
+          "9,03,89,248",
+          "9,03,89,251",
+          "9,03,89,247"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the predecessor of 1,30,96,524?",
+      "choices": [
+          "1,30,96,523",
+          "1,30,96,525",
+          "1,30,96,522",
+          "1,30,96,526"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor of 21,97,63,145?",
+      "choices": [
+          "21,97,63,144",
+          "21,97,63,146",
+          "21,97,63,147",
+          "21,97,63,143"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 76,00,00,012?",
+      "choices": [
+          "76,00,00,013",
+          "76,00,00,011",
+          "76,00,00,010",
+          "76,00,00,009"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which number should come first when arranging 23,54,208, 23,64,802, 24,64,008, and 42,24,802 in descending order?",
+      "choices": [
+          "23,54,208",
+          "23,64,802",
+          "24,64,008",
+          "42,24,802"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which number should come second when arranging 1,81,29,412, 1,18,29,214, 1,81,39,412, and 1,18,90,900 in descending order?",
+      "choices": [
+          "1,81,29,412",
+          "1,18,29,214",
+          "1,81,39,412",
+          "1,18,90,900"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which number should come last when arranging 7,88,19,142, 7,81,29,214, 8,11,39,412, and 9,18,10,900 in descending order?",
+      "choices": [
+          "7,88,19,142",
+          "7,81,29,214",
+          "8,11,39,412",
+          "9,18,10,900"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "To construct the smallest number with a given set of digits, arrange the digits in what order?",
+      "choices": [
+          "Descending order",
+          "Ascending order",
+          "Random order",
+          "Reverse order"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do if there is a 0 at the extreme left when constructing the smallest number?",
+      "choices": [
+          "Leave it as it is",
+          "Remove the 0",
+          "Interchange it with the digit on its immediate right",
+          "Place it at the end of the number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To construct the greatest number, arrange the digits in what order?",
+      "choices": [
+          "Ascending order",
+          "Random order",
+          "Descending order",
+          "Alphabetical order"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a Predecessor of a number?",
+      "choices": [
+          "The number that comes 'just after' a given number",
+          "The number that comes 'just before' a given number",
+          "The double of the number",
+          "The square root of the number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How to find the predecessor of a number?",
+      "choices": [
+          "Add 1 to it",
+          "Subtract 1 from it",
+          "Multiply it by 2",
+          "Divide it by 2"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a Successor of a number?",
+      "choices": [
+          "The number that comes 'just after' a given number",
+          "The number that comes 'just before' a given number",
+          "The half of the number",
+          "The square of the number"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How to find the successor of a number?",
+      "choices": [
+          "Add 1 to it",
+          "Subtract 1 from it",
+          "Multiply it by 2",
+          "Divide it by 2"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find the predecessor of 54736219",
+      "choices": [
+          "54736220",
+          "54736217",
+          "54736218",
+          "54736216"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Find the successor of 54736219",
+      "choices": [
+          "54736218",
+          "54736217",
+          "54736220",
+          "54736221"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If you are given the digits 1, 2, 3, 4, and 5, what is the smallest possible number you can create?",
+      "choices": [
+          "54321",
+          "12345",
+          "54312",
+          "12354"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If you are given the digits 9, 8, 7, 6, and 5, what is the greatest possible number you can create?",
+      "choices": [
+          "56789",
+          "98765",
+          "98567",
+          "56987"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 100?",
+      "choices": [
+          "99",
+          "101",
+          "90",
+          "102"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the successor of 999?",
+      "choices": [
+          "998",
+          "1001",
+          "1000",
+          "997"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To construct the smallest number, the digit with the highest value should be placed at what position?",
+      "choices": [
+          "The first position",
+          "The last position",
+          "The middle position",
+          "Any position"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the predecessor of 2000?",
+      "choices": [
+          "2001",
+          "1999",
+          "1998",
+          "2002"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, which number is greater: 7,06,24,538 or 21,63,740?",
+      "choices": [
+          "7,06,24,538",
+          "21,63,740",
+          "They are equal",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How do you construct the greatest number with a given set of digits?",
+      "choices": [
+          "Arrange digits in ascending order.",
+          "Arrange digits in descending order.",
+          "Arrange digits randomly.",
+          "It's not possible to construct the greatest number."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the ascending order of: 6,976, 3,70,024, 7,49,621, 12,03,450?",
+      "choices": [
+          "6,976 < 3,70,024 < 7,49,621 < 12,03,450",
+          "12,03,450 < 7,49,621 < 3,70,024 < 6,976",
+          "3,70,024 < 6,976 < 7,49,621 < 12,03,450",
+          "7,49,621 < 12,03,450 < 6,976 < 3,70,024"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the descending order of: 6,976, 3,70,024, 7,49,621, 12,03,450?",
+      "choices": [
+          "6,976 > 3,70,024 > 7,49,621 > 12,03,450",
+          "12,03,450 > 7,49,621 > 3,70,024 > 6,976",
+          "3,70,024 > 6,976 > 7,49,621 > 12,03,450",
+          "7,49,621 > 12,03,450 > 6,976 > 3,70,024"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the first step in comparing two numbers with different number of digits?",
+      "choices": [
+          "Write the numbers one above the other.",
+          "Compare the digits from the extreme left.",
+          "Compare the number of digits in the two numbers.",
+          "There is no way to compare numbers with different digits"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How do you compare the numbers if they have the same number of digits?",
+      "choices": [
+          "Write them one above the other and compare the digits from the extreme left.",
+          "Compare the number of digits.",
+          "Compare the numbers randomly.",
+          "You can not compare the numbers."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What should you do when you come across different digits at the same place?",
+      "choices": [
+          "Stop and compare the next digits.",
+          "The number with greater digit at that place is greater than the other number.",
+          "No need to compare these digits.",
+          "The number with the smallest digit at that place is greater."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If you are comparing 60,14,53,879 and 60,14,60,752, at which position the digits are different?",
+      "choices": [
+          "Ten thousand's place",
+          "Hundred thousand's place",
+          "Million's Place",
+          "Billion's Place"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, is 60,14,53,879 greater than 60,14,60,752?",
+      "choices": [
+          "Yes",
+          "No",
+          "They are the same",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which number is greater if one has 8 digits and another has 7 digits?",
+      "choices": [
+          "The number with 8 digits",
+          "The number with 7 digits",
+          "They are equal",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which number is greater in 60,14,53,879 and 60,14,60,752?",
+      "choices": [
+          "60,14,53,879",
+          "60,14,60,752",
+          "Both are equal",
+          "It cannot be determined"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Ascending order can also be called",
+      "choices": [
+          "Lowest to Highest",
+          "Highest to Lowest",
+          "Random Order",
+          "Descending Order"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Descending order can also be called",
+      "choices": [
+          "Lowest to Highest",
+          "Highest to Lowest",
+          "Random Order",
+          "Ascending Order"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many digits are there in 7,06,24,538?",
+      "choices": [
+          "7",
+          "8",
+          "9",
+          "6"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many digits are there in 21,63,740?",
+      "choices": [
+          "7",
+          "8",
+          "9",
+          "6"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 1,27,804?",
+      "choices": [
+          "1",
+          "2",
+          "7",
+          "8"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 8,34,796?",
+      "choices": [
+          "8",
+          "3",
+          "4",
+          "7"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 14,08,563?",
+      "choices": [
+          "1",
+          "4",
+          "0",
+          "8"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 97,64,128?",
+      "choices": [
+          "9",
+          "7",
+          "6",
+          "4"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 6,93,74,128?",
+      "choices": [
+          "6",
+          "9",
+          "3",
+          "7"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the face value of the colored digit in the number 79,15,62,038?",
+      "choices": [
+          "7",
+          "9",
+          "1",
+          "5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 8,14,549?",
+      "choices": [
+          "8",
+          "1",
+          "100000",
+          "10000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 27,50,781?",
+      "choices": [
+          "2",
+          "5",
+          "50000",
+          "500000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 60,35,056?",
+      "choices": [
+          "3",
+          "30000",
+          "300000",
+          "3000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 9,01,41,650?",
+      "choices": [
+          "0",
+          "1",
+          "1000000",
+          "100000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 41,23,212?",
+      "choices": [
+          "4",
+          "2",
+          "20000",
+          "2000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of the colored digit in the number 14,05,08,369?",
+      "choices": [
+          "0",
+          "8",
+          "80000",
+          "8000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the standard form of 8,00,000 + 10,000 + 4,000 + 500 + 20 + 3?",
+      "choices": [
+          "814523",
+          "841523",
+          "814532",
+          "800000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the standard form of 5,00,00,000 + 4,000 + 6?",
+      "choices": [
+          "50004006",
+          "50040006",
+          "500004006",
+          "540000006"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the standard form of 6 lakhs + 4 ten thousands + 7 ones?",
+      "choices": [
+          "640007",
+          "600407",
+          "640070",
+          "640700"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of Ones (O)?",
+      "choices": [
+          "10,00,00,000",
+          "1,00,00,000",
+          "1",
+          "10,000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of Tens (T)?",
+      "choices": [
+          "10",
+          "1",
+          "100",
+          "1000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of Hundreds (H)?",
+      "choices": [
+          "10",
+          "100",
+          "1,000",
+          "10,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of Thousands (Th)?",
+      "choices": [
+          "1,000",
+          "10,000",
+          "100",
+          "10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of Ten Thousands (TTh)?",
+      "choices": [
+          "100",
+          "1,000",
+          "10,000",
+          "1,00,000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the place value of Lakhs (L)?",
+      "choices": [
+          "10,000",
+          "1,00,000",
+          "10,00,000",
+          "1,00,00,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of Ten Lakhs (TL)?",
+      "choices": [
+          "1,00,000",
+          "10,00,000",
+          "1,00,00,000",
+          "10,00,00,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of Crores (C)?",
+      "choices": [
+          "10,00,000",
+          "1,00,00,000",
+          "10,00,00,000",
+          "1,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of Ten Crores (TC)?",
+      "choices": [
+          "1,00,00,000",
+          "10,00,00,000",
+          "10,000",
+          "1,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The place value of a digit in a number depends on",
+      "choices": [
+          "its face value",
+          "the place it occupies",
+          "the value of the number",
+          "its size"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The value of each place is how many times the value of the place on its immediate right?",
+      "choices": [
+          "5 times",
+          "20 times",
+          "10 times",
+          "100 times"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The expression of a number as the sum of the place values of all its digits is called",
+      "choices": [
+          "Face value",
+          "Expanded form",
+          "Place value",
+          "Decomposition"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Place value of a digit = ",
+      "choices": [
+          "Face value of the digit + Value of the place",
+          "Face value of the digit - Value of the place",
+          "Face value of the digit * Value of the place",
+          "Face value of the digit / Value of the place"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is 10,00,00,000 expressed as?",
+      "choices": [
+          "Ten Lakh",
+          "Ten Crores",
+          "One Crore",
+          "Ten Thousands"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following best describes 'expanded form'?",
+      "choices": [
+          "Expressing a number in words",
+          "Expressing a number as the sum of the place values of all its digits",
+          "Expressing a number in fraction",
+          "Expressing a number in decimal form"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the number name for 3,45,678?",
+      "choices": [
+          "Three lakh forty-five thousand six hundred seventy-eight",
+          "Thirty-four thousand five hundred seventy-eight",
+          "Three million four hundred fifty-six thousand seven hundred eighty",
+          "Thirty-four lakh fifty-six thousand seven hundred eighty"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the number name for 27,80,403?",
+      "choices": [
+          "Twenty-seven lakh eighty thousand four hundred three",
+          "Two million seven hundred eighty thousand four hundred three",
+          "Twenty-seven crore eighty thousand four hundred three",
+          "Twenty-seven lakh eighty-four hundred three"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the number name for 6,40,07,017?",
+      "choices": [
+          "Six crore forty lakh seven thousand seventeen",
+          "Six crore forty lakh seventy thousand seventeen",
+          "Sixty-four million seven thousand seventeen",
+          "Six crore forty lakh seven hundred seventeen"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the number name for 72,60,00,277?",
+      "choices": [
+          "Seventy-two crore sixty lakh two hundred seventy-seven",
+          "Seventy-two crore six thousand two hundred seventy-seven",
+          "Seventy-two crore sixty thousand two hundred seventy-seven",
+          "Seventy-two crore sixty lakh two hundred seventy"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following numbers is written correctly according to the Indian place value system?",
+      "choices": [
+          "4,39,009",
+          "22,34,323",
+          "1,36,8,523",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following numbers is not written correctly according to the Indian place value system?",
+      "choices": [
+          "7,89,65,4",
+          "22,34,323",
+          "1,36,8,523",
+          "4,39,009"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the face value of a digit in a number?",
+      "choices": [
+          "The place at which the digit is present",
+          "The digit itself",
+          "The value of the digit multiplied by its place value",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the numerical representation of Forty-five lakh six thousand nine?",
+      "choices": [
+          "45,06,009",
+          "45,60,009",
+          "4,56,009",
+          "45,00,609"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of Twenty-eight crore nine hundred forty-two?",
+      "choices": [
+          "28,00,00,942",
+          "28,00,00,000,942",
+          "28,00,00,900,042",
+          "28,00,00,000,900,042"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of Seven crore three hundred nine?",
+      "choices": [
+          "7,00,00,309",
+          "7,00,00,00,309",
+          "7,00,00,00,300",
+          "7,309"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of One crore six lakh three thousand five?",
+      "choices": [
+          "1,06,03,005",
+          "1,06,03,05",
+          "1,06,03,0005",
+          "1,06,03,5"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of Three crore seven lakh forty-two thousand eight hundred ten?",
+      "choices": [
+          "3,07,42,810",
+          "3,07,42,00,810",
+          "3,7,42,810",
+          "3,00,7,42,810"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of Four crore twenty-six lakh forty-five thousand three hundred six?",
+      "choices": [
+          "4,26,45,306",
+          "4,26,45,300",
+          "4,26,45,000",
+          "4,26,00,000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the numerical representation of Twenty-three crore eight lakh thirty thousand sixteen?",
+      "choices": [
+          "23,08,30,016",
+          "23,8,30,16",
+          "23,08,30,000",
+          "23,00,30,016"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What new number is formed by reversing the digits of 63,39,201?",
+      "choices": [
+          "1029336",
+          "102933",
+          "10293360",
+          "10293"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What category do all numbers studied since Class I fall under?",
+      "choices": [
+          "Whole Numbers",
+          "Natural Numbers",
+          "Integers",
+          "Rational Numbers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What number do Natural Numbers start with?",
+      "choices": [
+          "0",
+          "1",
+          "2",
+          "Any number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What number do all number lines start with?",
+      "choices": [
+          "1",
+          "0",
+          "-1",
+          "Any number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What category do numbers that start with Zero and go on endlessly fall under?",
+      "choices": [
+          "Natural Numbers",
+          "Whole Numbers",
+          "Integers",
+          "Prime Numbers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does W = ?",
+      "choices": [
+          "W = 1 + N",
+          "W = 0 + N",
+          "W = -1 + N",
+          "W = 0 - N"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What number is b) 58359241 in the indian place value chart?",
+      "choices": [
+          "Five crore thirty-five lakh ninety-two hundred forty-one",
+          "Fifty-eight crore thirty-five lakh ninety-two hundred forty-one",
+          "Fifty-eight million three hundred fifty nine thousand two hundred forty-one",
+          "Fifty-eight lakh thirty-five thousand nine hundred forty-one"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What number is d) 278036278 in the indian place value chart?",
+      "choices": [
+          "Two hundred seventy-eight million thirty-six thousand two hundred seventy-eight",
+          "Twenty-seven crore eight million thirty-six thousand two hundred seventy-eight",
+          "Two hundred seventy-eight crore thirty-six lakh two hundred seventy-eight",
+          "Two hundred seventy-eight lakh thirty-six thousand two hundred seventy-eight"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is number is c) 47927045 in the indian place value chart?",
+      "choices": [
+          "Four crore seventy-nine lakh twenty-seven thousand forty-five",
+          "Forty-seven crore ninety-two lakh seventy thousand forty-five",
+          "Forty-seven million nine hundred twenty-seven thousand forty-five",
+          "Fourty-seven lakh ninety-two thousand seven hundred forty-five"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is number e) 7767193 in the indian place value chart?",
+      "choices": [
+          "Seven lakh seventy-six thousand seven hundred ninety-three",
+          "Seven million seven hundred sixty-seven thousand one hundred ninety-three",
+          "Seventy-seven lakh sixty-seven thousand one hundred ninety-three",
+          "Seventy-seven million six hundred seventy-one thousand ninety-three"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is number f) 910089240 in the indian place value chart?",
+      "choices": [
+          "Ninety-one crore eight thousand nine hundred forty",
+          "Ninety-one crore eight lakh ninety-two hundred forty",
+          "Nine hundred ten million eight hundred ninety-two hundred forty",
+          "Ninety-one crore eight lakh ninety-two thousand forty"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How would you write 2637145 with commas using the Indian place value system?",
+      "choices": [
+          "26,371,45",
+          "2,637,145",
+          "263,7145",
+          "2637,145"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How would you write 4367201 with commas using the Indian place value system?",
+      "choices": [
+          "43,67,201",
+          "4,367,201",
+          "436,7201",
+          "4367,201"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How would you write 17863982 with commas using the Indian place value system?",
+      "choices": [
+          "178,63,982",
+          "1,786,3982",
+          "17,863,982",
+          "1,78,63,982"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How would you write 60405107 with commas using the Indian place value system?",
+      "choices": [
+          "60,405,107",
+          "6,040,5107",
+          "6,04,05,107",
+          "604,05,107"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How would you write 73500278 with commas using the Indian place value system?",
+      "choices": [
+          "7,35,00,278",
+          "73,500,278",
+          "735,00,278",
+          "7,350,0278"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is the number 1010101 written according to the Indian place value system?",
+      "choices": [
+          "1,01,01,01",
+          "10,10,101",
+          "1,010,101",
+          "1010101"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is the number 50000005 written according to the Indian place value system?",
+      "choices": [
+          "50000005",
+          "5,00,00,05",
+          "5,00,00,005",
+          "50,000,005"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How is the number 501006007 written with commas according to the Indian place value system?",
+      "choices": [
+          "501,006,007",
+          "50,10,60,07",
+          "50,10,06,007",
+          "5,010,060,07"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How would you write 'Forty-five lakh eleven thousand two hundred sixty-three' in numerals?",
+      "choices": [
+          "45,11,263",
+          "45,00,000",
+          "45,11,000",
+          "45,11,200"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How would you write 'Ninety lakh one hundred five' in numerals?",
+      "choices": [
+          "90,00,105",
+          "90,00,150",
+          "90,00,501",
+          "90,00,005"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How would you write 'Seventeen crore eight lakh forty-one thousand nineteen' in numerals?",
+      "choices": [
+          "17,08,41,019",
+          "17,80,41,019",
+          "17,08,00,019",
+          "17,08,41,109"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'TL' stand for in the Indian place value system?",
+      "choices": [
+          "Ten Lakhs",
+          "Ten Thousands",
+          "Thousands Lakh",
+          "Total Lakhs"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'TTh' stand for in the Indian place value system?",
+      "choices": [
+          "Thousand Thousands",
+          "Ten Thousands",
+          "Total Thousands",
+          "Thousand Ten"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'TC' stand for in the Indian place value system?",
+      "choices": [
+          "Total Crores",
+          "Ten Crores",
+          "Thousands Crores",
+          "Ten Counts"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the period represented by the digits 45 in the number 45,11,263?",
+      "choices": [
+          "Thousands",
+          "Lakhs",
+          "Crores",
+          "Ones"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the period represented by the digits 11 in the number 45,11,263?",
+      "choices": [
+          "Thousands",
+          "Lakhs",
+          "Crores",
+          "Ones"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the period represented by the digits 263 in the number 45,11,263?",
+      "choices": [
+          "Thousands",
+          "Lakhs",
+          "Crores",
+          "Ones"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In the number 1010101, what is the place value of the digit '1' farthest to the left?",
+      "choices": [
+          "Ones",
+          "Thousands",
+          "Lakhs",
+          "Ten Lakhs"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In the number 50000005, what is the place value of the digit '5' farthest to the left?",
+      "choices": [
+          "Ones",
+          "Lakhs",
+          "Crores",
+          "Ten Crores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the example on the page, how many digits after the last comma are there?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian place value system, which periods are the first 9 places grouped into?",
+      "choices": [
+          "Ones, Tens, Hundreds, Thousands",
+          "Ones, Thousands, Millions, Billions",
+          "Ones, Thousands, Lakhs and Crores",
+          "Thousands, Lakhs, Millions, Crores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the rules, how should numbers be read when working with large numbers?",
+      "choices": [
+          "Right to left",
+          "Left to right",
+          "Bottom to top",
+          "Top to bottom"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do if a period has zeroes at all the places?",
+      "choices": [
+          "Read the period as zero",
+          "Skip that period",
+          "Read the period in plural",
+          "Say the name of the period"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When writing a number, what should be placed after each period?",
+      "choices": [
+          "A semicolon",
+          "A period",
+          "A comma",
+          "A colon"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the rules, what must be done with the 'ones' period?",
+      "choices": [
+          "Read the name of the period",
+          "Read out the number",
+          "Do not read out the name of the period",
+          "Skip that period"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How is the number 315576000 written with commas according to the image?",
+      "choices": [
+          "315,576,000",
+          "3,155,760,00",
+          "31,55,76,000",
+          "31,557,6000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the image, how is the number 315576000 read?",
+      "choices": [
+          "Thirty-one crore fifty-five lakh seventy-six thousand",
+          "Three hundred fifteen million five hundred seventy-six thousand",
+          "Thirty-one million fifty-five lakh seventy-six thousand",
+          "Thirty-one crore five lakh seventy-six thousand"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many digits does the number '1000000' have?",
+      "choices": [
+          "5",
+          "6",
+          "7",
+          "8"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The digits of a number increase by adding an extra digit at the...",
+      "choices": [
+          "Lowest place value",
+          "Highest place value",
+          "Middle place value",
+          "Any place value"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the largest 4-digit number?",
+      "choices": [
+          "1000",
+          "9999",
+          "10000",
+          "999"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the smallest 5-digit number?",
+      "choices": [
+          "1000",
+          "9999",
+          "10000",
+          "999"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the smallest 8-digit number?",
+      "choices": [
+          "1000000",
+          "10000000",
+          "100000000",
+          "99999999"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the largest 9-digit number?",
+      "choices": [
+          "99999999",
+          "1000000000",
+          "999999999",
+          "100000000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which place value system is used to represent large numbers?",
+      "choices": [
+          "Indian place value system",
+          "International place value system",
+          "Both of these",
+          "None of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'TC' stands for?",
+      "choices": [
+          "Ten Lakhs",
+          "Ten Crores",
+          "Ten Thousands",
+          "Thousand Crores"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'TL' stands for?",
+      "choices": [
+          "Ten Lakhs",
+          "Ten Crores",
+          "Ten Thousands",
+          "Thousand Crores"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'TTh' stands for?",
+      "choices": [
+          "Ten Lakhs",
+          "Ten Crores",
+          "Ten Thousands",
+          "Thousand Crores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many systems are there to read and write large numbers according to the text?",
+      "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian Place Value Chart, what comes before 'Ones' in the 'Periods'?",
+      "choices": [
+          "Thousands",
+          "Crores",
+          "Lakhs",
+          "All of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'C' stands for?",
+      "choices": [
+          "Crores",
+          "Thousands",
+          "Hundred",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'H' stands for?",
+      "choices": [
+          "Thousands",
+          "Hundred",
+          "Crores",
+          "Lakhs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Indian Place Value Chart, 'Th' stands for?",
+      "choices": [
+          "Crores",
+          "Thousands",
+          "Hundred",
+          "Lakhs"
+      ],
+      "correctAnswer": 1
+  }
+]
