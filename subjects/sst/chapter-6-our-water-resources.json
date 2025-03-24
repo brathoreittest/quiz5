@@ -1,0 +1,702 @@
+[
+  {
+      "question": "Which of the following is NOT a source of water?",
+      "choices": [
+          "Rain",
+          "Rivers",
+          "Groundwater",
+          "Deserts"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is a method of water conservation?",
+      "choices": [
+          "Stop wastage",
+          "Increase pollution",
+          "Dumping in the ground",
+          "Industrialization"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where does 97% of water found on Earth lies?",
+      "choices": [
+          "Rivers",
+          "Lakes",
+          "Oceans and Seas",
+          "Groundwater"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What percentage of water found on Earth is fresh water?",
+      "choices": [
+          "97%",
+          "50%",
+          "3%",
+          "100%"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Fresh water availability depends on?",
+      "choices": [
+          "Color",
+          "Smell",
+          "Seasons, location and depth",
+          "Location only"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following projects use dams for irrigation?",
+      "choices": [
+          "Wells",
+          "Multipurpose projects",
+          "Tanks",
+          "Ponds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a source of irrigation in India?",
+      "choices": [
+          "Glaciers",
+          "Wells and tube wells",
+          "Oceans",
+          "Seas"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is water important to all living things?",
+      "choices": [
+          "To listen songs",
+          "In order to survive",
+          "To read and study",
+          "To play in the playground"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of water being used for energy generation?",
+      "choices": [
+          "Growing crops",
+          "Generating electricity",
+          "Drinking water",
+          "Cooking and bathing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a source of fresh water?",
+      "choices": [
+          "Rain",
+          "Oceans",
+          "Seas",
+          "Rivers"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a way to reduce the wastage of water?",
+      "choices": [
+          "Dumping",
+          "Increasing the use",
+          "Stop wastage",
+          "Polluting the environment"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Rainwater harvesting helps in:",
+      "choices": [
+          "Water depletion",
+          "Water accumulation",
+          "Water storage",
+          "Water leakage"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is not a main source of fresh water:",
+      "choices": [
+          "Rain",
+          "Sea",
+          "Rivers",
+          "Underground Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of water lies in the oceans and seas?",
+      "choices": [
+          "Dirty",
+          "Salty",
+          "Clean",
+          "Fresh"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is not considered for domestic use?",
+      "choices": [
+          "Water from the sea",
+          "Fresh water",
+          "Rivers water",
+          "Groundwater"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the main source of fresh water?",
+      "choices": [
+          "Rivers",
+          "Lakes",
+          "Rain",
+          "Groundwater"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When does India get most of its rainfall?",
+      "choices": [
+          "Summer season",
+          "Winter season",
+          "Monsoon season",
+          "Spring season"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of water do rivers of the northern plains get from melting glaciers?",
+      "choices": [
+          "Salty water",
+          "Polluted water",
+          "Pure and fresh water",
+          "Brackish water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are large lakes, natural or man-made, used as a source of water supply called?",
+      "choices": [
+          "Ponds",
+          "Reservoirs",
+          "Canals",
+          "Dams"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following lakes are tourist attractions?",
+      "choices": [
+          "Dal Lake",
+          "Chilika Lake",
+          "Both Dal and Chilika Lake",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where is it difficult to dig wells to draw water from the ground?",
+      "choices": [
+          "Flat plains",
+          "Rocky or hilly areas",
+          "Coastal regions",
+          "Deserts"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are special gates called in a dam?",
+      "choices": [
+          "Flood gates",
+          "Sluice gates",
+          "Safety gates",
+          "Water gates"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are small channels called that are used to carry water to fields from dams?",
+      "choices": [
+          "Rivers",
+          "Canals",
+          "Ponds",
+          "Reservoirs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which canal brings water from the river Satluj to Rajasthan?",
+      "choices": [
+          "Ganga Canal",
+          "Yamuna Canal",
+          "Indira Gandhi Canal",
+          "Narmada Canal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do dams store river water in?",
+      "choices": [
+          "Tanks",
+          "Ponds",
+          "Artificial lakes",
+          "Wells"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the most important occupation in India?",
+      "choices": [
+          "Manufacturing",
+          "Agriculture",
+          "Mining",
+          "Technology"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these states are tube wells common in?",
+      "choices": [
+          "Karnataka",
+          "Maharashtra",
+          "Gujarat",
+          "Tamil Nadu"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In rocky areas what do people depend on usually to get water?",
+      "choices": [
+          "wells",
+          "tube wells",
+          "ponds and tanks",
+          "lakes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a long passage, dug into the ground, used for carrying water to the fields called?",
+      "choices": [
+          "sluice gate",
+          "canal",
+          "reservoir",
+          "well"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a sluice gate?",
+      "choices": [
+          "A long passage",
+          "A reservoir",
+          "An opening built into the wall of a dam",
+          "A type of canal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main source of fresh water?",
+      "choices": [
+          "Rivers",
+          "Lakes",
+          "Rain",
+          "Groundwater"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In which season does India get most of its rainfall?",
+      "choices": [
+          "Winter",
+          "Summer",
+          "Monsoon",
+          "Autumn"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Rivers of the northern plains arise from the mountains and get pure and fresh water from",
+      "choices": [
+          "Rain",
+          "Melting glaciers",
+          "Lakes",
+          "Groundwater"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Large lakes like Chilika lake in Odisha and Dal lake in Kashmir are",
+      "choices": [
+          "sources of irrigation",
+          "tourist attractions",
+          "sources of groundwater",
+          "examples of reservoirs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the three primary methods of irrigation discussed for Indian farmers?",
+      "choices": [
+          "Canals, Reservoirs, Wells",
+          "Wells and tube wells, Tanks and Ponds, Dams",
+          "Rivers, Lakes, Groundwater",
+          "Rain, Snow, Ice"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which method of irrigation is common in rocky or hilly areas like the Southern Plateaus?",
+      "choices": [
+          "Wells and tube wells",
+          "Tanks and ponds",
+          "Dams",
+          "Canals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the special gates in a dam called, which can be opened or closed to control the water?",
+      "choices": [
+          "Water gates",
+          "Control gates",
+          "Sluice gates",
+          "River gates"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the artificial lakes called that are created behind dams to store river water?",
+      "choices": [
+          "Ponds",
+          "Reservoirs",
+          "Canals",
+          "Tanks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the small channels called that carry water stored in dams to fields?",
+      "choices": [
+          "Pipes",
+          "Tubes",
+          "Streams",
+          "Canals"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which canal brings water from the river Satluj to Rajasthan?",
+      "choices": [
+          "Ganga Canal",
+          "Yamuna Canal",
+          "Indira Gandhi Canal",
+          "Godavari Canal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the term for a large lake (natural or man-made) used as a source of water supply?",
+      "choices": [
+          "Pond",
+          "Reservoir",
+          "Well",
+          "Aquifer"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, what is the most important occupation in India?",
+      "choices": [
+          "Fishing",
+          "Agriculture",
+          "Tourism",
+          "Mining"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a state where tube wells are common?",
+      "choices": [
+          "Tamil Nadu",
+          "Kerala",
+          "Gujarat",
+          "Rajasthan"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main source of water for irrigation in South India?",
+      "choices": [
+          "Rivers",
+          "Groundwater",
+          "Tanks and ponds",
+          "Canals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the name for the definition 'an opening built into the wall of a dam, which slides open or shut, to control the flow of water'?",
+      "choices": [
+          "Canal",
+          "Gate control",
+          "Reservoir",
+          "Sluice gate"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are dams often used for besides storing water?",
+      "choices": [
+          "Controlling traffic",
+          "Breeding fishes",
+          "Creating beaches",
+          "Building houses"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is electricity produced by water in dams known as?",
+      "choices": [
+          "Solar energy",
+          "Wind energy",
+          "Hydroelectricity",
+          "Geothermal energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT mentioned as being served by the Bhakra-Nangal Dam?",
+      "choices": [
+          "Himachal Pradesh",
+          "Punjab",
+          "Rajasthan",
+          "Bihar"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the name of the reservoir for the Bhakra-Nangal Dam?",
+      "choices": [
+          "Gobind Sagar",
+          "Shivaji Sagar",
+          "Indira Sagar",
+          "Gandhi Sagar"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which river is the Sardar Sarovar Dam built on?",
+      "choices": [
+          "Ganga",
+          "Yamuna",
+          "Narmada",
+          "Krishna"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where is the Nagarjuna Sagar Dam built?",
+      "choices": [
+          "Andhra Pradesh",
+          "Odisha",
+          "Uttarakhand",
+          "Gujarat"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which river is the Tehri Dam built on?",
+      "choices": [
+          "Satluj",
+          "Bhagirathi",
+          "Damodar",
+          "Mahanadi"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How much of the total amount of water on Earth is fresh water?",
+      "choices": [
+          "97%",
+          "50%",
+          "3%",
+          "10%"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main source of fresh water in India?",
+      "choices": [
+          "Rivers",
+          "Lakes",
+          "Rain",
+          "Groundwater"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which activity is NOT a way to conserve water?",
+      "choices": [
+          "Stop wastage",
+          "Reduce pollution",
+          "Rainwater harvesting",
+          "Excessive use"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is rainwater harvesting?",
+      "choices": [
+          "Planting trees",
+          "Collecting and storing rainwater",
+          "Building dams",
+          "Cleaning rivers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Dams, tanks and ponds serve as which of the following means of water conservation?",
+      "choices": [
+          "Rainwater Harvesting",
+          "Building means of storage",
+          "Reducing Pollution",
+          "Stopping Wastage"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following can cause pollution of water bodies?",
+      "choices": [
+          "Throwing household waste",
+          "Planting trees",
+          "Rainwater harvesting",
+          "Building reservoirs"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Besides rain, which is one of the main methods of irrigation?",
+      "choices": [
+          "Wells and tube wells",
+          "Solar panels",
+          "Wind turbines",
+          "Nuclear power"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How is river water supplied to fields?",
+      "choices": [
+          "Through trucks",
+          "Through canals",
+          "Through pipes",
+          "Through helicopters"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The dam that provides water to West Bengal and Jharkhand:",
+      "choices": [
+          "Hirakund Dam",
+          "Damodar Valley Project",
+          "Tehri Dam",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Irrigation through ___________ is common in south India.",
+      "choices": [
+          "tanks",
+          "wells",
+          "hand pumps",
+          "tube wells"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Hirakud Dam is constructed on the River:",
+      "choices": [
+          "Narmada",
+          "Satluj",
+          "Krishna",
+          "Mahanadi"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Tubewells helps in taking out water from:",
+      "choices": [
+          "Groundwater",
+          "River",
+          "Dam",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Small channels dug in the ground are called:",
+      "choices": [
+          "dams",
+          "canals",
+          "reservoirs",
+          "wells"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Southern rivers are rain-fed. When do they flow?",
+      "choices": [
+          "Throughout the year",
+          "Only during monsoons",
+          "Only during winter months",
+          "All seasons except summers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Lakes are ___________ of water for an area.",
+      "choices": [
+          "Tanks",
+          "Reservoirs",
+          "Puddles",
+          "Containers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Lakes and rivers provide water to which out of the following areas?",
+      "choices": [
+          "Entire country",
+          "Area they cover",
+          "Entire state",
+          "More than the area they cover"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The source of pure and fresh water for the rivers coming from the mountains is",
+      "choices": [
+          "Ground water",
+          "Rain water",
+          "Melting glaciers",
+          "All of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Northern Plains have perennial rivers. What does this mean?",
+      "choices": [
+          "They dry up in winter months",
+          "They flow throughout the year",
+          "They flow for a part of the year",
+          "They flow only in summers"
+      ],
+      "correctAnswer": 2
+  }
+]

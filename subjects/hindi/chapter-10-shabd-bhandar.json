@@ -1,0 +1,410 @@
+[
+    {
+        "question": "What does the idiom '\u0917\u093e\u0917\u0930 \u092e\u0947\u0902 \u0938\u093e\u0917\u0930' (Gagar mein Sagar) mean?",
+        "choices": [
+            "Filling a small pot with a large ocean",
+            "Speaking a lot in few words",
+            "Mixing water with sugar",
+            "Traveling across the ocean"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the idiom '\u0916\u094b\u0926\u093e \u092a\u0939\u093e\u0921\u093c \u0928\u093f\u0915\u0932\u0940 \u091a\u0941\u0939\u093f\u092f\u093e' (Khoda pahad nikli chuhiya) mean?",
+        "choices": [
+            "Digging a mountain and finding a mouse",
+            "Putting a lot of effort in and getting very little result",
+            "Finding a mouse in the mountain",
+            "A lot of effort"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the idiom '\u091a\u094b\u0930 \u0915\u0940 \u0926\u093e\u0922\u093c\u0940 \u092e\u0947\u0902 \u0924\u093f\u0928\u0915\u093e' (Chor ki dadhi me tinka) mean?",
+        "choices": [
+            "The thief has straw in his beard",
+            "The thief is suspected",
+            "Guilty person is always suspicious",
+            "The thief is growing beard"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the idiom '\u0909\u0932\u094d\u091f\u093e \u091a\u094b\u0930 \u0915\u094b\u0924\u0935\u093e\u0932 \u0915\u094b \u0921\u093e\u0901\u091f\u0947' (Ulta chor kotwal ko daate) mean?",
+        "choices": [
+            "Thief scolding the police officer",
+            "The police scolding the thief",
+            "The guilty blaming the innocent",
+            "The innocent blaming the guilty"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the idiom '\u0921\u0942\u092c\u0924\u0947 \u0915\u094b \u0924\u093f\u0928\u0915\u0947 \u0915\u093e \u0938\u0939\u093e\u0930\u093e' (Dubte ko tinke ka sahara) mean?",
+        "choices": [
+            "Sinking with a straw",
+            "Even small help is valuable when someone is in trouble",
+            "Helping with a straw",
+            "Sinking in trouble"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of '\u092b\u0942\u0932\u093e \u0928 \u0938\u092e\u093e\u0928\u093e'?",
+        "choices": [
+            "To be very happy",
+            "To be very sad",
+            "To be very angry",
+            "To be very tired"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the meaning of '\u092a\u0940\u0920 \u0925\u092a\u0925\u092a\u093e\u0928\u093e'?",
+        "choices": [
+            "To scold someone",
+            "To give a compliment",
+            "To hit someone",
+            "To ignore someone"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of '\u0928\u093e\u0915 \u092e\u0947\u0902 \u0926\u092e \u0915\u0930\u0928\u093e'?",
+        "choices": [
+            "To help someone",
+            "To be quiet",
+            "To be very troublesome",
+            "To be very kind"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the meaning of '\u0906\u0915\u093e\u0936 \u092a\u093e\u0924\u093e\u0932 \u090f\u0915 \u0915\u0930\u0928\u093e'?",
+        "choices": [
+            "To fly high",
+            "To work very hard",
+            "To do nothing",
+            "To play games"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of '\u092e\u0927\u0941' (Madhu)?",
+        "choices": [
+            "\u092e\u0940\u0920\u093e, \u0936\u0939\u0926",
+            "\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e, \u0938\u094d\u0935\u093e\u092e\u0940",
+            "\u0938\u0902\u0916\u094d\u092f\u093e, \u0917\u094b\u0926",
+            "\u091f\u0939\u0928\u0940, \u0915\u093f\u0938\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0915\u0940 \u0936\u093e\u0916\u093e"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the meaning of '\u0908\u0936\u094d\u0935\u0930' (Ishwar)?",
+        "choices": [
+            "\u092e\u0940\u0920\u093e, \u0936\u0939\u0926",
+            "\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e, \u0938\u094d\u0935\u093e\u092e\u0940",
+            "\u0938\u0902\u0916\u094d\u092f\u093e, \u0917\u094b\u0926",
+            "\u091f\u0939\u0928\u0940, \u0915\u093f\u0938\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0915\u0940 \u0936\u093e\u0916\u093e"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of '\u0905\u0902\u0915' (Ank)?",
+        "choices": [
+            "\u092e\u0940\u0920\u093e, \u0936\u0939\u0926",
+            "\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e, \u0938\u094d\u0935\u093e\u092e\u0940",
+            "\u0938\u0902\u0916\u094d\u092f\u093e, \u0917\u094b\u0926",
+            "\u091f\u0939\u0928\u0940, \u0915\u093f\u0938\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0915\u0940 \u0936\u093e\u0916\u093e"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the meaning of '\u0936\u093e\u0916\u093e' (Shakha)?",
+        "choices": [
+            "\u092e\u0940\u0920\u093e, \u0936\u0939\u0926",
+            "\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u093e, \u0938\u094d\u0935\u093e\u092e\u0940",
+            "\u0938\u0902\u0916\u094d\u092f\u093e, \u0917\u094b\u0926",
+            "\u091f\u0939\u0928\u0940, \u0915\u093f\u0938\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0915\u0940 \u0936\u093e\u0916\u093e"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the meaning of '\u0939\u0932' (Hal)?",
+        "choices": [
+            "\u092e\u0940\u0920\u093e, \u0936\u0939\u0926",
+            "\u0938\u092e\u093e\u0927\u093e\u0928, \u0915\u093f\u0938\u093e\u0928 \u0915\u093e \u090f\u0915 \u0914\u091c\u093c\u093e\u0930",
+            "\u0938\u0902\u0916\u094d\u092f\u093e, \u0917\u094b\u0926",
+            "\u091f\u0939\u0928\u0940, \u0915\u093f\u0938\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0915\u0940 \u0936\u093e\u0916\u093e"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the synonym for '\u092a\u0930\u093f\u0923\u093e\u092e'?",
+        "choices": [
+            "\u092f\u091c\u094d\u091e",
+            "\u092b\u0932",
+            "\u092e\u093e\u0924\u094d\u0930\u093e",
+            "\u0926\u093f\u0935\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the synonym for '\u0926\u093f\u0928'?",
+        "choices": [
+            "\u0926\u093f\u0935\u0938",
+            "\u0917\u0930\u0940\u092c",
+            "\u092a\u0943\u0925\u094d\u0935\u0940",
+            "\u092a\u094d\u0930\u0935\u093e\u0939"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the synonym for '\u092d\u0935\u0928'?",
+        "choices": [
+            "\u092a\u094d\u0930\u0935\u093e\u0939",
+            "\u0918\u0930",
+            "\u0938\u0902\u0938\u093e\u0930",
+            "\u0926\u093f\u0935\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the synonym for '\u0927\u0930\u093e'?",
+        "choices": [
+            "\u092a\u0943\u0925\u094d\u0935\u0940",
+            "\u092a\u094d\u0930\u0935\u093e\u0939",
+            "\u0918\u0930",
+            "\u0938\u0902\u0938\u093e\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "\u091c\u093f\u0938\u0915\u093e \u0915\u094b\u0908 \u0905\u0930\u094d\u0925 \u0939\u094b",
+        "choices": [
+            "\u0938\u093e\u0930\u094d\u0925\u0915",
+            "\u0905\u0924\u0941\u0932\u094d\u092f",
+            "\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0940",
+            "\u0906\u0938\u094d\u0924\u093f\u0915"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "\u091c\u093f\u0938\u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u0928 \u0939\u094b \u0938\u0915\u0947",
+        "choices": [
+            "\u0938\u093e\u0930\u094d\u0925\u0915",
+            "\u0905\u0924\u0941\u0932\u094d\u092f",
+            "\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0940",
+            "\u0906\u0938\u094d\u0924\u093f\u0915"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "\u091c\u094b \u0926\u0942\u0930 \u0915\u0940 \u0938\u094b\u091a\u0947",
+        "choices": [
+            "\u0938\u093e\u0930\u094d\u0925\u0915",
+            "\u0905\u0924\u0941\u0932\u094d\u092f",
+            "\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0940",
+            "\u0906\u0938\u094d\u0924\u093f\u0915"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u091c\u094b \u0908\u0936\u094d\u0935\u0930 \u0915\u094b \u092e\u093e\u0928\u0924\u093e \u0939\u094b",
+        "choices": [
+            "\u0938\u093e\u0930\u094d\u0925\u0915",
+            "\u0905\u0924\u0941\u0932\u094d\u092f",
+            "\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0940",
+            "\u0906\u0938\u094d\u0924\u093f\u0915"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "\u0936\u0939\u0930 \u092e\u0947\u0902 \u0930\u0939\u0928\u0947 \u0935\u093e\u0932\u093e",
+        "choices": [
+            "\u0936\u0939\u0930\u0940",
+            "\u092e\u093f\u0924\u0935\u094d\u092f\u092f\u0940",
+            "\u0935\u0915\u094d\u0924\u093e",
+            "\u0926\u0948\u0928\u093f\u0915"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "\u091c\u094b \u0915\u092e \u0916\u0930\u094d\u091a \u0915\u0930\u0924\u093e \u0939\u094b",
+        "choices": [
+            "\u0936\u0939\u0930\u0940",
+            "\u092e\u093f\u0924\u0935\u094d\u092f\u092f\u0940",
+            "\u0935\u0915\u094d\u0924\u093e",
+            "\u0926\u0948\u0928\u093f\u0915"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "\u092d\u093e\u0937\u0923 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u093e",
+        "choices": [
+            "\u0936\u0939\u0930\u0940",
+            "\u092e\u093f\u0924\u0935\u094d\u092f\u092f\u0940",
+            "\u0935\u0915\u094d\u0924\u093e",
+            "\u0926\u0948\u0928\u093f\u0915"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u093e",
+        "choices": [
+            "\u0936\u0939\u0930\u0940",
+            "\u092e\u093f\u0924\u0935\u094d\u092f\u092f\u0940",
+            "\u0935\u0915\u094d\u0924\u093e",
+            "\u0926\u0948\u0928\u093f\u0915"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the opposite of '\u0915\u094b\u092e\u0932'?",
+        "choices": [
+            "\u0915\u094b\u092e\u0932",
+            "\u0915\u0920\u094b\u0930"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the opposite of '\u0936\u093e\u0902\u0924'?",
+        "choices": [
+            "\u0936\u093e\u0902\u0924",
+            "\u0905\u0936\u093e\u0902\u0924"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the opposite of '\u0930\u094b\u0917\u0940'?",
+        "choices": [
+            "\u0930\u094b\u0917\u0940",
+            "\u0928\u093f\u0930\u094b\u0917\u0940"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the opposite of '\u0938\u0926\u093e\u091a\u093e\u0930'?",
+        "choices": [
+            "\u0938\u0926\u093e\u091a\u093e\u0930",
+            "\u0926\u0941\u0930\u093e\u091a\u093e\u0930"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the opposite of '\u0938\u094c\u092d\u093e\u0917\u094d\u092f'?",
+        "choices": [
+            "\u0938\u094c\u092d\u093e\u0917\u094d\u092f",
+            "\u0926\u0941\u0930\u094d\u092d\u093e\u0917\u094d\u092f"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the opposite of '\u0938\u094d\u0935\u093e\u0927\u0940\u0928'?",
+        "choices": [
+            "\u0938\u094d\u0935\u093e\u0927\u0940\u0928",
+            "\u092a\u0930\u093e\u0927\u0940\u0928"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another word for '\u092a\u0947\u0921\u093c'?",
+        "choices": [
+            "\u091a\u0902\u0926\u094d\u0930\u092e\u093e",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is another word for '\u091a\u093e\u0901\u0926'?",
+        "choices": [
+            "\u091a\u0902\u0926\u094d\u0930\u092e\u093e",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is a synonym of '\u0926\u093f\u0928'?",
+        "choices": [
+            "\u091a\u0902\u0926\u094d\u0930\u092e\u093e",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a synonym for '\u092b\u0942\u0932'?",
+        "choices": [
+            "\u091a\u0902\u0926\u094d\u0930\u092e\u093e",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0937\u094d\u092a"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Choose a synonym for '\u092c\u0947\u091f\u093e'",
+        "choices": [
+            "\u091a\u0902\u0926\u094d\u0930\u092e\u093e",
+            "\u0926\u093f\u0935\u093e",
+            "\u092a\u0941\u0924\u094d\u0930",
+            "\u092a\u0941\u0937\u094d\u092a"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is an alternative word for '\u092e\u0928\u0941\u0937\u094d\u092f'?",
+        "choices": [
+            "\u0928\u0930",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0937\u094d\u092a"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a synonym for '\u092a\u0947\u0921\u093c'?",
+        "choices": [
+            "\u0924\u0930\u0941",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a synonym for '\u091a\u093e\u0901\u0926'?",
+        "choices": [
+            "\u0930\u093e\u0915\u0947\u0936",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a synonym for '\u0926\u093f\u0928'?",
+        "choices": [
+            "\u0935\u093e\u0930",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0924\u094d\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is a synonym for '\u092b\u0942\u0932'?",
+        "choices": [
+            "\u0938\u0941\u092e\u0928",
+            "\u0926\u093f\u0935\u093e",
+            "\u0935\u0943\u0915\u094d\u0937",
+            "\u092a\u0941\u0937\u094d\u092a"
+        ],
+        "correctAnswer": 0
+    }
+]

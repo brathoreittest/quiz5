@@ -1,0 +1,1802 @@
+[
+  {
+      "question": "How should water be stored?",
+      "choices": [
+          "In open vessels",
+          "In dirty vessels",
+          "Properly in clean vessels",
+          "In any vessel"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What should we do before taking out water from a vessel?",
+      "choices": [
+          "Wash our hands",
+          "Wash the vessel",
+          "Boil the water",
+          "Filter the water"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Why should we keep buckets and containers covered?",
+      "choices": [
+          "To keep the water hot",
+          "To prevent evaporation",
+          "To prevent breeding of mosquitoes",
+          "To keep the water cold"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is air?",
+      "choices": [
+          "A single gas",
+          "A liquid",
+          "A solid",
+          "A mixture of gases"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does the sun's heat cause?",
+      "choices": [
+          "Rain",
+          "Snow",
+          "Changes in weather",
+          "Nothing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When does sea breeze blow?",
+      "choices": [
+          "At night",
+          "During the day",
+          "In the evening",
+          "Early morning"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When does land breeze blow?",
+      "choices": [
+          "During the day",
+          "In the afternoon",
+          "At night",
+          "Early morning"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is one of the major sources of water?",
+      "choices": [
+          "Sun",
+          "Wind",
+          "Rain",
+          "Snow"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What evaporates water?",
+      "choices": [
+          "The cold",
+          "The wind",
+          "The heat of the sun",
+          "The rain"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What factors speed up evaporation?",
+      "choices": [
+          "The sun's heat, exposed surface, and wind",
+          "Cold weather",
+          "Clouds",
+          "Rain"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What do evaporation and condensation cause?",
+      "choices": [
+          "Sunshine",
+          "Rainfall",
+          "Snowfall",
+          "Wind"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What impurities does water contain?",
+      "choices": [
+          "Only soluble impurities",
+          "Only insoluble impurities",
+          "Soluble and insoluble impurities",
+          "No impurities"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How can insoluble impurities be removed?",
+      "choices": [
+          "By boiling",
+          "By chlorination",
+          "By sedimentation, decantation, and filtration",
+          "By freezing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How can we make water safe for drinking?",
+      "choices": [
+          "By adding sugar",
+          "By boiling, chlorination, and using water filters",
+          "By adding salt",
+          "By adding food color"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where should water be stored?",
+      "choices": [
+          "In open vessels",
+          "In clean covered vessels",
+          "In any container",
+          "Under the sun"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are soluble impurities?",
+      "choices": [
+          "Substances that do not dissolve in water",
+          "Substances such as sand",
+          "Substances such as salt that dissolve in water",
+          "Heavier solid particles"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are insoluble impurities?",
+      "choices": [
+          "Substances that dissolve in water",
+          "Substances such as sand that do not dissolve in water",
+          "Substances such as salt",
+          "Dissolved chemicals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a water purification method?",
+      "choices": [
+          "Evaporation",
+          "Distillation",
+          "Sedimentation and decantation",
+          "Condensation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the process called when heavier solid particles settle down at the bottom of a glass?",
+      "choices": [
+          "Decantation",
+          "Filtration",
+          "Sedimentation",
+          "Boiling"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the particles that have settled at the bottom called?",
+      "choices": [
+          "Solutes",
+          "Sediments",
+          "Solvents",
+          "Suspensions"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the clearer water called after pouring it into another glass without disturbing the sediments?",
+      "choices": [
+          "Sedimented water",
+          "Filtered water",
+          "Distilled water",
+          "Decanted water"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is filtration?",
+      "choices": [
+          "Adding chemicals to water",
+          "Heating water to a boiling point",
+          "Removing impurities by passing water through a filter",
+          "Allowing particles to settle at the bottom"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What remains in the filter during filtration?",
+      "choices": [
+          "Clean water",
+          "Dissolved salt",
+          "Impurities",
+          "Decanted water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why might filtered water still not be safe for drinking or cooking?",
+      "choices": [
+          "Because it contains sediments",
+          "Because it may still have harmful germs",
+          "Because it's too salty",
+          "Because the filter is contaminated"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How long should water be boiled to kill germs?",
+      "choices": [
+          "1 minute",
+          "5 minutes",
+          "About 10 minutes",
+          "30 minutes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the process of adding chlorine tablets to water called?",
+      "choices": [
+          "Fluoridation",
+          "Chlorination",
+          "Sedimentation",
+          "Decantation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What process involves the removal of impurities by passing water through a filter?",
+      "choices": [
+          "Sedimentation",
+          "Boiling",
+          "Decantation",
+          "Filtration"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is one method for killing the germs present in water?",
+      "choices": [
+          "Sedimentation",
+          "Chlorination",
+          "Decantation",
+          "Filtration"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of impurities does water filters clean?",
+      "choices": [
+          "Soluble impurities",
+          "Insoluble impurities",
+          "Both Soluble and Insoluble Impurities",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where are chlorine tablets easily available?",
+      "choices": [
+          "Grocery stores",
+          "Medicine shops",
+          "Hardware stores",
+          "Book stores"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a soluble impurity?",
+      "choices": [
+          "Sand",
+          "Salt",
+          "Mud",
+          "Gravel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an insoluble impurity?",
+      "choices": [
+          "Sugar",
+          "Salt",
+          "Sand",
+          "Lemon juice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The settling down of heavier solid particles is called:",
+      "choices": [
+          "Decantation",
+          "Sedimentation",
+          "Filtration",
+          "Boiling"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Particles that have settled at the bottom are called:",
+      "choices": [
+          "Impurities",
+          "Sediments",
+          "Contaminants",
+          "Filtrate"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Gently pouring the clearer water is called:",
+      "choices": [
+          "Sedimentation",
+          "Contamination",
+          "Decantation",
+          "Filtration"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The process of removing impurities in water by passing it through a filter is called:",
+      "choices": [
+          "Sedimentation",
+          "Decantation",
+          "Filtration",
+          "Boiling"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The impurities are left behind ___________ in filtration.",
+      "choices": [
+          "In container",
+          "In beaker",
+          "In the filter",
+          "In the flask"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Boiling water for about ___________ minutes kills germs.",
+      "choices": [
+          "5",
+          "10",
+          "15",
+          "20"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Adding chlorine tablets to water is called:",
+      "choices": [
+          "Boiling",
+          "Chlorination",
+          "Sedimentation",
+          "Decantation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Germs present in water can be killed by:",
+      "choices": [
+          "Filtration",
+          "Decantation",
+          "Chlorination",
+          "Sedimentation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following methods is NOT a purification method?",
+      "choices": [
+          "Chlorination",
+          "Boiling",
+          "Contamination",
+          "Filtration"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Sedimentation requires water to...",
+      "choices": [
+          "Boil",
+          "Cool",
+          "Stand",
+          "Pour"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is 'decanted water'?",
+      "choices": [
+          "Muddy water",
+          "Water with sediments",
+          "Clear water",
+          "Contaminated water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do water filters remove?",
+      "choices": [
+          "Soluble impurities",
+          "Harmful germs and impurities",
+          "Insoluble impurities",
+          "Clean particles"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Chlorine tablets are easily available in...",
+      "choices": [
+          "Grocery shops",
+          "Medical stores",
+          "Hardware stores",
+          "All of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Substances like salt that dissolve in water are called:",
+      "choices": [
+          "Insoluble impurities",
+          "Soluble impurities",
+          "Sediments",
+          "Contaminants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Substances like sand that do not dissolve in water are called:",
+      "choices": [
+          "Soluble impurities",
+          "Sediments",
+          "Insoluble impurities",
+          "Contaminants"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a method for purifying water?",
+      "choices": [
+          "Sedimentation and decantation",
+          "Filtration",
+          "Boiling",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The process where heavier solid particles settle down at the bottom of a glass is called:",
+      "choices": [
+          "Decantation",
+          "Filtration",
+          "Sedimentation",
+          "Boiling"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The particles that have settled at the bottom during sedimentation are called:",
+      "choices": [
+          "Solutes",
+          "Sediments",
+          "Decanted water",
+          "Filtrate"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The process of gently pouring clearer water from the top into another glass without disturbing sediments is called:",
+      "choices": [
+          "Sedimentation",
+          "Filtration",
+          "Decantation",
+          "Boiling"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of impurities can filtration remove?",
+      "choices": [
+          "Insoluble impurities",
+          "Soluble impurities",
+          "Dissolved gases",
+          "All of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is filtration?",
+      "choices": [
+          "Adding chemicals to water",
+          "Heating water",
+          "Removing impurities by passing it through a filter",
+          "Allowing particles to settle down"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Boiling water for about 10 minutes will:",
+      "choices": [
+          "Remove all impurities",
+          "Kill the germs and make water safe for drinking",
+          "Add minerals to the water",
+          "Make the water taste better"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of boiling water?",
+      "choices": [
+          "To remove insoluble impurities",
+          "To remove sediments",
+          "To kill harmful germs",
+          "To make the water clear"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the process of adding chlorine tablets to water called?",
+      "choices": [
+          "Filtration",
+          "Sedimentation",
+          "Chlorination",
+          "Boiling"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does chlorination do to water?",
+      "choices": [
+          "Removes sediments",
+          "Kills germs present in the water",
+          "Removes insoluble impurities",
+          "Removes soluble impurities"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Chlorine tablets are easily available at:",
+      "choices": [
+          "Grocery stores",
+          "Medicine shops",
+          "Hardware stores",
+          "Bookstores"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do water filters clean water?",
+      "choices": [
+          "By adding chemicals to the water",
+          "By heating the water",
+          "By removing impurities from it and killing the harmful germs",
+          "By settling the solid particles"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do water filters remove from water?",
+      "choices": [
+          "Soluble impurities only",
+          "Harmful germs only",
+          "Impurities and harmful germs",
+          "Dissolved gasses"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What causes rainfall in nature?",
+      "choices": [
+          "Evaporation only",
+          "Condensation only",
+          "Continuous evaporation and condensation",
+          "Pollution"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the sun's heat evaporate from?",
+      "choices": [
+          "Air only",
+          "Clouds only",
+          "Ponds, lakes, streams, rivers, seas and oceans",
+          "Mountains"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to water vapor as it rises?",
+      "choices": [
+          "It gets hotter",
+          "It cools down and condenses",
+          "It disappears",
+          "It turns into ice"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do tiny droplets of water form?",
+      "choices": [
+          "Snow",
+          "Ice",
+          "Clouds",
+          "Fog"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens when clouds become big and heavy?",
+      "choices": [
+          "They disappear",
+          "They float away",
+          "They fall down as rain",
+          "They turn into ice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the continuous movement of water between earth's surface and the atmosphere called?",
+      "choices": [
+          "The rain cycle",
+          "The cloud cycle",
+          "The water cycle",
+          "The weather cycle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to some of the rainwater when it falls on Earth's surface?",
+      "choices": [
+          "It evaporates immediately",
+          "It turns into ice",
+          "It enters into streams, ponds, lakes, rivers, seas, and oceans.",
+          "It disappears"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is rainwater that seeps into the soil and collects under the ground known as?",
+      "choices": [
+          "Surface water",
+          "Ocean water",
+          "Groundwater",
+          "Lake water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How can we get groundwater?",
+      "choices": [
+          "By collecting rainwater",
+          "By digging wells, using hand pumps, and tube wells",
+          "By melting ice",
+          "By boiling water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Is rainwater pure as it flows down?",
+      "choices": [
+          "Sometimes",
+          "No",
+          "Yes",
+          "It depends on the location"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What makes rainwater dirty?",
+      "choices": [
+          "Clean air",
+          "Poisonous gases released by vehicles and factories",
+          "Sunlight",
+          "Clouds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens when polluted water flows into water bodies?",
+      "choices": [
+          "It cleans them",
+          "It has no effect",
+          "It pollutes them",
+          "It evaporates"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Is water from water bodies safe for drinking?",
+      "choices": [
+          "Yes, always",
+          "Yes, if boiled",
+          "No, it contains impurities",
+          "Yes, if filtered"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the vocabulary term 'cling' mean?",
+      "choices": [
+          "To evaporate",
+          "To freeze",
+          "To hold onto something gently",
+          "To fall down"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are impurities?",
+      "choices": [
+          "Clean water",
+          "Substances that make something dirty",
+          "Pure air",
+          "Clean soil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What causes rainfall in nature?",
+      "choices": [
+          "Evaporation only",
+          "Condensation only",
+          "Continuous evaporation and condensation",
+          "Sun's heat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to water vapour as it rises?",
+      "choices": [
+          "It becomes heavier",
+          "It cools down and condenses",
+          "It stays the same",
+          "It evaporates faster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the tiny droplets of water called that form clouds?",
+      "choices": [
+          "Raindrops",
+          "Hailstones",
+          "Water vapour",
+          "Clouds"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is it called when water falls down from clouds?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Rain",
+          "Collection"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the continuous movement of water between earth's surface and atmosphere called?",
+      "choices": [
+          "Evaporation Cycle",
+          "Rain Cycle",
+          "Water Cycle",
+          "Condensation Cycle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is it called when the sun's heat evaporates water?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Precipitation",
+          "Collection"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is it called when water vapour condenses to form clouds?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Precipitation",
+          "Collection"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is it called when clouds cool down to form rain?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Precipitation",
+          "Collection"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When rainwater falls on earth's surface, where does some of the water go?",
+      "choices": [
+          "Nowhere, it disappears",
+          "It evaporates instantly",
+          "It enters streams, ponds, lakes, rivers, seas and oceans",
+          "It turns into ice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the water that seeps into the soil and collects under the ground known as?",
+      "choices": [
+          "Surface water",
+          "Ocean water",
+          "Groundwater",
+          "Rainwater"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How can we get groundwater?",
+      "choices": [
+          "By collecting rainwater",
+          "By digging wells, using hand pumps, and tube wells",
+          "By boiling surface water",
+          "By using oceans"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What makes rainwater dirty as it flows down?",
+      "choices": [
+          "It does not become dirty",
+          "Flowers",
+          "Poisonous gases released by vehicles and factories",
+          "Sunshine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Are water bodies safe for drinking without treatment?",
+      "choices": [
+          "Yes, they are always safe",
+          "No, because they may contain impurities and germs",
+          "Yes, if they are from a natural spring",
+          "Only if the water is boiled"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the definition of the word 'cling'?",
+      "choices": [
+          "To evaporate quickly",
+          "To hold onto something gently",
+          "To condense rapidly",
+          "To make something dirty"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are 'impurities'?",
+      "choices": [
+          "Clean substances",
+          "Substances that make something dirty",
+          "Pure water droplets",
+          "Natural minerals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The continuous movement of water between earth's surface and the atmosphere is called:",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Water Cycle",
+          "Precipitation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What causes rainfall in nature?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Continuous evaporation and condensation",
+          "Sun's heat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Tiny droplets of water condenses and forms",
+      "choices": [
+          "Rain",
+          "Snow",
+          "Clouds",
+          "Hail"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The sun's heat _______________ water from the ponds, lakes, streams, rivers, seas, and oceans.",
+      "choices": [
+          "Condenses",
+          "Evaporates",
+          "Precipitates",
+          "Collects"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When clouds become big and heavy, they drop water in the form of:",
+      "choices": [
+          "Snow",
+          "Hail",
+          "Rain",
+          "Fog"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The rainwater recharges _______________.",
+      "choices": [
+          "deserts",
+          "ponds and rivers",
+          "mountains",
+          "caves"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the source of groundwater?",
+      "choices": [
+          "Rivers",
+          "Oceans",
+          "Rainwater",
+          "Lakes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Water that collects under the ground is called:",
+      "choices": [
+          "Surface water",
+          "Ocean water",
+          "Groundwater",
+          "River water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the different ways to get groundwater?",
+      "choices": [
+          "Wells",
+          "Hand pumps",
+          "Tube wells",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Rainwater is considered _______________ as it falls down.",
+      "choices": [
+          "Dirty",
+          "Polluted",
+          "Pure",
+          "Impure"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How does rainwater get dirty?",
+      "choices": [
+          "Poisonous gases from vehicles and factories",
+          "Impurities from the land",
+          "Polluted water from water bodies",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of 'cling'?",
+      "choices": [
+          "To release",
+          "To let go",
+          "To hold onto something gently",
+          "To wash away"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The substances that make something dirty are called:",
+      "choices": [
+          "Purity",
+          "Cleanliness",
+          "Impurities",
+          "Pollution"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Polluted water can be found in _______________.",
+      "choices": [
+          "Clean spring water",
+          "Clear glacier water",
+          "Water bodies",
+          "Purified tap water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The water from water bodies safe for drinking?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Maybe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the process called when water vapor cools and becomes water again?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Humidity",
+          "Freezing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the amount of water vapor in the air called?",
+      "choices": [
+          "Condensation",
+          "Evaporation",
+          "Humidity",
+          "Precipitation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the activity, what materials are required to observe condensation?",
+      "choices": [
+          "Ice, water, and a plastic cup",
+          "Ice cubes, water, and a steel glass",
+          "Warm water and a glass",
+          "Just water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens to the glass after ice cubes are added to the water?",
+      "choices": [
+          "The glass feels warm",
+          "The glass feels cold",
+          "The glass remains the same temperature",
+          "The glass breaks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What appears on the outer surface of the glass during the activity?",
+      "choices": [
+          "Large water droplets",
+          "Ice crystals",
+          "Tiny droplets of water",
+          "Nothing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the activity, water vapour condenses when it comes in contact with what?",
+      "choices": [
+          "A warm surface",
+          "The sun",
+          "The cold glass surface",
+          "Other water vapor"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What forms when water vapour condenses and falls to the ground?",
+      "choices": [
+          "Dew drops",
+          "Fog",
+          "Rain",
+          "Frost"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "On cold mornings, what forms on surfaces of plants, leaves, and grass?",
+      "choices": [
+          "Fog",
+          "Frost",
+          "Rain",
+          "Dew drops"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In winters, water vapour condenses on dust particles close to the ground and forms what?",
+      "choices": [
+          "Rain",
+          "Snow",
+          "Fog",
+          "Dew drops"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the state of water vapour that freezes on cold objects to form ice crystals called?",
+      "choices": [
+          "Fog",
+          "Frost",
+          "Snow",
+          "Rain"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What form of precipitation results from water droplets freezing in very cold places?",
+      "choices": [
+          "Hail",
+          "Rain",
+          "Snow",
+          "Sleet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, water vapour can be seen after it condenses on a...",
+      "choices": [
+          "Hot object",
+          "Bright object",
+          "Cool object",
+          "Shiny object"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of condensation?",
+      "choices": [
+          "Water boiling in a kettle",
+          "Ice melting into water",
+          "Water vapor forming rain",
+          "A puddle drying in the sun"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The process of condensation is observed in...",
+      "choices": [
+          "Summer months",
+          "All seasons",
+          "Dry and hot places",
+          "Cold seasons and mornings"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the text, snow forms in...",
+      "choices": [
+          "Very cold place",
+          "Rainy places",
+          "Warm places",
+          "Dry places"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the aim of Activity 11.4?",
+      "choices": [
+          "To show that air affects evaporation",
+          "To show that larger the surface exposed to the atmosphere, faster is the evaporation",
+          "To show that smaller the surface exposed to the atmosphere, slower is the evaporation",
+          "To show that water does not evaporate"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is required for Activity 11.4?",
+      "choices": [
+          "Two handkerchiefs and wind",
+          "One handkerchief and water",
+          "Two handkerchiefs and water",
+          "One handkerchief and wind"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the observations in Activity 11.4, which handkerchief dries faster?",
+      "choices": [
+          "The one that was crumpled",
+          "The one that was spread out",
+          "Both dry at the same rate",
+          "Neither of them dried"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, where does water evaporate faster in nature?",
+      "choices": [
+          "In smaller, deeper lakes",
+          "In cool, deep wells",
+          "From shallow lakes with large exposed surface",
+          "All of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Does air affect evaporation of water?",
+      "choices": [
+          "Yes, it does.",
+          "No, it does not.",
+          "The text is unclear about it.",
+          "Sometimes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the aim of Activity 11.5?",
+      "choices": [
+          "To show that water affects air evaporation",
+          "To show that air affects evaporation of water",
+          "To show that water evaporates the same regardless of air",
+          "To show that water does not evaporate"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is required for Activity 11.5?",
+      "choices": [
+          "Two handkerchiefs, water and wind",
+          "One handkerchief and water",
+          "Two handkerchiefs and water",
+          "One handkerchief and wind"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the observations in Activity 11.5, which handkerchief dries faster?",
+      "choices": [
+          "The one that was spread out under the fan",
+          "The one that was kept in a room without a fan",
+          "Both dry at the same rate",
+          "Neither of them dried"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Why wet clothes dry faster on a windy day?",
+      "choices": [
+          "Because the air is colder",
+          "Because the air is warmer",
+          "Because the air affects evaporation of water",
+          "Because the air is more humid"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the first step in the Method of activity 11.4?",
+      "choices": [
+          "Soak both the handkerchiefs in water.",
+          "Spread out one handkerchief in the sun.",
+          "Crumple the other one into a ball and leave it in the sun.",
+          "Take two handkerchiefs of the same size."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the first step in the Method of activity 11.5?",
+      "choices": [
+          "Spread out one handkerchief and put it under the fan.",
+          "Spread out the other one and keep it in a room without fan.",
+          "Soak two handkerchiefs of the same size in water.",
+          "Take two handkerchiefs of different size."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How long we have to observe the two handkerchiefs in activity 11.4?",
+      "choices": [
+          "10 minutes",
+          "15 minutes",
+          "20 minutes",
+          "30 minutes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is faster in open ponds?",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Precipitation",
+          "Sublimation"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In Activity 11.5, where is the second handkerchief placed?",
+      "choices": [
+          "In a refrigerator",
+          "Under the sun",
+          "In a room without a fan",
+          "In a oven"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The method of activity 11.4 involves placing one of the handkerchiefs under what condition?",
+      "choices": [
+          "Under a table",
+          "In a drawer",
+          "In the sun",
+          "Under a refrigerator"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "We use water every day for activities like:",
+      "choices": [
+          "Drinking",
+          "Bathing",
+          "Washing",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Where do we get water from?",
+      "choices": [
+          "Wells",
+          "Lakes",
+          "Rivers",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What fills up water bodies?",
+      "choices": [
+          "Sunlight",
+          "Rainwater",
+          "Snow",
+          "Wind"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rain occurs because of...",
+      "choices": [
+          "Evaporation",
+          "Condensation",
+          "Both evaporation and condensation",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Evaporation is the process of transforming liquid water into...",
+      "choices": [
+          "Ice",
+          "Solid water",
+          "Water vapour",
+          "Steam"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Water vapour is in what state?",
+      "choices": [
+          "Solid",
+          "Liquid",
+          "Gaseous",
+          "Plasma"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does water vapour turn into?",
+      "choices": [
+          "Clouds",
+          "Ice",
+          "Rain",
+          "Snow"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a key factor in the evaporation process?",
+      "choices": [
+          "Sun's heat",
+          "Extent of water surface exposed to the atmosphere",
+          "Presence of air",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the aim of the activity?",
+      "choices": [
+          "To see what things are made of",
+          "To study the effect of sun's heat on the evaporation of water",
+          "To see what water looks like",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What materials are used in the activity?",
+      "choices": [
+          "Two bowls",
+          "Water",
+          "Sunlight",
+          "Two shallow bowls and water"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Where do we get water from?",
+      "choices": [
+          "Wells and rainwater",
+          "Tube wells and lakes",
+          "Rivers and Underground reservoirs",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "After a few days, which bowl had the most evaporated water?",
+      "choices": [
+          "The bowl inside the house",
+          "The bowl outside in the sun",
+          "Both bowls had the same amount",
+          "Not enough information given"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What factors influence the evaporation process?",
+      "choices": [
+          "The sun's heat and presence of air",
+          "The extent of water surface and presence of air",
+          "The sun's heat and extent of water surface",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What factors influence the evaporation process?",
+      "choices": [
+          "Sun's heat",
+          "Extent of water surface exposed to atmosphere",
+          "Presence of air",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are three key factors that influence evaporation?",
+      "choices": [
+          "The sun's heat, the wind and water",
+          "The extent of water surface, the presence of air and wind",
+          "The sun's heat, the extent of water surface and the presence of air",
+          "The water, the earth and sky"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the aim of the activity described in the text?",
+      "choices": [
+          "To determine whether land and water get heated equally by the sun's heat.",
+          "To study the effect of wind on land and water.",
+          "To measure the temperature of soil and water.",
+          "To observe the formation of clouds."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What items are required for the activity?",
+      "choices": [
+          "Two metal bowls, soil, and air.",
+          "Two metal bowls, soil, and sand.",
+          "Two metal bowls, soil, and water.",
+          "Two metal bowls, soil, and a thermometer."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the observation, which bowl feels warmer after being left in the sun?",
+      "choices": [
+          "The bowl with water.",
+          "The bowl with soil.",
+          "Both bowls feel the same.",
+          "Neither bowl feels warm."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the observation, which bowl cools faster when put under the fan?",
+      "choices": [
+          "The bowl with water.",
+          "The bowl with soil.",
+          "Both cool at the same rate.",
+          "Neither bowl cools quickly."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "During the daytime, which heats up faster in coastal areas?",
+      "choices": [
+          "The sea.",
+          "The land.",
+          "Both heat up at the same rate.",
+          "Neither heats up."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "During daytime, wind blows from the sea towards the land. What is this called?",
+      "choices": [
+          "Land breeze.",
+          "Sea breeze.",
+          "Monsoon.",
+          "Trade winds."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "At night, which cools faster in coastal areas?",
+      "choices": [
+          "The sea.",
+          "The land.",
+          "Both cool at the same rate.",
+          "Neither cools."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "At night, where is the air warmer?",
+      "choices": [
+          "Above the land.",
+          "Above the sea.",
+          "It's the same temperature everywhere.",
+          "It's colder above both the land and the sea."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "At night, wind blows from the land towards the sea. What is this called?",
+      "choices": [
+          "Land breeze.",
+          "Sea breeze.",
+          "Monsoon.",
+          "Trade winds."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Land heats up faster than what?",
+      "choices": [
+          "Air",
+          "Soil",
+          "Water",
+          "Rock"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to hot air during the day over the land?",
+      "choices": [
+          "It sinks.",
+          "It stays at the same level.",
+          "It rises up.",
+          "It disappears."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When does land breeze occur?",
+      "choices": [
+          "During the day",
+          "During the night",
+          "During both the day and night",
+          "Never"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which heats up faster in coastal areas during daytime?",
+      "choices": [
+          "The land",
+          "The sea",
+          "Both land and sea heat at equal rates.",
+          "Neither land nor sea heats up."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What rushes in to take the place of hot air during the day?",
+      "choices": [
+          "Cool air from the sea",
+          "Warm air from the sea",
+          "Cool air from the land",
+          "Warm air from the land"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the coastal climate differ in compared to plains or hilly regions?",
+      "choices": [
+          "Humidity and Temperature",
+          "Humidity and Pressure",
+          "Pressure and Height",
+          "Density and Height"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is air a mixture of?",
+      "choices": [
+          "Nitrogen, oxygen, and carbon monoxide",
+          "Nitrogen, oxygen, and carbon dioxide",
+          "Hydrogen, oxygen, and carbon dioxide",
+          "Nitrogen, helium, and carbon dioxide"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What else does air contain besides gases?",
+      "choices": [
+          "Water vapor, smoke, and dust",
+          "Clouds and rain",
+          "Sunlight and shadows",
+          "Rocks and minerals"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the thick layer of air that surrounds earth called?",
+      "choices": [
+          "Troposphere",
+          "Stratosphere",
+          "Atmosphere",
+          "Mesosphere"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the atmosphere protect us from?",
+      "choices": [
+          "Rain and snow",
+          "Harmful rays of the sun",
+          "Strong winds",
+          "Earthquakes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is moving air called?",
+      "choices": [
+          "Storm",
+          "Breeze",
+          "Wind",
+          "Gust"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What affects the weather of a place?",
+      "choices": [
+          "The speed of the clouds",
+          "The color of the sky",
+          "The speed of the wind",
+          "The type of soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do very strong winds cause?",
+      "choices": [
+          "Rainbows",
+          "Storms",
+          "Sunny days",
+          "Clear skies"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens when air is heated?",
+      "choices": [
+          "It becomes heavier",
+          "It becomes lighter",
+          "It becomes colder",
+          "It becomes denser"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the experiment?",
+      "choices": [
+          "To measure the temperature of the air",
+          "To observe what happens when air gets heated",
+          "To create a rainbow",
+          "To make a cloud"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do the teachers bring to class?",
+      "choices": [
+          "One balloon with normal air and one with nitrogen",
+          "One balloon with normal air and one with oxygen",
+          "Two balloons with hydrogen",
+          "One balloon with normal air and one with hydrogen"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the Activity, what is one item required?",
+      "choices": [
+          "One bowl",
+          "Three identical bottles",
+          "Hot water",
+          "One balloon"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the observations, what happens to the balloon on the bottle kept in hot water?",
+      "choices": [
+          "It shrinks",
+          "It starts getting bigger",
+          "It stays the same",
+          "It disappears"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is used for purification of water?",
+      "choices": [
+          "Sedimentation and decantation",
+          "Sublimation and crystallization",
+          "Digestion and filtration",
+          "Boiling and condensation"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is a learning goal from the text?",
+      "choices": [
+          "Land breeze and sea breeze",
+          "Global warming",
+          "Ocean currents",
+          "Volcanoes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is not a learning goal?",
+      "choices": [
+          "Water Cycle",
+          "Air and weather",
+          "Photosynthesis",
+          "Evaporation and condensation"
+      ],
+      "correctAnswer": 2
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "question": "What percentage of Earth's total water is found in oceans and seas?",
+    "choices": [
+      "3%",
+      "97%",
+      "50%",
+      "25%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT a source of fresh water?",
+    "choices": [
+      "Rain",
+      "Rivers",
+      "Ocean water",
+      "Melting snow"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is one method of conserving water mentioned in the text?",
+    "choices": [
+      "Increasing pollution",
+      "Stop wastage",
+      "Using more water",
+      "Reducing storage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Besides drinking and bathing, what other uses of water are mentioned in the text?",
+    "choices": [
+      "Only for cooking",
+      "Growing crops and generating electricity",
+      "Just for industrial use",
+      "None of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are two types of irrigation methods mentioned in the text?",
+    "choices": [
+      "Wells and tube wells, Dams",
+      "Rivers and lakes, Rain",
+      "Melting snow, Underground water",
+      "None of the above"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is rainwater harvesting?",
+    "choices": [
+      "A method of irrigation",
+      "A way to conserve water",
+      "A type of pollution",
+      "A source of fresh water"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why is ocean water not suitable for domestic use?",
+    "choices": [
+      "It is too cold",
+      "It is too salty",
+      "It is too pure",
+      "It is too polluted"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a multipurpose project in the context of water resources?",
+    "choices": [
+      "A type of dam",
+      "A method of reducing pollution",
+      "A project that serves multiple purposes related to water",
+      "A way to increase water wastage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Besides rain, what are three other sources of fresh water listed?",
+    "choices": [
+      "Rivers, lakes, and underground water",
+      "Oceans, seas, and ponds",
+      "Wells, tube wells, and dams",
+      "None of the above"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What factors affect the availability of fresh water?",
+    "choices": [
+      "Seasons, location, and depth",
+      "Only the season",
+      "Only the location",
+      "Only the depth"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What is the main source of fresh water in India?",
+    "choices": ["Rivers", "Lakes", "Rain", "Groundwater"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is desalination?",
+    "choices": ["A process of removing salts and minerals from seawater", "A method of irrigating fields", "A type of well", "A type of lake"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which season provides most of India's rainfall?",
+    "choices": ["Spring", "Summer", "Autumn", "Monsoon"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are reservoirs?",
+    "choices": ["Natural or man-made lakes used as water supply", "Underground water sources", "Irrigation canals", "Types of wells"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where do rivers in the northern plains of India get their pure and fresh water?",
+    "choices": ["Rain", "Melting glaciers", "Underground sources", "Lakes"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a common method of drawing groundwater in areas with high groundwater levels?",
+    "choices": ["Hand pumps", "Tube wells", "Persian wheels", "All of the above"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are tube wells?",
+    "choices": ["Wells with pipes or tubes attached to pump water", "Tanks used for irrigation", "Canals carrying water", "Types of dams"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In rocky or hilly areas, what method of irrigation is commonly used?",
+    "choices": ["Wells", "Tube wells", "Tanks and ponds", "Canals"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a dam?",
+    "choices": ["A structure built to control the flow of river water", "A type of well", "A canal", "A reservoir"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are canals?",
+    "choices": ["Small channels used to carry water from dams to fields", "Underground water sources", "Types of tanks", "Reservoirs"],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What is the main source of fresh water in India?",
+    "choices": ["Rivers", "Groundwater", "Rain", "Lakes"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is desalination?",
+    "choices": ["A process of removing salts and minerals from seawater", "A type of irrigation", "A method of storing water", "A type of well"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are the perennial rivers?",
+    "choices": ["Rivers that dry up during summers", "Rivers that flow throughout the year", "Rivers in southern India", "Rivers in the western ghats"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a reservoir?",
+    "choices": ["A small lake", "A natural or man-made lake used as a water supply", "A type of well", "A canal"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How is groundwater usually drawn out?",
+    "choices": ["By hand pumps", "By water wheels", "By electric pumps", "All of the above"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "When groundwater level is high, what is used for irrigation?",
+    "choices": ["Tubewells", "Tanks", "Ponds", "Wells"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are tubewells?",
+    "choices": ["Wells with pipes or tubes attached to pump water", "A type of tank", "A type of pond", "A type of canal"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In rocky or hilly areas, what do people usually depend on for irrigation?",
+    "choices": ["Wells", "Tubewells", "Tanks and ponds", "Canals"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a dam?",
+    "choices": ["A structure built to control the flow of river water", "A type of well", "A type of tank", "A canal"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are canals?",
+    "choices": ["Small channels used to carry water to fields", "A type of dam", "A type of well", "A type of tank"],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Which dam is the longest in the world?",
+    "choices": [
+      "Bhakra-Nangal Dam",
+      "Hirakud Dam",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the name of the reservoir of Bhakra-Nangal Dam?",
+    "choices": [
+      "Nagarjuna Sagar",
+      "Gobind Sagar",
+      "Hirakud Reservoir",
+      "Sardar Sarovar Reservoir"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which states does the Damodar Valley Project provide water to?",
+    "choices": [
+      "Uttar Pradesh and Bihar",
+      "Maharashtra and Gujarat",
+      "West Bengal and Jharkhand",
+      "Punjab and Haryana"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "On which river is the Sardar Sarovar Dam built?",
+    "choices": [
+      "River Krishna",
+      "River Mahanadi",
+      "River Narmada",
+      "River Satluj"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In which state is the Nagarjuna Sagar Dam located?",
+    "choices": [
+      "Gujarat",
+      "Odisha",
+      "Andhra Pradesh",
+      "Uttarakhand"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which dam is the tallest in India?",
+    "choices": [
+      "Hirakud Dam",
+      "Bhakra-Nangal Dam",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main source of fresh water in India?",
+    "choices": [
+      "Rivers",
+      "Underground water",
+      "Rain",
+      "Lakes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the percentage of fresh water available on Earth?",
+    "choices": [
+      "97%",
+      "3%",
+      "50%",
+      "70%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is rainwater harvesting?",
+    "choices": [
+      "Collecting and storing rainwater",
+      "Building dams",
+      "Reducing pollution",
+      "Stopping water wastage"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is hydel power or hydroelectricity?",
+    "choices":[
+      "Electricity produced by wind",
+      "Electricity produced by solar energy",
+      "Electricity produced by water",
+      "Electricity produced by nuclear energy"
+    ],
+    "correctAnswer":2
+  },
+    {
+    "question": "The dam that provides water to West Bengal and Jharkhand is:",
+    "choices": [
+      "Hirakund Dam",
+      "Damodar Valley Project",
+      "Tehri Dam",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Irrigation through ______ is common in south India.",
+    "choices": [
+      "tanks",
+      "wells",
+      "hand pumps",
+      "tube wells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The Hirakud Dam is constructed on which river?",
+    "choices": [
+      "Narmada",
+      "Satluj",
+      "Krishna",
+      "Mahanadi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Tubewells help in taking out water from:",
+    "choices": [
+      "Groundwater",
+      "River",
+      "Dam",
+      "None of these"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Small channels dug in the ground are called:",
+    "choices": [
+      "dams",
+      "canals",
+      "reservoirs",
+      "wells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Indira Gandhi Canal brings water from which river to Gujarat/Rajasthan?",
+    "choices": [
+      "Satluj/Yamuna",
+      "Ganga/Brahmaputra",
+      "Narmada/Tapi",
+      "Godavari/Krishna"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Rivers that get water from melting glaciers are:",
+    "choices":[
+      "Perennial",
+      "Rain-fed",
+      "Seasonal",
+      "All of the above"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Southern rivers are rain-fed. When do they flow?",
+    "choices": [
+      "Throughout the year",
+      "Only during monsoons",
+      "Only during winter months",
+      "All seasons except summers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Lakes are reservoirs of water for an area. True or false?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The source of pure and fresh water for rivers coming from the mountains is:",
+    "choices": [
+      "Ground water",
+      "Rain water",
+      "Melting glaciers",
+      "All of these"
+    ],
+    "correctAnswer": 2
+  }
+]

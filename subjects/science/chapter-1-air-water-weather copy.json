@@ -1,0 +1,378 @@
+[
+    {
+      "question": "What are some daily uses of water?",
+      "choices": [
+        "Drinking, bathing, washing, cleaning, watering plants",
+        "Cooking, swimming, irrigation, industrial processes",
+        "Transportation, recreation, hydroelectric power generation",
+        "All of the above"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of the following is NOT a source of water for human use?",
+      "choices": [
+        "Wells",
+        "Tube wells",
+        "Lakes",
+        "Mountains"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the process of transforming liquid water into water vapor called?",
+      "choices": [
+        "Condensation",
+        "Precipitation",
+        "Evaporation",
+        "Transpiration"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What are three key factors that influence evaporation?",
+      "choices": [
+        "Sun's heat, water surface area, air presence",
+        "Wind speed, humidity, temperature",
+        "Rainfall, cloud cover, altitude",
+        "None of the above"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "In the activity described, where did more water evaporate?",
+      "choices": [
+        "The bowl placed in the sun",
+        "The bowl placed in the room",
+        "Both bowls evaporated the same amount",
+        "It is impossible to tell"
+      ],
+      "correctAnswer": 0
+    },
+      {
+      "question": "What is the change of water vapor into water called?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Precipitation",
+        "Sublimation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the amount of water vapor in the air called?",
+      "choices": [
+        "Temperature",
+        "Pressure",
+        "Humidity",
+        "Density"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In the activity described, what happens to the steel glass after ice cubes are added to the water?",
+      "choices": [
+        "It remains dry",
+        "It becomes wet with tiny water droplets",
+        "It becomes warmer",
+        "It breaks"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What forms when water vapor condenses on cold objects on very cold nights?",
+      "choices": [
+        "Dew",
+        "Fog",
+        "Rain",
+        "Frost"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the form of precipitation that occurs when water droplets freeze in extremely cold weather?",
+      "choices": [
+        "Rain",
+        "Dew",
+        "Snow",
+        "Fog"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What causes rainfall according to the text?",
+      "choices": [
+        "The movement of clouds",
+        "Continuous evaporation and condensation",
+        "The cooling of the atmosphere",
+        "The pressure of water vapor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What happens to water vapor as it rises?",
+      "choices": [
+        "It gets warmer",
+        "It condenses into tiny water droplets",
+        "It disappears",
+        "It becomes heavier"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the continuous movement of water between the earth's surface and the atmosphere called?",
+      "choices": [
+        "The water cycle",
+        "Evaporation",
+        "Condensation",
+        "Precipitation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Where does some rainwater go after it falls on the earth's surface?",
+      "choices": [
+        "Only into rivers and oceans",
+        "Into streams, ponds, lakes, rivers, seas, oceans, and is absorbed by the soil",
+        "Only into the atmosphere",
+        "Only into underground reservoirs"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is groundwater?",
+      "choices": [
+        "Water that flows on the surface",
+        "Water that seeps into the soil and collects underground",
+        "Water that is found in clouds",
+        "Water that has been purified"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Why is rainwater not always safe to drink?",
+      "choices": [
+        "It is always pure",
+        "It can contain soluble and insoluble impurities and germs",
+        "It is always too cold",
+        "It lacks essential minerals"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What causes rainfall according to the text?",
+      "choices": [
+        "The movement of rivers",
+        "Continuous evaporation and condensation",
+        "Clouds cooling down",
+        "The collection of water in lakes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What happens to water vapor as it rises?",
+      "choices": [
+        "It becomes warmer",
+        "It evaporates further",
+        "It cools down and condenses",
+        "It disappears"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the continuous movement of water between the earth's surface and the atmosphere called?",
+      "choices": [
+        "The rain cycle",
+        "The water cycle",
+        "The evaporation cycle",
+        "The condensation cycle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Where does some rainwater go after it falls on the earth's surface?",
+      "choices": [
+        "Only into rivers and oceans",
+        "Only into the atmosphere",
+        "Into streams, ponds, lakes, rivers, seas, oceans, and is absorbed by the soil",
+        "Nowhere, it evaporates immediately"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the water that seeps into the soil and collects underground called?",
+      "choices": [
+        "Surface water",
+        "River water",
+        "Groundwater",
+        "Rainwater"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What can make rainwater dirty?",
+      "choices": [
+        "The sun's heat",
+        "Clouds",
+        "Poisonous gases from vehicles and factories",
+        "Evaporation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Is water from water bodies safe for drinking according to the text?",
+      "choices": [
+        "Yes, always",
+        "Yes, if it is purified",
+        "No, it contains impurities and germs",
+        "It depends on the location"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "According to Activity 11.4, which handkerchief dried faster?",
+      "choices": [
+        "The crumpled handkerchief",
+        "The spread-out handkerchief"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What factor is shown to increase the rate of evaporation in Activity 11.4?",
+      "choices": [
+        "Smaller surface area",
+        "Larger surface area exposed to the atmosphere"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In Activity 11.5, where did the handkerchief dry faster?",
+      "choices": [
+        "In a room without a fan",
+        "Under a fan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the effect of air on the evaporation of water, as demonstrated in Activity 11.5?",
+      "choices": [
+        "Air has no effect on evaporation",
+        "Air increases the rate of evaporation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Based on the activities, where would evaporation be faster: a shallow lake or a deep well?",
+      "choices": [
+        "A deep well",
+        "A shallow lake"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Does land and water heat up equally under the sun?",
+      "choices": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "In the experiment, which bowl heated up faster?",
+      "choices": [
+        "The bowl with water",
+        "The bowl with soil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which bowl cooled down faster when placed under a fan?",
+      "choices": [
+        "The bowl with water",
+        "The bowl with soil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "During the daytime, the wind in coastal areas blows from:",
+      "choices": [
+        "Land to sea",
+        "Sea to land"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "This daytime wind from sea to land is called:",
+      "choices": [
+        "Land breeze",
+        "Sea breeze"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "At night, the wind in coastal areas blows from:",
+      "choices": [
+        "Land to sea",
+        "Sea to land"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "The nighttime wind from land to sea is called:",
+      "choices": [
+        "Sea breeze",
+        "Land breeze"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the thick layer of air surrounding Earth called?",
+      "choices": [
+        "Hydrosphere",
+        "Atmosphere",
+        "Lithosphere",
+        "Biosphere"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What are the main gases that make up air?",
+      "choices": [
+        "Hydrogen, Helium, and Neon",
+        "Nitrogen, Oxygen, and Carbon Dioxide",
+        "Chlorine, Fluorine, and Bromine",
+        "Methane, Ethane, and Propane"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What happens to air when it is heated?",
+      "choices": [
+        "It becomes heavier and sinks.",
+        "It becomes lighter and rises.",
+        "It remains unchanged.",
+        "It condenses into liquid."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does the atmosphere protect us from?",
+      "choices": [
+        "Rain",
+        "Wind",
+        "Harmful rays of the sun",
+        "Earthquakes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "According to the text, what is moving air called?",
+      "choices": [
+        "Current",
+        "Stream",
+        "Wind",
+        "Gust"
+      ],
+      "correctAnswer": 2
+    }
+  ]

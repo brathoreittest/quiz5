@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Which of the following is a homonym?",
+        "choices": [
+            "Cat",
+            "Dog",
+            "Well",
+            "Bird"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a homonym?",
+        "choices": [
+            "Words that sound different but have the same meaning.",
+            "Words that sound alike but have different meanings.",
+            "Words that are spelled the same but have different meanings.",
+            "Both B and C"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following words can have the meanings 'a formal knot' and 'a connection'?",
+        "choices": [
+            "Well",
+            "Bark",
+            "Bow",
+            "Tie"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is NOT a homonym?",
+        "choices": [
+            "Blue",
+            "Fair",
+            "Well",
+            "Bark"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following words can have the meanings 'the outer covering of a tree' and 'the sound made by a dog'?",
+        "choices": [
+            "Well",
+            "Bark",
+            "Bow",
+            "Tie"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following words can have the meanings 'in good health' and 'a deep hole in the ground containing water'?",
+        "choices": [
+            "Well",
+            "Bark",
+            "Bow",
+            "Tie"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a definition of 'Fair'?",
+        "choices": [
+            "A gathering of people for entertainment",
+            "Light in complexion",
+            "Just or impartial treatment",
+            "A type of dance"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following words can have the meanings 'front of a ship' and 'to bend at the waist'?",
+        "choices": [
+            "Well",
+            "Bark",
+            "Bow",
+            "Tie"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following activities can improve your vocabulary of homonyms?",
+        "choices": [
+            "Reading",
+            "Writing",
+            "Making scrapbooks",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the 'Wow! Factor' activity on the page?",
+        "choices": [
+            "Write sentences with homonyms",
+            "Search for new homonyms",
+            "Make an attractive scrap file of pictures of 10 homophones/homonyms",
+            "Define the meanings of new homonyms"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a homonym according to the definition?",
+        "choices": [
+            "left",
+            "bear",
+            "cat",
+            "right"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following homonyms means money?",
+        "choices": [
+            "Bank",
+            "Base",
+            "Bat",
+            "Beam"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the meaning of Homonyms?",
+        "choices": [
+            "Words that sound different",
+            "Words with different meanings",
+            "Words that sound and spelt the same but have different meanings",
+            "Words that do not mean anything"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT an example of homonyms given in the 'More Homonyms' section?",
+        "choices": [
+            "Rose",
+            "Drop",
+            "Chair",
+            "Letter"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which homonym is related to autumn season?",
+        "choices": [
+            "Fall",
+            "Fail",
+            "File",
+            "Fold"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following word can also mean the leading role in a band?",
+        "choices": [
+            "Lead",
+            "Left",
+            "Letter",
+            "Lesson"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following means to watch something?",
+        "choices": [
+            "Well",
+            "Watch",
+            "Wave",
+            "Tear"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following means to fix something?",
+        "choices": [
+            "Match",
+            "Nail",
+            "Order",
+            "Park"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a synonym for 'serve'?",
+        "choices": [
+            "Hail",
+            "Rose",
+            "Saw",
+            "Serve"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following can be used to keep things together?",
+        "choices": [
+            "Lead",
+            "Letter",
+            "Tie",
+            "Watch"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Since Mr. Sharma stays by the side of the _______, he can _______ the waves all day.",
+        "choices": [
+            "blue / blew",
+            "sea / see",
+            "right / write",
+            "hour / our"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Tarun became _______ after his sickness. He could not pick up even a small _______ of water.",
+        "choices": [
+            "pale / pail",
+            "deer / dear",
+            "rein / rain",
+            "buy / by"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The thief opened the _______ almirah to _______ the jewellery.",
+        "choices": [
+            "steal / steel",
+            "right / write",
+            "pale / pail",
+            "deer / dear"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If you don't apply the car _______ on time, the tail lights of the car ahead may _______",
+        "choices": [
+            "brake / break",
+            "hour / our",
+            "rein / rain",
+            "know / no"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "As it began to _______ heavily, the rider held the _______ tightly.",
+        "choices": [
+            "blue / blew",
+            "sea / see",
+            "rein / rain",
+            "hale / hail"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": " _______ school will end in one _______",
+        "choices": [
+            "hour / our",
+            "night / knight",
+            "know / no",
+            "buy / by"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I will soon _______ the latest book _______ Ruskin Bond.",
+        "choices": [
+            "blue / blew",
+            "right / write",
+            "night / knight",
+            "know / no"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The naughty boy _______ the _______ whistle and disturbed everyone.",
+        "choices": [
+            "pale / pail",
+            "blew / blue",
+            "right / write",
+            "know / no"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "\"Do you _______ his telephone number?\" he asked. \"_______,\" I said.",
+        "choices": [
+            "deer / dear",
+            "right / write",
+            "night / knight",
+            "know / no"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The _______ girl fetched a _______ of water.",
+        "choices": [
+            "blue / blew",
+            "rein / rain",
+            "pale / pail",
+            "right / write"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'A set of _______ things make a pair.'",
+        "choices": [
+            "too",
+            "two"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: '_______ of the girls has ____ the race.'",
+        "choices": [
+            "won",
+            "one"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'My pet _______ has brown _______.'",
+        "choices": [
+            "hair",
+            "hare"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'Last _______, I took a ______ dog to the doctor.",
+        "choices": [
+            "weak",
+            "week"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'I love to _______ the boats sailing in the _______.'",
+        "choices": [
+            "sea",
+            "see"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'The _______ made pizzas last night.",
+        "choices": [
+            "maid",
+            "made"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'All those present _______ can _______ me.'",
+        "choices": [
+            "here",
+            "hear"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'He looked _______ after jaundice.'",
+        "choices": [
+            "pail",
+            "pale"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'Some shirts have patterns on them while some are _______.'",
+        "choices": [
+            "plain",
+            "plane"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word correctly completes the sentence: 'I've misplaced a _______ of socks with stripes on them.'",
+        "choices": [
+            "pair",
+            "pear"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word means 'at that place'?",
+        "choices": [
+            "Their",
+            "There",
+            "They're",
+            "Here"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means 'belonging to them'?",
+        "choices": [
+            "There",
+            "They're",
+            "Their",
+            "Here"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word means 'a few'?",
+        "choices": [
+            "Sum",
+            "So",
+            "Some",
+            "Sun"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word means 'to add two numbers'?",
+        "choices": [
+            "Some",
+            "Sum",
+            "Son",
+            "Sir"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means 'letter and things sent by post'?",
+        "choices": [
+            "Male",
+            "Mail",
+            "Main",
+            "Mule"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means 'of great value'?",
+        "choices": [
+            "Dear",
+            "Deer",
+            "Dare",
+            "Deerest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word means 'in a direction'?",
+        "choices": [
+            "Write",
+            "Right",
+            "Rite",
+            "Wrote"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means 'to form letters on surface'?",
+        "choices": [
+            "Right",
+            "Wrote",
+            "Rite",
+            "Write"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which word means 'tree's trunk used to make furniture'?",
+        "choices": [
+            "Wood",
+            "Would",
+            "Could",
+            "Should"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word is the past participle of 'will'?",
+        "choices": [
+            "Wood",
+            "Would",
+            "Should",
+            "Could"
+        ],
+        "correctAnswer": 1
+    }
+]

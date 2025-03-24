@@ -1,0 +1,1000 @@
+[
+  {
+      "question": "Are 24.406 and 19.21 like decimals?",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the given fraction 135/100 in decimals.",
+      "choices": [
+          "10.35",
+          "0.135",
+          "1.35",
+          "13.5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "90 + 6 + 4/10 + 2/1000 = ?",
+      "choices": [
+          "96.42",
+          "96.402",
+          "906.42",
+          "96.042"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Decimals having the same number of digits after the decimal point are called ______ decimals.",
+      "choices": [
+          "equal",
+          "similar",
+          "unlike",
+          "like"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Two hundred thirty point zero nine five is written as ______",
+      "choices": [
+          "230.95",
+          "23.95",
+          "230.095",
+          "230.905"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "35.250 l = ______ ml",
+      "choices": [
+          "35250",
+          "3525",
+          "352500",
+          "0.03525"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "725 paise can be written as ______ rupees.",
+      "choices": [
+          "72.50",
+          "7.25",
+          "0.725",
+          "725"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "63/10 = ?/1000",
+      "choices": [
+          "0.63",
+          "6300",
+          "630",
+          "6.3"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The sum of the two numbers is 10.001. If one of the numbers is 7.001, then the other number is ______",
+      "choices": [
+          "13.001",
+          "2.001",
+          "2.100",
+          "3.000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Choose the decimal number which is equivalent to 0.3.",
+      "choices": [
+          "0.003",
+          "0.30",
+          "3.0",
+          "0.03"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following signs will rightly compare the following: 10.9 + 0.10 ______ 11",
+      "choices": [
+          ">",
+          "=",
+          "<",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the following fractions as decimals: 8/10",
+      "choices": [
+          "0.8",
+          "0.291",
+          "0.614",
+          "0.44"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following fractions as decimals: 291/100",
+      "choices": [
+          "0.8",
+          "2.91",
+          "0.614",
+          "0.44"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the following fractions as decimals: 614/1000",
+      "choices": [
+          "0.8",
+          "2.91",
+          "0.614",
+          "0.44"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Write the following fractions as decimals: 44/100",
+      "choices": [
+          "0.8",
+          "2.91",
+          "0.614",
+          "0.44"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Write whether the following sets of decimal numbers are like or unlike: 23.5, 0.0456, 4.78, 112.34",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write whether the following sets of decimal numbers are like or unlike: 10.8, 234.8, 89.0, 0.3",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "State whether the following are True or False: 20.13 > 2.999",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "State whether the following are True or False: 890.1 < 1000",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "State whether the following are True or False: 0.056 > 0.05",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Solve the following: 23.134 + 501.3 - 460.23",
+      "choices": [
+          "64.204",
+          "84.204",
+          "64.204",
+          "84.204"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find all the pairs of numbers whose difference is 0.8.",
+      "choices": [
+          "75.2 and 74.4",
+          "72.3 and 73.1",
+          "78.5 and 77.7",
+          "75.4 and 74.6"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Add the following decimal numbers: 20.45, 12.900, 104.4 and 23.900",
+      "choices": [
+          "161.65",
+          "151.65",
+          "151.650",
+          "161.650"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Subtract and also check your answer: 34.890 from 123.906",
+      "choices": [
+          "89.016",
+          "89.116",
+          "89.016",
+          "89.116"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 265 meters to kilometers.",
+      "choices": [
+          "0.265 km",
+          "2.65 km",
+          "26.5 km",
+          "265 km"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 7 millimeters to centimeters.",
+      "choices": [
+          "0.07 cm",
+          "0.7 cm",
+          "7 cm",
+          "70 cm"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 1 paisa equal to in rupees?",
+      "choices": [
+          "\u20b9100",
+          "\u20b910",
+          "\u20b91",
+          "\u20b90.01"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "When adding or subtracting decimal numbers, what is the crucial first step?",
+      "choices": [
+          "Performing normal addition/subtraction",
+          "Converting to like decimals",
+          "Writing numbers vertically",
+          "Ignoring the decimal point"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the sum of 35.6, 0.342, and 204.23?",
+      "choices": [
+          "240.172",
+          "230.172",
+          "240.17",
+          "240.272"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is 104.3 written as a like decimal to three decimal places?",
+      "choices": [
+          "104.300",
+          "104.3",
+          "104.003",
+          "104.30"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the result of subtracting 45.009 from 104.3?",
+      "choices": [
+          "59.291",
+          "59.29",
+          "60.291",
+          "59.391"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Before performing addition or subtraction of decimal numbers, what must be done?",
+      "choices": [
+          "Ignore the decimal points",
+          "Round the numbers to the nearest whole number",
+          "Convert the numbers to like decimals",
+          "Multiply by 10 until there are no decimals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A length of 75 km and 382 m can be written as:",
+      "choices": [
+          "75.382 km",
+          "75382 km",
+          "753.82 km",
+          "7.5382 km"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Denote the following sets of decimal numbers as unlike or like: 127.45, 0.23, 4.568, 34.900, 6.238",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Denote the following sets of decimal numbers as unlike or like: 94.2, 12.7, 369.1, 400.3, 0.1",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Denote the following sets of decimal numbers as unlike or like: 33.108, 45.46, 129.7, 945.56, 843.259",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Denote the following sets of decimal numbers as unlike or like: 0.23, 10.67, 20.01, 8.34, 5437.04",
+      "choices": [
+          "Like",
+          "Unlike"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert the following unlike decimals to like decimals: 9.548, 65.33, 518.094, 90.9, 336.07",
+      "choices": [
+          "9.5480, 65.330, 518.094, 90.900, 336.070",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert the following unlike decimals to like decimals: 669.84, 93.06, 846.8, 220.6, 0.003",
+      "choices": [
+          "669.84, 93.06, 846.80, 220.60, 0.003",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimals in ascending order: 0.346, 0.900, 0.256, 0.111, 0.005",
+      "choices": [
+          "0.005, 0.111, 0.256, 0.346, 0.900",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimals in ascending order: 40.12, 2.345, 60.34, 2.403, 24.03",
+      "choices": [
+          "2.345, 2.403, 24.03, 40.12, 60.34",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimals in descending order: 0.256, 0.134, 0.622, 0.489, 0.823",
+      "choices": [
+          "0.823, 0.622, 0.489, 0.256, 0.134",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimals in descending order: 89.3, 89.456, 890.345, 89.03, 89.45",
+      "choices": [
+          "890.345, 89.456, 89.45, 89.3, 89.03",
+          "Others"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert the decimals 0.539, 32.5, 8.26, 9.032 into like decimals.",
+      "choices": [
+          "0.539, 32.5, 8.26, 9.032",
+          "0.539, 32.500, 8.260, 9.032",
+          "0.539, 32.50, 8.26, 9.032",
+          "0.539, 32.500, 8.26, 9.032"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In comparing decimal numbers, what is the first step?",
+      "choices": [
+          "Compare the whole number parts.",
+          "Compare the fractional parts.",
+          "Convert all decimal numbers into like decimals.",
+          "Arrange the numbers in ascending order."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If the whole number parts of two decimals are equal, what is the next step in comparing them?",
+      "choices": [
+          "Compare the hundredths place.",
+          "Compare the tenths place.",
+          "Compare the thousandths place.",
+          "Add the numbers together."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Arrange the decimals 75.3, 7.537, 753.75, 753.57, 7.573 in ascending order.",
+      "choices": [
+          "7.537, 7.573, 75.3, 753.57, 753.75",
+          "7.573, 7.537, 75.3, 753.57, 753.75",
+          "753.75, 753.57, 75.3, 7.573, 7.537",
+          "7.537, 7.573, 75.300, 753.570, 753.750"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the ascending order of 75.3, 7.537, 753.75, 753.57, 7.573 after converting to like decimals?",
+      "choices": [
+          "7.537, 7.573, 75.300, 753.570, 753.750",
+          "7.573, 7.537, 75.300, 753.570, 753.750",
+          "753.750, 753.570, 75.300, 7.573, 7.537",
+          "7.537, 75.300, 7.573, 753.570, 753.750"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which decimal is greater: 7.537 or 7.573?",
+      "choices": [
+          "7.537",
+          "7.573",
+          "They are equal",
+          "Cannot be determined"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Arrange 12.054, 21.045, 21.5, 12.05, 21.054 in descending order.",
+      "choices": [
+          "21.5, 21.054, 21.045, 12.054, 12.05",
+          "12.05, 12.054, 21.045, 21.054, 21.5",
+          "21.5, 21.054, 21.045, 12.05, 12.054",
+          "21.500, 21.054, 21.045, 12.050, 12.054"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "After converting to like decimals, which number is the largest in the set: 12.054, 21.045, 21.5, 12.05, 21.054?",
+      "choices": [
+          "12.054",
+          "21.045",
+          "21.500",
+          "21.054"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the first step in comparing decimals?",
+      "choices": [
+          "Compare the whole number parts.",
+          "Compare the fractional parts.",
+          "Convert decimals to like decimals.",
+          "Arrange in ascending order."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When comparing decimals with equal whole number parts, which part should be compared next?",
+      "choices": [
+          "Hundredths place",
+          "Thousandths place",
+          "Tenths place",
+          "Ones place"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Write the name of the decimal number 4036.725.",
+      "choices": [
+          "Four thousand thirty-six point seven hundred twenty-five",
+          "Four thousand three hundred thirty-six point seven hundred twenty-five",
+          "Four thousand thirty-six point seven twenty-five",
+          "Four thousand three hundred six point seven twenty-five"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the name of the decimal number 824.031.",
+      "choices": [
+          "Eight hundred twenty-four point three one",
+          "Eight hundred twenty-four point zero three one",
+          "Eight hundred twenty-four point thirty-one",
+          "Eight hundred forty-two point zero three one"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the name of the decimal number 7210.803.",
+      "choices": [
+          "Seven thousand two hundred ten point eight hundred three",
+          "Seven thousand two hundred ten point eight zero three",
+          "Seven thousand two hundred ten point eighty three",
+          "Seven thousand two hundred ten point eight three"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the decimal representation of 'two hundred thirty-seven point zero five eight'.",
+      "choices": [
+          "237.58",
+          "237.058",
+          "237.0058",
+          "20037.058"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the decimal representation of 'sixty-six thousand four point zero three nine'.",
+      "choices": [
+          "66004.039",
+          "664.039",
+          "66004.39",
+          "6604.039"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the decimal representation of 'fifty-nine point one'.",
+      "choices": [
+          "59.1",
+          "59.01",
+          "5.91",
+          "5.091"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following are like decimals: 7.8, 42.7, 2392.1, 683.0?",
+      "choices": [
+          "Yes",
+          "No",
+          "Cannot be determined",
+          "Partially"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following are like decimals: 43.25, 123.69, 845.03?",
+      "choices": [
+          "Yes",
+          "No",
+          "Cannot be determined",
+          "Partially"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following are unlike decimals: 4.036, 2.45, 863.1?",
+      "choices": [
+          "Yes",
+          "No",
+          "Cannot be determined",
+          "Partially"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "To convert unlike decimals to like decimals, what is the first step?",
+      "choices": [
+          "Add one or more zeroes",
+          "Identify the decimal with the largest number of decimal places",
+          "Make all numbers have the same number of digits before the decimal point",
+          "Round to the nearest tenth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In English-speaking countries, what symbol is used as the decimal separator?",
+      "choices": [
+          "comma (,)",
+          "dot (.)",
+          "slash (/)",
+          "semicolon (;)"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the term 'decimal' mean?",
+      "choices": [
+          "hundredth",
+          "thousandth",
+          "tenth",
+          "millionth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the place value system for whole numbers, by what factor does the value increase when moving one place to the left?",
+      "choices": [
+          "2",
+          "5",
+          "10",
+          "100"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the place value system for the fractional part of decimal numbers, by what factor does the value decrease when moving one place to the right?",
+      "choices": [
+          "2",
+          "5",
+          "10",
+          "100"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the expanded form of 453.27?",
+      "choices": [
+          "400 + 50 + 3 + 2/10 + 7/100",
+          "400 + 5 + 3 + 2/10 + 7/100",
+          "400 + 50 + 3 + 20 + 7",
+          "400 + 50 + 3 + 2/100 + 7/10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the expanded form of 9065.058?",
+      "choices": [
+          "9000 + 60 + 5 + 5/100 + 8/1000",
+          "9000 + 0 + 60 + 5 + 5/100 + 8/1000",
+          "9000 + 60 + 5 + 50 + 8",
+          "9000 + 60 + 5 + 5/10 + 8/100"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the expanded form of 27.603?",
+      "choices": [
+          "20 + 7 + 6/10 + 3/1000",
+          "20 + 7 + 6/10 + 0/100 + 3/1000",
+          "20 + 7 + 60 + 3",
+          "20 + 7 + 6/100 + 3/1000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place value of the digit 7 in the number 39.739?",
+      "choices": [
+          "Tenths",
+          "Ones",
+          "Hundreds",
+          "Thousandths"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the place value of the digit 3 in the number 123456?",
+      "choices": [
+          "Thousands",
+          "Hundreds",
+          "Tens",
+          "Ones"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What mathematical symbol can be placed between 6 and 9 to get a number greater than 6 but less than 9?",
+      "choices": [
+          "+",
+          "-",
+          "\u00d7",
+          "\u00f7"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Change the following fraction into decimals: 9/10",
+      "choices": [
+          "0.09",
+          "0.9",
+          "9.0",
+          "90"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Change the following fraction into decimals: 45/100",
+      "choices": [
+          "0.45",
+          "4.5",
+          "45",
+          "0.045"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Change the following fraction into decimals: 109/1000",
+      "choices": [
+          "1.09",
+          "10.9",
+          "0.109",
+          "0.0109"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Change the following fraction into decimals: 53/100",
+      "choices": [
+          "0.53",
+          "5.3",
+          "53",
+          "0.053"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimal: zero point four two one",
+      "choices": [
+          "0.421",
+          "4.21",
+          "42.1",
+          "0.0421"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimal: three-tenths",
+      "choices": [
+          "0.03",
+          "3",
+          "0.3",
+          "30"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Write the following decimal: five point zero four",
+      "choices": [
+          "5.4",
+          "5.04",
+          "50.4",
+          "0.504"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Write the following decimal in fractional form: 9.04",
+      "choices": [
+          "904/100",
+          "94/100",
+          "904/10",
+          "94/10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimal in fractional form: 0.89",
+      "choices": [
+          "89/100",
+          "89/1000",
+          "8.9/10",
+          "89/10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Write the following decimal in fractional form: 0.05",
+      "choices": [
+          "5/10",
+          "5/100",
+          "5/1000",
+          "50/100"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the word 'deca' in Greek or 'decem' in Latin mean?",
+      "choices": [
+          "Hundred",
+          "Thousand",
+          "Ten",
+          "Million"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In a decimal number, digits to the left of the decimal point represent:",
+      "choices": [
+          "Fractional parts",
+          "Whole numbers",
+          "Tenths",
+          "Hundredths"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In a decimal number, digits to the right of the decimal point represent:",
+      "choices": [
+          "Whole numbers",
+          "Tenths, hundredths, thousandths etc.",
+          "Millions",
+          "Billions"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a 1-meter ribbon is divided into 10 equal parts, each part is measured as:",
+      "choices": [
+          "0.01 m",
+          "0.1 m",
+          "1 m",
+          "0.001 m"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a 1-meter ribbon is divided into 100 equal parts, each part is measured as:",
+      "choices": [
+          "0.1 m",
+          "0.01 m",
+          "1 m",
+          "0.001 m"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a 1-meter ribbon is divided into 1000 equal parts, each part is measured as:",
+      "choices": [
+          "0.1 m",
+          "0.01 m",
+          "0.001 m",
+          "1 m"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The fraction 2/10 expressed as a decimal is:",
+      "choices": [
+          "0.02",
+          "2.0",
+          "0.2",
+          "0.002"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The fraction 5/100 expressed as a decimal is:",
+      "choices": [
+          "0.5",
+          "0.05",
+          "5.0",
+          "0.005"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The fraction 25/1000 expressed as a decimal is:",
+      "choices": [
+          "0.25",
+          "0.025",
+          "2.5",
+          "0.0025"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Decimals are a method of writing fractional numbers without:",
+      "choices": [
+          "Whole numbers",
+          "Decimal points",
+          "Numerator and denominator",
+          "Fractional parts"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What decimal number is represented by one full grid, two hundredths, and three thousandths?",
+      "choices": [
+          "1.023",
+          "1.203",
+          "1.0023",
+          "1.23"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by two full grids, five tenths, and one hundredth?",
+      "choices": [
+          "2.51",
+          "2.501",
+          "2.051",
+          "25.01"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by one full grid and three tenths?",
+      "choices": [
+          "1.3",
+          "1.03",
+          "13",
+          "0.13"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by one full grid, four hundredths?",
+      "choices": [
+          "1.04",
+          "1.4",
+          "14",
+          "0.04"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by one full grid, two tenths, and one hundredth?",
+      "choices": [
+          "1.21",
+          "1.021",
+          "12.1",
+          "1.201"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by three full grids and six hundredths?",
+      "choices": [
+          "3.06",
+          "3.6",
+          "30.6",
+          "3.60"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by two full grids, one tenth, and three hundredths?",
+      "choices": [
+          "2.13",
+          "2.103",
+          "21.3",
+          "2.013"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by one full grid, seven tenths, and two hundredths?",
+      "choices": [
+          "1.72",
+          "1.702",
+          "17.2",
+          "1.072"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by four full grids, two tenths, and five hundredths?",
+      "choices": [
+          "4.25",
+          "4.205",
+          "42.5",
+          "4.025"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What decimal number is represented by five full grids, nine tenths, and eight hundredths?",
+      "choices": [
+          "5.98",
+          "5.908",
+          "59.8",
+          "5.098"
+      ],
+      "correctAnswer": 0
+  }
+]

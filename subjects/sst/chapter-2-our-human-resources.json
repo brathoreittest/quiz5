@@ -1,0 +1,570 @@
+[
+  {
+      "question": "What is the chapter about?",
+      "choices": [
+          "Water Resources",
+          "Natural Resources",
+          "Our Human Resources",
+          "Mineral Resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, what is one of the main topics related to the development of human resources?",
+      "choices": [
+          "Industrial Growth",
+          "Overpopulation",
+          "Technological advancement",
+          "Military Strength"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is one of the measures taken by the government to develop human resources?",
+      "choices": [
+          "Space Exploration",
+          "Population Control",
+          "Building Dams",
+          "Promoting Tourism"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is needed to utilize natural resources properly?",
+      "choices": [
+          "More land",
+          "Intelligent, educated, and skilled people",
+          "More money",
+          "Better machinery"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the people of a country referred to as?",
+      "choices": [
+          "natural resources",
+          "financial resources",
+          "human resources",
+          "mineral resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the ranking of India in terms of largest countries in the world according to the text?",
+      "choices": [
+          "First",
+          "Second",
+          "Fifth",
+          "Seventh"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is one of the factors that affect the development of human resources?",
+      "choices": [
+          "Lack of education",
+          "Abundance of water",
+          "Good Infrastructure",
+          "High employment rate"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What do people of a country need to do to utilise available resources to meet the needs of the people?",
+      "choices": [
+          "Knowledge and skills",
+          "Money and power",
+          "Weapons and technology",
+          "Land and resources"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "According to the text, how many crore people are there in India?",
+      "choices": [
+          "Less than 100",
+          "More than 125",
+          "Around 50",
+          "Around 75"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is Poverty?",
+      "choices": [
+          "Measure taken by the government",
+          "Development of Human resources",
+          "Lack of education",
+          "A country"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does human resources have the ability to do",
+      "choices": [
+          "To build buildings",
+          "To use their knowledge and skills",
+          "To build roads",
+          "To grow crops"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of education is need to utilse resources",
+      "choices": [
+          "Intelligent and skilled people",
+          "Science education",
+          "Arts Education",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the government's measure to improve human resource?",
+      "choices": [
+          "Population control",
+          "To build roads",
+          "To grow crops",
+          "To build buildings"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is the most important resource?",
+      "choices": [
+          "Financial resources",
+          "Water resources",
+          "Human resources",
+          "Mineral resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many topics coverd in Development of Human Resources?",
+      "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What percentage of the world's population does India occupy?",
+      "choices": [
+          "2.4%",
+          "17.5%",
+          "20%",
+          "10%"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a definition of population density?",
+      "choices": [
+          "Number of people living in one state",
+          "Number of people living in one square kilometer of area",
+          "Number of people in the world",
+          "Number of people malnourished"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following are tribal groups living in India?",
+      "choices": [
+          "Gonds, Bhils, Santhals",
+          "Mundas and Khonds",
+          "Oraons",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the average population density in India (people per square kilometer)?",
+      "choices": [
+          "45",
+          "324",
+          "100",
+          "500"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following states contain more than half the population?",
+      "choices": [
+          "Rajasthan",
+          "Haryana",
+          "Uttar Pradesh, Bihar, Maharashtra, West Bengal, Andhra Pradesh",
+          "Kerala"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which state is the least populous in India?",
+      "choices": [
+          "Uttar Pradesh",
+          "Sikkim",
+          "Bihar",
+          "Goa"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What can unskilled and unemployed migrant workers be employed as?",
+      "choices": [
+          "Software Engineers",
+          "Daily Wagers",
+          "Businessmen",
+          "Athletes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does overpopulation cause?",
+      "choices": [
+          "Lack of natural resources",
+          "Lack of food and water",
+          "Lack of sanitation and health services",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the minimum amount of money required for a person to survive in India per day(rural)?",
+      "choices": [
+          "Rs. 47",
+          "Rs. 33",
+          "Rs. 55",
+          "Rs. 100"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the minimum amount of money required for a person to survive in India per day(urban)?",
+      "choices": [
+          "Rs. 47",
+          "Rs. 33",
+          "Rs. 55",
+          "Rs. 100"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many children approximately die of malnourishment every day in India?",
+      "choices": [
+          "1000",
+          "5000",
+          "3000",
+          "10000"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What age group does the Sarva Shiksha Abhiyan aim at providing education to?",
+      "choices": [
+          "6-14 years",
+          "3-5 years",
+          "15-18 years",
+          "18-25 years"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The government is educating people on the advantages of?",
+      "choices": [
+          "Educating children",
+          "Having small families",
+          "Removal of poverty",
+          "Population control"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the government provide to help removal of poverty?",
+      "choices": [
+          "Loans",
+          "Land",
+          "Jobs",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the primary occupation of most Indians?",
+      "choices": [
+          "Agriculture",
+          "Engineering",
+          "Business",
+          "Athlete"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The least populous state is:",
+      "choices": [
+          "Nagaland",
+          "Goa",
+          "Sikkim",
+          "Mizoram"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "People who go to cities or towns from villages to look for work are called:",
+      "choices": [
+          "wagers",
+          "migrants",
+          "labourers",
+          "none of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "To ensure people are healthy, our Government has:",
+      "choices": [
+          "opened schools",
+          "set up hospitals",
+          "provided loans",
+          "all of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Having a large population puts too much pressure on which of the following things?",
+      "choices": [
+          "Natural resources",
+          "Amenities",
+          "Services",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is not able to keep up pace with the ever-increasing population?",
+      "choices": [
+          "Food and Water",
+          "Sanitation and Schools",
+          "Roads and Transport",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Why are there more jobs and money in the cities?",
+      "choices": [
+          "Due to more occupations",
+          "Due to more markets",
+          "Due to better roads",
+          "Due to more development"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What causes a population shift towards urban areas?",
+      "choices": [
+          "More jobs",
+          "More money",
+          "More houses",
+          "Both (i) and (ii)"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Why are migrant workers employed as daily wagers?",
+      "choices": [
+          "They feel comfortable as daily wagers",
+          "They have little education",
+          "They are skilled",
+          "They are unskilled"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Intelligent, educated and skilled people are the human resources of a country:",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Indians have progressed into many different fields and areas, not only in India but all over the world:",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Overpopulation, poverty and lack of education are responsible for the poor development of India's human resources.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Government has taken many measures to overcome the different problems faced by the people.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Overpopulation helps in the development of human resource.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Having a large population does not help if the people are not independent.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Sarva Shiksha Abhiyan aims at",
+      "choices": [
+          "Educating all uneducated adults",
+          "Educating all children between the age of 6-14 years",
+          "Educating all children between the age of 6-16 years",
+          "Educating all children and uneducated adults"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do better mining practices and the use of the latest technology help in the conservation of minerals?",
+      "choices": [
+          "They do not help.",
+          "They increase mineral waste.",
+          "They help minimize waste and reduce environmental impact.",
+          "They only focus on profit, not conservation."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which type of mineral is Manganese? What is it used for?",
+      "choices": [
+          "Organic mineral; used for fuel.",
+          "Metallic mineral; used in steel production and batteries.",
+          "Non-metallic mineral; used in cosmetics.",
+          "Radioactive mineral; used in nuclear power."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of mineral is mica? How is it useful to us?",
+      "choices": [
+          "A metallic mineral used for making weapons",
+          "A radioactive mineral used for generating power",
+          "A non-metallic mineral used as an insulator in electrical appliances",
+          "An organic mineral used as fuel"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are oil wells?",
+      "choices": [
+          "Deep holes drilled into the earth to extract petroleum.",
+          "Water bodies with healing properties.",
+          "Natural gas reserves underground.",
+          "Large deposits of coal."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which mineral is referred to as crude oil? Where on earth is it normally found?",
+      "choices": [
+          "Coal; found in swamps.",
+          "Petroleum; found underground in sedimentary rocks.",
+          "Iron ore; found in igneous rocks.",
+          "Bauxite; found near volcanic regions."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do you understand by conservation of minerals?",
+      "choices": [
+          "Using minerals as quickly as possible before they run out.",
+          "Ignoring the need for minerals and relying only on renewable resources.",
+          "Protecting and managing minerals responsibly to ensure their availability for future generations.",
+          "Mining minerals without any environmental considerations."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are minerals? Discuss the two main types of minerals.",
+      "choices": [
+          "Organic and synthetic.",
+          "Renewable and non-renewable.",
+          "Metallic and non-metallic.",
+          "Liquid and solid."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do you know about coal?",
+      "choices": [
+          "A type of metal used for construction.",
+          "A metamorphic rock used for making jewellery.",
+          "A sedimentary rock used as a fuel.",
+          "A type of gemstone found in mines."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Some cars can run on electricity rather than diesel or petrol. How can they help conserve mineral resources?",
+      "choices": [
+          "By increasing the demand for electricity generated from fossil fuels.",
+          "By reducing the demand for petroleum and diesel.",
+          "They cannot conserve mineral resources.",
+          "By increasing air pollution."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Environmental agencies often protest against mining operations. Why?",
+      "choices": [
+          "Because mining operations never have any environmental impact.",
+          "Because mining operations only benefit a few individuals.",
+          "Because mining operations can cause environmental damage and displace communities.",
+          "Because environmental agencies are against all forms of industrial development."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Have a discussion about the ways in which we can reduce our use of non-renewable minerals.",
+      "choices": [
+          "Using public transport, carpooling, saving electricity",
+          "Burning more fossil fuels to generate more electricity",
+          "Relying solely on mining and extraction of minerals",
+          "Ignoring environmental concerns"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Make a chart with metallic ores, metals, mine locations and uses. Use pictures of metals and their products.",
+      "choices": [
+          "A chart showing only the locations of mines.",
+          "A chart only listing the names of metals.",
+          "A chart with metallic ores, metals, mine locations and uses",
+          "A chart showcasing only uses of metallic ores"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Indian miners still use primitive methods for extraction of gemstones. Find out what the latest advances in this field are",
+      "choices": [
+          "Advanced mining techniques",
+          "Increased labor and manual extraction",
+          "Old methods of gemstone extraction",
+          "No methods of gemstone extraction"
+      ],
+      "correctAnswer": 0
+  }
+]

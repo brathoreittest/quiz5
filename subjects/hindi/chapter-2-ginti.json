@@ -1,0 +1,302 @@
+[
+    {
+        "question": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u091a\u0928\u094d\u0926\u094d\u0930 \u091c\u0940 \u0915\u094b \u0915\u093f\u0924\u0928\u0947 \u0935\u0930\u094d\u0937 \u0915\u093e \u0935\u0928\u0935\u093e\u0938 \u0939\u0941\u0906 \u0925\u093e?",
+        "choices": [
+            "\u092a\u091a\u094d\u091a\u0940\u0938",
+            "\u092a\u0948\u0902\u0938\u0920",
+            "\u091a\u094c\u0926\u0939",
+            "\u0905\u0920\u093e\u0930\u0939"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u0915\u093f\u0924\u0928\u0947 \u0935\u0930\u094d\u0937 \u0915\u0940 \u0906\u092f\u0941 \u0915\u093e \u0935\u094d\u092f\u0938\u094d\u0915 \u0935\u094b\u091f \u0926\u0947\u0928\u0947 \u0915\u093e \u0939\u0915\u0926\u093e\u0930 \u0939\u094b\u0924\u093e \u0939\u0948?",
+        "choices": [
+            "\u0928\u094c",
+            "\u0917\u094d\u092f\u093e\u0930\u0939",
+            "\u0905\u0920\u093e\u0930\u0939",
+            "\u092a\u091a\u094d\u091a\u0940\u0938"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u092a\u0941\u0932\u093f\u0938 \u0915\u094b \u0926\u0947\u0916\u0915\u0930 \u091a\u094b\u0930 \u0915\u093f\u0924\u0928\u0947 \u0939\u094b \u0917\u090f?",
+        "choices": [
+            "\u092a\u091a\u094d\u091a\u0940\u0938",
+            "\u092a\u0948\u0902\u0938\u0920",
+            "\u0928\u094c \u0926\u094b \u0917\u094d\u092f\u093e\u0930\u0939",
+            "\u0905\u0920\u093e\u0930\u0939"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0915\u092c \u092e\u0928\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948?",
+        "choices": [
+            "\u0905\u0920\u093e\u0930\u0939 \u0926\u093f\u0938\u0902\u092c\u0930",
+            "\u0928\u094c \u0926\u093f\u0938\u0902\u092c\u0930",
+            "\u091a\u094c\u0926\u0939 \u0926\u093f\u0938\u0902\u092c\u0930",
+            "\u092a\u091a\u094d\u091a\u0940\u0938 \u0926\u093f\u0938\u0902\u092c\u0930"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "\u090f\u0915 \u0935\u0930\u094d\u0937 \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902?",
+        "choices": [
+            "\u091a\u094c\u0926\u0939",
+            "\u0917\u094d\u092f\u093e\u0930\u0939",
+            "\u092a\u0948\u0902\u0938\u0920",
+            "\u0924\u0940\u0928 \u0938\u094c \u092a\u0948\u0902\u0938\u0920"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "\u0917\u093f\u0928\u0924\u0940 \u0915\u093e \u0905\u0930\u094d\u0925 \u0915\u094d\u092f\u093e \u0939\u0948?",
+        "choices": [
+            "\u0915\u094d\u0930\u092e \u0915\u093e \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e",
+            "\u0917\u0923\u0928\u093e",
+            "\u0917\u0923\u093f\u0924 \u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 \u0939\u0932 \u0915\u0930\u0928\u093e",
+            "\u090f\u0915\u0935\u091a\u0928 \u0914\u0930 \u092c\u0939\u0941\u0935\u091a\u0928 \u0915\u093e \u091c\u094d\u091e\u093e\u0928"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "\u0917\u093f\u0928\u0924\u0940 \u0932\u093f\u0916\u0924\u0947 \u0939\u0941\u090f \u0915\u093f\u0938\u0915\u093e \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f?",
+        "choices": [
+            "\u0917\u0923\u0928\u093e \u0915\u093e",
+            "\u0917\u0923\u093f\u0924 \u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u0928 \u0915\u093e",
+            "\u0915\u094d\u0930\u092e \u0915\u093e",
+            "\u090f\u0915\u0935\u091a\u0928 \u0914\u0930 \u092c\u0939\u0941\u0935\u091a\u0928 \u0915\u093e"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "\u0917\u093f\u0928\u0924\u0940 \u0915\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u094b \u0939\u0932 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?",
+        "choices": [
+            "\u090f\u0915\u0935\u091a\u0928",
+            "\u0915\u094d\u0930\u092e",
+            "\u092c\u0939\u0941\u0935\u091a\u0928",
+            "\u0917\u0923\u093f\u0924"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "\u0917\u093f\u0928\u0924\u0940 \u0915\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0939\u092e\u0947\u0902 \u0915\u093f\u0938 \u091a\u0940\u091c\u093c \u0915\u093e \u091c\u094d\u091e\u093e\u0928 \u0939\u094b\u0924\u093e \u0939\u0948?",
+        "choices": [
+            "\u0915\u094d\u0930\u092e",
+            "\u0917\u0923\u0928\u093e",
+            "\u0917\u0923\u093f\u0924 \u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u0928",
+            "\u090f\u0915\u0935\u091a\u0928 \u0914\u0930 \u092c\u0939\u0941\u0935\u091a\u0928"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "\u092e\u0948\u0902 \u0915\u093f\u0924\u0928\u0947 \u0938\u093e\u0932 \u0915\u0940 \u0939\u0942\u0901?",
+        "choices": [
+            "76",
+            "29",
+            "15",
+            "52"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the Hindi word for 51?",
+        "choices": [
+            "\u0938\u093e\u0920",
+            "\u0907\u0915\u094d\u092f\u093e\u0935\u0928",
+            "\u0909\u0928\u0938\u0920",
+            "\u092c\u093e\u0938\u0920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 68?",
+        "choices": [
+            "\u0909\u0928\u0939\u0924\u094d\u0924\u0930",
+            "\u0905\u0921\u093c\u0938\u0920",
+            "\u0907\u0915\u0939\u0924\u094d\u0924\u0930",
+            "\u091b\u093f\u092f\u093e\u0938\u0920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 70?",
+        "choices": [
+            "\u0938\u0924\u094d\u0924\u0930",
+            "\u092a\u091a\u0939\u0924\u094d\u0924\u0930",
+            "\u091a\u094c\u0939\u0924\u094d\u0924\u0930",
+            "\u0924\u093f\u0939\u0924\u094d\u0924\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the Hindi word for 72?",
+        "choices": [
+            "\u092c\u0939\u0924\u094d\u0924\u0930",
+            "\u0924\u093f\u0939\u0924\u094d\u0924\u0930",
+            "\u091a\u094c\u0939\u0924\u094d\u0924\u0930",
+            "\u092a\u091a\u0939\u0924\u094d\u0924\u0930"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the Hindi word for 79?",
+        "choices": [
+            "\u0905\u0920\u0939\u0924\u094d\u0924\u0930",
+            "\u0909\u0928\u093e\u0938\u0940",
+            "\u0938\u0924\u0939\u0924\u094d\u0924\u0930",
+            "\u091b\u093f\u0939\u0924\u094d\u0924\u0930"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 80?",
+        "choices": [
+            "\u0909\u0928\u093e\u0938\u0940",
+            "\u0905\u0938\u094d\u0938\u0940",
+            "\u0938\u0924\u0939\u0924\u094d\u0924\u0930",
+            "\u091b\u093f\u0939\u0924\u094d\u0924\u0930"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 61?",
+        "choices": [
+            "\u092c\u093e\u0938\u0920",
+            "\u0907\u0915\u0938\u0920",
+            "\u0938\u093e\u0920",
+            "\u0924\u093f\u0930\u0947\u0938\u0920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 64?",
+        "choices": [
+            "\u0924\u093f\u0930\u0947\u0938\u0920",
+            "\u091a\u094c\u0902\u0938\u0920",
+            "\u092a\u0948\u0902\u0938\u0920",
+            "\u092c\u093e\u0938\u0920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for 58?",
+        "choices": [
+            "\u0905\u091f\u094d\u0920\u093e\u0935\u0928",
+            "\u0938\u0924\u094d\u0924\u093e\u0935\u0928",
+            "\u0909\u0928\u0938\u0920",
+            "\u092a\u091a\u092a\u0928"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the Hindi word for 59?",
+        "choices": [
+            "\u092a\u091a\u092a\u0928",
+            "\u0938\u0924\u094d\u0924\u093e\u0935\u0928",
+            "\u0905\u091f\u094d\u0920\u093e\u0935\u0928",
+            "\u0909\u0928\u0938\u0920"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the Hindi word for the number 41?",
+        "choices": [
+            "\u092c\u092f\u093e\u0932\u0940\u0938",
+            "\u0907\u0915\u0924\u093e\u0932\u0940\u0938",
+            "\u0924\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u091a\u0935\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for the number 42?",
+        "choices": [
+            "\u0907\u0915\u0924\u093e\u0932\u0940\u0938",
+            "\u0924\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u092c\u092f\u093e\u0932\u0940\u0938",
+            "\u092a\u091a\u093e\u0938"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the Hindi word for the number 43?",
+        "choices": [
+            "\u091a\u0935\u093e\u0932\u0940\u0938",
+            "\u0924\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u092a\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u0905\u0921\u093c\u0924\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for the number 44?",
+        "choices": [
+            "\u092c\u092f\u093e\u0932\u0940\u0938",
+            "\u091a\u0935\u093e\u0932\u0940\u0938",
+            "\u0907\u0915\u0924\u093e\u0932\u0940\u0938",
+            "\u0909\u0928\u091a\u093e\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for the number 45?",
+        "choices": [
+            "\u092a\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u0938\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u092a\u091a\u093e\u0938",
+            "\u091a\u0935\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the Hindi word for the number 46?",
+        "choices": [
+            "\u0938\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u092a\u091a\u093e\u0938",
+            "\u0909\u0928\u091a\u093e\u0938",
+            "\u091b\u093f\u092f\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the Hindi word for the number 47?",
+        "choices": [
+            "\u0905\u0921\u093c\u0924\u093e\u0932\u0940\u0938",
+            "\u0938\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u091b\u093f\u092f\u093e\u0932\u0940\u0938",
+            "\u0924\u0948\u0902\u0924\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for the number 48?",
+        "choices": [
+            "\u0909\u0928\u091a\u093e\u0938",
+            "\u0905\u0921\u093c\u0924\u093e\u0932\u0940\u0938",
+            "\u092a\u091a\u093e\u0938",
+            "\u091a\u0935\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the Hindi word for the number 49?",
+        "choices": [
+            "\u092a\u091a\u093e\u0938",
+            "\u091b\u093f\u092f\u093e\u0932\u0940\u0938",
+            "\u0909\u0928\u091a\u093e\u0938",
+            "\u0907\u0915\u0924\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the Hindi word for the number 50?",
+        "choices": [
+            "\u092a\u091a\u093e\u0938",
+            "\u0938\u0948\u0902\u0924\u093e\u0932\u0940\u0938",
+            "\u0905\u0921\u093c\u0924\u093e\u0932\u0940\u0938",
+            "\u092a\u0948\u0902\u0924\u093e\u0932\u0940\u0938"
+        ],
+        "correctAnswer": 0
+    }
+]

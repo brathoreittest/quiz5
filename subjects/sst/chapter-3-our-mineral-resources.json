@@ -1,0 +1,740 @@
+[
+  {
+      "question": "Minerals are natural substances found deep inside the?",
+      "choices": [
+          "Ocean",
+          "Earth",
+          "Moon",
+          "Sun"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Minerals are extracted from rocks called?",
+      "choices": [
+          "Soils",
+          "Ores",
+          "Gravels",
+          "Sediments"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Deep holes dug into the Earth to extract minerals are called?",
+      "choices": [
+          "Caves",
+          "Mines",
+          "Tunnels",
+          "Wells"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the process of digging minerals from the Earth?",
+      "choices": [
+          "Farming",
+          "Mining",
+          "Drilling",
+          "Harvesting"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of a metallic mineral?",
+      "choices": [
+          "Petroleum",
+          "Iron",
+          "Coal",
+          "Mica"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of a non-metallic mineral?",
+      "choices": [
+          "Copper",
+          "Manganese",
+          "Petroleum",
+          "Gold"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of metallic mineral?",
+      "choices": [
+          "Petroleum",
+          "Mica",
+          "Copper",
+          "Coal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which mineral is used as fuels?",
+      "choices": [
+          "Copper",
+          "Gold",
+          "Coal",
+          "Mica"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Metallic minerals contain what elements?",
+      "choices": [
+          "Liquid",
+          "Gases",
+          "Metals",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a characteristic of metallic minerals?",
+      "choices": [
+          "Hard and Shiny",
+          "Liquid",
+          "Gas",
+          "Contain water"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Examples of non-metallic minerals are:",
+      "choices": [
+          "Gold, silver and platinum",
+          "Coal, petroleum, and mica",
+          "Gold, silver and Coal",
+          "Petroleum, gold and silver"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is NOT a non-metallic mineral?",
+      "choices": [
+          "Petroleum",
+          "Mica",
+          "Copper",
+          "Coal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are Coal and petroleum called?",
+      "choices": [
+          "Mineral fuels",
+          "Metallic Minerals",
+          "Fossils",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of metallic minerals?",
+      "choices": [
+          "Petroleum",
+          "Coal",
+          "Mica",
+          "Aluminum"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following are metallic minerals",
+      "choices": [
+          "Iron, Manganese, Aluminum, Copper and Gold",
+          "Petroleum, Natural Gas, Coal, Mica and Precious stones",
+          "Conservation Of Minerals",
+          "Ore"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is NOT a use of minerals mentioned in the text?",
+      "choices": [
+          "Making utensils",
+          "Running cars",
+          "Generating electricity",
+          "Making plastic bottles"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are Southern Plateaus, especially the Chota Nagpur area, known as?",
+      "choices": [
+          "India's agricultural hub",
+          "India's mineral belt",
+          "India's industrial region",
+          "India's tourist attraction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "From what type of rocks are metallic minerals mostly obtained?",
+      "choices": [
+          "Sedimentary rocks",
+          "Igneous rocks",
+          "Metamorphic rocks",
+          "Volcanic rocks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is iron primarily used for?",
+      "choices": [
+          "Making jewelry",
+          "Making fertilizers",
+          "Making tools and bridges",
+          "Making paints"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which country does India export most of its iron ore to?",
+      "choices": [
+          "China",
+          "USA",
+          "Japan",
+          "Germany"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following cities is NOT listed as location of an important iron and steel producing factory?",
+      "choices": [
+          "Jamshedpur",
+          "Rourkela",
+          "Bhilai",
+          "Chennai"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Manganese is used to make...",
+      "choices": [
+          "Aluminum",
+          "Steel",
+          "Copper",
+          "Gold"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "India has the second largest reserves of which mineral in the world?",
+      "choices": [
+          "Iron",
+          "Gold",
+          "Manganese",
+          "Copper"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which mineral is extracted from bauxite?",
+      "choices": [
+          "Manganese",
+          "Iron",
+          "Aluminum",
+          "Copper"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is aluminum primarily used for?",
+      "choices": [
+          "Making jewelry",
+          "Making fertilizers",
+          "Making utensils and aeroplanes",
+          "Making paints"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following states is NOT mentioned as having rich deposits of bauxite?",
+      "choices": [
+          "Madhya Pradesh",
+          "Chhattisgarh",
+          "Kerala",
+          "Gujarat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Copper is used for making",
+      "choices": [
+          "Fertilizers",
+          "Paints",
+          "Electrical Wires",
+          "Glass"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where is copper ore mostly found?",
+      "choices": [
+          "Jharkhand and Rajasthan",
+          "Karnataka and Goa",
+          "Madhya Pradesh and Odisha",
+          "Gujarat and Tamil Nadu"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Gold is mainly found in Kolar and Hutti gold mines in...",
+      "choices": [
+          "Karnataka",
+          "Andhra Pradesh",
+          "Jharkhand",
+          "Rajasthan"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which states are the richest in India in terms of mineral wealth?",
+      "choices": [
+          "Karnataka and Goa",
+          "Kerala and Tamil Nadu",
+          "Jharkhand and Rajasthan",
+          "Odisha and Chattisgarh"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Non-metallic minerals are mostly obtained from which type of rocks?",
+      "choices": [
+          "Igneous rocks",
+          "Metamorphic rocks",
+          "Sedimentary rocks",
+          "Volcanic rocks"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a non-metallic mineral?",
+      "choices": [
+          "Coal",
+          "Petroleum",
+          "Natural Gas",
+          "Iron Ore"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Non-metallic minerals are also known as:",
+      "choices": [
+          "Metallic minerals",
+          "Fossil fuels",
+          "Ore deposits",
+          "Precious Metals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is another name for petroleum?",
+      "choices": [
+          "Crude Oil",
+          "Natural Gas",
+          "Black Diamond",
+          "Fossil Fuel"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is CNG?",
+      "choices": [
+          "Coal, Natural Gas",
+          "Compressed Natural Gas",
+          "Crude Natural Gas",
+          "Coal Natural Granite"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which type of vehicles CNG is used?",
+      "choices": [
+          "Ships",
+          "Airplanes",
+          "Buses and auto-rickshaws",
+          "Trains"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a purpose of coal?",
+      "choices": [
+          "Cooking",
+          "Heating",
+          "Producing Electricity",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which states have deposits of Mica?",
+      "choices": [
+          "Jharkhand, Andhra Pradesh, Rajasthan",
+          "Punjab, Haryana, Delhi",
+          "Tamil Nadu, Kerela, Karnataka",
+          "Arunachal Pradesh, Assam, Meghalaya"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which state is the largest producer of Mica in the world?",
+      "choices": [
+          "USA",
+          "Russia",
+          "India",
+          "China"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Diamonds are mined in which state?",
+      "choices": [
+          "Andhra Pradesh",
+          "Rajasthan",
+          "Madhya Pradesh",
+          "Jharkhand"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which state is rich in Emeralds?",
+      "choices": [
+          "Bihar",
+          "Rajasthan",
+          "Madhya Pradesh",
+          "Karnataka"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How is petroleum taken out of the earth?",
+      "choices": [
+          "By open cast mining",
+          "By drilling wells",
+          "By underground tunnels",
+          "By surface mining"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "One-third of the world's energy comes from what?",
+      "choices": [
+          "Petroleum",
+          "Natural Gas",
+          "Coal",
+          "Mica"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the two methods to mine coal?",
+      "choices": [
+          "Surface mining and deep mining",
+          "Drilling and blasting",
+          "Open cast and underground",
+          "Sedimentary and metamorphic"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In some oilfields what is usually found along with petroleum?",
+      "choices": [
+          "Coal",
+          "Mica",
+          "Compressed Natural Gas (CNG)",
+          "Diamonds"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "An area that has many oil wells is called:",
+      "choices": [
+          "Oil mine",
+          "Deep mining",
+          "Oil fields",
+          "Fossil mine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "__________ is/are known as India's mineral belt.",
+      "choices": [
+          "Northern Plains",
+          "Western Desert",
+          "Southern Plateaus",
+          "Coastal Plains"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "India is the largest producer of which of these minerals?",
+      "choices": [
+          "Coal",
+          "Petroleum",
+          "Copper",
+          "Mica"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these states has large deposits of iron?",
+      "choices": [
+          "Madhya Pradesh",
+          "Odisha",
+          "Punjab",
+          "Haryana"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following are features of metal?",
+      "choices": [
+          "Hard",
+          "Shiny",
+          "Easy to shape",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which out of the following is NOT a non-metallic mineral?",
+      "choices": [
+          "Limestone",
+          "Iron",
+          "Precious stones",
+          "Petroleum"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why are coal and petroleum known as mineral fuels?",
+      "choices": [
+          "Because they are obtained from minerals and used as fuels",
+          "Because they are obtained from minerals",
+          "Because they are non-metallic minerals",
+          "Because they do not contain metals"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following metals are found in metallic minerals?",
+      "choices": [
+          "Iron",
+          "Copper",
+          "Silver",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Gold and silver are most commonly used in making",
+      "choices": [
+          "Utensils",
+          "Toys",
+          "Watches",
+          "Jewellery"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Minerals are ______________ resources. Tick the correct option.",
+      "choices": [
+          "exhaustible",
+          "inexhaustible"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Minerals are natural substances which make up rocks.",
+      "choices": [
+          "False",
+          "True"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Minerals can be of two types - metallic and non-metallic.",
+      "choices": [
+          "False",
+          "True"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Metallic minerals contain metals such as iron, copper, gold and silver.",
+      "choices": [
+          "False",
+          "True"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Non-metallic minerals include coal, petroleum, limestone, salt, mica and precious stones.",
+      "choices": [
+          "False",
+          "True"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Minerals are exhaustible resources. They must be used wisely and conserved.",
+      "choices": [
+          "False",
+          "True"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do better mining practices and the use of the latest technology help in the conservation of minerals?",
+      "choices": [
+          "By increasing mineral waste",
+          "By reducing environmental impact and increasing efficiency",
+          "By ignoring safety regulations",
+          "By using more chemicals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of mineral is Manganese, and what is it used for?",
+      "choices": [
+          "Metallic mineral, used in steel production",
+          "Non-metallic mineral, used in cosmetics",
+          "Fuel mineral, used in electricity generation",
+          "Precious mineral, used in jewelry"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What type of mineral is mica? How is it useful to us?",
+      "choices": [
+          "Metallic mineral; Used for construction",
+          "Non-metallic mineral; Used for electrical insulation",
+          "Fuel mineral; Used for transportation",
+          "Precious mineral; Used for ornaments"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are oil wells?",
+      "choices": [
+          "Natural underground reservoirs of oil",
+          "Deep holes drilled into the Earth to extract crude oil",
+          "Surface ponds where oil collects naturally",
+          "Factories that refine crude oil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which mineral is referred to as crude oil? Where on Earth is it normally found?",
+      "choices": [
+          "Coal; near the surface of Earth",
+          "Petroleum; underground sedimentary rocks",
+          "Gold; in mountainous regions",
+          "Iron ore; in igneous rocks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do you understand by the conservation of minerals?",
+      "choices": [
+          "Using minerals excessively",
+          "Preserving and managing mineral resources wisely",
+          "Exporting all mineral resources",
+          "Ignoring the environmental impact of mining"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are minerals?",
+      "choices": [
+          "Man-made substances used for construction",
+          "Naturally occurring inorganic solids with a definite chemical composition and crystalline structure",
+          "Organic materials formed from living organisms",
+          "Mixtures of rocks and soil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do you know about coal?",
+      "choices": [
+          "It's a metallic mineral",
+          "It's a type of precious gem",
+          "It's a fossil fuel formed from plant matter",
+          "It's a type of volcanic rock"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Some cars can run on electricity rather than diesel or petrol. How can they help conserve mineral resources?",
+      "choices": [
+          "By increasing air pollution",
+          "By reducing reliance on fossil fuels",
+          "By requiring more mining for car components",
+          "By consuming more water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Environmental agencies often protest against mining operations. Why?",
+      "choices": [
+          "Because mining is a very safe activity",
+          "Because mining has no impact on the environment",
+          "Because of the potential for habitat destruction and pollution",
+          "Because they want to increase the price of minerals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a way to reduce our use of non-renewable minerals?",
+      "choices": [
+          "Driving alone in a car",
+          "Using public transport",
+          "Leaving lights on when not needed",
+          "Throwing away recyclable materials"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should be included in a chart about metallic ores, metals, mine locations and uses?",
+      "choices": [
+          "Only the names of metals",
+          "Only the locations of mines",
+          "Only the uses of metals",
+          "Metallic ores, metals, mine locations and uses"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is an example of a modern advance in gemstone extraction?",
+      "choices": [
+          "Primitive digging methods",
+          "Using pickaxes",
+          "Traditional panning techniques",
+          "Advanced drilling and processing technologies"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Have a discussion about the ways in which we can reduce our use of non-renewable minerals. What can be done to increase awareness?",
+      "choices": [
+          "Ignore the problem",
+          "Increase consumption of non-renewable minerals",
+          "Make a 5-point programme",
+          "Keep using public transport"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Indian miners still use primitive methods for extraction of gemstones. What needs to be done?",
+      "choices": [
+          "Find out what the latest advances in this field are, and compare them to the current methods being used.",
+          "Ignore new methods and extraction techniques",
+          "Keep doing same methods with new machines",
+          "Work harder"
+      ],
+      "correctAnswer": 0
+  }
+]

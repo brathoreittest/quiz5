@@ -1,0 +1,2287 @@
+[
+  {
+      "question": "What is the substance called that damages the enamel of the teeth?",
+      "choices": [
+          "Sugar",
+          "Acid",
+          "Salt",
+          "Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the yellow sticky substance called that covers teeth that are not cleaned properly?",
+      "choices": [
+          "Acid",
+          "Bacteria",
+          "Plaque",
+          "Enamel"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What causes Plaque?",
+      "choices": [
+          "Lack of fluoride",
+          "Growth of bacteria on leftover food particles",
+          "Eating too much sugar",
+          "Brushing too hard"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How often should you brush your teeth daily to keep them healthy?",
+      "choices": [
+          "Once",
+          "Twice",
+          "Three times",
+          "Four times"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When should you brush your teeth?",
+      "choices": [
+          "Only in the morning",
+          "Only at night",
+          "In the morning before eating and at night before bed",
+          "After every meal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of strokes should you use when brushing your teeth?",
+      "choices": [
+          "Long and fast",
+          "Short back and forth",
+          "Circular motions",
+          "Up and down"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is it important to rinse your mouth every time you eat?",
+      "choices": [
+          "To whiten your teeth",
+          "To remove food particles stuck in the gaps between the teeth",
+          "To kill bacteria",
+          "To freshen your breath"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you massage your gums with?",
+      "choices": [
+          "Sugar",
+          "Salt",
+          "Honey",
+          "Lemon Juice"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these food choices is recommended for cleaning and strengthening teeth?",
+      "choices": [
+          "Chocolates",
+          "Sweets",
+          "Raw carrots",
+          "Aerated Drinks"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How often should you visit your dentist for a check-up?",
+      "choices": [
+          "Every year",
+          "Every three months",
+          "Every six months",
+          "Only when you have a problem"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does plaque lead to?",
+      "choices": [
+          "Strong teeth",
+          "Healthy gums",
+          "Cavity",
+          "Fresh breath"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What helps us to chop, cut, tear, and chew food?",
+      "choices": [
+          "Tongue",
+          "Gums",
+          "Cheeks",
+          "Teeth"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "When does the tooth start hurting?",
+      "choices": [
+          "When the cavity reaches the pulp",
+          "When you don't brush theeth",
+          "When you drink cold things",
+          "When you eat acidic food"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What will keep your teeth healthy and cavity-free?",
+      "choices": [
+          "Flossing daily",
+          "Using mouthwash",
+          "Following good habits",
+          "Drinking water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of hands should you use when brushing your teeth?",
+      "choices": [
+          "Hot hands",
+          "Cold hands",
+          "Soft hands",
+          "Hard hands"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the hardest substance forming the outer layer of a tooth?",
+      "choices": [
+          "Dentin",
+          "Enamel",
+          "Pulp",
+          "Cementum"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of teeth are used for biting and cutting food?",
+      "choices": [
+          "Molars",
+          "Premolars",
+          "Canines",
+          "Incisors"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which organ produces bile that aids in food digestion?",
+      "choices": [
+          "Stomach",
+          "Pancreas",
+          "Liver",
+          "Gallbladder"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which organ transfers food from the mouth to the stomach?",
+      "choices": [
+          "Liver",
+          "Esophagus",
+          "Small intestine",
+          "Large intestine"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which organ churns the food into a thick paste?",
+      "choices": [
+          "Small intestine",
+          "Large intestine",
+          "Stomach",
+          "Esophagus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where does the body absorb nutrients from the food paste?",
+      "choices": [
+          "Mouth",
+          "Stomach",
+          "Small intestine",
+          "Large intestine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which organ absorbs water and creates waste?",
+      "choices": [
+          "Mouth",
+          "Esophagus",
+          "Small intestine",
+          "Large intestine"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which organ ejects the waste from the body?",
+      "choices": [
+          "Stomach",
+          "Anus",
+          "Liver",
+          "Small intestine"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What part of the body receives and passes food?",
+      "choices": [
+          "Mouth",
+          "Stomach",
+          "Liver",
+          "Small intestine"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Veena eats one apple with its skin, which contains 3.6 grams of fiber. How much fiber does she get in a week?",
+      "choices": [
+          "10.2 grams",
+          "25.2 grams",
+          "12.6 grams",
+          "25.6 grams"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Sheena eats one peeled apple, which contains 1.7 grams of fiber. How much fiber does she get in a week?",
+      "choices": [
+          "11.9 grams",
+          "12.6 grams",
+          "15.2 grams",
+          "20.3 grams"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who between Veena and Sheena gets more fiber in a week, and how much more?",
+      "choices": [
+          "Veena, 13.3 grams more",
+          "Sheena, 13.3 grams more",
+          "Veena, 10 grams more",
+          "Sheena, 10 grams more"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Vidushi ate a mango at 3 p.m. on Monday, and it was digested on Tuesday at 3 a.m. How many hours was it in the digestive tract?",
+      "choices": [
+          "24 hours",
+          "12 hours",
+          "18 hours",
+          "36 hours"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many permanent teeth will 256 adults have?",
+      "choices": [
+          "8192",
+          "256",
+          "512",
+          "1600"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Obesity is a condition of being:",
+      "choices": [
+          "Underweight",
+          "Normal weight",
+          "Overweight and grossly fat",
+          "Athletic"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Obesity occurs due to intake of:",
+      "choices": [
+          "Excess proteins and vitamins",
+          "Balanced diet",
+          "Excess carbohydrates and fats in diet",
+          "Lack of exercise"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Obesity is calculated on the basis of:",
+      "choices": [
+          "Weight",
+          "Height",
+          "Body Mass Index (BMI)",
+          "Age"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A BMI of more than _____ is considered obese.",
+      "choices": [
+          "20",
+          "25",
+          "30",
+          "35"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A BMI between 25 and 29.9 is deemed:",
+      "choices": [
+          "Underweight",
+          "Normal weight",
+          "Overweight",
+          "Obese"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Being obese is extremely harmful for:",
+      "choices": [
+          "Wealth",
+          "Friends",
+          "Health",
+          "Mood"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a factor contributing to obesity?",
+      "choices": [
+          "Excessive carbohydrate intake",
+          "Excessive fat intake",
+          "Regular exercise",
+          "Sedentary lifestyle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The best way to prevent obesity is to:",
+      "choices": [
+          "Eat only fast food",
+          "Avoid fruits and vegetables",
+          "Maintain a balanced diet and exercise regularly",
+          "Skip meals regularly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are we supposed to do to raise awareness about obesity?",
+      "choices": [
+          "Spread awareness in our surroundings",
+          "Keep the information about obesity to ourselves",
+          "Ignore the issue",
+          "Promote unhealthy eating habits"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What causes obesity?",
+      "choices": [
+          "Excess sleep",
+          "Lack of carbohydrates",
+          "Excess fats",
+          "Lack of exercise"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the function of the food pipe in the human digestive system?",
+      "choices": [
+          "To absorb nutrients",
+          "To transport food to the stomach",
+          "To break down food chemically",
+          "To eliminate waste"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens to the undigested food in our body?",
+      "choices": [
+          "It is absorbed by the small intestine",
+          "It is stored in the liver",
+          "It is eliminated as waste",
+          "It is broken down by the pancreas"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the different organs of the human digestive system?",
+      "choices": [
+          "Heart, lungs, brain",
+          "Stomach, liver, intestines",
+          "Kidneys, bladder, ureters",
+          "Muscles, bones, skin"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Differentiate between temporary and permanent teeth.",
+      "choices": [
+          "Temporary teeth are larger than permanent teeth",
+          "Temporary teeth are stronger than permanent teeth",
+          "Temporary teeth are replaced by permanent teeth",
+          "Permanent teeth are replaced by temporary teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Explain the functions of the different types of teeth present in our mouth.",
+      "choices": [
+          "Incisors cut food, canines grind food, molars tear food",
+          "Incisors tear food, canines cut food, molars grind food",
+          "Incisors cut food, canines tear food, molars grind food",
+          "Incisors grind food, canines tear food, molars cut food"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How does a cavity form in a tooth?",
+      "choices": [
+          "Due to lack of brushing",
+          "Due to build-up of plaque",
+          "Due to excess consumption of sugary foods",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "List some habits that we should follow to keep our teeth healthy.",
+      "choices": [
+          "Brush twice a day",
+          "Floss daily",
+          "Limit sugary drinks",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Write some healthy tips for digestion of food.",
+      "choices": [
+          "Eat slowly and chew thoroughly",
+          "Drink plenty of water",
+          "Include fiber in your diet",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What do you understand by the 'root' and 'crown' of a tooth?",
+      "choices": [
+          "Root is the visible part of the tooth, crown is the part below the gum line.",
+          "Crown is the visible part of the tooth, root is the part below the gum line.",
+          "Both are the same",
+          "Both are the part of gums."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Define the term 'digestion'.",
+      "choices": [
+          "The process of breaking down food into smaller molecules.",
+          "The process of absorbing nutrients from food.",
+          "The process of eliminating waste from the body.",
+          "The process of transporting food through the body."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "List the different types of teeth in the human body?",
+      "choices": [
+          "Incisors, canines, premolars, molars",
+          "Front, back, side teeth",
+          "Sharp and flat",
+          "Temporary and permanent"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "List the different types of teeth and their numbers in a human body?",
+      "choices": [
+          "Incisors (4), canines (2), premolars (6), molars (8)",
+          "Incisors (8), canines (4), premolars (0), molars (2)",
+          "Incisors (8), canines (4), premolars (8), molars (12)",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Is it important to brush teeth every day?",
+      "choices": [
+          "Yes, to maintain healthy teeth",
+          "No, it doesn't matter",
+          "Only after meals",
+          "Only before meals"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Is tooth pain common?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Often"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Can a cavity cause any issues?",
+      "choices": [
+          "Yes",
+          "No",
+          "Only when you bite into foods",
+          "Only when you eat ice cream"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The water from the undigested food in the human digestive system is absorbed by the _____",
+      "choices": [
+          "stomach",
+          "large intestine",
+          "anus",
+          "liver"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The nutrients from the digested food are absorbed by the _____",
+      "choices": [
+          "food pipe",
+          "small intestine",
+          "stomach",
+          "liver"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "______ are also known as tearing teeth.",
+      "choices": [
+          "Incisors",
+          "Canines",
+          "Premolars",
+          "Molars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "We have six of them in each of our jaw.",
+      "choices": [
+          "Incisors",
+          "Canines",
+          "Molars",
+          "Premolars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The hardest part of the tooth is the _____",
+      "choices": [
+          "dentine",
+          "pulp",
+          "enamel",
+          "cavity"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What type of teeth does Jaya have?",
+      "choices": [
+          "No teeth",
+          "Milk teeth",
+          "Premolar teeth",
+          "Permanent teeth"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What type of teeth will Jaya have when she is 20 years old?",
+      "choices": [
+          "Milk Teeth",
+          "No Teeth",
+          "Permanent Teeth",
+          "Molar Teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What type of teeth will Yash have when he is 3 years old?",
+      "choices": [
+          "Adult Teeth",
+          "Premolar Teeth",
+          "Milk Teeth",
+          "Canine Teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is enamel?",
+      "choices": [
+          "The digestive juice produced by the liver",
+          "Chemical substances that help in the digestion of food",
+          "The hard, white substance that covers our teeth",
+          "Layer of yellow sticky substance in teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is digestion?",
+      "choices": [
+          "Layer of yellow sticky substance in teeth",
+          "Breaking down of food into simpler substances by our digestive system",
+          "The digestive juice produced by the liver",
+          "Chemical substances that help in the digestion of food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are enzymes?",
+      "choices": [
+          "The digestive juice produced by the liver",
+          "Layer of yellow sticky substance in teeth",
+          "Breaking down of food into simpler substances by our digestive system",
+          "Chemical substances that help in the digestion of food"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is bile?",
+      "choices": [
+          "The digestive juice produced by the liver",
+          "Layer of yellow sticky substance in teeth",
+          "Breaking down of food into simpler substances by our digestive system",
+          "Chemical substances that help in the digestion of food"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is plaque?",
+      "choices": [
+          "The digestive juice produced by the liver",
+          "Layer of yellow sticky substance in teeth",
+          "Breaking down of food into simpler substances by our digestive system",
+          "Chemical substances that help in the digestion of food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why should Jaya visit her dentist regularly?",
+      "choices": [
+          "To get free candy",
+          "To keep her teeth healthy",
+          "To learn magic tricks",
+          "To become a dentist"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is NOT a type of tooth?",
+      "choices": [
+          "Incisor",
+          "Canine",
+          "Molar",
+          "Plump"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "When Ria was born, did she have any teeth?",
+      "choices": [
+          "Yes",
+          "No",
+          "Maybe",
+          "Only a few"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When did Ria's teeth start coming out?",
+      "choices": [
+          "Around one year old",
+          "Around six years old",
+          "Around six months old",
+          "Around two years old"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many teeth did Ria have when she was about three years old?",
+      "choices": [
+          "32",
+          "20",
+          "10",
+          "24"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the first teeth of a baby called?",
+      "choices": [
+          "Permanent teeth",
+          "Canine teeth",
+          "Baby teeth or milk teeth",
+          "Molars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When do baby teeth start to fall out?",
+      "choices": [
+          "When a child is around ten years old",
+          "When a child is around six years old",
+          "When a child is around twelve years old",
+          "When a child is around two years old"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the teeth that grow in place of milk teeth called?",
+      "choices": [
+          "Incisors",
+          "Permanent teeth",
+          "Baby teeth",
+          "Milk teeth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many permanent teeth do adults have?",
+      "choices": [
+          "20",
+          "24",
+          "30",
+          "32"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How many permanent teeth are in the upper jaw?",
+      "choices": [
+          "10",
+          "12",
+          "14",
+          "16"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How many permanent teeth are in the lower jaw?",
+      "choices": [
+          "10",
+          "12",
+          "14",
+          "16"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What do teeth help us to do?",
+      "choices": [
+          "Eat food",
+          "Speak",
+          "Look good",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are the sharp flat teeth in the front called?",
+      "choices": [
+          "Canines",
+          "Incisors",
+          "Molars",
+          "Premolars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are incisors used for?",
+      "choices": [
+          "Biting or cutting",
+          "Tearing",
+          "Grinding",
+          "Chewing"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many incisors do we have in each jaw?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Six"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the one pointed tooth on each side of the incisors called?",
+      "choices": [
+          "Molar",
+          "Premolar",
+          "Canine",
+          "Incisor"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are canines used for?",
+      "choices": [
+          "Biting",
+          "Cutting",
+          "Tearing",
+          "Grinding"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where does the digestion of food begin?",
+      "choices": [
+          "Stomach",
+          "Small intestine",
+          "Mouth",
+          "Food pipe"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the function of the food pipe?",
+      "choices": [
+          "To produce enzymes",
+          "To absorb nutrients",
+          "To push food down to the stomach",
+          "To digest proteins"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the liver release into the small intestine?",
+      "choices": [
+          "Acid",
+          "Enzymes",
+          "Bile",
+          "Water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is absorbed by the large intestine?",
+      "choices": [
+          "Nutrients",
+          "Water",
+          "Proteins",
+          "Enzymes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are produced in the walls of the stomach?",
+      "choices": [
+          "Water",
+          "Acids and enzymes",
+          "Bile",
+          "Faeces"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens in the small intestine?",
+      "choices": [
+          "Water is absorbed",
+          "Undigested food is stored",
+          "Digestion gets completed and nutrients are absorbed",
+          "Food enters from the mouth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a function of teeth?",
+      "choices": [
+          "To chop food",
+          "To digest food",
+          "To chew food",
+          "To break food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many sets of teeth do we have in our lifetime?",
+      "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many layers does a tooth have?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What can happen if teeth are not brushed properly?",
+      "choices": [
+          "Teeth will grow faster",
+          "Cavities can develop",
+          "Teeth will become stronger",
+          "Teeth will become whiter"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of paste the stomach churns the food into?",
+      "choices": [
+          "Creamy",
+          "Thick soup-like",
+          "Liquid",
+          "Gel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The permanent set of teeth consists of how many kinds?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The digestive juices secreted in where break the food into simpler forms?",
+      "choices": [
+          "Mouth and liver",
+          "Stomach and foodpipe",
+          "Mouth, stomach and small intestine",
+          "Small intestine only"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following are the types of teeth?",
+      "choices": [
+          "Enamel, dentine, and pulp",
+          "Milk and permanent",
+          "They help us to speak and look good",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the function of the anus?",
+      "choices": [
+          "To absorb nutrients",
+          "To filter blood",
+          "To pass out faeces",
+          "To digest food"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What substance is produced when germs feed on food particles in the mouth?",
+      "choices": [
+          "Sugar",
+          "Acid",
+          "Plaque",
+          "Enamel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name of a hole in the tooth caused by acid damage?",
+      "choices": [
+          "Fracture",
+          "Cavity",
+          "Crater",
+          "Ulcer"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How often should you brush your teeth?",
+      "choices": [
+          "Once a day",
+          "Once a week",
+          "Twice a day",
+          "After every meal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of strokes should you use when brushing your teeth?",
+      "choices": [
+          "Long strokes",
+          "Circular strokes",
+          "Short back and forth strokes",
+          "Up and down strokes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the yellow sticky substance that covers teeth that are not cleaned properly?",
+      "choices": [
+          "Enamel",
+          "Acid",
+          "Plaque",
+          "Calcium"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What causes plaque formation on teeth?",
+      "choices": [
+          "Lack of calcium",
+          "Excessive saliva",
+          "Growth of bacteria on leftover food particles",
+          "Genetic factors"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When should you brush your teeth?",
+      "choices": [
+          "Only at night",
+          "Only in the morning",
+          "In the afternoon and evening",
+          "Twice a day, in the morning before eating anything and at night before going to bed."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How often should you massage your gums with salt?",
+      "choices": [
+          "Daily",
+          "At least once a week",
+          "Monthly",
+          "Only when they bleed"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When should you rinse your mouth?",
+      "choices": [
+          "Only in the morning",
+          "Only at night",
+          "Every time you eat",
+          "Once a week"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which foods can help clean teeth and make them strong?",
+      "choices": [
+          "Candies",
+          "Chocolates",
+          "Raw carrots, apples, and radishes",
+          "Aerated drinks"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How often should you visit your dentist for a check-up?",
+      "choices": [
+          "Once a year",
+          "Every three months",
+          "Every six months",
+          "Only when you have a problem"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What part of the tooth hurts when cavity reaches it?",
+      "choices": [
+          "enamel",
+          "pulp",
+          "gums",
+          "root"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What can plaque lead to?",
+      "choices": [
+          "strong teeth",
+          "cavity",
+          "shiny teeth",
+          "whiter teeth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is another name of chew stick or tooth-cleaning twig?",
+      "choices": [
+          "Enamel",
+          "Plaque",
+          "Datun",
+          "Acid"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is used for cleaning cavity and plaque?",
+      "choices": [
+          "Acid",
+          "Datun",
+          "Enamel",
+          "Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the outermost layer of the tooth structure called?",
+      "choices": [
+          "Dentin",
+          "Pulp",
+          "Enamel",
+          "Cementum"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which type of teeth is used for biting and cutting food?",
+      "choices": [
+          "Molars",
+          "Premolars",
+          "Canines",
+          "Incisors"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does the mouth receive and passes?",
+      "choices": [
+          "saliva",
+          "digestive enzymes",
+          "food",
+          "blood"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What transfers food from the mouth to the stomach?",
+      "choices": [
+          "Liver",
+          "Small intestine",
+          "Oesophagus",
+          "Anus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which organ produces bile that helps in digesting food?",
+      "choices": [
+          "Stomach",
+          "Pancreas",
+          "Liver",
+          "Gallbladder"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which organ churns the food into a thick paste?",
+      "choices": [
+          "Liver",
+          "Stomach",
+          "Small Intestine",
+          "Oesophagus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the small intestine absorbs from the paste?",
+      "choices": [
+          "fat",
+          "nutrients",
+          "vitamins",
+          "enzymes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which organ absorbs water and creates waste?",
+      "choices": [
+          "Anus",
+          "Stomach",
+          "Mouth",
+          "Small intestine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which organ ejects waste from the body?",
+      "choices": [
+          "Small Intestine",
+          "Stomach",
+          "Anus",
+          "Oesophagus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the general name for a set of organs involved in breaking down food to absorb nutrients",
+      "choices": [
+          "Respiratory system",
+          "Skeletal System",
+          "Digestive System",
+          "Nervous System"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the hardest structures in the human body, found in the mouth?",
+      "choices": [
+          "Bones",
+          "Muscles",
+          "Teeth",
+          "Cartilage"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Veena eats one apple with the skin every day for one full week. How much fibre does she get in a week?",
+      "choices": [
+          "1.7 grams",
+          "3.6 grams",
+          "25.2 grams",
+          "24.2 grams"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Sheena eats one peeled apple every day for one full week. How much fibre does she get in a week?",
+      "choices": [
+          "3.6 grams",
+          "1.7 grams",
+          "11.9 grams",
+          "13.9 grams"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Veena eats one apple with the skin every day for one full week. Sheena eats one peeled apple every day during the same period. Who gets more fibre and how much more?",
+      "choices": [
+          "Sheena gets more fibre 13.3 grams more.",
+          "Veena gets more fibre 13.3 grams more.",
+          "Sheena gets more fibre 13.9 grams more.",
+          "Veena gets more fibre 13.9 grams more."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Vidushi ate a mango at 3 p.m. on Monday and it was digested on Tuesday at 3 a.m. How many hours was it in the digestive tract?",
+      "choices": [
+          "24 hours",
+          "12 hours",
+          "10 hours",
+          "18 hours"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many permanent teeth will 256 adults have?",
+      "choices": [
+          "8192 teeth",
+          "8190 teeth",
+          "8292 teeth",
+          "8290 teeth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is obesity?",
+      "choices": [
+          "Being underweight",
+          "Being overweight and grossly fat",
+          "Having a BMI below 25",
+          "Eating a balanced diet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Obesity occurs due to intake of excess?",
+      "choices": [
+          "Vitamins",
+          "Minerals",
+          "Carbohydrates and fats",
+          "Proteins"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is BMI?",
+      "choices": [
+          "Blood Mass Index",
+          "Body Mass Index",
+          "Bone Mass Index",
+          "Brain Mass Index"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What BMI is considered obese?",
+      "choices": [
+          "More than 25",
+          "More than 29.9",
+          "More than 30",
+          "Between 20 and 25"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the BMI range deemed overweight?",
+      "choices": [
+          "Less than 25",
+          "Between 20 and 25",
+          "Between 25 and 29.9",
+          "More than 30"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Being obese is extremely harmful for?",
+      "choices": [
+          "Wealth",
+          "Health",
+          "Relationship",
+          "Education"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "We should gather more information about obesity, its?",
+      "choices": [
+          "Causes, harms and prevention",
+          "Causes and harms",
+          "Prevention and harms",
+          "Causes and prevention"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "We should spread awareness about obesity in our?",
+      "choices": [
+          "School",
+          "Surroundings",
+          "City",
+          "Country"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Obesity is related to?",
+      "choices": [
+          "being underweight",
+          "eating balanced diet",
+          "being healthy",
+          "being overweight and grossly fat"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which can lead to obesity?",
+      "choices": [
+          "Low carbohydrates and fats",
+          "Excess carbohydrates and fats",
+          "Lack of vitamin",
+          "Lack of proteins"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the primary function of the food pipe (esophagus) in the human digestive system?",
+      "choices": [
+          "To break down food mechanically",
+          "To absorb nutrients into the bloodstream",
+          "To transport food from the mouth to the stomach",
+          "To produce digestive enzymes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which process does the term 'digestion' describe?",
+      "choices": [
+          "The process of breathing in oxygen and exhaling carbon dioxide",
+          "The process of breaking down food into smaller molecules for absorption",
+          "The process of circulating blood throughout the body",
+          "The process of eliminating waste products from the body"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the main difference between temporary and permanent teeth?",
+      "choices": [
+          "Temporary teeth are bigger than permanent teeth.",
+          "Temporary teeth fall out and are replaced by permanent teeth.",
+          "Permanent teeth are more prone to cavities than temporary teeth.",
+          "Permanent teeth only grow in adulthood, while temporary teeth grow during childhood."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following best describes the function of teeth present in our mouth?",
+      "choices": [
+          "Transporting food into the body",
+          "Filtering harmful substances from the bloodstream",
+          "Breaking down food into smaller pieces to aid digestion",
+          "Releasing hormones for energy production"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the initial stage in the digestion process?",
+      "choices": [
+          "Absorption of nutrients",
+          "Mechanical breakdown of food",
+          "Excretion of waste",
+          "Chemical breakdown of food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How does a cavity generally form in a tooth?",
+      "choices": [
+          "Excessive fluoride intake",
+          "Bacterial action leading to tooth decay",
+          "Sudden trauma to the mouth",
+          "Genetic predisposition alone"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should we do to keep our teeth healthy?",
+      "choices": [
+          "Eat sweets before bed",
+          "Brush teeth regularly",
+          "Avoid dental check-ups",
+          "Drink sugary drinks often"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens to the undigested food in our body?",
+      "choices": [
+          "It is absorbed into the bloodstream",
+          "It is stored in the liver for later use",
+          "It is eliminated as waste",
+          "It is converted into energy immediately"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are some healthy tips for digestion of food?",
+      "choices": [
+          "Eat quickly",
+          "Drink water after meals",
+          "Chew food properly",
+          "Avoid fruits and vegetables"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the functions of stomach and small intestine?",
+      "choices": [
+          "Only digestion of the food",
+          "Only absoprtion of water",
+          "Digestion, absorption and movement of food.",
+          "Digestion and absoprtion of food."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is 'crown' of a tooth?",
+      "choices": [
+          "It is the inner most part of a tooth.",
+          "It is the part that holds tooth.",
+          "It is the visible part of the tooth.",
+          "It is the part of a tooth inside the gums."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is 'root' of a tooth?",
+      "choices": [
+          "It is the inner most part of a tooth.",
+          "It is the part that holds tooth.",
+          "It is the visible part of the tooth.",
+          "It is the top of a tooth."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many types of teeth are present in the mouth?",
+      "choices": [
+          "One type.",
+          "Two types.",
+          "Three types.",
+          "Four types."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these is not an organ of the digestive system?",
+      "choices": [
+          "Lungs",
+          "Stomach",
+          "Liver",
+          "Pancreas"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are names of different parts of a tooth?",
+      "choices": [
+          "Crown, Root, Neck",
+          "Crown, Root, Head",
+          "Face, Neck, Head",
+          "Crown, Head, Tail"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where is the water from the undigested food in the human digestive system absorbed?",
+      "choices": [
+          "Stomach",
+          "Large intestine",
+          "Anus",
+          "Liver"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where are the nutrients from the digested food absorbed?",
+      "choices": [
+          "Food pipe",
+          "Small intestine",
+          "Stomach",
+          "Liver"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which teeth are also known as tearing teeth?",
+      "choices": [
+          "Incisors",
+          "Canines",
+          "Premolars",
+          "Molars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many molars do we have in each jaw?",
+      "choices": [
+          "Incisors",
+          "Canines",
+          "Molars",
+          "Premolars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the hardest part of the tooth?",
+      "choices": [
+          "Dentine",
+          "Pulp",
+          "Enamel",
+          "Cavity"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following are four broad, flat teeth used for grinding or chewing? ",
+      "choices": [
+          "Amolr",
+          "Cavity",
+          "Pulp",
+          "Incisors"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following are cutting teeth?",
+      "choices": [
+          "Apluqe",
+          "Iicnsors",
+          "Canines",
+          "Enamel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How old is Jaya?",
+      "choices": [
+          "3 months old",
+          "3 years old",
+          "13 years old",
+          "20 years old"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How old is Yash?",
+      "choices": [
+          "3 months old",
+          "3 years old",
+          "13 years old",
+          "20 years old"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Based on the word bank what is the layer of yellow sticky substance in teeth?",
+      "choices": [
+          "Enamel",
+          "Digestion",
+          "Plaque",
+          "Bile"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Based on the word bank what is the hard, white substance that covers our teeth?",
+      "choices": [
+          "Enamel",
+          "Digestion",
+          "Plaque",
+          "Bile"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Based on the word bank what is the the digestive juice produced by the liver?",
+      "choices": [
+          "Enamel",
+          "Digestion",
+          "Plaque",
+          "Bile"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Based on the word bank what is the the breaking down of food into simpler substances by our digestive system?",
+      "choices": [
+          "Enamel",
+          "Digestion",
+          "Plaque",
+          "Bile"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Based on the word bank what are the chemical substances that help in the digestion of food?",
+      "choices": [
+          "Enamel",
+          "Enzymes",
+          "Plaque",
+          "Bile"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following the hardest part of the tooth? ",
+      "choices": [
+          "Leemna",
+          "Cavity",
+          "Pulp",
+          "Incisors"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "When Ria was born, did she have any teeth?",
+      "choices": [
+          "Yes",
+          "No",
+          "Only in the upper jaw",
+          "Only in the lower jaw"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The first teeth of a baby are called:",
+      "choices": [
+          "Permanent teeth",
+          "Adult teeth",
+          "Baby teeth",
+          "Wisdom teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Baby teeth are also known as:",
+      "choices": [
+          "Permanent teeth",
+          "Milk teeth",
+          "Wisdom teeth",
+          "Canine teeth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Baby teeth are:",
+      "choices": [
+          "Permanent",
+          "Temporary",
+          "Wisdom",
+          "Canine"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When do baby teeth start to fall out?",
+      "choices": [
+          "Around six months old",
+          "Around three years old",
+          "Around six years old",
+          "Around ten years old"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The teeth that grow in place of milk teeth are called:",
+      "choices": [
+          "Baby teeth",
+          "Milk teeth",
+          "Permanent teeth",
+          "Wisdom teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many permanent teeth do adults have?",
+      "choices": [
+          "20",
+          "28",
+          "30",
+          "32"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How many permanent teeth are in the upper jaw?",
+      "choices": [
+          "10",
+          "12",
+          "16",
+          "32"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many permanent teeth are in the lower jaw?",
+      "choices": [
+          "10",
+          "12",
+          "16",
+          "32"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do our teeth help us do?",
+      "choices": [
+          "Eat food",
+          "Speak",
+          "Look good",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Sharp flat teeth in the front are called:",
+      "choices": [
+          "Canines",
+          "Incisors",
+          "Molars",
+          "Premolars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Incisors are used for:",
+      "choices": [
+          "Biting",
+          "Cutting",
+          "Tearing",
+          "Both Biting and Cutting"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How many incisors are there in each jaw?",
+      "choices": [
+          "2",
+          "4",
+          "6",
+          "8"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "On each side of the incisors is one pointed tooth called:",
+      "choices": [
+          "Incisor",
+          "Canine",
+          "Molar",
+          "Premolar"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Canines are used for:",
+      "choices": [
+          "Biting",
+          "Cutting",
+          "Tearing",
+          "Chewing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When Ria was one month old, she had",
+      "choices": [
+          "20 teeth",
+          "no teeth",
+          "14 teeth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When Ria was 4 years old, she had",
+      "choices": [
+          "20 permanent teeth",
+          "20 milk teeth",
+          "32 permanent teeth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When Ria grows up to be 28 years old, she should have",
+      "choices": [
+          "20 teeth",
+          "44 teeth",
+          "32 teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Teeth are fixed in the _____ of our jaws.",
+      "choices": [
+          "Enamel",
+          "Dentine",
+          "Gums"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Some part of a tooth is hidden inside the gum. It is called the ____.",
+      "choices": [
+          "crown",
+          "root",
+          "enamel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The visible part of the tooth is called the ____.",
+      "choices": [
+          "root",
+          "enamel",
+          "crown"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many different types of teeth do we have?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is the outermost white part of the tooth?",
+      "choices": [
+          "Enamel",
+          "Dentine",
+          "Pulp"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which part of the tooth lies below the enamel?",
+      "choices": [
+          "Pulp",
+          "Dentine",
+          "Root"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which part of the tooth is the hardest part of our body?",
+      "choices": [
+          "Dentine",
+          "Pulp",
+          "Enamel"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which part of the tooth is soft and has blood vessels and nerves?",
+      "choices": [
+          "Dentine",
+          "Enamel",
+          "Pulp"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "On each side beside the canine, there are two flat, broad teeth called?",
+      "choices": [
+          "Molars",
+          "Premolars",
+          "Incisors"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Next to the premolars are three ________ on each side of the jaw.",
+      "choices": [
+          "Canines",
+          "Molars",
+          "Premolars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In each jaw, we have how many incisors?",
+      "choices": [
+          "Four",
+          "Six",
+          "Two"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In each jaw, we have how many premolars?",
+      "choices": [
+          "Four",
+          "Six",
+          "Two"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the process of breaking down food into simpler substances inside the body called?",
+      "choices": [
+          "Absorption",
+          "Digestion",
+          "Excretion",
+          "Respiration"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which system carries out the process of digestion?",
+      "choices": [
+          "Respiratory system",
+          "Circulatory system",
+          "Digestive system",
+          "Nervous system"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a main organ of the digestive system?",
+      "choices": [
+          "Mouth",
+          "Liver",
+          "Heart",
+          "Stomach"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why is it important to take care of our digestive system?",
+      "choices": [
+          "To prevent sickness",
+          "To break down food into nutrients",
+          "To avoid eating",
+          "To gain weight"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a good habit to maintain a healthy digestive system?",
+      "choices": [
+          "Eating only fast food",
+          "Skipping meals",
+          "Drinking plenty of water",
+          "Overeating"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What type of diet is recommended for a healthy digestive system?",
+      "choices": [
+          "Diet high in fat",
+          "Diet high in sugar",
+          "Balanced diet rich in fibre",
+          "Diet high in salt"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following should be limited for a healthy digestive system?",
+      "choices": [
+          "Fruits",
+          "Vegetables",
+          "Fat-rich foods",
+          "Water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following should be avoided for a healthy digestive system?",
+      "choices": [
+          "Junk food",
+          "Fruits",
+          "Vegetables",
+          "Water"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What beverage should be avoided in excess to take care of the digestive system?",
+      "choices": [
+          "Water",
+          "Milk",
+          "Tea or coffee",
+          "Juice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a good way to eat for good digestion?",
+      "choices": [
+          "Skipping meals",
+          "Overeating",
+          "Eating at random times",
+          "Have your meals at fixed times"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What action can you take while eating to aid digestion?",
+      "choices": [
+          "Chew your food well",
+          "Do not overeat",
+          "Exercise regularly",
+          "Do not drink water"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is a common bad habit when eating to avoid?",
+      "choices": [
+          "Do not overeat",
+          "Exercise regularly",
+          "Drink plenty of water",
+          "Chew your food well"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How much water is good for your digestive system?",
+      "choices": [
+          "Do not overeat",
+          "Exercise regularly",
+          "Drink plenty of water",
+          "Chew your food well"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How should we exercise to take care of the digestive system?",
+      "choices": [
+          "Exercise regularly, but not immediately after a meal",
+          "Exercise irregularly",
+          "Avoid exercise",
+          "Exercise always after meals"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What role does the mouth play in the digestion of food?",
+      "choices": [
+          "Breaks down food",
+          "Absorbs nutrients",
+          "Removes waste",
+          "Stores food"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where does the digestion of food begin?",
+      "choices": [
+          "Stomach",
+          "Mouth",
+          "Small intestine",
+          "Food pipe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the function of the food pipe?",
+      "choices": [
+          "To break down food",
+          "To absorb nutrients",
+          "To push food to the stomach",
+          "To produce digestive juice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the liver release?",
+      "choices": [
+          "Acids",
+          "Enzymes",
+          "Bile",
+          "Water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where does food from the stomach enter?",
+      "choices": [
+          "Large intestine",
+          "Anus",
+          "Small intestine",
+          "Mouth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens in the large intestine?",
+      "choices": [
+          "Digestion of food",
+          "Absorption of water",
+          "Production of bile",
+          "Absorption of nutrients"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does the undigested food pass out?",
+      "choices": [
+          "Stomach",
+          "Anus",
+          "Small Intestine",
+          "Large Intestine"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps to break the food into smaller pieces?",
+      "choices": [
+          "Stomach acid",
+          "Teeth",
+          "Enzymes in the small intestine",
+          "Bile"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many sets of teeth do we have in our lifetime?",
+      "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is broken down into simpler forms before it can be absorbed by our body?",
+      "choices": [
+          "Water",
+          "Nutrients",
+          "The food we eat",
+          "Enzymes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What breaks the food into simpler forms?",
+      "choices": [
+          "Acids",
+          "The food pipe",
+          "Digestive juices",
+          "Bile"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where are digestive juices secreted?",
+      "choices": [
+          "Liver and pancreas",
+          "Mouth, stomach and small intestine",
+          "Large intestine and anus",
+          "Only in the stomach"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where are nutrients absorbed from?",
+      "choices": [
+          "Large intestine",
+          "Walls of the small intestine",
+          "Stomach",
+          "Anus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the small intestine produce?",
+      "choices": [
+          "Bile",
+          "Water",
+          "Digestive juice",
+          "Acids"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What forms faeces?",
+      "choices": [
+          "Small intestine",
+          "Mouth",
+          "Anus",
+          "Large Intestine"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What digestive juice does the liver release?",
+      "choices": [
+          "Stomach juice",
+          "Acids",
+          "Water",
+          "Bile"
+      ],
+      "correctAnswer": 3
+  }
+]

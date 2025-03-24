@@ -1,0 +1,286 @@
+[
+    {
+        "question": "In the sentence 'She sat besides me in the first period.', which word is used incorrectly?",
+        "choices": [
+            "sat",
+            "besides",
+            "in",
+            "first"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which preposition is incorrect in the sentence 'My book is over the papers.'?",
+        "choices": [
+            "is",
+            "over",
+            "the",
+            "papers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which preposition is missing in the sentence 'Pranav walked on the street.'?",
+        "choices": [
+            "on",
+            "the",
+            "walked",
+            "Pranav"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which preposition is incorrect in the sentence 'Gunjan left at lunch time.'?",
+        "choices": [
+            "left",
+            "at",
+            "lunch",
+            "time"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Identify the incorrect preposition in 'The man ran across the tower.'",
+        "choices": [
+            "man",
+            "ran",
+            "across",
+            "tower"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which preposition is incorrect in the sentence 'The plane flew at the clouds.'",
+        "choices": [
+            "flew",
+            "at",
+            "the",
+            "clouds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the incorrect preposition in the sentence 'There was a picture at the wall in the bed.'",
+        "choices": [
+            "was",
+            "at",
+            "in",
+            "the"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which preposition is incorrect in the sentence 'Let's divide this money to us.'?",
+        "choices": [
+            "divide",
+            "this",
+            "money",
+            "to"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which preposition is incorrect in the sentence 'The thief jumped across the window.'?",
+        "choices": [
+            "jumped",
+            "across",
+            "the",
+            "window"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the incorrect preposition in the sentence 'Anil has an umbrella over his head.'",
+        "choices": [
+            "has",
+            "umbrella",
+            "over",
+            "head"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Raman jumped ____ the swimming pool.",
+        "choices": [
+            "in",
+            "into",
+            "out of"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "He did not like to swim so he came ____ the water.",
+        "choices": [
+            "in",
+            "into",
+            "out of"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "____ our country, we celebrate all the festivals.",
+        "choices": [
+            "In",
+            "Into",
+            "Out of"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My mother keeps her ornaments ____ her locker.",
+        "choices": [
+            "in",
+            "into",
+            "out of"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The clock is ____ the wall.",
+        "choices": [
+            "on",
+            "over"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The carpet is ____ the floor.",
+        "choices": [
+            "under",
+            "on"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "They are arriving ____ Monday.",
+        "choices": [
+            "on",
+            "at"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "He has a meeting ____ 8 a.m.",
+        "choices": [
+            "in",
+            "at"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The river flows ____ the city.",
+        "choices": [
+            "across",
+            "through"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rohini came ____ the swimming pool.",
+        "choices": [
+            "out of",
+            "out off"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Prepositions link a noun or a pronoun with another word in a sentence to show the:",
+        "choices": [
+            "Location",
+            "Time",
+            "Movement",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which preposition shows something coming before?",
+        "choices": [
+            "PRE",
+            "POSITION",
+            "CHAPTER",
+            "SENTENCE"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which preposition is represented by the image showing the cat above the log?",
+        "choices": [
+            "on",
+            "in",
+            "beside",
+            "below"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which preposition is represented by the image showing the cat inside the log?",
+        "choices": [
+            "on",
+            "in",
+            "beside",
+            "below"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which preposition shows two objects?",
+        "choices": [
+            "with",
+            "between",
+            "across",
+            "under"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'He distributed the sweets among his classmates', which preposition is used?",
+        "choices": [
+            "in",
+            "among",
+            "on",
+            "at"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a preposition of location?",
+        "choices": [
+            "After",
+            "Before",
+            "Above",
+            "During"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is a preposition of time?",
+        "choices": [
+            "In",
+            "Behind",
+            "Beside",
+            "After"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'I am in the pool', what is the preposition?",
+        "choices": [
+            "I",
+            "am",
+            "in",
+            "the"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is a preposition of movement?",
+        "choices": [
+            "against",
+            "near",
+            "past",
+            "beside"
+        ],
+        "correctAnswer": 0
+    }
+]

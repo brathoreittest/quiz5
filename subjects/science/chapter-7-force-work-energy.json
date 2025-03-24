@@ -1,0 +1,1642 @@
+[
+  {
+      "question": "The energy stored in our ________ that we use to do work is muscular energy.",
+      "choices": [
+          "brain",
+          "muscles",
+          "bones",
+          "heart"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The energy received from the ________ is one type of energy.",
+      "choices": [
+          "Sun",
+          "Moon",
+          "Stars",
+          "Earth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The energy produced from ________ is wind/water energy.",
+      "choices": [
+          "Coal",
+          "Waves",
+          "Fossil fuels",
+          "Air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The energy produced by burning fuels such as ________.",
+      "choices": [
+          "rocks",
+          "stones",
+          "coal",
+          "air"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Types of simple machines",
+      "choices": [
+          "Energy",
+          "Machines",
+          "Work",
+          "Force"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A simple machine is a ________.",
+      "choices": [
+          "Car",
+          "Wheelbarrow",
+          "Computer",
+          "Phone"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A lever is an example of a ________.",
+      "choices": [
+          "Car",
+          "Simple Machine",
+          "Computer",
+          "Phone"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Wheel and Axle is an example of a ________.",
+      "choices": [
+          "Car",
+          "Simple Machine",
+          "Computer",
+          "Phone"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A pulley is used to ________.",
+      "choices": [
+          "Lift objects",
+          "Cut wood",
+          "Cook food",
+          "Drive a car"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A knife is used to ________.",
+      "choices": [
+          "Cut objects",
+          "Lift objects",
+          "Move objects",
+          "Measure objects"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A slide is used to ________.",
+      "choices": [
+          "Play",
+          "Cut",
+          "Eat",
+          "Drink"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A jar lid is used to ________.",
+      "choices": [
+          "Open jars",
+          "Cut jars",
+          "Break jars",
+          "Drink jars"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Slide is a type of ________.",
+      "choices": [
+          "Inclined plane",
+          "Lever",
+          "Pulley",
+          "Wheel and axle"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Pulley is a type of ________.",
+      "choices": [
+          "Simple Machine",
+          "Car",
+          "Computer",
+          "Phone"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The opposite of Complex Machines is ________.",
+      "choices": [
+          "Cars",
+          "Simple Machines",
+          "Computers",
+          "Phones"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the project described in the image?",
+      "choices": [
+          "Building a house",
+          "Making a kite",
+          "Making a wheel and axle",
+          "Drawing a picture"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT needed to make a wheel and axle?",
+      "choices": [
+          "An unsharpened pencil",
+          "A small ball of plasticine",
+          "Cardboard",
+          "Scissors"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the text, what should be done after placing the plasticine on the ends of the pencil?",
+      "choices": [
+          "Roll the pencil immediately",
+          "Leave it for half an hour",
+          "Throw it away",
+          "Eat a snack"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What acts as an axle between the two cardboard wheels?",
+      "choices": [
+          "The cardboard",
+          "The pencil",
+          "The plasticine",
+          "The scissors"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Electricity is a commonly used form of what?",
+      "choices": [
+          "Water",
+          "Energy",
+          "Food",
+          "Transportation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does electricity light up?",
+      "choices": [
+          "Our dreams",
+          "Our houses",
+          "Our cars",
+          "Our toys"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Electricity makes our life much?",
+      "choices": [
+          "Harder",
+          "Easier",
+          "Noisier",
+          "Expensive"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Most of the electricity is produced by burning of what?",
+      "choices": [
+          "Wood",
+          "Fuels",
+          "Paper",
+          "Plastic"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a fuel used to generate electricity?",
+      "choices": [
+          "Water",
+          "Coal",
+          "Sunlight",
+          "Air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Besides burning coal, burning of what also produces pollution?",
+      "choices": [
+          "Natural Gas",
+          "Air",
+          "Wood",
+          "Plastic"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is fast depleting because of electricity production?",
+      "choices": [
+          "Reserves of coal and natural gas",
+          "Amount of sunlight",
+          "Amount of water",
+          "Amount of air"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Using electricity efficiently helps ensure what?",
+      "choices": [
+          "Fuels are available for a long time",
+          "Electricity bills are higher",
+          "Pollution increases",
+          "New fuels are discovered"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Saving electricity also helps us to reduce what?",
+      "choices": [
+          "Waste",
+          "Pollution",
+          "Water usage",
+          "Expenses"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The text mentions creating a poster about what topic?",
+      "choices": [
+          "Save Water",
+          "Save Electricity",
+          "Reduce Waste",
+          "Protect Animals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The text encourages you to spread awareness about the need to save electricity in your?",
+      "choices": [
+          "Home",
+          "Neighbourhood",
+          "School",
+          "Everywhere"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do we use to lift water from a well?",
+      "choices": [
+          "Lever",
+          "Wheel and axle",
+          "Pulley",
+          "Inclined plane"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to bicycle tyres after a few years?",
+      "choices": [
+          "They improve",
+          "They wear out",
+          "They never change",
+          "They get stronger"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The earth's hull is called?",
+      "choices": [
+          "Gravity",
+          "Solid",
+          "Attraction",
+          "Energy"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the ability to do work called?",
+      "choices": [
+          "Energy",
+          "Force",
+          "Friction",
+          "Gravity"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A force that acts to resist motion?",
+      "choices": [
+          "Motion",
+          "Energy",
+          "Friction",
+          "Work"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is energy from the sun?",
+      "choices": [
+          "Radiation",
+          "Solar",
+          "Friction",
+          "Work"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Fuel is burned to produce ____?",
+      "choices": [
+          "Gravity",
+          "Energy",
+          "Solar",
+          "Friction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Push or pull is called ____?",
+      "choices": [
+          "Gravity",
+          "Force",
+          "Solar",
+          "Friction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When a force displaces an object what is it doing?",
+      "choices": [
+          "Gravity",
+          "Force",
+          "Work",
+          "Solar"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Work is measured with what word?",
+      "choices": [
+          "Force",
+          "Work",
+          "N",
+          "Energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The sun is the source of ______ energy.",
+      "choices": [
+          "muscular",
+          "fuel",
+          "solar",
+          "water and wind"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Windmills use energy from ______",
+      "choices": [
+          "sun",
+          "wind",
+          "muscles",
+          "fuels"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A bottle opener is an example of ______",
+      "choices": [
+          "a screw",
+          "an inclined plane",
+          "a lever",
+          "a pulley"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "______ is done when force moves an object from its place.",
+      "choices": [
+          "Gravity",
+          "Friction",
+          "Work",
+          "Energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Force is a ______ or a ______.",
+      "choices": [
+          "Pull, Push",
+          "Lift, Drop",
+          "High, Low",
+          "Fast, Slow"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The force that pulls objects towards earth is called ______.",
+      "choices": [
+          "Friction",
+          "Magnetic force",
+          "Electrostatic force",
+          "Gravitational force"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "______ surfaces have more friction than ______ surfaces.",
+      "choices": [
+          "Smooth, Rough",
+          "Rough, Smooth",
+          "Wet, Dry",
+          "Dry, Wet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "______ make our work easier.",
+      "choices": [
+          "Inclined planes",
+          "Levers",
+          "Pulleys",
+          "Machines"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "A ______ is made up of two inclined planes.",
+      "choices": [
+          "Lever",
+          "Pulley",
+          "Wedge",
+          "Wheel and axle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "______ are materials that release energy when burnt.",
+      "choices": [
+          "Fuels",
+          "Machines",
+          "Metals",
+          "Wood"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "To generate electricity by windmills, the form of energy used is ______.",
+      "choices": [
+          "Wind energy",
+          "Solar energy",
+          "Fuel energy",
+          "Muscular energy"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "To pedal a bicycle, the form of energy used is ______.",
+      "choices": [
+          "Wind energy",
+          "Solar energy",
+          "Fuel energy",
+          "Muscular energy"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "To run a car, the form of energy used is ______.",
+      "choices": [
+          "Wind energy",
+          "Solar energy",
+          "Fuel energy",
+          "Muscular energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In photosynthesis, the form of energy used is ______.",
+      "choices": [
+          "Wind energy",
+          "Solar energy",
+          "Fuel energy",
+          "Muscular energy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The force exerted on all objects by the earth is called",
+      "choices": [
+          "frictional force",
+          "muscular force",
+          "gravitational force",
+          "none of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "We are able to walk because of the ______ between our feet and the ground.",
+      "choices": [
+          "smoothness",
+          "friction",
+          "energy",
+          "force"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Fuels are materials that release ______ when they are burnt.",
+      "choices": [
+          "work",
+          "energy",
+          "motion",
+          "force"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is NOT a fuel mentioned in the text?",
+      "choices": [
+          "Petrol",
+          "Diesel",
+          "Compressed natural gas (CNG)",
+          "Water"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the text, which of the following is used at home for cooking?",
+      "choices": [
+          "Petrol",
+          "Diesel",
+          "Liquefied petroleum gas (LPG)",
+          "Kerosene"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Work is said to be done when a ______ acts on an object and the object moves in the direction of the ______.",
+      "choices": [
+          "energy, force",
+          "force, energy",
+          "force, force",
+          "energy, energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which helps us to do physical work?",
+      "choices": [
+          "Gravity",
+          "Muscular energy",
+          "Solar energy",
+          "Potential energy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of a simple machine?",
+      "choices": [
+          "Car",
+          "Lever",
+          "Television",
+          "Computer"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a natural source of energy?",
+      "choices": [
+          "Petrol",
+          "Wind",
+          "Diesel",
+          "CNG"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following are fuels?",
+      "choices": [
+          "Trucks",
+          "Cars",
+          "Petrol",
+          "Scooters"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the other name of Liquefied Petroleum Gas?",
+      "choices": [
+          "CNG",
+          "LPG",
+          "Methane",
+          "Ethane"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of energy do vehicles use to move?",
+      "choices": [
+          "solar energy",
+          "chemical energy",
+          "hydro energy",
+          "kinetic energy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many types of simple machines are there?",
+      "choices": [
+          "Two",
+          "Three",
+          "Five",
+          "Six"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Force is a ______.",
+      "choices": [
+          "push",
+          "pull",
+          "push or a pull",
+          "all of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Friction is a force that ______.",
+      "choices": [
+          "helps motion",
+          "opposes motion",
+          "is gravitational",
+          "is muscular"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What gives us the ability to do work?",
+      "choices": [
+          "Food",
+          "Energy",
+          "Water",
+          "Air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The ability to do work is called:",
+      "choices": [
+          "Power",
+          "Strength",
+          "Energy",
+          "Motion"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The energy stored in our muscles to do physical work is called:",
+      "choices": [
+          "Solar energy",
+          "Wind energy",
+          "Muscular energy",
+          "Chemical energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who uses muscular energy all the time?",
+      "choices": [
+          "Plants",
+          "Humans",
+          "Animals",
+          "Both Humans and Animals"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What do we get energy from?",
+      "choices": [
+          "the Sun",
+          "Water",
+          "the food we eat",
+          "Wind"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The energy that we obtain from the sun is called:",
+      "choices": [
+          "Wind energy",
+          "Solar energy",
+          "Water energy",
+          "Geothermal energy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Solar heaters are used to heat:",
+      "choices": [
+          "Buildings",
+          "Water",
+          "Air",
+          "Food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What gas is used as fuel for cooking and lighting up homes in villages?",
+      "choices": [
+          "Oxygen",
+          "Nitrogen",
+          "Gobar gas",
+          "Carbon dioxide"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Gobar gas is a:",
+      "choices": [
+          "harmful fuel",
+          "polluted fuel",
+          "environment-friendly fuel",
+          "expensive fuel"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Wind and water are:",
+      "choices": [
+          "man-made resources",
+          "limited resources",
+          "natural resources",
+          "expensive resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are used for grinding grain?",
+      "choices": [
+          "Solar cookers",
+          "Windmills and watermills",
+          "Solar batteries",
+          "Gobar gas plants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do wind turbines use to generate electricity?",
+      "choices": [
+          "Solar energy",
+          "Water energy",
+          "Wind energy",
+          "Geothermal energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Hydropower stations use the energy of flowing __________ to generate electricity.",
+      "choices": [
+          "Wind",
+          "Sun",
+          "Water",
+          "Gas"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Grandparents used solar energy for preparation of?",
+      "choices": [
+          "Pickles",
+          "Juices",
+          "Foods",
+          "Cookies"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Muppandal wind farm is situated in which Indian State?",
+      "choices": [
+          "Kerala",
+          "Tamil Nadu",
+          "Karnataka",
+          "Andhra Pradesh"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of simple machine is a screw?",
+      "choices": [
+          "Lever",
+          "Inclined plane",
+          "Pulley",
+          "Wedge"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a screw used for?",
+      "choices": [
+          "To cut things",
+          "To split food",
+          "To raise or lower things",
+          "To lift heavy things"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT an example of a screw?",
+      "choices": [
+          "Jar lid",
+          "Light bulb",
+          "Wrench",
+          "Knife"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is a wedge used for?",
+      "choices": [
+          "To lift heavy objects",
+          "To hold things together",
+          "To push two objects apart",
+          "To turn objects"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a wedge made up of?",
+      "choices": [
+          "A wheel and a rope",
+          "Two inclined planes",
+          "A single flat surface",
+          "A curved surface"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of a wedge?",
+      "choices": [
+          "Wheel",
+          "Axe",
+          "Screw",
+          "Rope"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a pulley made up of?",
+      "choices": [
+          "A wheel and a rope",
+          "Two inclined planes",
+          "A long, narrow cut",
+          "A lever"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the rope fit into on a pulley?",
+      "choices": [
+          "The handle",
+          "The base",
+          "The groove",
+          "The top"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What makes a pulley useful?",
+      "choices": [
+          "It is easy to carry",
+          "It is easy to draw water from a well",
+          "It helps to cut things",
+          "It makes a loud noise"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the 'For teachers' section, what should a teacher have the students do?",
+      "choices": [
+          "Move their beds",
+          "Push a book",
+          "Hand over books to each other",
+          "Pull a rope"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the 'For teachers' section, what should the teacher observe?",
+      "choices": [
+          "What happens when weight increases on their hands",
+          "What the books are about",
+          "How the students push the books",
+          "How high students stack the books"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the effect of turning a lid on a jar?",
+      "choices": [
+          "It splits the jar in half",
+          "It helps the lid to raise or lower",
+          "It makes the jar heavier",
+          "It changes the shape of the jar"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a fork used for?",
+      "choices": [
+          "Splitting wood",
+          "Cutting or splitting food",
+          "Tightening screws",
+          "Lifting heavy objects"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Vocabulary section defines \"groove\" as?",
+      "choices": [
+          "a type of fruit",
+          "a simple machine",
+          "a long narrow cut in the surface of something hard",
+          "a smooth surface"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, what will you do if asked to move your bed?",
+      "choices": [
+          "Push the bed hard with all of your energy",
+          "Ask for help",
+          "Break the bed",
+          "Sit on the bed"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does a lever make easier?",
+      "choices": [
+          "Moving or lifting weights",
+          "Opening bottle caps",
+          "Cutting things",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the most common example of a lever?",
+      "choices": [
+          "Bottle opener",
+          "See-saw",
+          "Nail cutter",
+          "Scissors"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does a lever consists of?",
+      "choices": [
+          "A curved line that rests on a point",
+          "A circular plate that rests on a point",
+          "A square block that rests on a point",
+          "A rod that rests on a point"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT an example of a lever?",
+      "choices": [
+          "Bottle opener",
+          "Nail cutter",
+          "Scissors",
+          "Wheel and axle"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is an inclined plane?",
+      "choices": [
+          "A curved surface that is higher on one end.",
+          "A flat surface that is lower on one end.",
+          "A flat surface that is higher on one end.",
+          "A bumpy surface that is higher on one end."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the use of an inclined plane?",
+      "choices": [
+          "To move an object to a lower or higher place.",
+          "To cut objects into two pieces.",
+          "To lift objects very high.",
+          "To make objects lighter."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of inclined plane?",
+      "choices": [
+          "To need less energy and force",
+          "To need more energy and force",
+          "To need same amount of energy and force",
+          "To need no energy and force"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of an inclined plane?",
+      "choices": [
+          "Bicycle",
+          "Stair",
+          "Slide",
+          "A and C"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is wheel and axle?",
+      "choices": [
+          "A combination of a wheel and a cylindrical rod.",
+          "A combination of a rod and a rope.",
+          "A combination of two rods.",
+          "A combination of two ropes."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is cylindrical rod called that goes through the wheel?",
+      "choices": [
+          "Sleeve",
+          "Axel",
+          "Spindle",
+          "Axle"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How does a wheel and axle work?",
+      "choices": [
+          "When the wheel rotates, it does not move the rod.",
+          "When the wheel rotates, it moves the rod and vice versa.",
+          "When the wheel rotates, it melts the rod.",
+          "When the wheel rotates, it breaks the rod."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of arrangement does a bullock cart use?",
+      "choices": [
+          "Wheel and rope",
+          "Wheel and axle",
+          "Lever and fulcrum",
+          "Inclined plane and ramp"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens with wheel and axles?",
+      "choices": [
+          "It is easy to move things from one place to another.",
+          "It is harder to move things from one place to another.",
+          "It is impossible to move things from one place to another.",
+          "It is very dangerous to move things from one place to another."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where are wheel and axle arrangement used?",
+      "choices": [
+          "Bicycles",
+          "Cars",
+          "Sewing machine",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT an example of wheel and axle arrangement?",
+      "choices": [
+          "Bicycles",
+          "Stair",
+          "Cars",
+          "Door knobs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is said to be done when a force acts on an object?",
+      "choices": [
+          "Motion",
+          "Work",
+          "Energy",
+          "Power"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When is there no work done?",
+      "choices": [
+          "When the object moves in the direction of the force",
+          "When the force is large",
+          "When the object does not move in the direction of the force",
+          "When the object moves slowly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is an example of no work being done?",
+      "choices": [
+          "Pushing a box",
+          "Lifting a weight",
+          "A person walking with a box on his head",
+          "Pulling a cart"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the example of the person walking with a box on his head, what direction is the force being applied in?",
+      "choices": [
+          "Forward",
+          "Downward",
+          "Upward",
+          "Backward"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who did work according to Fig. 10.4 and 10.5?",
+      "choices": [
+          "Yamini and Yash",
+          "Only Yash",
+          "Only Yamini",
+          "Neither Yamini nor Yash"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What makes our work easier?",
+      "choices": [
+          "Complex machines",
+          "Simple machines",
+          "Heavy objects",
+          "Difficult tasks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the tools called that make our work easier?",
+      "choices": [
+          "Complex machines",
+          "Simple machines",
+          "Difficult tasks",
+          "Heavy objects"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many types of simple machines are there?",
+      "choices": [
+          "Four",
+          "Five",
+          "Six",
+          "Seven"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a type of simple machine?",
+      "choices": [
+          "Engine",
+          "Lever",
+          "Motor",
+          "Computer"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of a simple machine?",
+      "choices": [
+          "Car",
+          "Inclined plane",
+          "Television",
+          "Refrigerator"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is NOT a simple machine?",
+      "choices": [
+          "Wedge",
+          "Screw",
+          "Pulley",
+          "Bicycle"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following cases is no work done?",
+      "choices": [
+          "Moving a box by pushing it",
+          "Pulling a cart",
+          "A child pushing a bed, but not able to move it",
+          "Lifting a bucket of water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is another example of a simple machine?",
+      "choices": [
+          "Car",
+          "Fan",
+          "Wheel and axle",
+          "Washing machine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is an example of tools we use in our daily lives?",
+      "choices": [
+          "Knives",
+          "Nail Cutters",
+          "Scissors",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Simple machines have how many moving parts?",
+      "choices": [
+          "Few or no",
+          "Many",
+          "Infinite",
+          "Zero"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the invisible force that opposes the motion of an object called?",
+      "choices": [
+          "Gravity",
+          "Magnetism",
+          "Friction",
+          "Inertia"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which type of surface offers a greater force of friction?",
+      "choices": [
+          "Smooth surface",
+          "Rough surface",
+          "Wet surface",
+          "Icy surface"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do we have to walk carefully on a wet, slippery surface?",
+      "choices": [
+          "Because it offers a lot of friction",
+          "Because it offers almost no friction",
+          "Because it is too hot",
+          "Because it is too cold"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens when a vehicle would skid on a smooth road that gives no friction?",
+      "choices": [
+          "It would move faster",
+          "It would lead to accidents",
+          "It would stop immediately",
+          "It would be easier to control"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The soles of our shoes and slippers _____ over time due to friction.",
+      "choices": [
+          "stay new",
+          "wear out",
+          "get stronger",
+          "become slippery"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which activity is suggested to understand the force of friction?",
+      "choices": [
+          "Using a toy car",
+          "Using a magnet",
+          "Using water",
+          "Using fire"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What happens to the toy car when pushed harder?",
+      "choices": [
+          "It stops after covering less distance.",
+          "It stops after covering a greater distance.",
+          "It keeps moving forever.",
+          "It reverses direction."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Friction helps our feet to get a _____ on the ground, which enables us to walk.",
+      "choices": [
+          "Grip",
+          "Slip",
+          "Push",
+          "Pull"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does an icy surface offer?",
+      "choices": [
+          "A lot of friction",
+          "Very little friction",
+          "Moderate friction",
+          "No effect on friction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does friction help a vehicle to do?",
+      "choices": [
+          "Grip the ground",
+          "Fly",
+          "Float",
+          "Sink"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does friction cause to the tyres of a vehicle?",
+      "choices": [
+          "Wear and tear",
+          "Becoming stronger",
+          "Becoming more efficient",
+          "Becoming frictionless"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What happens in the first case, when the toy car is placed on the floor and pushed?",
+      "choices": [
+          "It keeps moving forever",
+          "It stops after travelling some distance",
+          "It reverses direction",
+          "It accelerates continuously"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does it mean to 'wear out'?",
+      "choices": [
+          "To suddenly slide forward or sideways",
+          "To be used until no longer in working condition",
+          "To gain weight",
+          "To become stronger"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does it mean to 'skid'?",
+      "choices": [
+          "To suddenly slide forward or sideways",
+          "To stand perfectly still",
+          "To move slowly",
+          "To move uphill"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the teacher want the students to do?",
+      "choices": [
+          "To walk barefoot on the ice",
+          "To walk few steps with and without shoes on the home tiles and school garden",
+          "To only wear shoes",
+          "To only wear barefeet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the two forces in nature mentioned in the text that we experience every day?",
+      "choices": [
+          "Magnetism and Electricity",
+          "Gravitational force or gravity and Frictional force or friction",
+          "Heat and Cold",
+          "Light and Darkness"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When you throw a ball high up in the sky, what happens to it at first?",
+      "choices": [
+          "It explodes",
+          "It floats",
+          "It goes up",
+          "It turns into a bird"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to the ball after it goes up in the sky?",
+      "choices": [
+          "It turns into a star",
+          "It comes to the ground",
+          "It continues to go up",
+          "It disappears"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What force pulls all objects towards itself?",
+      "choices": [
+          "Magnetic Force",
+          "Electrical Force",
+          "Gravitational force or gravity",
+          "Pushing force"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The earth's gravity prevents us from what?",
+      "choices": [
+          "Breathing",
+          "Flying away",
+          "Sleeping",
+          "Eating"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What also remains on earth because of gravity?",
+      "choices": [
+          "Clouds",
+          "Air",
+          "The water in the ponds, lakes, rivers, seas, and oceans",
+          "Stars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do we have to apply to lift a box and overcome the force of gravity?",
+      "choices": [
+          "A song",
+          "A force",
+          "A wish",
+          "A prayer"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A _________ is a push or a pull.",
+      "choices": [
+          "Magnet",
+          "Force",
+          "Friend",
+          "Rock"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A force can _________ a moving object.",
+      "choices": [
+          "Stop",
+          "Create",
+          "See",
+          "Smell"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "When we jump up, _________ pulls us back on earth.",
+      "choices": [
+          "Magnet",
+          "Gravity",
+          "A friend",
+          "An angel"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In football, shooting a penalty is an example of a force _________ an object at rest.",
+      "choices": [
+          "Stopping",
+          "Starting",
+          "Helping",
+          "Seeing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "To hold anything in our hand, we have to apply a _________ to prevent it from falling down.",
+      "choices": [
+          "Force",
+          "Magic",
+          "Glue",
+          "Sticker"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is force defined as?",
+      "choices": [
+          "Only a push.",
+          "Only a pull.",
+          "A push or a pull acting on an object.",
+          "Energy that moves objects."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the reading goals, which of the following is not a form of energy discussed in the chapter?",
+      "choices": [
+          "Muscular Energy",
+          "Solar Energy",
+          "Water Energy",
+          "Chemical Energy"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "According to the reading goals, what is covered in this chapter?",
+      "choices": [
+          "Gravity and friction",
+          "Simple machines",
+          "Work",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "A force can change the speed and direction of a:",
+      "choices": [
+          "Stationary object",
+          "Moving object",
+          "Liquid",
+          "Gas"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What will you apply on the ball to stop it from reaching the goal post?",
+      "choices": [
+          "Energy",
+          "Force",
+          "Work",
+          "Gravity"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A force can move an:",
+      "choices": [
+          "Shape",
+          "Object",
+          "Energy",
+          "Direction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A force can stop a moving:",
+      "choices": [
+          "Speed",
+          "Direction",
+          "Object",
+          "Energy"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "A force can change the shape of an:",
+      "choices": [
+          "Speed",
+          "Direction",
+          "Object",
+          "Energy"
+      ],
+      "correctAnswer": 2
+  }
+]

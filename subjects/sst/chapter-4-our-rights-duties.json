@@ -1,0 +1,302 @@
+[
+  {
+      "question": "Which of the following is NOT one of the components listed under 'The Constitution'?",
+      "choices": [
+          "Sovereign",
+          "Socialist",
+          "Secular",
+          "Capitalist"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is a Fundamental Right?",
+      "choices": [
+          "Right to own property",
+          "Right to equality",
+          "Right to vote",
+          "Right to travel abroad"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name of the day that celebrates the Indian Constitution coming into effect?",
+      "choices": [
+          "Independence Day",
+          "Republic Day",
+          "Gandhi Jayanti",
+          "Constitution Day"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a 'Constitution' according to the definition provided?",
+      "choices": [
+          "A historical document",
+          "A set of suggestions for the government",
+          "A document that lays down the fundamental principles according to which a country is governed",
+          "A religious scripture"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Sovereign' mean, according to the text?",
+      "choices": [
+          "Ruled by a monarch",
+          "India is dependent on other countries",
+          "India is independent and free to govern itself",
+          "Controlled by a foreign power"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Socialist' mean, according to the text?",
+      "choices": [
+          "The government controls all aspects of life",
+          "India holds and treats all people equally",
+          "The government favors certain groups of people",
+          "India is ruled by a socialist party"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'Secular' mean, according to the text?",
+      "choices": [
+          "The state promotes one particular religion",
+          "The state is against all religions",
+          "India considers all religions equal, and people are free to practice any religion",
+          "The state is run by religious leaders"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Democratic' mean, according to the text?",
+      "choices": [
+          "Ruled by a dictator",
+          "India's government is elected by its people",
+          "Ruled by a small group of elites",
+          "Ruled by the military"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the age to be eligible to vote in elections?",
+      "choices": [
+          "16 years",
+          "18 years",
+          "21 years",
+          "25 years"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'Republic' mean, according to the text?",
+      "choices": [
+          "A country ruled by a king or queen",
+          "A country that is governed by elected representatives and headed by the President",
+          "A country with no government",
+          "A country ruled by a religious leader"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the process to change some of the rules in the Constitution?",
+      "choices": [
+          "Simple majority vote",
+          "Referendum",
+          "Constitutional Amendments",
+          "Presidential Decree"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the rights given to the people of the country known as?",
+      "choices": [
+          "Fundamental Rights",
+          "Fundamental Duties",
+          "Directive Principles",
+          "Human Rights"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are the duties that all Indians have to perform known as?",
+      "choices": [
+          "Fundamental Rights",
+          "Fundamental Duties",
+          "Directive Principles",
+          "Moral Obligations"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the certain principles or guidelines that our government has to follow known as?",
+      "choices": [
+          "Fundamental Rights",
+          "Fundamental Duties",
+          "Directive Principles",
+          "Government Policies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a 'Preamble' according to the definition provided?",
+      "choices": [
+          "A historical document",
+          "A set of suggestions for the government",
+          "Introductory part of a document",
+          "A religious scripture"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Indian Constitution came into effect on:",
+      "choices": [
+          "15th January 1947",
+          "15th August 1947",
+          "26th January 1950",
+          "15th August 1950"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Respecting the national flag and the national anthem is a:",
+      "choices": [
+          "Fundamental Right",
+          "Fundamental Duty",
+          "Directive Principle",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Government cannot differentiate between people on the basis of:",
+      "choices": [
+          "Caste",
+          "Colour",
+          "Religion",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "No one can employ children below _____ years of age in India.",
+      "choices": [
+          "18",
+          "17",
+          "14",
+          "15"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many Fundamental Rights does the Indian Constitution guarantee?",
+      "choices": [
+          "Four",
+          "Five",
+          "Six",
+          "Seven"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a Fundamental Duty?",
+      "choices": [
+          "To defend the country when it is in danger.",
+          "To treat all people equally.",
+          "To take care of the environment.",
+          "To elect the Prime Minister"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What ensures that no one can be exploited?",
+      "choices": [
+          "Right to Equality",
+          "Right to Freedom",
+          "Right against Exploitation",
+          "Right to Constitutional Remedies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the Fundamental Duties, the citizens are expected to:",
+      "choices": [
+          "Follow the ideals given in the Constitution",
+          "Disregard the Constitution",
+          "Change the Constitution",
+          "Burn the national flag"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'Right to Equality' mean?",
+      "choices": [
+          "All citizens are allowed to travel anywhere.",
+          "All citizens are equal",
+          "Citizens are free to practice any religion.",
+          "Courts protect our Fundamental Rights."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do you call the guidelines laid down for the Government to follow?",
+      "choices": [
+          "Fundamental Rights",
+          "Fundamental Duties",
+          "Directive Principles",
+          "Constitutional Remedies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which right ensures that our courts protect our fundamental rights?",
+      "choices": [
+          "Right to Equality",
+          "Right to Freedom",
+          "Cultural and Educational Rights",
+          "Right to Constitutional Remedies"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Citizens are free to practice any religion is under what right?",
+      "choices": [
+          "Right to equality",
+          "Right to freedom",
+          "Right to freedom of religion",
+          "Cultural and educational rights"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Our Constitution has a set of rules according to which a government runs a ______",
+      "choices": [
+          "school",
+          "house",
+          "country",
+          "business"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the Right to Freedom?",
+      "choices": [
+          "All Indians are equal",
+          "All citizens have the right to speech and expression, reside in or travel to any part of the country",
+          "Ensures that no one can be exploited",
+          "Citizens are free to practice any religion"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "India is a ______, socialist, secular, and democratic republic.",
+      "choices": [
+          "dictatorship",
+          "democracy",
+          "sovereign",
+          "authoritarian"
+      ],
+      "correctAnswer": 2
+  }
+]

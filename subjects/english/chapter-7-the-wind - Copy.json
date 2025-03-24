@@ -1,0 +1,307 @@
+[
+    {
+        "question": "What is a contraction?",
+        "choices": [
+            "A long form of a word.",
+            "The short form of a word.",
+            "A type of punctuation.",
+            "A noun."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which punctuation mark is used in place of dropped letters in a contraction?",
+        "choices": [
+            "Comma",
+            "Period",
+            "Apostrophe",
+            "Colon"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'cannot'?",
+        "choices": [
+            "can't",
+            "cannot'",
+            "canno't",
+            "cant"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'are not'?",
+        "choices": [
+            "aren't",
+            "ar'nt",
+            "arent'",
+            "arnot"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'did not'?",
+        "choices": [
+            "dint",
+            "didnt",
+            "didn't",
+            "di'dnt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'would not'?",
+        "choices": [
+            "woudn't",
+            "woodn't",
+            "wouldnt",
+            "wouldn't"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the contraction of 'is not'?",
+        "choices": [
+            "isnt",
+            "is'nt",
+            "isn't",
+            "i'snt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'we are'?",
+        "choices": [
+            "we're",
+            "were",
+            "ware",
+            "wear"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'she is'?",
+        "choices": [
+            "sh'e",
+            "she'e",
+            "she's",
+            "shes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'I am'?",
+        "choices": [
+            "I'amm",
+            "iam",
+            "I'm",
+            "im"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following completes the simile 'as clean as a...'?",
+        "choices": [
+            "crystal",
+            "whistle",
+            "snow",
+            "hills"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following completes the simile 'as light as a...'?",
+        "choices": [
+            "crystal",
+            "whistle",
+            "feather",
+            "sloth"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following completes the simile 'as white as...'?",
+        "choices": [
+            "feather",
+            "crystal",
+            "whistle",
+            "snow"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following completes the simile 'as clear as...'?",
+        "choices": [
+            "sloth",
+            "crystal",
+            "whistle",
+            "snow"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following completes the simile 'as slow as a...'?",
+        "choices": [
+            "feather",
+            "crystal",
+            "whistle",
+            "sloth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Match the word 'tempest' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Match the word 'breeze' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Match the word 'gust' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Match the word 'draught' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Match the word 'gale' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Who is the author of the poem 'The Wind'?",
+        "choices": [
+            "Unknown",
+            "Robert Frost",
+            "Robert Louis Stevenson",
+            "William Wordsworth"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the first stanza, what does the wind toss on high?",
+        "choices": [
+            "Leaves",
+            "Clouds",
+            "Kites",
+            "Birds"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the poem, what does the wind sound like as it passes?",
+        "choices": [
+            "Silence",
+            "Loud roar",
+            "Singing",
+            "Whispering"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the poem, the sound of wind blowing across the grass is compared to:",
+        "choices": [
+            "Bird song",
+            "Ladies' skirts",
+            "Rustling leaves",
+            "A gentle stream"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The phrase 'a-blowing' is:",
+        "choices": [
+            "A modern term",
+            "A technical term",
+            "A poetic way of saying 'blowing'",
+            "Incorrect grammar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The wind is described as being strong and what other quality?",
+        "choices": [
+            "Calm",
+            "Gentle",
+            "Cold",
+            "Warm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the poem, the poet says that he felt the wind do what?",
+        "choices": [
+            "Sleep",
+            "Dance",
+            "Push",
+            "Hide"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The speaker in the poem can feel the wind but:",
+        "choices": [
+            "Cannot hear it",
+            "Cannot see it",
+            "Cannot smell it",
+            "Cannot taste it"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The poet asks the wind if it is a:",
+        "choices": [
+            "Bird of the sky",
+            "Beast of the field and tree",
+            "Fish of the sea",
+            "Star of the night"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What features does the NCF include in this lesson?",
+        "choices": [
+            "Real-life situations, Subject integration, and Analytical Thinking",
+            "Fiction, Poetry, and Drama",
+            "History, Math, and Geography",
+            "Science, Literature, and Culture"
+        ],
+        "correctAnswer": 0
+    }
+]

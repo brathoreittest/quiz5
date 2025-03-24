@@ -1,0 +1,1522 @@
+[
+  {
+      "question": "How many planets are there in the solar system?",
+      "choices": [
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Earth makes one rotation on its axis in how many hours?",
+      "choices": [
+          "12 hours",
+          "18 hours",
+          "24 hours",
+          "30 hours"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What movement of the Earth is completed in 24 hours?",
+      "choices": [
+          "Revolution",
+          "Rotation",
+          "Orbit",
+          "Circumnavigation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rotation causes what?",
+      "choices": [
+          "Seasons",
+          "Day and night",
+          "Year",
+          "Climate"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Revolution causes what?",
+      "choices": [
+          "Day and night",
+          "Seasons",
+          "Tides",
+          "Eclipses"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Uranus was discovered in the year 1781. How many years ago was it discovered if it's the year 2024?",
+      "choices": [
+          "240 years ago",
+          "241 years ago",
+          "242 years ago",
+          "243 years ago"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "If Earth makes one revolution around the sun in 365 and 1/4 days, how many days will Earth take to make four revolutions?",
+      "choices": [
+          "1460 days",
+          "1461 days",
+          "1462 days",
+          "1463 days"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Earth makes one rotation on its axis in 24 hours. How many rotations does Earth complete in a week?",
+      "choices": [
+          "5 rotations",
+          "6 rotations",
+          "7 rotations",
+          "8 rotations",
+          "None of the above"
+      ],
+      "correctAnswer": 4
+  },
+  {
+      "question": "Earth makes one rotation on its axis in 24 hours. How many rotations does Earth complete in a week?",
+      "choices": [
+          "160 rotations",
+          "164 rotations",
+          "168 rotations",
+          "172 rotations",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many paper balls should be made?",
+      "choices": [
+          "Seven",
+          "Eight",
+          "Nine",
+          "Ten"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do the paper balls represent?",
+      "choices": [
+          "Stars and moons",
+          "Sun and planets",
+          "Asteroids and comets",
+          "Galaxies"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these items is NOT listed as required for the project?",
+      "choices": [
+          "Thin long stick",
+          "Waste paper",
+          "Water colours",
+          "Scissors"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which paper ball should be the largest?",
+      "choices": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Sun"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "After the sun, what planet should come first?",
+      "choices": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do after putting the planets on a stick?",
+      "choices": [
+          "Hang it from the ceiling",
+          "Place it on a white chart paper",
+          "Paint the stick black",
+          "Show it to your parents"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the only planet in our solar system known to have life?",
+      "choices": [
+          "Mars",
+          "Venus",
+          "Earth",
+          "Jupiter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are scientists trying to find out on other planets?",
+      "choices": [
+          "Possibility of rain",
+          "Possibility of mountains",
+          "Possibility of life",
+          "Possibility of volcanoes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the fifth from the sun?",
+      "choices": [
+          "Earth",
+          "Jupiter",
+          "Saturn",
+          "Mars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do with the paper balls to represent the planets?",
+      "choices": [
+          "Decorate them with glitter",
+          "Colour each ball",
+          "Cover them in glue",
+          "Stack them in a tower"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the last step of the project?",
+      "choices": [
+          "Show it to your friends",
+          "Clean up your desk",
+          "Take a picture of it",
+          "Write a report"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What do you need to represent planets on the stick?",
+      "choices": [
+          "Stickers",
+          "Paper balls",
+          "Glitter",
+          "Paint"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you draw for each planet?",
+      "choices": [
+          "Orbit",
+          "Stars",
+          "Rocket",
+          "Moon"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the first planet to follow after the sun in making the solar system?",
+      "choices": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Mercury"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Why is the moon mentioned in the discussion?",
+      "choices": [
+          "It has life on it.",
+          "Recent studies are trying to find out the possibility of life on it.",
+          "It is a planet.",
+          "It makes life possible on Earth."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following forms the solar system?",
+      "choices": [
+          "Stars only",
+          "Planets only",
+          "Sun, planets, satellites, and other celestial bodies",
+          "Galaxies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the hottest in the solar system?",
+      "choices": [
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Mars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a satellite?",
+      "choices": [
+          "A natural object orbiting the sun.",
+          "A celestial body orbiting a planet.",
+          "A planet that orbits a star.",
+          "A small star in the solar system."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is an orbit?",
+      "choices": [
+          "A straight line path in space.",
+          "The curved path of a celestial object around a star, planet, or moon.",
+          "A point in space where there is no gravity.",
+          "The edge of the solar system."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a planet?",
+      "choices": [
+          "Sun",
+          "Moon",
+          "Mars",
+          "Star"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why is Venus often referred to as the morning star?",
+      "choices": [
+          "Because it is the closest planet to the Sun.",
+          "Because it has a shiny surface.",
+          "Because it is often visible in the morning sky.",
+          "Because it reflects a lot of light from the Sun."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What causes days and nights on Earth?",
+      "choices": [
+          "The revolution of Earth around the Sun.",
+          "The rotation of Earth on its axis.",
+          "The tilt of Earth's axis.",
+          "Earth's distance from the sun"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What causes seasons on Earth?",
+      "choices": [
+          "Earth's rotation",
+          "Earth's revolution and tilt of the axis",
+          "Changes in the Sun's activity",
+          "Earth's distance from the Sun"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following correctly describes the difference between inner and outer planets?",
+      "choices": [
+          "Inner planets are gaseous, outer planets are rocky.",
+          "Inner planets are closer to the Sun, outer planets are farther.",
+          "Inner planets have rings, outer planets do not.",
+          "Inner planets have more moons than outer planets."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the difference between rotation and revolution of the Earth?",
+      "choices": [
+          "Rotation is the movement around its axis; revolution is the movement around the sun.",
+          "Rotation is the movement around the sun; revolution is the movement around its axis.",
+          "Rotation and revolution are the same thing.",
+          "Rotation causes seasons; revolution causes days and nights."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the difference between the axis and equator of the Earth?",
+      "choices": [
+          "Axis is a real line; the equator is imaginary.",
+          "The axis is an imaginary line around which Earth rotates; the equator is an imaginary line dividing the Earth into northern and southern hemispheres.",
+          "The axis is a line dividing the Earth into eastern and western hemispheres; the equator is a line running through the poles.",
+          "Axis and equator are the same"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is it night in the USA when it is daytime in India?",
+      "choices": [
+          "The Earth is flat.",
+          "Different parts of the Earth face the Sun at different times due to the Earth's rotation.",
+          "The Sun moves around the Earth.",
+          "The USA is in the Southern Hemisphere."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why does the Sun look bigger than other stars?",
+      "choices": [
+          "The sun is actually bigger than all other stars.",
+          "The sun is a planet.",
+          "The sun is closer to Earth than other stars.",
+          "The sun reflects more light than other stars."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why don't we feel hot when we stand outside in moonlight?",
+      "choices": [
+          "Moonlight blocks the Sun's rays.",
+          "The moon reflects very little sunlight and doesn't emit much heat.",
+          "Moonlight only appears at night.",
+          "It is a question of preference"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is Mars known as the red planet?",
+      "choices": [
+          "Because of its dense atmosphere.",
+          "Because it is the closest planet to the sun.",
+          "Because of the iron oxide (rust) on its surface.",
+          "It absorbs certain radiations"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is the smallest planet of the solar system?",
+      "choices": [
+          "Venus",
+          "Jupiter",
+          "Mercury",
+          "Uranus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the only one with life on it?",
+      "choices": [
+          "Neptune",
+          "Earth",
+          "Uranus",
+          "Jupiter"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many prominent rings are around Saturn?",
+      "choices": [
+          "five",
+          "nine",
+          "three",
+          "seven"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The ________ is an imaginary line running from the North Pole of Earth to the South Pole.",
+      "choices": [
+          "equator",
+          "ring",
+          "orbit",
+          "axis"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The tilt of Earth along with its revolution around the sun causes ________.",
+      "choices": [
+          "seasons",
+          "day",
+          "night",
+          "none of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "________ is known as the morning star.",
+      "choices": [
+          "Venus",
+          "Earth",
+          "Mars",
+          "Jupiter"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A ________ reflects the light of the sun.",
+      "choices": [
+          "Fast",
+          "Planet",
+          "Star",
+          "Moon"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Earth completes one ________ in 365 days and six hours.",
+      "choices": [
+          "round",
+          "rotation",
+          "revolution",
+          "orbit"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The moon is the natural ________ of Earth.",
+      "choices": [
+          "planet",
+          "star",
+          "satellite",
+          "asteroid"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The fixed path taken by a planet to revolve around the sun is called ________.",
+      "choices": [
+          "circle",
+          "orbit",
+          "path",
+          "trajectory"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Does Earth rotate?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Never"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Do planets give off light?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Always"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Does the Sun revolve around Earth?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Rarely"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Do stars give off light?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Never"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Does Earth ever stop revolving around the Sun?",
+      "choices": [
+          "Yes",
+          "No",
+          "Maybe",
+          "Unsure"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The ______ is a huge ball of burning gases.",
+      "choices": [
+          "moon",
+          "sun",
+          "Earth",
+          "Jupiter"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a gas giant?",
+      "choices": [
+          "Jupiter",
+          "Earth",
+          "Mercury",
+          "Mars"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A planet is a heavenly body that _______.",
+      "choices": [
+          "has a star moving around it",
+          "has a flat surface",
+          "revolves around a star",
+          "gives out light"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the solar system?",
+      "choices": [
+          "Just the Sun",
+          "Just the planets",
+          "The Sun along with its family of eight planets, their moons, and other heavenly bodies that revolve around it",
+          "The stars in the sky"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a planet?",
+      "choices": [
+          "A small rock in space",
+          "A large spherical object that revolves around a star",
+          "A star's satellite",
+          "A ball of fire"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a satellite?",
+      "choices": [
+          "A communication device",
+          "A large planet",
+          "A heavenly body that revolves around a planet",
+          "A star"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is axis?",
+      "choices": [
+          "An imaginary line that runs from the North Pole to the South Pole",
+          "A star's core",
+          "The path around the Sun",
+          "A galaxy's edge"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is equator?",
+      "choices": [
+          "A type of planet",
+          "The center of the Earth",
+          "An imaginary line that divides Earth into two halves",
+          "A pole of the Earth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is an orbit?",
+      "choices": [
+          "The movement of the Sun",
+          "The path of Earth along which it revolves around the Sun",
+          "A planet's core",
+          "The largest star"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is rotation?",
+      "choices": [
+          "The movement of stars",
+          "The spinning movement of Earth around its axis",
+          "A planet's orbit",
+          "A type of satellite"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is revolution?",
+      "choices": [
+          "The start of a new era",
+          "The movement of Earth around the Sun",
+          "A planet's formation",
+          "The speed of light"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the Moon?",
+      "choices": [
+          "A planet that revolves around the sun",
+          "A natural satellite of a planet revolving around it",
+          "A type of star",
+          "A galaxy far away"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The planets revolve round the Sun in a fixed path called an _______.",
+      "choices": [
+          "Axis",
+          "Orbit",
+          "Revolution",
+          "Rotation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rotation of the Earth causes _______.",
+      "choices": [
+          "Seasons",
+          "Day and night",
+          "Years",
+          "Weather"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The moon is the _______ satellite of the Earth.",
+      "choices": [
+          "Artificial",
+          "Natural",
+          "Main",
+          "Only"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who was the first human to land on the moon?",
+      "choices": [
+          "Rakesh Sharma",
+          "Kalpana Chawla",
+          "Neil Armstrong",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When did the first human land on the moon?",
+      "choices": [
+          "1970",
+          "1969",
+          "1968",
+          "1971"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who was the first Indian to go into space?",
+      "choices": [
+          "Kalpana Chawla",
+          "Neil Armstrong",
+          "Rakesh Sharma",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is one of the uses of artifical Satellites?",
+      "choices": [
+          "Weather forecasting",
+          "navigation",
+          "communications",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What do astronauts go into space in?",
+      "choices": [
+          "Rockets",
+          "Spaceships",
+          "Planes",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who was the first woman of Indian origin to go into space?",
+      "choices": [
+          "Rakesh Sharma",
+          "Kalpana Chawla",
+          "Neil Armstrong",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What objects do artificial satellites revolve around?",
+      "choices": [
+          "Only around the earth",
+          "Only around other planets",
+          "Around Earth and other planets",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Are artificial satellites human-made objects?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Earth moves around the Sun in a path called:",
+      "choices": [
+          "Axis",
+          "Revolution",
+          "Orbit",
+          "Hemisphere"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The motion of the Earth around the Sun is called:",
+      "choices": [
+          "Rotation",
+          "Orbit",
+          "Revolution",
+          "Tilted Axis"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To complete one revolution, Earth takes:",
+      "choices": [
+          "360 days",
+          "365 days",
+          "365 days and six hours",
+          "300 days"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The revolution of the Earth results in:",
+      "choices": [
+          "Earthquake",
+          "Change of seasons",
+          "Tsunami",
+          "Volcanic eruption"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Earth has a:",
+      "choices": [
+          "Flat surface",
+          "Tilted axis",
+          "Perfect circle",
+          "Straight line"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The hemisphere tilted towards the Sun receives:",
+      "choices": [
+          "Slanted sun-rays",
+          "Direct sun-rays",
+          "No sun-rays",
+          "Very cold air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The hemisphere tilted towards the Sun experiences:",
+      "choices": [
+          "Winter",
+          "Autumn",
+          "Summer",
+          "Spring"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The other hemisphere gets _________ sun rays and is cooler:",
+      "choices": [
+          "Direct",
+          "Slanted",
+          "Warm",
+          "Hot"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When the Northern Hemisphere is tilted towards the Sun, it has:",
+      "choices": [
+          "Winter",
+          "Autumn",
+          "Summer",
+          "Spring"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Southern Hemisphere has ________ when the Northern Hemisphere is tilted towards the sun.",
+      "choices": [
+          "Summer",
+          "Winter",
+          "Autumn",
+          "Spring"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The tilt of the Earth together with its motion around the Sun causes:",
+      "choices": [
+          "Earthquake",
+          "Tsunami",
+          "Seasons",
+          "Tornado"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "New Zealand lies in the:",
+      "choices": [
+          "Northern Hemisphere",
+          "Southern Hemisphere",
+          "Eastern Hemisphere",
+          "Western Hemisphere"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "India lies in the:",
+      "choices": [
+          "Northern Hemisphere",
+          "Southern Hemisphere",
+          "Eastern Hemisphere",
+          "Western Hemisphere"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "When New Zealand has summer, we have ________ in India.",
+      "choices": [
+          "Summer",
+          "Spring",
+          "Autumn",
+          "Winter"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Earth does not change its position _________ .",
+      "choices": [
+          "Quickly",
+          "Suddenly",
+          "In the next year",
+          "At all"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the two kinds of movements Earth shows?",
+      "choices": [
+          "Spinning and twirling",
+          "Rotation and revolution",
+          "Orbiting and revolving",
+          "Moving and turning"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the rotation of Earth?",
+      "choices": [
+          "The spinning motion of Earth on its axis",
+          "The movement of Earth around the Sun",
+          "The wobble of Earth on its axis",
+          "The changing of seasons"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the axis of Earth?",
+      "choices": [
+          "A physical rod that supports the Earth",
+          "An imaginary line running from east to west",
+          "An imaginary line running from the North Pole to the South Pole",
+          "The line where day and night meet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "At what angle is the Earth tilted?",
+      "choices": [
+          "45 degrees",
+          "90 degrees",
+          "23.5 degrees",
+          "0 degrees"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How long does it take for Earth to complete one rotation on its axis?",
+      "choices": [
+          "12 hours",
+          "24 hours",
+          "365 days",
+          "7 days"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the rotation of Earth on its own axis cause?",
+      "choices": [
+          "Seasons",
+          "Day and night",
+          "Eclipses",
+          "Tides"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When the Earth rotates on its axis, what happens to the half of it that faces the Sun?",
+      "choices": [
+          "It gets dark",
+          "It gets light and results in the formation of day",
+          "It gets cold",
+          "It gets rainy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens to the other half of the Earth, which faces away from the Sun?",
+      "choices": [
+          "It gets light",
+          "It does not get any light and it is night",
+          "It gets warm",
+          "It gets windy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If it is daytime in India, what is it in the USA according to the text?",
+      "choices": [
+          "Daytime",
+          "Night",
+          "Twilight",
+          "Dawn"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the aim of Activity 12.1?",
+      "choices": [
+          "To measure the Earth's circumference",
+          "To understand how days and nights are formed with the help of a globe",
+          "To study different climates on Earth",
+          "To learn about the Earth's layers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which direction should the globe be rotated in Activity 12.1?",
+      "choices": [
+          "East to west",
+          "North to south",
+          "West to east",
+          "South to north"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the direction the globe should be rotated?",
+      "choices": [
+          "Clockwise",
+          "Anticlockwise",
+          "Northward",
+          "Southward"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the dark portion of the globe indicate in the activity?",
+      "choices": [
+          "Sunrise",
+          "Sunset",
+          "Day",
+          "Night"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the imaginary line called that divides the Earth into two halves?",
+      "choices": [
+          "Prime Meridian",
+          "Equator",
+          "Tropic of Cancer",
+          "Tropic of Capricorn"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the two halves the Earth is divided into?",
+      "choices": [
+          "East and West",
+          "North and South",
+          "Northern Hemisphere and Southern Hemisphere",
+          "Land and Water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the Moon?",
+      "choices": [
+          "Earth's natural satellite",
+          "A planet in our solar system",
+          "A star",
+          "A man-made satellite"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Why do we feel hot in the sunlight?",
+      "choices": [
+          "Because the moon reflects sunlight",
+          "Because the sun is made of hot gases that give out light and heat",
+          "Because the air is hot",
+          "Because the moon has no air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Does the Moon have its own light?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Only during a full moon"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the moon made of?",
+      "choices": [
+          "Hot gases",
+          "Water",
+          "Hard rocks",
+          "Metal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the moon reflect?",
+      "choices": [
+          "The light of the Earth",
+          "The light of the stars",
+          "The light of the Sun",
+          "The light of other planets"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Does the Moon have air?",
+      "choices": [
+          "Yes",
+          "No",
+          "Only a little",
+          "Sometimes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "On what Indian festival is the Moon worshipped?",
+      "choices": [
+          "Diwali",
+          "Holi",
+          "Karva Chauth",
+          "Raksha Bandhan"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet has life on it?",
+      "choices": [
+          "Mars",
+          "Earth",
+          "Jupiter",
+          "Venus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is the largest planet in the solar system?",
+      "choices": [
+          "Saturn",
+          "Uranus",
+          "Jupiter",
+          "Neptune"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is known as the morning star?",
+      "choices": [
+          "Mars",
+          "Sun",
+          "Jupiter",
+          "Mercury"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is known as the red planet?",
+      "choices": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is closest to the sun?",
+      "choices": [
+          "Venus",
+          "Mercury",
+          "Earth",
+          "Mars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet has seven prominent rings around it?",
+      "choices": [
+          "Uranus",
+          "Neptune",
+          "Saturn",
+          "Jupiter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is farthest from the sun?",
+      "choices": [
+          "Neptune",
+          "Uranus",
+          "Saturn",
+          "Earth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is Earth's natural satellite?",
+      "choices": [
+          "Venus",
+          "Moon",
+          "Mars",
+          "Sun"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is closest to the Sun?",
+      "choices": [
+          "Venus",
+          "Earth",
+          "Mercury",
+          "Mars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is known as the 'morning star' or 'evening star'?",
+      "choices": [
+          "Mars",
+          "Venus",
+          "Mercury",
+          "Earth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many moons does Earth have?",
+      "choices": [
+          "0",
+          "1",
+          "2",
+          "79"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is known as the red planet?",
+      "choices": [
+          "Earth",
+          "Jupiter",
+          "Mercury",
+          "Mars"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which planet is the largest planet in the solar system?",
+      "choices": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet has spectacular rings?",
+      "choices": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet has unique movement and rotates sideways?",
+      "choices": [
+          "Neptune",
+          "Jupiter",
+          "Uranus",
+          "Saturn"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is known as the windiest of all the planets?",
+      "choices": [
+          "Saturn",
+          "Jupiter",
+          "Uranus",
+          "Neptune"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which planet is the second planet from the Sun?",
+      "choices": [
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Mars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is the third planet from the sun?",
+      "choices": [
+          "Venus",
+          "Earth",
+          "Mercury",
+          "Mars"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which planet is the fourth planet from the Sun?",
+      "choices": [
+          "Earth",
+          "Venus",
+          "Mars",
+          "Neptune"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the fifth planet from the sun and the first gas giant?",
+      "choices": [
+          "Earth",
+          "Venus",
+          "Mars",
+          "Jupiter"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which planet is the sixth planet from the Sun?",
+      "choices": [
+          "Earth",
+          "Venus",
+          "Saturn",
+          "Jupiter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the seventh planet from the Sun?",
+      "choices": [
+          "Earth",
+          "Venus",
+          "Uranus",
+          "Jupiter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which planet is the eighth planet from the Sun?",
+      "choices": [
+          "Earth",
+          "Venus",
+          "Uranus",
+          "Neptune"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "We live on a big planet called the:",
+      "choices": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Jupiter"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Earth receives light and heat from the:",
+      "choices": [
+          "Moon",
+          "Stars",
+          "Sun",
+          "Other planets"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many planets go around the Sun?",
+      "choices": [
+          "Seven",
+          "Nine",
+          "Eight",
+          "Ten"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Sun has a family known as the:",
+      "choices": [
+          "Milky Way",
+          "Solar system",
+          "Galaxy",
+          "Constellation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is at the centre of the solar system?",
+      "choices": [
+          "The Earth",
+          "The Moon",
+          "The Sun",
+          "A black hole"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Sun is a:",
+      "choices": [
+          "Planet",
+          "Star",
+          "Satellite",
+          "Asteroid"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the Sun give out?",
+      "choices": [
+          "Darkness",
+          "Cold",
+          "Heat and light",
+          "Shadows"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main source of energy in the entire solar system?",
+      "choices": [
+          "The Earth",
+          "The Moon",
+          "The Sun",
+          "Other planets"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do the heavenly bodies revolving around the Sun include?",
+      "choices": [
+          "The Sun",
+          "The Moon",
+          "The eight planets",
+          "Asteroids"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a planet?",
+      "choices": [
+          "A small, flat object",
+          "A large, spherical object",
+          "A natural source of light",
+          "A large, square object"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Do planets have their own light?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "It depends"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where do planets receive light from?",
+      "choices": [
+          "The Moon",
+          "Their star",
+          "Other planets",
+          "Comets"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do planets appear shiny?",
+      "choices": [
+          "They produce their own light",
+          "They are made of shiny materials",
+          "They reflect light from the star",
+          "They have a special coating"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If it is morning (9AM) in India, then it is night (10.30 PM) in which place?",
+      "choices": [
+          "Japan",
+          "North America",
+          "Australia",
+          "Europe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of path does the Earth take around the sun?",
+      "choices": [
+          "Square",
+          "Zigzag",
+          "Circular",
+          "Rectangular"
+      ],
+      "correctAnswer": 2
+  }
+]

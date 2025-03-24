@@ -1,0 +1,475 @@
+[
+    {
+        "question": "In the sentence, 'They will arrive late in the meeting', which word is the adverb?",
+        "choices": [
+            "They",
+            "Arrive",
+            "Late",
+            "Meeting"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'She ran quickly out of the room', which word is the adverb?",
+        "choices": [
+            "She",
+            "Ran",
+            "Quickly",
+            "Room"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'The temple opens daily at 5 a.m.', which word is the adverb?",
+        "choices": [
+            "The",
+            "Opens",
+            "Daily",
+            "Temple"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'The audience sat quickly for the drama', which word is the adverb?",
+        "choices": [
+            "Audience",
+            "Sat",
+            "Quickly",
+            "Drama"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'There was smoke everywhere in the room', which word is the adverb?",
+        "choices": [
+            "Smoke",
+            "Was",
+            "Everywhere",
+            "Room"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'Please put the bag here', which word is the adverb?",
+        "choices": [
+            "Put",
+            "Bag",
+            "Please",
+            "Here"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence, 'They arrived yesterday', which word is the adverb?",
+        "choices": [
+            "They",
+            "Arrived",
+            "Yesterday",
+            "None"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following adverbs can replace 'in anger' in the sentence, 'My neighbour spoke to my father in anger'?",
+        "choices": [
+            "Quietly",
+            "Angrily",
+            "Happily",
+            "Slowly"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following adverbs can replace 'with ease' in the sentence, 'The deer hopped over the rocks with ease'?",
+        "choices": [
+            "Heavily",
+            "Easily",
+            "Loudly",
+            "Sadly"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following adverbs can replace 'all of a sudden' in the sentence, 'The boss left the meeting all of a sudden'?",
+        "choices": [
+            "Suddenly",
+            "Slowly",
+            "Carefully",
+            "Regularly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'Vinay is always present for the meeting', which word is the adverb of frequency?",
+        "choices": [
+            "Vinay",
+            "present",
+            "always",
+            "meeting"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'My father rarely gets time to go out with us', which word is the adverb of frequency?",
+        "choices": [
+            "father",
+            "rarely",
+            "gets",
+            "time"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'I buy chocolates occasionally for myself', which word is the adverb of frequency?",
+        "choices": [
+            "buy",
+            "chocolates",
+            "occasionally",
+            "myself"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Smita never rides her bicycle alone', which word is the adverb of frequency?",
+        "choices": [
+            "Smita",
+            "never",
+            "rides",
+            "bicycle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'Generally I reach office before 9:00 am', which word is the adverb of frequency?",
+        "choices": [
+            "Generally",
+            "reach",
+            "office",
+            "before"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'Mrs. Rao goes to orphanage frequently', which word is the adverb of frequency?",
+        "choices": [
+            "Mrs.",
+            "Rao",
+            "orphanage",
+            "frequently"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'She seldom comes to meet her mother', which word is the adverb of frequency?",
+        "choices": [
+            "She",
+            "seldom",
+            "comes",
+            "mother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'Sometimes I forget to arrange my bag', which word is the adverb of frequency?",
+        "choices": [
+            "Sometimes",
+            "forget",
+            "arrange",
+            "bag"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'He goes to the temple regularly', which word is the adverb of frequency?",
+        "choices": [
+            "He",
+            "goes",
+            "temple",
+            "regularly"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'The teacher never wants us to perform badly', which word is the adverb of frequency?",
+        "choices": [
+            "teacher",
+            "never",
+            "wants",
+            "badly"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "You must study (today / never).",
+        "choices": [
+            "today",
+            "never"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "She came here (today / now).",
+        "choices": [
+            "today",
+            "now"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your time starts (now / yesterday).",
+        "choices": [
+            "now",
+            "yesterday"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rehana went to Italy (ago / last year).",
+        "choices": [
+            "ago",
+            "last year"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I've been to Goa (recently / long ago).",
+        "choices": [
+            "recently",
+            "long ago"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I think you've met me (before / ago).",
+        "choices": [
+            "before",
+            "ago"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I'll go there (yesterday / tomorrow).",
+        "choices": [
+            "yesterday",
+            "tomorrow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "It is raining (now / before).",
+        "choices": [
+            "now",
+            "before"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Try to come home (early / late).",
+        "choices": [
+            "early",
+            "late"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I had spoken to him (yesterday / tomorrow).",
+        "choices": [
+            "yesterday",
+            "tomorrow"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'Who moved the chairs outside?'",
+        "choices": [
+            "Who",
+            "chairs",
+            "moved",
+            "outside"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'Come here, I've something for you.'",
+        "choices": [
+            "Come",
+            "here",
+            "something",
+            "for"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'My friend always remains inside.'",
+        "choices": [
+            "friend",
+            "always",
+            "remains",
+            "inside"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'She went abroad for higher studies.'",
+        "choices": [
+            "She",
+            "went",
+            "abroad",
+            "studies"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'I couldn't find my pencil anywhere.'",
+        "choices": [
+            "find",
+            "pencil",
+            "anywhere",
+            "couldn't"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'Stay indoors during summer.'",
+        "choices": [
+            "Stay",
+            "indoors",
+            "during",
+            "summer"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word is an Adverb of Place in the sentence: 'Anita lives nearby.'",
+        "choices": [
+            "Anita",
+            "lives",
+            "nearby"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Choose the correct Adverb of Degree for the sentence: 'The building is _______ high.' (almost/quite)",
+        "choices": [
+            "almost",
+            "quite"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the correct Adverb of Degree for the sentence: 'We have ________ solved the puzzle.' (almost/very)",
+        "choices": [
+            "almost",
+            "very"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Choose the correct Adverb of Degree for the sentence: 'This topic is ________ difficult.' (extremely/most)",
+        "choices": [
+            "extremely",
+            "most"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which question do adverbs of manner answer?",
+        "choices": [
+            "When?",
+            "Where?",
+            "How?",
+            "How often?"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an adverb of time?",
+        "choices": [
+            "Here",
+            "Now",
+            "Bravely",
+            "Always"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an adverb of place?",
+        "choices": [
+            "Often",
+            "Yesterday",
+            "Inside",
+            "Completely"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an adverb of frequency?",
+        "choices": [
+            "Regularly",
+            "Downstairs",
+            "Softly",
+            "Briefly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which question do adverbs of degree answer?",
+        "choices": [
+            "How?",
+            "Where?",
+            "How much?",
+            "How often?"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'The baby smiles innocently,' which word is the adverb of manner?",
+        "choices": [
+            "The",
+            "baby",
+            "smiles",
+            "innocently"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'The lady spoke to Ankit kindly,' which word is the adverb of manner?",
+        "choices": [
+            "The",
+            "lady",
+            "spoke",
+            "kindly"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'The child is sleeping comfortably,' which word is the adverb of manner?",
+        "choices": [
+            "The",
+            "child",
+            "is",
+            "comfortably"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The adjective 'skillful' can be changed into the adverb:",
+        "choices": [
+            "skill",
+            "skillfully",
+            "skillful",
+            "skiller"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The adjective 'quick' can be changed into the adverb:",
+        "choices": [
+            "quickful",
+            "quickly",
+            "quicker",
+            "quickness"
+        ],
+        "correctAnswer": 1
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+      "question": "What is the name of the star at the center of our solar system?",
+      "choices": [
+        "Earth",
+        "Moon",
+        "Sun",
+        "Jupiter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How many planets revolve around the Sun?",
+      "choices": [
+        "Four",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is a planet?",
+      "choices": [
+        "A large spherical object that revolves around a star",
+        "A small, rocky object orbiting a planet",
+        "A star that gives out heat and light",
+        "A natural satellite orbiting a star"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Do planets have their own light?",
+      "choices": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 1
+    },
+      {
+      "question": "What is the main source of energy in the solar system?",
+      "choices": [
+        "Earth",
+        "Moon",
+        "Sun",
+        "Jupiter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the process of transformation of the young one of an insect into an adult called?",
+      "choices": [
+        "Transformation",
+        "Metamorphosis",
+        "Growth",
+        "Development"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the first stage in the life cycle of a butterfly?",
+      "choices": [
+        "Pupa",
+        "Caterpillar",
+        "Butterfly",
+        "Eggs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What does a caterpillar do after it stops eating?",
+      "choices": [
+        "Finds a safe place to rest",
+        "Continues eating",
+        "Dies",
+        "Flies away"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the protective silk casing called that a caterpillar spins around its body?",
+      "choices": [
+        "Pupa",
+        "Chrysalis",
+        "Cocoon",
+        "Case"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the stage in a butterfly's life cycle called where the caterpillar is inside the cocoon?",
+      "choices": [
+        "Egg",
+        "Larva",
+        "Pupa",
+        "Adult"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What happens when the butterfly is ready to come out?",
+      "choices": [
+        "The cocoon splits open",
+        "The caterpillar eats its way out",
+        "The butterfly lays eggs",
+        "The pupa stage begins"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How many stages does a butterfly go through in its life cycle?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where does a female cockroach lay its eggs?",
+      "choices": [
+        "On a leaf",
+        "In a case in a dark and safe place",
+        "In a cocoon",
+        "In the open"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does the word 'metamorphosis' mean?",
+      "choices": [
+        "A drastic change in form",
+        "A process of growing into adults involving several changes",
+        "A container or cover",
+        "A protective silk casing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does the term 'case' refer to in the context of the cockroach life cycle?",
+      "choices":[
+        "The cocoon",
+        "The pupa",
+        "A container or cover for eggs",
+        "The caterpillar stage"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of the young cockroach?",
+      "choices": ["Egg", "Nymph", "Cockroach", "Adult"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What process is the shedding of skin in a cockroach called?",
+      "choices": ["Growth", "Metamorphosis", "Moulting", "Development"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How many stages does a cockroach go through in its life cycle?",
+      "choices": ["One", "Two", "Three", "Four"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where do fish and frogs lay their eggs?",
+      "choices": ["On land", "In trees", "In water", "In nests"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How do young fish and frogs breathe?",
+      "choices": ["Through lungs", "Through skin", "Through gills", "Through spiracles"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the difference between frogs and fish regarding their need for water?",
+      "choices": ["Both need water to survive", "Fish need water, frogs don't", "Frogs need water, fish don't", "A fish dies out of water, but a frog can live on land and in water"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the first stage in the life cycle of a frog?",
+      "choices": ["Tadpole", "Young frog", "Eggs", "Frog"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of the young frog that has a tail but no legs?",
+      "choices": ["Tadpole", "Froglet", "Young frog", "Egg"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How does a tadpole breathe?",
+      "choices": ["Through lungs", "Through skin", "Through gills", "Through spiracles"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does a tadpole feed on?",
+      "choices": ["Insects", "Other tadpoles", "Pond weeds", "Small fish"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What part of an egg protects the yolk and the embryo?",
+      "choices": [
+        "Albumen",
+        "Hard shell",
+        "Embryo",
+        "Yolk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is NOT a reptile?",
+      "choices": [
+        "Lizard",
+        "Crocodile",
+        "Butterfly",
+        "Snake"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How are reptile eggs warmed?",
+      "choices": [
+        "By the mother's body",
+        "By the heat of the sun",
+        "By a special lamp",
+        "By the surrounding water"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which reptile looks after its young ones for a short period?",
+      "choices": [
+        "Lizard",
+        "Snake",
+        "Turtle",
+        "Crocodile"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What do birds, reptiles, amphibians, insects, and fish have in common?",
+      "choices": [
+        "They all lay eggs.",
+        "They all have hair.",
+        "They all live on land.",
+        "They all are vertebrates."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Animals that give birth to young ones and feed them on their milk are called:",
+      "choices": [
+        "Reptiles",
+        "Amphibians",
+        "Mammals",
+        "Birds"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is NOT a mammal?",
+      "choices": [
+        "Dog",
+        "Cat",
+        "Frog",
+        "Human"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where does the baby mammal develop?",
+      "choices": [
+        "In a nest",
+        "Inside the mother's body",
+        "In an egg",
+        "In a pond"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What do most mammals have on their bodies?",
+      "choices": [
+        "Scales",
+        "Feathers",
+        "Hair",
+        "Claws"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How does the mother mammal feed her baby?",
+      "choices": [
+        "With insects",
+        "With her own milk",
+        "With eggs",
+        "With plants"
+      ],
+      "correctAnswer": 1
+    }
+  ]

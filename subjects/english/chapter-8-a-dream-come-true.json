@@ -1,0 +1,732 @@
+[
+    {
+        "question": "According to the passage, what do students do with the vegetables?",
+        "choices": [
+            "Sell them at the market.",
+            "Give them to the teachers.",
+            "Take them home.",
+            "Use them for school lunches."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of food does this practice help students eat?",
+        "choices": [
+            "Processed food",
+            "Chemical-free food",
+            "Expensive food",
+            "Fast food"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the example interaction between the two persons?",
+        "choices": [
+            "YOU: Panchayat; PARTNER: town",
+            "YOU: Panchayat; PARTNER: village",
+            "YOU: village; PARTNER: panchayat",
+            "YOU: town; PARTNER: Panchayat"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following word is not listed in the passage to describe Phoolji?",
+        "choices": [
+            "determined",
+            "honest",
+            "a good leader",
+            "thoughtful"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is listed as a place of a village?",
+        "choices": [
+            "well",
+            "town",
+            "city",
+            "street"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following equipment is listed as part of a village?",
+        "choices": [
+            "pond",
+            "tractor",
+            "motorcycle",
+            "scooter"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following animal-equipment is listed as part of a village?",
+        "choices": [
+            "bullock cart",
+            "tractor",
+            "horse",
+            "goat"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is village called in Bengali?",
+        "choices": [
+            "gram",
+            "town",
+            "city",
+            "country"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is a person associated with the village?",
+        "choices": [
+            "Teacher",
+            "Engineer",
+            "Pilot",
+            "Farmer"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is a place associated with the village?",
+        "choices": [
+            "Court",
+            "Field",
+            "Airport",
+            "Factory"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Verbs which tell us about actions in the present are in the _________.",
+        "choices": [
+            "past tense",
+            "future tense",
+            "present tense"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Verbs which tell us about actions that have already taken place are in the _________.",
+        "choices": [
+            "past tense",
+            "future tense",
+            "present tense"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Verbs which tell us about actions that are yet to take place are in the _________.",
+        "choices": [
+            "past tense",
+            "future tense",
+            "present tense"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Panch _________ yesterday to discuss an agenda.",
+        "choices": [
+            "meet",
+            "met",
+            "will meet"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The children of Sonagaon _________ daily to the Nandia High School.",
+        "choices": [
+            "travel",
+            "travelling",
+            "travels"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I _________ to Kerala next month.",
+        "choices": [
+            "goes",
+            "go",
+            "will go"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Geeta _________ a new bicycle last week.",
+        "choices": [
+            "buys",
+            "bought",
+            "will buy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I _________ Aruna tomorrow.",
+        "choices": [
+            "visits",
+            "visited",
+            "will visit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Tara _________ playing with her pet kitten.",
+        "choices": [
+            "loves",
+            "love",
+            "will love"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Gram Sabha _________ (gather) for an important meeting.",
+        "choices": [
+            "gather",
+            "gathered",
+            "will gather"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why was it necessary to have a high school in Sonagaon?",
+        "choices": [
+            "To provide higher education opportunities for the children in the village.",
+            "To reduce the burden on schools in other towns.",
+            "To increase the population of Sonagaon.",
+            "To improve the village's infrastructure."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How did the children of Sonagaon go to Nandia High School?",
+        "choices": [
+            "By bus",
+            "By train",
+            "By walking",
+            "The passage does not specify."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to Sarla Devi, why was it not possible to build a high school in the village?",
+        "choices": [
+            "Lack of funds",
+            "Lack of land",
+            "Lack of skilled workers",
+            "The passage does not specify."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What was the primary school like in Sonagaon?",
+        "choices": [
+            "Excellent",
+            "Well-equipped",
+            "The passage does not specify.",
+            "Inadequate"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How was the proposal to set up a high school accepted?",
+        "choices": [
+            "With enthusiasm",
+            "With hesitation",
+            "The passage does not specify.",
+            "With opposition"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are words that have the same spelling but different meanings and pronunciations called?",
+        "choices": [
+            "Synonyms",
+            "Homographs",
+            "Homophones",
+            "Homonyms"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "An anagram is a word made by rearranging the letters of a different word, where each letter is used only once. Which of these is an example?",
+        "choices": [
+            "Synonyms",
+            "Palm - lamp",
+            "Homographs",
+            "Homophones"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the anagram of 'now'?",
+        "choices": [
+            "Dial",
+            "Won",
+            "Owt",
+            "Tone"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the anagram of 'end'?",
+        "choices": [
+            "Den",
+            "Net",
+            "Tie",
+            "Tea"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the anagram of 'time'?",
+        "choices": [
+            "Emit",
+            "But",
+            "There",
+            "Read"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to Phool Kumari, what do people need even without a community hall?",
+        "choices": [
+            "Celebrations",
+            "Proper education",
+            "Functions",
+            "Gatherings"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What problem did Sarla Devi point out regarding building a high school?",
+        "choices": [
+            "Lack of funds",
+            "Lack of teachers",
+            "Lack of land",
+            "Lack of students"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who offered land for the community hall?",
+        "choices": [
+            "Avinash",
+            "Zeeshan",
+            "Phool Kumari",
+            "Sarla Devi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who suggested using the same land for the high school?",
+        "choices": [
+            "Sarla Devi",
+            "Zeeshan",
+            "Phool Kumari",
+            "Avinash"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who thought the suggestion to use the same land for the high school was a good idea?",
+        "choices": [
+            "Nayaran",
+            "Tariq",
+            "Avinash",
+            "Zeeshan"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who brought the meeting to an end?",
+        "choices": [
+            "Sarla Devi",
+            "Nayaran",
+            "Phool Kumari",
+            "Tariq"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'murmur of voices'?",
+        "choices": [
+            "Angry voices",
+            "Loud voices",
+            "Quiet voices",
+            "Excited voices"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the meaning of 'erupts into'?",
+        "choices": [
+            "Quiet",
+            "Empty",
+            "Filled with",
+            "Excited"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Phool Kumari inform the Gram Sabha about the purpose of the meeting?",
+        "choices": [
+            "Discuss a proposal to build a hospital",
+            "Discuss a proposal to build a community hall",
+            "Discuss a proposal to build a high school",
+            "Discuss a proposal to clean the village"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who agreed to give her land for building a high school?",
+        "choices": [
+            "Phool Kumari",
+            "Nirmala Rani",
+            "Sarla Devi",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why do the children travel to the neighboring village?",
+        "choices": [
+            "To attend elementary school",
+            "To attend high school",
+            "To visit relatives",
+            "To play games"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who thinks they should build a high school in Sonagaon?",
+        "choices": [
+            "Sarla Devi",
+            "Zeeshan",
+            "Avinash",
+            "Phool Kumari"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does Sarla Devi think a community hall will bring?",
+        "choices": [
+            "More students",
+            "Better infrastructure",
+            "Income for the Panchayat",
+            "A better reputation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is surprised that Phool Kumari agrees about building?",
+        "choices": [
+            "Avinash",
+            "Sarla Devi",
+            "Tariq",
+            "Zeeshan"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does Phool Kumari say they need to do to build anything?",
+        "choices": [
+            "Find the land, get permissions, make plans, and arrange for funds",
+            "Ask the villagers for money",
+            "Hire builders",
+            "Get permission from the government"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who agrees with Phoolji?",
+        "choices": [
+            "Sarla Devi",
+            "Avinash",
+            "Zeeshan",
+            "Tariq"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Phool Kumari want to give the children?",
+        "choices": [
+            "A better future",
+            "A community hall",
+            "More playgrounds",
+            "More food"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Tariq say they need for the children?",
+        "choices": [
+            "A community hall",
+            "A new school",
+            "A high school",
+            "A playground"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is needed for any building to happen?",
+        "choices": [
+            "Finding land",
+            "Arranging funds",
+            "Getting permissions",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the context of the text, what does a 'better future' include?",
+        "choices": [
+            "A happy and successful life",
+            "More money",
+            "More friends",
+            "More toys"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to Sarla Devi, why don't they need a high school in the village?",
+        "choices": [
+            "The children don't want one.",
+            "There's a very good one in Nandia village.",
+            "They have no money to build one.",
+            "The teachers are not good enough."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one reason that parents don't want to send their children to Nandia?",
+        "choices": [
+            "The schools in Nandia are not good.",
+            "The children drop out of school.",
+            "Nandia is too far.",
+            "It costs too much."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Ram say about the bus to Nandia?",
+        "choices": [
+            "It is never on time.",
+            "It is free for children.",
+            "It is very dangerous.",
+            "There's a daily bus every morning and evening."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What can the children do to get to school, according to Zeeshan?",
+        "choices": [
+            "Take a bus.",
+            "Cycle or even walk.",
+            "Get a ride from their parents.",
+            "Nothing, the school is closed."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Saira say they did last year?",
+        "choices": [
+            "They built a new school.",
+            "They planted trees.",
+            "They laid fresh roads.",
+            "They cleaned the village."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Sarla Devi, what is the first item on their agenda?",
+        "choices": [
+            "Building a community hall.",
+            "Getting more teachers.",
+            "A high school for the village.",
+            "Providing more food for the children."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is provided in the school that Saira mentions?",
+        "choices": [
+            "Free books.",
+            "Nutritious mid-day meal.",
+            "Transportation.",
+            "Uniforms."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the second topic on the agenda, according to Narayan?",
+        "choices": [
+            "Building a community hall.",
+            "Improving the school.",
+            "Getting more money.",
+            "Organizing a village festival."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Sarla Devi say they need a place for?",
+        "choices": [
+            "To get together and celebrate festivals.",
+            "To store food.",
+            "To hold meetings.",
+            "To house visitors."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do the villagers put up for small celebrations?",
+        "choices": [
+            "Flags.",
+            "Lights.",
+            "Pandals.",
+            "Banners."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a Gram Panchayat?",
+        "choices": [
+            "A committee that works in cities.",
+            "A committee that works in villages.",
+            "A committee that works in countries.",
+            "A committee that works in schools."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a Gram Panchayat do?",
+        "choices": [
+            "Makes decisions and carries out programmes for the benefit of villagers.",
+            "Makes decisions and carries out programmes for the benefit of cities.",
+            "Makes decisions and carries out programmes for the benefit of countries.",
+            "Makes decisions and carries out programmes for the benefit of schools."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the Sarpanch in the Panchayat of Sonagaon?",
+        "choices": [
+            "Zeeshan Akram",
+            "Sarla Devi",
+            "Saira Begum",
+            "Ram Gopal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is the Upp-Sarpanch in the Panchayat of Sonagaon?",
+        "choices": [
+            "Zeeshan Akram",
+            "Sarla Devi",
+            "Saira Begum",
+            "Ram Gopal"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the secretary of the Panchayat?",
+        "choices": [
+            "Phool Kumari",
+            "Harsh Vardhan",
+            "Avinash Pal",
+            "Narayan Bahadur"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who welcomed everyone to the special meeting?",
+        "choices": [
+            "Tariq",
+            "Phool Kumari",
+            "Narayan",
+            "Avinash Pal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Tariq want to know at the meeting?",
+        "choices": [
+            "The time.",
+            "The proposal.",
+            "The agenda.",
+            "The characters."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where does the Panchayat meet?",
+        "choices": [
+            "A panchayat room in Sonagaon.",
+            "A school in Sonagaon.",
+            "A hospital in Sonagaon.",
+            "A city."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the meaning of 'agenda'?",
+        "choices": [
+            "the head of a village",
+            "the vice president of the Gram Panchayat",
+            "a list of items to be discussed at a meeting",
+            "here, a school with classes from 9 to 12"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Phool Kumari propose?",
+        "choices": [
+            "To build a temple in Sonagaon.",
+            "To start a high school in Sonagaon.",
+            "To build a hospital in Sonagaon.",
+            "To build a lake in Sonagaon."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the title of the lesson in the image?",
+        "choices": [
+            "A Dream Come True",
+            "Get Set",
+            "Sonagaon's Problem",
+            "Nature Club"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the 'Panch' do in the lesson?",
+        "choices": [
+            "They solve the Sonagaon's problem together",
+            "They build a house",
+            "They write a book",
+            "They plant trees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The educator is suggested to ask children to share with the class how they help their family and _________.",
+        "choices": [
+            "neighbors",
+            "relatives",
+            "friends",
+            "enemies"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Panch work together to solve ________ problem.",
+        "choices": [
+            "Village",
+            "Sonagaon's",
+            "School",
+            "Home"
+        ],
+        "correctAnswer": 1
+    }
+]

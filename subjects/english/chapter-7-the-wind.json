@@ -1,0 +1,499 @@
+[
+    {
+        "question": "Who said this and to whom? 'Sir Ocean, Mr Sun and I have together created such good conditions for you on Earth that you can move freely from one place to another.'",
+        "choices": [
+            "Mr. Sun to Madame Air",
+            "Madame Air to Humans",
+            "Madame Air to Wind",
+            "Sir Ocean to Madame Air"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the listener want to do?",
+        "choices": [
+            "Stay in one place",
+            "Move freely across Earth",
+            "Create more pollution",
+            "Block the flow of air"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How would moving freely help the listener?",
+        "choices": [
+            "It would allow them to travel and explore",
+            "It would help in reducing pollution",
+            "It would prevent the Sun from overheating",
+            "It would increase volcanic activity"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who said, 'They should stop before it’s too late'?",
+        "choices": [
+            "Madame Air",
+            "Sir Ocean",
+            "Mr. Sun",
+            "Humans"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who has to stop and why?",
+        "choices": [
+            "Humans, because they are polluting the air",
+            "Wind, because it is moving too fast",
+            "The Sun, because it is too hot",
+            "The Ocean, because it is flooding lands"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why was Madame Air fed up?",
+        "choices": [
+            "Because the Sun was too hot",
+            "Because of pollution and human activities",
+            "Because the ocean was drying up",
+            "Because the wind was too strong"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What advice did Sir Ocean give to Madame Air?",
+        "choices": [
+            "To be patient and wait for change",
+            "To blow stronger to clean the air",
+            "To leave the Earth permanently",
+            "To talk to the Sun for help"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why was Madame Air angry with Lord Volcano?",
+        "choices": [
+            "Because he was blocking the sunlight",
+            "Because he was causing earthquakes",
+            "Because he was releasing smoke and gases into the air",
+            "Because he was drying up the ocean"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How did Lord Volcano’s ancestors create Madame Air?",
+        "choices": [
+            "By erupting and releasing gases",
+            "By cooling down the lava",
+            "By forming mountains",
+            "By creating wind currents"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What did Madame Air see in the city?",
+        "choices": [
+            "Clean air and happy people",
+            "Factories and vehicles releasing pollution",
+            "Tall buildings and fresh green parks",
+            "Windmills producing clean energy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why was Madame Air relieved when she was out of the city?",
+        "choices": [
+            "Because she could move freely without pollution",
+            "Because she found new friends",
+            "Because the Sun was shining brightly",
+            "Because she saw more volcanoes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "'That was not the change I wanted!' What did Madame Air mean by this statement?",
+        "choices": [
+            "She wanted a positive change, not more pollution",
+            "She wanted more volcanoes",
+            "She wanted stronger winds",
+            "She wanted more heat from the Sun"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a contraction?",
+        "choices": [
+            "A long form of a word.",
+            "The short form of a word.",
+            "A type of punctuation.",
+            "A noun."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which punctuation mark is used in place of dropped letters in a contraction?",
+        "choices": [
+            "Comma",
+            "Period",
+            "Apostrophe",
+            "Colon"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'cannot'?",
+        "choices": [
+            "can't",
+            "cannot'",
+            "canno't",
+            "cant"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'are not'?",
+        "choices": [
+            "aren't",
+            "ar'nt",
+            "arent'",
+            "arnot"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'did not'?",
+        "choices": [
+            "dint",
+            "didnt",
+            "didn't",
+            "di'dnt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'would not'?",
+        "choices": [
+            "woudn't",
+            "woodn't",
+            "wouldnt",
+            "wouldn't"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the contraction of 'is not'?",
+        "choices": [
+            "isnt",
+            "is'nt",
+            "isn't",
+            "i'snt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'we are'?",
+        "choices": [
+            "we're",
+            "were",
+            "ware",
+            "wear"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the contraction of 'she is'?",
+        "choices": [
+            "sh'e",
+            "she'e",
+            "she's",
+            "shes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contraction of 'I am'?",
+        "choices": [
+            "I'amm",
+            "iam",
+            "I'm",
+            "im"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following completes the simile 'as clean as a...'?",
+        "choices": [
+            "crystal",
+            "whistle",
+            "snow",
+            "hills"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following completes the simile 'as light as a...'?",
+        "choices": [
+            "crystal",
+            "whistle",
+            "feather",
+            "sloth"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following completes the simile 'as white as...'?",
+        "choices": [
+            "feather",
+            "crystal",
+            "whistle",
+            "snow"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following completes the simile 'as clear as...'?",
+        "choices": [
+            "sloth",
+            "crystal",
+            "whistle",
+            "snow"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following completes the simile 'as slow as a...'?",
+        "choices": [
+            "feather",
+            "crystal",
+            "whistle",
+            "sloth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Match the word 'tempest' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Match the word 'breeze' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Match the word 'gust' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Match the word 'draught' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Match the word 'gale' with its meaning.",
+        "choices": [
+            "a very strong wind",
+            "a flow of cool air in a room",
+            "a light wind",
+            "a sudden strong wind",
+            "a violent storm"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Who is the author of the poem 'The Wind'?",
+        "choices": [
+            "Unknown",
+            "Robert Frost",
+            "Robert Louis Stevenson",
+            "William Wordsworth"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the first stanza, what does the wind toss on high?",
+        "choices": [
+            "Leaves",
+            "Clouds",
+            "Kites",
+            "Birds"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the poem, what does the wind sound like as it passes?",
+        "choices": [
+            "Silence",
+            "Loud roar",
+            "Singing",
+            "Whispering"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the poem, the sound of wind blowing across the grass is compared to:",
+        "choices": [
+            "Bird song",
+            "Ladies' skirts",
+            "Rustling leaves",
+            "A gentle stream"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The phrase 'a-blowing' is:",
+        "choices": [
+            "A modern term",
+            "A technical term",
+            "A poetic way of saying 'blowing'",
+            "Incorrect grammar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The wind is described as being strong and what other quality?",
+        "choices": [
+            "Calm",
+            "Gentle",
+            "Cold",
+            "Warm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the poem, the poet says that he felt the wind do what?",
+        "choices": [
+            "Sleep",
+            "Dance",
+            "Push",
+            "Hide"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The speaker in the poem can feel the wind but:",
+        "choices": [
+            "Cannot hear it",
+            "Cannot see it",
+            "Cannot smell it",
+            "Cannot taste it"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The poet asks the wind if it is a:",
+        "choices": [
+            "Bird of the sky",
+            "Beast of the field and tree",
+            "Fish of the sea",
+            "Star of the night"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What features does the NCF include in this lesson?",
+        "choices": [
+            "Real-life situations, Subject integration, and Analytical Thinking",
+            "Fiction, Poetry, and Drama",
+            "History, Math, and Geography",
+            "Science, Literature, and Culture"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where did the child go in the ship?",
+        "choices": [
+            "A faraway island",
+            "Far into the sea",
+            "A foreign land"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'A wind came moaning by' mean?",
+        "choices": [
+            "The wind was slow and gentle",
+            "The wind was very near the ship",
+            "The wind was blowing loudly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the ship caught in?",
+        "choices": [
+            "A storm",
+            "A cloud",
+            "On a rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the child do when he saw the rock?",
+        "choices": [
+            "Shouted in joy",
+            "Realized he was safe",
+            "Knew he would crash"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How was the child saved?",
+        "choices": [
+            "The rain stopped",
+            "He woke from his dream",
+            "The ship stopped sinking"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the word 'clutched' mean in the poem?",
+        "choices": [
+            "Let go of something",
+            "Held tightly onto something",
+            "Pushed something away"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happened when the ship struck the rock?",
+        "choices": [
+            "It stayed still",
+            "It began to fill with water",
+            "It turned around"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'racing tide'?",
+        "choices": [
+            "Fast-moving sea",
+            "Calm ocean",
+            "Stormy clouds"
+        ],
+        "correctAnswer": 0
+    }
+]

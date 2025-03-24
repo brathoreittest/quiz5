@@ -1,0 +1,202 @@
+[
+    {
+      "question": "What is the longest written constitution in the world?",
+      "choices": [
+        "The US Constitution",
+        "The Indian Constitution",
+        "The British Constitution",
+        "The Canadian Constitution"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "According to the Preamble, what does 'sovereign' mean in the context of India?",
+      "choices": [
+        "India is a monarchy",
+        "India is dependent on other nations",
+        "India is independent and free to govern itself",
+        "India is ruled by a dictator"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does 'socialist' mean in the context of the Indian Constitution?",
+      "choices": [
+        "India favors a specific social class",
+        "India treats all people equally, regardless of caste, color, or religion",
+        "India's government is controlled by the wealthy",
+        "India's economy is entirely socialist"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does 'secular' mean in the context of the Indian Constitution?",
+      "choices": [
+        "India has an official state religion",
+        "India favors certain religions over others",
+        "India considers all religions equal",
+        "Religion is banned in India"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does 'democratic' mean in the context of the Indian Constitution?",
+      "choices": [
+        "India's government is ruled by a single leader",
+        "India's government is elected by the people",
+        "India's government is hereditary",
+        "India's government is appointed by a foreign power"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does 'republic' mean in the context of the Indian Constitution?",
+      "choices": [
+        "India is ruled by a king or queen",
+        "India is governed by elected representatives of the people",
+        "India is a dictatorship",
+        "India is a theocracy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who was the chairman of the Constituent Assembly that drafted the Indian Constitution?",
+      "choices": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "On which day does India celebrate Republic Day?",
+      "choices": [
+        "August 15th",
+        "January 26th",
+        "March 15th",
+        "October 2nd"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the term for the set of rules a government must follow to govern a country?",
+      "choices": [
+        "Legislation",
+        "Amendment",
+        "Constitution",
+        "Directive"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "According to the Indian Constitution, up to what age is free and compulsory education advocated for?",
+      "choices": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "correctAnswer": 1
+    },
+      {
+      "question": "The Indian Constitution came into effect on:",
+      "choices": [
+        "15th January 1947",
+        "15th August 1947",
+        "26th January 1950",
+        "15th August 1950"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Respecting the national flag and the national anthem is a:",
+      "choices": [
+        "Fundamental Right",
+        "Fundamental Duty",
+        "Directive Principle",
+        "None of these"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The Government cannot differentiate between people on the basis of:",
+      "choices": [
+        "Caste",
+        "Colour",
+        "Religion",
+        "All of these"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "No one can employ children below ______ years of age in India.",
+      "choices": [
+        "18",
+        "17",
+        "14",
+        "15"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Our Constitution guarantees how many Fundamental Rights to its citizens?",
+      "choices": [
+        "Six",
+        "Eight",
+        "Ten",
+        "Twelve"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What are the guidelines laid down for the Government to follow in the Constitution called?",
+      "choices": [
+        "Fundamental Rights",
+        "Fundamental Duties",
+        "Directive Principles",
+        "Constitutional Remedies"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which right ensures that no one can be exploited and that no one can employ children below 14 years of age?",
+      "choices": [
+        "Right to equality",
+        "Right against exploitation",
+        "Right to freedom",
+        "Right to freedom of religion"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the purpose of the Right to Constitutional Remedies?",
+      "choices": [
+        "To protect Fundamental Rights",
+        "To ensure equality for all citizens",
+        "To guarantee freedom of speech",
+        "To prevent exploitation of children"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of these is NOT a Directive Principle listed in the text?",
+      "choices": [
+        "Providing proper living conditions",
+        "Preventing the rich from exploiting the poor",
+        "Guaranteeing free healthcare",
+        "Ensuring education of children"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the primary purpose of the Directive Principles?",
+      "choices": [
+        "To lay down guidelines for the government",
+        "To define the Fundamental Rights of citizens",
+        "To outline the Fundamental Duties of citizens",
+        "To establish the structure of the judiciary"
+      ],
+      "correctAnswer": 0
+    }
+  ]

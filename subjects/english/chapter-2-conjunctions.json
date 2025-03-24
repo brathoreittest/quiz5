@@ -1,0 +1,412 @@
+[
+    {
+        "question": "In the sentence 'Ravi worked hard because scored less marks in English,' what is the error?",
+        "choices": [
+            "worked hard",
+            "because",
+            "scored",
+            "less marks"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'Wait at the gate yet your mom comes,' what is the error?",
+        "choices": [
+            "Wait at the gate",
+            "yet",
+            "your mom",
+            "comes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'You will get a scholarship but you come first in the class,' what is the error?",
+        "choices": [
+            "You will get",
+            "scholarship",
+            "but",
+            "come first"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'We will see the Taj Mahal so we go to Agra,' what is the error?",
+        "choices": [
+            "We will see",
+            "Taj Mahal",
+            "so",
+            "go to Agra"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Rohit was driving carefully or he met with an accident,' what is the error?",
+        "choices": [
+            "Rohit was driving",
+            "carefully",
+            "or",
+            "met with an accident"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'I have not seen him till morning,' what is the error?",
+        "choices": [
+            "I have",
+            "not seen",
+            "him till",
+            "morning"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Riya: It was great! I saw many birds, insects _____ animals at the zoo.",
+        "choices": [
+            "and",
+            "but",
+            "so",
+            "or"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Riya: There were monkeys, bears _____ all kinds of other animals.",
+        "choices": [
+            "and",
+            "but",
+            "so",
+            "or"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rahul: Did you see the tiger _____ the crocodile?",
+        "choices": [
+            "and",
+            "or",
+            "so",
+            "because"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Riya: I saw the tiger _____ I did not see the crocodile.",
+        "choices": [
+            "but",
+            "and",
+            "or",
+            "so"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Aman doesn't open the door for anyone...",
+        "choices": [
+            "when he is alone at home.",
+            "because her pet cat is ill.",
+            "or will you call yourself?",
+            "if you are busy today.",
+            "so I won't go to school."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Ranjana is sad...",
+        "choices": [
+            "because her pet cat is ill.",
+            "when he is alone at home.",
+            "or will you call yourself?",
+            "if you are busy today.",
+            "so I won't go to school."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I am unwell...",
+        "choices": [
+            "because her pet cat is ill.",
+            "when he is alone at home.",
+            "or will you call yourself?",
+            "if you are busy today.",
+            "so I won't go to school."
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Should I call him...",
+        "choices": [
+            "because her pet cat is ill.",
+            "when he is alone at home.",
+            "or will you call yourself?",
+            "if you are busy today.",
+            "so I won't go to school."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "I can come later...",
+        "choices": [
+            "because her pet cat is ill.",
+            "when he is alone at home.",
+            "or will you call yourself?",
+            "if you are busy today.",
+            "so I won't go to school."
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "I fell over ______ I started crying.",
+        "choices": [
+            "so",
+            "and",
+            "but",
+            "since",
+            "or"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Would you prefer tea ______ coffee?",
+        "choices": [
+            "and",
+            "but",
+            "or",
+            "so",
+            "because"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "I called him ______ he didn't hear me.",
+        "choices": [
+            "but",
+            "or",
+            "and",
+            "so",
+            "because"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "I like to read comic books, ______ I don't like novels.",
+        "choices": [
+            "and",
+            "but",
+            "so",
+            "or",
+            "because"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Mom got angry ______ I shouted at my sister.",
+        "choices": [
+            "but",
+            "so",
+            "and",
+            "or",
+            "because"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the suitable conjunction to join: He is an intelligent boy. He is a lazy boy.",
+        "choices": [
+            "and",
+            "or",
+            "but",
+            "so"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Choose the suitable conjunction to join: She is a kind mother. She is a loving mother.",
+        "choices": [
+            "but",
+            "or",
+            "and",
+            "so"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Choose the suitable conjunction to join: I ran fast. I missed the train.",
+        "choices": [
+            "and",
+            "but",
+            "or",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the suitable conjunction to join: We called. No one answered.",
+        "choices": [
+            "and",
+            "but",
+            "or",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the suitable conjunction to join: In June, it is very hot in Delhi. It is pleasant in Mumbai.",
+        "choices": [
+            "and",
+            "but",
+            "or",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I will not play ______ I have fever.",
+        "choices": [
+            "or",
+            "because",
+            "and",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Do you like cricket ______ hockey?",
+        "choices": [
+            "because",
+            "or",
+            "and",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Is that a true story ______ a false story?",
+        "choices": [
+            "because",
+            "or",
+            "and",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I shall wait here ______ she returns.",
+        "choices": [
+            "until",
+            "or",
+            "if",
+            "so"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Raghav was late for school ______ he had to pay a fine.",
+        "choices": [
+            "and",
+            "so",
+            "yet",
+            "until"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following conjunctions is used to join words or sentences that are similar?",
+        "choices": [
+            "but",
+            "or",
+            "and",
+            "because"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which conjunction is used to join opposite thoughts or things that are different?",
+        "choices": [
+            "and",
+            "but",
+            "or",
+            "so"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which conjunction shows a choice or an option?",
+        "choices": [
+            "but",
+            "and",
+            "or",
+            "because"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which conjunction is used to say why something happened or to give a reason?",
+        "choices": [
+            "and",
+            "or",
+            "so",
+            "because"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which conjunction is used to join two contrasting ideas?",
+        "choices": [
+            "yet",
+            "so",
+            "if",
+            "until"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which conjunction shows that the second idea is the result of the first?",
+        "choices": [
+            "if",
+            "yet",
+            "so",
+            "although"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which conjunction is used to express the condition?",
+        "choices": [
+            "if",
+            "so",
+            "until",
+            "since"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which conjunction is used to show contrast?",
+        "choices": [
+            "until",
+            "since",
+            "if",
+            "although"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which conjunction is used to show a point of time?",
+        "choices": [
+            "until",
+            "since",
+            "if",
+            "although"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which conjunction is used up to the time and event mentioned?",
+        "choices": [
+            "if",
+            "although",
+            "since",
+            "until"
+        ],
+        "correctAnswer": 2
+    }
+]

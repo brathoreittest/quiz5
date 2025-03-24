@@ -1,0 +1,274 @@
+[
+  {
+    "question": "What is the main reason for the time difference between countries?",
+    "choices": [
+      "The Earth's revolution around the Sun",
+      "The Earth's rotation around its axis",
+      "The Earth's distance from the Sun",
+      "The Earth's tilt on its axis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is at the center of the solar system?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "The Sun",
+      "Neptune"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a planet?",
+    "choices": [
+      "A star that gives out heat and light",
+      "A large spherical object that revolves around a star",
+      "A heavenly body that revolves around a planet",
+      "A small rocky object that orbits a planet"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the text, how many planets revolve around the Sun?",
+    "choices": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the source of energy in the solar system?",
+    "choices": [
+      "The Moon",
+      "The Planets",
+      "The Sun",
+      "The Stars"
+
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the main reason for the time difference between countries?",
+    "choices": [
+      "The Earth's revolution around the Sun",
+      "The Earth's rotation around its axis",
+      "The Earth's distance from the Sun",
+      "The Earth's tilt on its axis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is at the center of the solar system?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "The Sun",
+      "Neptune"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is a planet?",
+    "choices": [
+      "A star that gives out heat and light",
+      "A large spherical object that revolves around a star",
+      "A heavenly body that revolves around a planet",
+      "A small rocky object that orbits a planet"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the text, how many planets revolve around the Sun?",
+    "choices": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the source of energy in the solar system?",
+    "choices": [
+      "The Moon",
+      "The Planets",
+      "The Sun",
+      "The Stars"
+
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the Earth's path around the Sun?",
+    "choices": [
+      "Revolution",
+      "Orbit",
+      "Axis",
+      "Hemisphere"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How long does it take the Earth to complete one revolution around the Sun?",
+    "choices": [
+      "360 days",
+      "365 days and six hours",
+      "300 days",
+      "365 days"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What causes the change of seasons on Earth?",
+    "choices": [
+      "The Earth's distance from the Sun",
+      "The Earth's revolution and tilted axis",
+      "The Earth's rotation",
+      "The Sun's changing energy output"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When the Northern Hemisphere is tilted towards the Sun, what season is it experiencing?",
+    "choices": [
+      "Winter",
+      "Autumn",
+      "Spring",
+      "Summer"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If New Zealand is experiencing summer, what season is India experiencing?",
+    "choices": [
+      "Summer",
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What causes the short seasons of autumn and spring?",
+    "choices": [
+      "Sudden changes in the Earth's position",
+      "The gradual movement of the Earth around the Sun",
+      "Changes in the Sun's energy output",
+      "The Earth's rotation speed"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the two main movements of the Earth?",
+    "choices": ["Rotation and Revolution", "Revolution and Precession", "Precession and Nutation", "Nutation and Rotation"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the Earth's rotation?",
+    "choices": ["The Earth's movement around the Sun", "The Earth's spinning on its axis", "The Earth's wobble on its axis", "The Earth's elliptical orbit"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What causes day and night on Earth?",
+    "choices": ["The Earth's revolution around the Sun", "The Earth's rotation on its axis", "The Earth's tilted axis", "The Earth's elliptical orbit"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How long does it take for the Earth to complete one rotation on its axis?",
+    "choices": ["12 hours", "24 hours", "365 days", "28 days"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the Earth's axis?",
+    "choices": ["An imaginary line running from the North Pole to the South Pole", "The equator", "The Earth's orbit", "The Sun"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "At what angle is the Earth's axis tilted with respect to the vertical line?",
+    "choices": ["0 degrees", "15 degrees", "23.5 degrees", "45 degrees"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the other major movement of the Earth besides rotation?",
+    "choices": ["Precession", "Nutation", "Revolution", "Rotation"],
+    "correctAnswer": 2
+  },
+    {
+    "question": "Who was the first human to land on the moon?",
+    "choices": ["Neil Armstrong", "Rakesh Sharma", "Kalpana Chawla"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of the space agency mentioned in the text?",
+    "choices": ["ISRO", "NASA", "ESA"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who was the first Indian to go into space?",
+    "choices": ["Kalpana Chawla", "Neil Armstrong", "Rakesh Sharma"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is an example of a use for artificial satellites?",
+    "choices": ["Making cars", "Weather forecasting", "Growing plants"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who was the first woman of Indian origin to go into space?",
+    "choices": ["Rakesh Sharma", "Kalpana Chawla", "Neil Armstrong"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "choices": ["Jupiter", "Sun", "Moon", "Mars"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Why don't we feel hot in moonlight?",
+    "choices": ["The moon gives off no heat.", "The moon is made of ice.", "The moon is very far away.", "The moon reflects very little sunlight."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the Great Red Spot?",
+    "choices": ["A volcano on Mars", "A storm on Jupiter", "A mountain range on the Moon", "A constellation"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet is known as the morning star?",
+    "choices": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet is known as the red planet?",
+    "choices": ["Mars", "Jupiter", "Venus", "Mercury"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "choices": ["Earth", "Venus", "Mars", "Mercury"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which planet has seven prominent rings?",
+    "choices": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which planet is the largest in the solar system?",
+    "choices": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which planet was discovered in 1781 by William Herschel?",
+    "choices": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which planet is considered to have life on it?",
+    "choices": ["Mars", "Venus", "Jupiter", "Earth"],
+    "correctAnswer": 3
+  }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "question": "Many adverbs are formed by adding ___ to adjectives.",
+        "choices": [
+            "-ing",
+            "-ly",
+            "-ed",
+            "-s"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did the child go in the ship?",
+        "choices": [
+            "A faraway island",
+            "Far into the sea",
+            "A foreign land"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'A wind came moaning by' mean?",
+        "choices": [
+            "The wind was slow and gentle",
+            "The wind was very near the ship",
+            "The wind was blowing loudly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the ship caught in?",
+        "choices": [
+            "A storm",
+            "A cloud",
+            "On a rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the child do when he saw the rock?",
+        "choices": [
+            "Shouted in joy",
+            "Realized he was safe",
+            "Knew he would crash"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How was the child saved?",
+        "choices": [
+            "The rain stopped",
+            "He woke from his dream",
+            "The ship stopped sinking"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the word 'clutched' mean in the poem?",
+        "choices": [
+            "Let go of something",
+            "Held tightly onto something",
+            "Pushed something away"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happened when the ship struck the rock?",
+        "choices": [
+            "It stayed still",
+            "It began to fill with water",
+            "It turned around"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'racing tide'?",
+        "choices": [
+            "Fast-moving sea",
+            "Calm ocean",
+            "Stormy clouds"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Adverbs tell us more about:",
+        "choices": [
+            "Nouns",
+            "Adjectives",
+            "Verbs",
+            "Pronouns"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Adjectives tell us more about:",
+        "choices": [
+            "Verbs",
+            "Adverbs",
+            "Prepositions",
+            "Nouns"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is an example of adding '-ly' to an adjective to make it an adverb?",
+        "choices": [
+            "Sad -> Sadden",
+            "Quick -> Quickly",
+            "Happy -> Happiness",
+            "Friend -> Friendly"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Change 'Quick' into an adverb:",
+        "choices": [
+            "Quickly",
+            "Quicker",
+            "Quickest",
+            "Quickness"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Eager' into an adverb:",
+        "choices": [
+            "Eagerly",
+            "Eagerness",
+            "Eagerer",
+            "Eagerest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Sweet' into an adverb:",
+        "choices": [
+            "Sweetly",
+            "Sweetness",
+            "Sweeter",
+            "Sweetest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Rough' into an adverb:",
+        "choices": [
+            "Roughly",
+            "Roughness",
+            "Rougher",
+            "Roughest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Usual' into an adverb:",
+        "choices": [
+            "Usually",
+            "Usualness",
+            "Usualer",
+            "Usualest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change 'Loving' into an adverb:",
+        "choices": [
+            "Lovingly",
+            "Lovingness",
+            "Lovinger",
+            "Lovingest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where did the child go in the ship?",
+        "choices": [
+            "a faraway island",
+            "far into the sea",
+            "a foreign land"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "'A wind came moaning by' means that the wind was",
+        "choices": [
+            "slow and gentle",
+            "very near the ship",
+            "blowing loudly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The ship was caught",
+        "choices": [
+            "in a storm",
+            "in a cloud",
+            "on a rock"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When the child saw the rock he",
+        "choices": [
+            "shouted in joy",
+            "realized he was safe",
+            "knew he would crash"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The child was saved when",
+        "choices": [
+            "the rain stopped",
+            "he woke from his dream",
+            "the ship stopped sinking"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the title of the poem?",
+        "choices": [
+            "The Ship",
+            "A Happy Ending",
+            "Sailing Away",
+            "A Dream"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the poem, where did the speaker find the ship?",
+        "choices": [
+            "In a dream",
+            "On the beach",
+            "Upon the sea",
+            "At the harbor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What word is used to describe how the waves crashed?",
+        "choices": [
+            "Loudly",
+            "Grandly",
+            "Softly",
+            "Angrily"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the speaker see straight ahead?",
+        "choices": [
+            "Another ship",
+            "Land",
+            "A storm",
+            "A rock"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does 'braced myself' mean, according to the text?",
+        "choices": [
+            "Held on tightly",
+            "Prepared myself",
+            "Covered myself",
+            "Lost balance"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What broke just as the speaker found themself in bed?",
+        "choices": [
+            "The window",
+            "The ship",
+            "Mast and rigging",
+            "The rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a mast?",
+        "choices": [
+            "A type of rope",
+            "A tall pole on a boat or ship",
+            "Fast moving sea",
+            "Small drops of water"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is the author of this poem?",
+        "choices": [
+            "Unknown",
+            "Enid Blyton",
+            "John Keats",
+            "William Shakespeare"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does speckled mean in the poem?",
+        "choices": [
+            "Covered with small drops of something",
+            "Filled with excitement",
+            "Completely empty",
+            "Ready for something"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does NCF stand for?",
+        "choices": [
+            "National Children's Foundation",
+            "Noted Common Features",
+            "National Curriculum Framework",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    }
+]

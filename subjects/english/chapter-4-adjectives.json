@@ -1,0 +1,1155 @@
+[
+    {
+        "question": "Which of the following words describes someone who is always happy?",
+        "choices": [
+            "Jolly",
+            "Grumpy",
+            "Annoyed",
+            "Angry"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word describes something extremely large?",
+        "choices": [
+            "Big",
+            "Small",
+            "Tiny",
+            "Miniature"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word describes a person who is full of energy and excitement?",
+        "choices": [
+            "Energetic",
+            "Relaxed",
+            "Peaceful",
+            "Calm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the opposite of 'quiet'?",
+        "choices": [
+            "Loud",
+            "Silent",
+            "Tranquil",
+            "Calm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word best describes someone who is very attractive?",
+        "choices": [
+            "Beautiful",
+            "Clumsy",
+            "Aggressive",
+            "Annoyed"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these words describes a feeling of worry or unease?",
+        "choices": [
+            "Anxious",
+            "Angry",
+            "Bored",
+            "Arrogant"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word means 'very, very big'?",
+        "choices": [
+            "Gigantic",
+            "Great",
+            "High",
+            "Huge"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word best describes a sound that is very soft and gentle?",
+        "choices": [
+            "Gentle",
+            "Loud",
+            "Deafening",
+            "Noisy"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word is a synonym for 'kind'?",
+        "choices": [
+            "Helpful",
+            "Grumpy",
+            "Important",
+            "Handsome"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word means 'feeling sad and without hope'?",
+        "choices": [
+            "Depressed",
+            "Disgusted",
+            "Embarrassed",
+            "Confused"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following describes the qualities of 'Clothes'?",
+        "choices": [
+            "Optimistic",
+            "Handsome",
+            "Round",
+            "Long"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the image, which word can be used to describe someone's face?",
+        "choices": [
+            "Long",
+            "Optimistic",
+            "Shabby",
+            "Round"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In 'Build' section, what are the options given for build?",
+        "choices": [
+            "Skinny",
+            "Slim/Thin",
+            "Muscular",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is NOT considered as a description of 'Height'?",
+        "choices": [
+            "Big",
+            "Small",
+            "Short",
+            "Tall"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following describes 'Age'?",
+        "choices": [
+            "Pretty",
+            "Cute",
+            "Middle-aged",
+            "Handsome"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following describes 'Hair'?",
+        "choices": [
+            "Oval",
+            "Round",
+            "Curly",
+            "Chubby"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Garima is as ____ as Manisha. (fat)",
+        "choices": [
+            "fatter",
+            "fat",
+            "fattest",
+            "more fat"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Steel is ____ than plastic. (strong)",
+        "choices": [
+            "strong",
+            "stronger",
+            "strongest",
+            "more strong"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Blood is ____ than water. (thick)",
+        "choices": [
+            "thick",
+            "thicker",
+            "thickest",
+            "more thick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The weather is ____ than it was yesterday. (bad)",
+        "choices": [
+            "bad",
+            "worse",
+            "worst",
+            "more bad"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Leena is the ____ girl in my class. (friendly)",
+        "choices": [
+            "friendly",
+            "friendlier",
+            "friendliest",
+            "most friendly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Rani got ____ marks than Rahul. (high)",
+        "choices": [
+            "high",
+            "higher",
+            "highest",
+            "more high"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The cake is ____ than the bun. (heavy)",
+        "choices": [
+            "heavy",
+            "heavier",
+            "heaviest",
+            "more heavy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The elephant is the ____ animal. (big)",
+        "choices": [
+            "big",
+            "bigger",
+            "biggest",
+            "more big"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My brother is the ____ boy in his class. (tall)",
+        "choices": [
+            "tall",
+            "taller",
+            "tallest",
+            "more tall"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which is ____ river in the world? (long)",
+        "choices": [
+            "long",
+            "longer",
+            "longest",
+            "more long"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the superlative degree of 'great'?",
+        "choices": [
+            "greater",
+            "greatest",
+            "more great",
+            "most great"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is the comparative degree of 'high'?",
+        "choices": [
+            "highest",
+            "more high",
+            "higher",
+            "high"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the superlative of 'sweet'?",
+        "choices": [
+            "sweeter",
+            "sweetest",
+            "most sweet",
+            "more sweet"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The comparative degree of 'cool' is:",
+        "choices": [
+            "coolest",
+            "cooler",
+            "more cool",
+            "less cool"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative form of 'wise'?",
+        "choices": [
+            "wiser",
+            "more wise",
+            "wisest",
+            "less wise"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is the comparative of 'able'?",
+        "choices": [
+            "ablest",
+            "abler",
+            "more able",
+            "less able"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative degree of 'noble'?",
+        "choices": [
+            "nobler",
+            "noblest",
+            "more noble",
+            "less noble"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the comparative degree of 'beautiful'?",
+        "choices": [
+            "beautifuler",
+            "more beautiful",
+            "most beautiful",
+            "beautifullest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative degree of 'expensive'?",
+        "choices": [
+            "expensivest",
+            "more expensive",
+            "most expensive",
+            "expensiver"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the comparative degree of 'interesting'?",
+        "choices": [
+            "interestinger",
+            "more interesting",
+            "less interesting",
+            "most interesting"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the comparative form of 'grey'?",
+        "choices": [
+            "greyest",
+            "greyer",
+            "grayer",
+            "grayest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which suffix is added to adjectives ending in '-e' to form the superlative degree?",
+        "choices": [
+            "-er",
+            "-est",
+            "+r",
+            "+est"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What happens to an adjective ending in '-y' when forming the comparative degree?",
+        "choices": [
+            "Add '-er'",
+            "Keep the '-y' and add '-er'",
+            "Remove '-y' and add '+ier'",
+            "Remove '-y' and add '+est'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happens to the consonant when adjectives end with a single consonant?",
+        "choices": [
+            "It is removed",
+            "It is doubled",
+            "It is tripled",
+            "It stays the same"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do you add before longer words to create the comparative form?",
+        "choices": [
+            "add more",
+            "add -er",
+            "add -est",
+            "add most"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the superlative of 'beautiful'?",
+        "choices": [
+            "beautifullest",
+            "more beautiful",
+            "most beautiful",
+            "beautifuler"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the superlative form of 'good'?",
+        "choices": [
+            "goodest",
+            "better",
+            "best",
+            "gooder"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the comparative form of 'little'?",
+        "choices": [
+            "littler",
+            "less",
+            "littlest",
+            "least"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative form of 'far'?",
+        "choices": [
+            "farther",
+            "farthest",
+            "further",
+            "farther / further"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which suffix is added to adjectives ending in big to form the superlative degree?",
+        "choices": [
+            "-est",
+            "-st",
+            "-er",
+            "-ist"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which degree of comparison is used when there is no comparison?",
+        "choices": [
+            "Comparative",
+            "Positive",
+            "Superlative",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The adjective 'taller' is an example of which degree of comparison?",
+        "choices": [
+            "Positive",
+            "Superlative",
+            "Comparative",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which degree of comparison is used to compare three or more things?",
+        "choices": [
+            "Positive",
+            "Comparative",
+            "Superlative",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following sentences uses a superlative adjective?",
+        "choices": [
+            "Ajay is a tall boy.",
+            "Ajay is taller than Raj.",
+            "Ajay is the tallest boy.",
+            "Ajay is as tall as his brother."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is the comparative form of 'low'?",
+        "choices": [
+            "lowest",
+            "lower",
+            "lowly",
+            "lowerest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is the superlative form of 'fast'?",
+        "choices": [
+            "faster",
+            "fastest",
+            "fastly",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is the superlative form of 'little'?",
+        "choices": [
+            "littler",
+            "less",
+            "least",
+            "littlest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is the comparative form of 'large'?",
+        "choices": [
+            "largest",
+            "largely",
+            "larger",
+            "largeness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'He is as tall as his brother', the adjective 'tall' is in which degree?",
+        "choices": [
+            "Comparative",
+            "Positive",
+            "Superlative",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following words is in the superlative degree?",
+        "choices": [
+            "taller",
+            "tallest",
+            "tall",
+            "tallness"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a synonym for 'large' in size?",
+        "choices": [
+            "Petite",
+            "Little",
+            "Gigantic",
+            "Tiny"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What letter is 'Helpful'?",
+        "choices": [
+            "A",
+            "T",
+            "I",
+            "E"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "______ bag is yours?",
+        "choices": [
+            "This",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ house is that?",
+        "choices": [
+            "The",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ shoes are these?",
+        "choices": [
+            "Who",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ pencil box is this?",
+        "choices": [
+            "The",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ question did you attempt?",
+        "choices": [
+            "What",
+            "Whose",
+            "Which",
+            "Who"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ dress did you like?",
+        "choices": [
+            "That",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ project will he give us?",
+        "choices": [
+            "What",
+            "Whose",
+            "Which",
+            "Who"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ novel do you like?",
+        "choices": [
+            "The",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ time will he reach?",
+        "choices": [
+            "What",
+            "Whose",
+            "Which",
+            "Who"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ cap is this?",
+        "choices": [
+            "Who",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "May I take ____ book? ____ book has good stories.",
+        "choices": [
+            "This, These",
+            "This, That",
+            "This, This",
+            "That, These"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "____ pencils are mine. ____ are yours.",
+        "choices": [
+            "That, This",
+            "These, These",
+            "Those, This",
+            "This, Those"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "____ maid is honest. ____ maid is cunning.",
+        "choices": [
+            "This, That",
+            "That, This",
+            "That, That",
+            "These, Those"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Please wear ____ dress. It suits you.",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "____ boy always comes school on time.",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "____ thieves were caught by the police.",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Look at ____ crows up there on the tree.",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "He doesn't wear ____ trousers any more.",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Can you see ____ picture hanging on the wall?",
+        "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "____ pears are fresh, ____ pears on the corner-shelf are rotten.",
+        "choices": [
+            "This, These",
+            "That, Those",
+            "These, That",
+            "Those, This"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Tina has scored only ______ marks.",
+        "choices": [
+            "ten",
+            "all"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Roshni stood ______ in the class.",
+        "choices": [
+            "first",
+            "some"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Jeet eats ______ apples everyday.",
+        "choices": [
+            "one",
+            "two"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "______ animals are dangerous.",
+        "choices": [
+            "Some",
+            "Two"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ plants have green leaves.",
+        "choices": [
+            "All",
+            "Five"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The pupils collected ______ flowers.",
+        "choices": [
+            "seven",
+            "several"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "We have ______ fingers in two hands.",
+        "choices": [
+            "ten",
+            "twenty"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "There are ______ children in the ground.",
+        "choices": [
+            "twenty",
+            "many"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "'Z' is the ______ letter of the English alphabet.",
+        "choices": [
+            "last",
+            "first"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Wednesday is the ______ day of the week.",
+        "choices": [
+            "fifth",
+            "third"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'I have some milk in the jug.'",
+        "choices": [
+            "I",
+            "milk",
+            "some",
+            "jug"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'He takes little care of his health.'",
+        "choices": [
+            "He",
+            "takes",
+            "little",
+            "health"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'Jyoti did not read any book.'",
+        "choices": [
+            "Jyoti",
+            "read",
+            "any",
+            "book"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'The whole story is false.'",
+        "choices": [
+            "The",
+            "whole",
+            "story",
+            "false"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'Half part of the Earth always faces the Sun.'",
+        "choices": [
+            "Half",
+            "part",
+            "Earth",
+            "Sun"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word is an adjective of quantity in the sentence: 'At my words, he lost all patience.'",
+        "choices": [
+            "my",
+            "words",
+            "lost",
+            "all"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'There is (a few / a little) juice left in the jug,' which is the correct adjective of quantity?",
+        "choices": [
+            "a few",
+            "a little"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'There is (no / much) money in the wallet,' which is the correct adjective of quantity?",
+        "choices": [
+            "no",
+            "much"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'She served (more / much) rice to me today,' which is the correct adjective of quantity?",
+        "choices": [
+            "more",
+            "much"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'Put (many / a little) oil in the mixture,' which is the correct adjective of quantity?",
+        "choices": [
+            "many",
+            "a little"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What would you call a person who doesn't like to do any work?",
+        "choices": [
+            "Lazy",
+            "Busy",
+            "Rude",
+            "Honest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What would you call a person who always does something or the other?",
+        "choices": [
+            "Lazy",
+            "Busy",
+            "Rude",
+            "Honest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What would you call a person who doesn't talk politely?",
+        "choices": [
+            "Lazy",
+            "Busy",
+            "Rude",
+            "Honest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What would you call a person who is always ready to help others?",
+        "choices": [
+            "Lazy",
+            "Helpful",
+            "Rude",
+            "Honest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What would you call a person who is not afraid of anything?",
+        "choices": [
+            "Popular",
+            "Fearless",
+            "Friendly",
+            "Boastful"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The rose is a ______ flower.",
+        "choices": [
+            "pleasant",
+            "beautiful",
+            "heavy",
+            "kind"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The crow was very ______.",
+        "choices": [
+            "honest",
+            "thirsty",
+            "white",
+            "great"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The bucket was ______.",
+        "choices": [
+            "pleasant",
+            "beautiful",
+            "heavy",
+            "kind"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Arun is a ______ boy.",
+        "choices": [
+            "beautiful",
+            "thirsty",
+            "heavy",
+            "kind"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "My mother makes ______ food for me.",
+        "choices": [
+            "pretty",
+            "white",
+            "delicious",
+            "great"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does an adjective describe?",
+        "choices": [
+            "A verb",
+            "A noun or pronoun",
+            "An adverb",
+            "A preposition"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of an adjective of quality?",
+        "choices": [
+            "One",
+            "Some",
+            "Tiny",
+            "This"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of an adjective of number?",
+        "choices": [
+            "Tiny",
+            "One",
+            "Some",
+            "Which"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of an adjective of quantity?",
+        "choices": [
+            "Tiny",
+            "One",
+            "Some",
+            "This"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of a demonstrative adjective?",
+        "choices": [
+            "Tiny",
+            "One",
+            "Some",
+            "This"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is an example of an interrogative adjective?",
+        "choices": [
+            "Tiny",
+            "One",
+            "Some",
+            "Which"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'Johny planted apple seeds', is 'apple' an adjective?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Sometimes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an adjective?",
+        "choices": [
+            "A word that describes a verb",
+            "A word that describes a noun",
+            "A word that describes an adverb",
+            "A word that describes a preposition"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the phrase 'tall shady trees', which words are adjectives?",
+        "choices": [
+            "trees",
+            "tall",
+            "shady",
+            "tall and shady"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'I love to eat many apples by all means', is 'many' an adjective?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Sometimes"
+        ],
+        "correctAnswer": 0
+    }
+  ]
+  

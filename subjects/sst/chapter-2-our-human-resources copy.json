@@ -1,0 +1,350 @@
+[
+  {
+    "question": "What is the most important resource of a country?",
+    "choices": [
+      "Natural resources",
+      "Human resources",
+      "Financial resources",
+      "Technological resources"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are human resources?",
+    "choices": [
+      "The people of a country",
+      "Natural resources like minerals and forests",
+      "Financial assets of a nation",
+      "The technological infrastructure of a country"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is needed to properly utilize natural resources?",
+    "choices": [
+      "Intelligent, educated, and skilled people",
+      "Abundant financial resources",
+      "Advanced technology",
+      "Favorable geographical location"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is one of the major challenges hindering the development of human resources in India, as mentioned in the text?",
+    "choices": [
+      "Overpopulation",
+      "Lack of natural resources",
+      "Insufficient technological advancement",
+      "Lack of foreign investment"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "According to the text, what measures are taken by the Indian government to develop human resources?",
+    "choices": [
+      "Population control, education, health, and removal of poverty",
+      "Investing heavily in infrastructure",
+      "Promoting foreign trade",
+      "Encouraging technological innovation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is India's rank in terms of population size in the world?",
+    "choices": [
+      "Seventh largest",
+      "Second most populous",
+      "Most populous",
+      "Third most populous"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the approximate population of India, as stated in the text?",
+    "choices": [
+      "More than 125 crore people",
+      "Less than 100 crore people",
+      "Around 50 crore people",
+      "More than 200 crore people"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is a significant factor preventing the optimal utilization of natural resources in a country?",
+    "choices": [
+      "Lack of proper utilization methods",
+      "Abundant natural resources",
+      "Sufficient skilled labor",
+      "Advanced technology"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Besides population control, what else is mentioned as a measure taken by the government for human resource development?",
+    "choices":[
+        "Education",
+        "Tourism",
+        "Industrialization",
+        "Immigration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is a key ability of human resources that helps develop available resources?",
+    "choices": [
+      "The ability to use their knowledge and skills",
+      "The ability to acquire advanced technology",
+      "The ability to manage financial resources",
+      "The ability to control natural resources"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What percentage of the world's land area does India occupy?",
+    "choices": [
+      "17.5%",
+      "2.4%",
+      "10%",
+      "5%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What percentage of the world's population lives in India?",
+    "choices": [
+      "2.4%",
+      "17.5%",
+      "10%",
+      "5%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main occupation of most Indians?",
+    "choices": [
+      "Industry",
+      "Agriculture",
+      "Service",
+      "Technology"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is population density?",
+    "choices": [
+      "Number of people living in one square kilometer of area",
+      "Total population of a country",
+      "Number of families in a city",
+      "Area of a country"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the average population density of the world?",
+    "choices": [
+      "324 people per sq km",
+      "45 people per sq km",
+      "100 people per sq km",
+      "200 people per sq km"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the average population density of India?",
+    "choices": [
+      "45 people per sq km",
+      "324 people per sq km",
+      "100 people per sq km",
+      "200 people per sq km"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state in India has the highest population?",
+    "choices": [
+      "Sikkim",
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "Bihar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state in India has the lowest population?",
+    "choices": [
+      "Uttar Pradesh",
+      "Sikkim",
+      "Andhra Pradesh",
+      "Bihar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the text, what is one major problem hindering the development of human resources in India?",
+    "choices": [
+      "Lack of natural resources",
+      "Overpopulation",
+      "Lack of technology",
+      "Favorable climate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is one measure taken by the Indian government to address the problem of poverty?",
+    "choices": [
+      "Ignoring the issue",
+      "Providing jobs, land, and houses",
+      "Increasing taxes",
+      "Reducing government spending"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "The least populous state is:",
+    "choices": [
+      "Nagaland",
+      "Goa",
+      "Sikkim",
+      "Mizoram"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The Sarva Shiksha Abhiyan aims at:",
+    "choices": [
+      "Educating all uneducated adults",
+      "Educating all children between the age of 6-14 years",
+      "Educating all children between the age of 6-16 years",
+      "Educating all children and uneducated adults"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "People who go to cities or towns from villages to look for work are called:",
+    "choices": [
+      "wagers",
+      "migrants",
+      "labourers",
+      "none of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "To ensure people are healthy, our Government has:",
+    "choices": [
+      "opened schools",
+      "set up hospitals",
+      "provided loans",
+      "all of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Overpopulation helps in the development of human resource. True or False?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Having a large population puts too much pressure on which of the following things?",
+    "choices": [
+      "Natural resources",
+      "Amenities",
+      "Services",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is not able to keep up pace with the ever-increasing population?",
+    "choices": [
+      "Food and Water",
+      "Sanitation and Schools",
+      "Roads and Transport",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why are there more jobs and money in the cities?",
+    "choices": [
+      "Due to more occupations",
+      "Due to more markets",
+      "Due to better roads",
+      "Due to more development"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What causes a population shift towards urban areas?",
+    "choices": [
+      "More jobs",
+      "More money",
+      "More houses",
+      "Both (i) and (ii)"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why are migrant workers employed as daily wagers?",
+    "choices": [
+      "They feel comfortable as daily wagers",
+      "They have little education",
+      "They are skilled",
+      "They are unskilled"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Which of the following metals is found the maximum in our country?",
+    "choices": ["Manganese", "Copper", "Aluminium", "Iron"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Copper is mainly found in which state?",
+    "choices": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Telangana"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following states have aluminium deposits?",
+    "choices": ["Karnataka", "Jharkhand", "Tamil Nadu", "All of these"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the main advantage of better mining practices and use of latest technology?",
+    "choices":["Increased production","Improved quality of minerals","Conservation of minerals", "Faster extraction"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "To which category of minerals does Manganese belong?",
+    "choices": ["Metallic Minerals", "Non-metallic Minerals", "Fossil Fuels", "None of these"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Mica is a type of what?",
+    "choices": ["Metallic Mineral", "Non-metallic Mineral", "Fossil Fuel", "Ore"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are oil wells?",
+    "choices": ["Underground reservoirs of oil", "Underground streams", "Underground rivers", "Natural springs"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which mineral is referred to as crude oil?",
+    "choices": ["Petroleum", "Coal", "Natural Gas", "None of these"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can using electricity in cars help conserve mineral resources?",
+    "choices": ["Reduces reliance on fossil fuels", "Increases efficiency", "Reduces pollution", "All of these"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why do environmental agencies often protest against mining operations?",
+    "choices": ["Environmental damage", "Displacement of communities", "Resource depletion", "All of these"],
+    "correctAnswer": 3
+  }
+]

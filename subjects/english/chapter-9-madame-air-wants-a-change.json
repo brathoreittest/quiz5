@@ -1,0 +1,692 @@
+[
+    {
+        "question": "Where did 'YOU' go yesterday?",
+        "choices": [
+            "The park",
+            "The library",
+            "The beach",
+            "The store"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did 'YOU' browse in?",
+        "choices": [
+            "The bookstore",
+            "The music section",
+            "The science fiction section",
+            "The history section"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of novel did 'YOU' find?",
+        "choices": [
+            "Mystery",
+            "Romance",
+            "Science fiction",
+            "Time travel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What should you do with water in Step 1 of the science activity?",
+        "choices": [
+            "Boil it",
+            "Drink it",
+            "Keep it in the freezer",
+            "Keep it in the sun"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What form of water is ice?",
+        "choices": [
+            "Liquid",
+            "Gas",
+            "Solid",
+            "Plasma"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What will happen to the ice cubes in Step 2?",
+        "choices": [
+            "They will freeze",
+            "They will evaporate",
+            "They will melt",
+            "They will explode"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you observe when you heat the water in Step 3?",
+        "choices": [
+            "It turns to ice",
+            "It turns to snow",
+            "It turns into water vapour",
+            "It disappears"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the gaseous form of water called?",
+        "choices": [
+            "Ice",
+            "Liquid",
+            "Water vapor",
+            "Steam"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of day is described in 'You may begin like this.'?",
+        "choices": [
+            "It is a rainy day.",
+            "It is a bright and windy day.",
+            "It is a cold day.",
+            "It is a hot day."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the subject link?",
+        "choices": [
+            "Math",
+            "English",
+            "Social Studies",
+            "Science"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which type of adverb tells us how an action is done?",
+        "choices": [
+            "Adverbs of place",
+            "Adverbs of time",
+            "Adverbs of manner",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of an adverb of place?",
+        "choices": [
+            "Yesterday",
+            "Outside",
+            "Happily",
+            "Soon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of an adverb of time?",
+        "choices": [
+            "There",
+            "Tonight",
+            "Easily",
+            "Nearby"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'The sun shines everywhere', what is the adverb?",
+        "choices": [
+            "The",
+            "Sun",
+            "Shines",
+            "Everywhere"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'It was not hot yesterday', what is the adverb?",
+        "choices": [
+            "It",
+            "Hot",
+            "Was",
+            "Yesterday"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'Jasbir came quietly into Granny's room to surprise her', what is the adverb?",
+        "choices": [
+            "Granny's",
+            "Quietly",
+            "Surprise",
+            "Jasbir"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'Simar has lived here most of her life', what is the adverb?",
+        "choices": [
+            "Simar",
+            "Lived",
+            "Here",
+            "Life"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'The father held his baby lovingly', what is the adverb?",
+        "choices": [
+            "Father",
+            "Baby",
+            "Held",
+            "Lovingly"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'Palash will come today', what is the adverb?",
+        "choices": [
+            "Palash",
+            "Will",
+            "Come",
+            "Today"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence 'It is about to rain. Don't go outside', what is the adverb?",
+        "choices": [
+            "About",
+            "Rain",
+            "Go",
+            "Outside"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What do adverbs tell us about?",
+        "choices": [
+            "Nouns",
+            "Verbs",
+            "Adjectives",
+            "Pronouns"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following words is an adverb?",
+        "choices": [
+            "Desperately",
+            "Change",
+            "Park",
+            "Room"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sentence 'Papa took us to the park yesterday', what is the adverb?",
+        "choices": [
+            "Papa",
+            "Park",
+            "Yesterday",
+            "Took"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Amit is playing upstairs in his room.', what is the adverb?",
+        "choices": [
+            "Playing",
+            "Upstairs",
+            "Room",
+            "Is"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence 'Sir Ocean replied to Madame Air gently.', what is the adverb?",
+        "choices": [
+            "Sir Ocean",
+            "Replied",
+            "Gently",
+            "Madame Air"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'I waited there for an hour.', what is the adverb?",
+        "choices": [
+            "I",
+            "Waited",
+            "There",
+            "Hour"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Gaurav was playing merrily in the garden.', what is the adverb?",
+        "choices": [
+            "Gaurav",
+            "Playing",
+            "Merrily",
+            "Garden"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Mahesh called early this morning.', what is the adverb?",
+        "choices": [
+            "Mahesh",
+            "Called",
+            "Early",
+            "Morning"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'Aslam arrived yesterday.', what is the adverb?",
+        "choices": [
+            "Aslam",
+            "Arrived",
+            "Yesterday",
+            "Arrived"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence 'The children ran outside to play.', what is the adverb?",
+        "choices": [
+            "The",
+            "Ran",
+            "Outside",
+            "Children"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which suffix is added to the word 'create' to form the word 'creation'?",
+        "choices": [
+            "-ing",
+            "-ed",
+            "-tion",
+            "-ion"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which suffix is added to the word 'create' to form the word 'creating'?",
+        "choices": [
+            "-ed",
+            "-ing",
+            "-tion",
+            "-ion"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which suffix is added to the word 'create' to form the word 'created'?",
+        "choices": [
+            "-ing",
+            "-tion",
+            "-ed",
+            "-ion"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which suffix can be added to the word 'suggest'?",
+        "choices": [
+            "-ion",
+            "-ing",
+            "-ed",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which suffix can be added to the word 'vibrate'?",
+        "choices": [
+            "-tion",
+            "-ing",
+            "-ed",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which suffix can be added to the word 'complete'?",
+        "choices": [
+            "-tion",
+            "-ing",
+            "-ed",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which suffix can be added to the word 'perfect'?",
+        "choices": [
+            "-tion",
+            "-ing",
+            "-ed",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What did the squirrel say humans live in?",
+        "choices": [
+            "Forests",
+            "Mountains",
+            "Cities",
+            "Countryside"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of smoke hit Air in the face before she entered the city?",
+        "choices": [
+            "White cloud of smoke",
+            "Black cloud of smoke",
+            "Grey cloud of smoke",
+            "Blue cloud of smoke"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the smoke from the chimney of a factory called?",
+        "choices": [
+            "Grime",
+            "Soot",
+            "Dust",
+            "Smog"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happened to Air's face and clothes due to the smoke?",
+        "choices": [
+            "They turned white",
+            "They blackened",
+            "They became wet",
+            "They turned blue"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What surrounded Air when she was in the middle of the city?",
+        "choices": [
+            "Trees",
+            "Mountains",
+            "Tall buildings",
+            "Rivers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of jam did Air find herself caught in?",
+        "choices": [
+            "A traffic jam",
+            "A fruit jam",
+            "A jelly jam",
+            "A music jam"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What were the vehicles throwing at her?",
+        "choices": [
+            "Water and dirt",
+            "Flowers and leaves",
+            "Smoke and terrible-smelling gases",
+            "Gifts and toys"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the vehicles make her do?",
+        "choices": [
+            "Sing",
+            "Dance",
+            "Cough and splutter",
+            "Laugh"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where did Air rush out of?",
+        "choices": [
+            "The factory",
+            "The countryside",
+            "The city",
+            "The forest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is the author of this story?",
+        "choices": [
+            "Dilip M Salwi",
+            "Salwi M Dilip",
+            "Dipil M Salwi",
+            "Sawli M Dilip"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'ancestors' mean according to the text?",
+        "choices": [
+            "People who lived a long time ago",
+            "People who lived in one's family a long time ago",
+            "People who are related",
+            "People who are very old"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happened when Lord Volcano let out dust and gases?",
+        "choices": [
+            "It hit the land",
+            "It hit the water",
+            "It hit the Air",
+            "It created land"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Lord Volcano say created the Air?",
+        "choices": [
+            "Water",
+            "His ancestors",
+            "The tree",
+            "The squirrel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the Earth like in the beginning according to Lord Volcano?",
+        "choices": [
+            "A ball of water",
+            "A ball of fire",
+            "A ball of hot gases",
+            "A rock"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What tied dust and gases to the Earth?",
+        "choices": [
+            "Water",
+            "Air",
+            "Gravity",
+            "Nothing"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Lord Volcano, who formed both Air and Water?",
+        "choices": [
+            "The Earth",
+            "Air's ancestors",
+            "Lord Volcano's ancestors",
+            "The animals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where did life develop in the course of time, according to Lord Volcano?",
+        "choices": [
+            "On land",
+            "In the air",
+            "In the oceans",
+            "In the volcanoes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who did Air meet after leaving Lord Volcano?",
+        "choices": [
+            "A squirrel",
+            "A tree",
+            "Water",
+            "Another volcano"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the tree say Air should never think of doing?",
+        "choices": [
+            "Changing herself",
+            "Leaving the Earth",
+            "Being angry",
+            "Talking to volcanoes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who did Air meet on a grassy patch?",
+        "choices": [
+            "A tree",
+            "Lord Volcano",
+            "A human",
+            "A squirrel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What made Madame Air bored?",
+        "choices": [
+            "The Earth's pollution",
+            "The same old gases",
+            "Sir Ocean's grumbling voice",
+            "Mr. Sun's questions"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What gases make up most of the Air?",
+        "choices": [
+            "Oxygen and carbon dioxide",
+            "Nitrogen and oxygen",
+            "Nitrogen, oxygen, and carbon dioxide",
+            "Smoke and flames"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was the first one Madame Air met?",
+        "choices": [
+            "Mr. Sun",
+            "Mr. Land",
+            "Sir Ocean",
+            "Lord Volcano"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Sir Ocean say when he heard of the air's plan?",
+        "choices": [
+            "Change is good.",
+            "Change for the sake of change is not good.",
+            "I am here to help you.",
+            "Why? What's the matter?"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of voice did Sir Ocean use when he heard what Air wanted to do?",
+        "choices": [
+            "Loud voice",
+            "Normal voice",
+            "Rumbling voice",
+            "Soft voice"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who did Air meet on her way?",
+        "choices": [
+            "Sir Ocean",
+            "Mr. Land",
+            "Mr. Sun",
+            "Lord Volcano"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How long has Mr. Sun not changed himself?",
+        "choices": [
+            "Few days",
+            "Few weeks",
+            "Many years",
+            "Many centuries"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who did Air meet after Mr. Sun?",
+        "choices": [
+            "Sir Ocean",
+            "Mr. Land",
+            "Lord Volcano",
+            "None"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Air hear when moving up a mountain path?",
+        "choices": [
+            "A belching sound",
+            "A rumbling sound",
+            "Singing birds",
+            "Nothing"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who says they have created good conditions on Earth?",
+        "choices": [
+            "Sir Ocean and Mr. Sun",
+            "Mr. Land",
+            "Lord Volcano",
+            "Madame Air"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, everything in the universe is made up of how many elements?",
+        "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what are the five elements called in Indian tradition?",
+        "choices": [
+            "Panch Shakti",
+            "Vital Force",
+            "Pran Tattva",
+            "Panch Tattva"
+        ],
+        "correctAnswer": 3
+    }
+]

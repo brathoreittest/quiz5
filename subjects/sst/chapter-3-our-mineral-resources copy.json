@@ -1,0 +1,453 @@
+[
+  {
+    "question": "What are minerals?",
+    "choices": [
+      "Natural substances found deep inside the Earth",
+      "Rocks found only on the surface of the Earth",
+      "Man-made substances used for construction",
+      "Substances found only in water bodies"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are ores?",
+    "choices": [
+      "Rocks from which minerals are extracted",
+      "Minerals found only in the sea",
+      "Substances that cannot be processed",
+      "Man-made materials"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where can ores be found?",
+    "choices": [
+      "On the surface, below the surface, and at the bottom of the sea",
+      "Only on the surface of the Earth",
+      "Only below the surface of the Earth",
+      "Only at the bottom of the sea"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is mining?",
+    "choices": [
+      "The process of digging minerals from the Earth",
+      "The process of making minerals",
+      "The process of transporting minerals",
+      "The process of studying minerals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are the two types of minerals?",
+    "choices": [
+      "Metallic and non-metallic",
+      "Solid and liquid",
+      "Organic and inorganic",
+      "Natural and artificial"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which minerals contain metals?",
+    "choices": [
+      "Metallic minerals",
+      "Non-metallic minerals",
+      "Both metallic and non-metallic minerals",
+      "Neither metallic nor non-metallic minerals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Give an example of a metallic mineral.",
+    "choices": [
+      "Iron",
+      "Coal",
+      "Petroleum",
+      "Salt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Give an example of a non-metallic mineral.",
+    "choices": [
+      "Coal",
+      "Gold",
+      "Copper",
+      "Silver"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are mineral fuels?",
+    "choices": [
+      "Coal and petroleum",
+      "Iron and copper",
+      "Gold and silver",
+      "Limestone and salt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the process of extracting minerals called?",
+    "choices":[
+      "Mining",
+      "Drilling",
+      "Refining",
+      "Smelting"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Which state is NOT mentioned as a major producer of iron ore in India?",
+    "choices": [
+      "Jharkhand",
+      "Rajasthan",
+      "Goa",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the most important metal used to make tools, utensils, bridges, and railway coaches?",
+    "choices": [
+      "Copper",
+      "Gold",
+      "Iron",
+      "Aluminium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Besides steel, what other application is mentioned for manganese?",
+    "choices": [
+      "Making jewellery",
+      "Producing electricity",
+      "Fertilizers, paints, glass, ceramics",
+      "Fuel for cars"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which metal is extracted from bauxite and is known for being very light?",
+    "choices": [
+      "Iron",
+      "Manganese",
+      "Copper",
+      "Aluminium"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which two states are mentioned as having the largest reserves of manganese in India?",
+    "choices": [
+      "Jharkhand and Rajasthan",
+      "Madhya Pradesh and Odisha",
+      "Karnataka and Goa",
+      "Maharashtra and Gujarat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the primary use of copper mentioned in the text?",
+    "choices": [
+      "Making steel",
+      "Making tools and utensils",
+      "Generating electricity",
+      "Making fertilizers"
+
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Besides Karnataka, which other state is mentioned as having gold deposits?",
+    "choices": [
+      "Madhya Pradesh",
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the Southern Plateaus, particularly the Chota Nagpur area, known as?",
+    "choices": [
+      "India's mineral belt",
+      "India's agricultural heartland",
+      "India's industrial hub",
+      "India's technological center"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which city is NOT listed as a location for iron and steel producing factories?",
+    "choices": [
+      "Jamshedpur",
+      "Rourkela",
+      "Mumbai",
+      "Bokaro"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the primary source of metallic minerals?",
+    "choices": [
+      "Sedimentary rocks",
+      "Metamorphic rocks",
+      "Igneous rocks",
+      "All of the above"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "Which of the following is NOT a non-metallic mineral?",
+    "choices": ["Coal", "Petroleum", "Gold", "Natural Gas"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are coal, petroleum, and natural gas also known as?",
+    "choices": ["Precious stones", "Metallic minerals", "Fossil fuels", "Gems"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is another name for petroleum?",
+    "choices": ["Mineral oil", "Black diamond", "CNG", "Mica"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which state in India has the oldest oil well?",
+    "choices": ["Gujarat", "Maharashtra", "Assam", "West Bengal"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is CNG?",
+    "choices": ["Compressed Natural Gas", "Coal India Limited", "Crude oil", "Mica"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is coal also known as?",
+    "choices": ["White diamond", "Black diamond", "Red diamond", "Blue diamond"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which company is the largest coal producing company in the world?",
+    "choices": ["Coal India Limited", "ONGC", "Bharat Petroleum", "Indian Oil"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are two methods of coal mining?",
+    "choices": ["Surface and deep mining", "Open-pit and underground mining", "Strip and shaft mining", "All of the above"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where was the Koh-i-noor diamond mined?",
+    "choices": ["Rajasthan", "Andhra Pradesh", "Madhya Pradesh", "Gujarat"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which state is known for its rich mica deposits?",
+    "choices": ["Tamil Nadu", "Maharashtra", "Jharkhand", "Kerala"],
+    "correctAnswer": 2
+  },
+    {
+    "question": "An area that has many oil wells is called:",
+    "choices": [
+      "Oil mine",
+      "Deep mining",
+      "Oil fields",
+      "Fossil mine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "is/are known as India's mineral belt.",
+    "choices": [
+      "Northern Plains",
+      "Western Desert",
+      "Southern Plateaus",
+      "Coastal Plains"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "India is the largest producer of which of these minerals?",
+    "choices": [
+      "Coal",
+      "Petroleum",
+      "Copper",
+      "Mica"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of these states has large deposits of iron?",
+    "choices": [
+      "Madhya Pradesh",
+      "Odisha",
+      "Punjab",
+      "Haryana"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Aluminium is used for making:",
+    "choices": [
+      "plastics",
+      "aeroplanes",
+      "ornaments",
+      "crude oil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following are features of metal?",
+    "choices": [
+      "Hard",
+      "Shiny",
+      "Easy to shape",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which out of the following is NOT a non-metallic mineral?",
+    "choices": [
+      "Limestone",
+      "Iron",
+      "Precious stones",
+      "Petroleum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Why are coal and petroleum known as mineral fuels?",
+    "choices": [
+      "Because they are obtained from minerals and used as fuels",
+      "Because they are obtained from minerals",
+      "Because they are non-metallic minerals",
+      "Because they do not contain metals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following metals are found in metallic minerals?",
+    "choices": [
+      "Iron",
+      "Copper",
+      "Silver",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Gold and silver are most commonly used in making",
+    "choices": [
+      "Utensils",
+      "Toys",
+      "Watches",
+      "Jewellery"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "Which of the following metals is found the maximum in our country?",
+    "choices": [
+      "Manganese",
+      "Copper",
+      "Aluminium",
+      "Iron"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Copper is mainly found in which state?",
+    "choices": [
+      "Gujarat",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Telangana"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following states have aluminium deposits?",
+    "choices": [
+      "Karnataka",
+      "Jharkhand",
+      "Tamil Nadu",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How do better mining practices and use of latest technology help in conservation of minerals?",
+    "choices": [
+      "Reduce waste",
+      "Increase efficiency",
+      "Both a and b",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of mineral is Manganese and what is it used for?",
+    "choices": [
+      "Metallic, steel production",
+      "Non-metallic, construction",
+      "Metallic, various industrial uses",
+      "Non-metallic, fertilizer production"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of mineral is mica and how is it useful to us?",
+    "choices": [
+      "Metallic, used in electronics",
+      "Non-metallic, used as an insulator",
+      "Metallic, used in construction",
+      "Non-metallic, used as a lubricant"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are oil wells?",
+    "choices": [
+      "Underground reservoirs of oil",
+      "Underground reservoirs of water",
+      "Underground reservoirs of gas",
+      "Underground reservoirs of minerals"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which mineral is referred to as crude oil?",
+    "choices": [
+      "Petroleum",
+      "Natural gas",
+      "Coal",
+      "Manganese"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What do you understand by conservation of minerals?",
+    "choices":[
+      "Sustainable use",
+      "Efficient extraction",
+      "Recycling and reuse",
+      "All of the above"
+    ],
+    "correctAnswer":3
+  },
+  {
+    "question": "What are the two main types of minerals?",
+    "choices": [
+      "Metallic and non-metallic",
+      "Organic and inorganic",
+      "Renewable and non-renewable",
+      "Solid and liquid"
+    ],
+    "correctAnswer": 0
+  }
+]

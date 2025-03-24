@@ -1,0 +1,403 @@
+[
+  {
+    "question": "What is the process of breakdown of rocks to form soil called?",
+    "choices": [
+      "Erosion",
+      "Weathering",
+      "Deposition",
+      "Sedimentation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the most important quality of soil?",
+    "choices": [
+      "Color",
+      "Texture",
+      "Fertility",
+      "Depth"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is manure?",
+    "choices": [
+      "A type of fertilizer",
+      "Animal dung used as an organic fertilizer",
+      "A type of soil",
+      "A type of crop"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How many major types of soil are found in India?",
+    "choices": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of soil is extremely fertile and formed by the deposition of sand and silt by rivers?",
+    "choices": [
+      "Black soil",
+      "Red soil",
+      "Alluvial soil",
+      "Desert soil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What makes alluvial soil extremely fertile?",
+    "choices": [
+      "Its high sand content",
+      "Its high clay content",
+      "The deposition of sand and silt by rivers",
+      "Its high mineral content"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the other natural forces involved in soil formation besides wind and water?",
+    "choices": [
+      "Plants and animals",
+      "Ice and snow",
+      "Sun",
+      "Both b and c"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "What is the topmost layer of the Earth, on which plants and trees grow?",
+    "choices": [
+      "Rock",
+      "Soil",
+      "Sand",
+      "Clay"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is Agriculture?",
+    "choices": [
+      "The science or practice of farming",
+      "The study of plants",
+      "The cultivation of animals",
+      "The science of soil"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What helps to make soil more fertile?",
+    "choices": [
+      "Earthworms",
+      "Volcanoes",
+      "Floods",
+      "Droughts"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Which soil is also known as regur soil?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In which region of India is black soil mainly found?",
+    "choices": [
+      "Northern Plains",
+      "Coastal Plains",
+      "Deccan Plateau",
+      "Himalayan mountains"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the color of red soil and why?",
+    "choices": [
+      "Black due to high clay content",
+      "Red due to iron content",
+      "Yellow due to sand content",
+      "Brown due to humus content"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What causes laterite soil formation?",
+    "choices": [
+      "Volcanic activity",
+      "River deposition",
+      "Leaching by rainwater",
+      "Wind erosion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which soil is ideal for growing cotton?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which soil is found in the slopes of hills and is rich in humus?",
+    "choices": [
+      "Alluvial soil",
+      "Desert soil",
+      "Mountain soil",
+      "Laterite soil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What type of soil is found in desert regions and is often sandy and coarse?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Desert soil"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the main characteristic of alluvial soil?",
+    "choices": [
+      "High iron content",
+      "High clay content",
+      "High sand and silt content",
+      "High humus content"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is soil erosion?",
+    "choices": [
+      "Formation of new soil",
+      "Blowing or washing away of topsoil",
+      "Increase in soil fertility",
+      "Mixing of different soil types"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is one method to prevent soil erosion?",
+    "choices": [
+      "Deforestation",
+      "Overgrazing",
+      "Planting trees along hill slopes",
+      "Leaving fields barren"
+    ],
+    "correctAnswer": 2
+  },
+    {
+    "question": "Breaking down of lava rocks results in the formation of _______ soil.",
+    "choices": [
+      "Laterite",
+      "Black",
+      "Red",
+      "Alluvial"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is true about Laterite soil?",
+    "choices": [
+      "It is formed by deposition of sand and silt by rivers",
+      "It develops as a result of leaching",
+      "It is rich in humus",
+      "It is sandy and coarse"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "_______ soil is formed by the deposition of sand and silt by rivers.",
+    "choices": [
+      "Alluvial",
+      "Desert",
+      "Laterite",
+      "Black"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "We can grow crops such as _______ in red soil.",
+    "choices": [
+      "sugarcane, cotton",
+      "coffee, rubber",
+      "rice, pulses",
+      "spices, maize"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Laterite soil can be made fertile by adding:",
+    "choices": [
+      "clay",
+      "fertilizers",
+      "volcanic rocks",
+      "lava"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How is soil formed?",
+    "choices": [
+      "Breakdown of stones into smaller pieces",
+      "Breakdown of pebbles into smaller pieces",
+      "Breakdown of rocks into smaller pieces",
+      "Breakdown of slabs into smaller pieces"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following natural forces help in breakdown of rocks to form soil?",
+    "choices": [
+      "Wind",
+      "Sun",
+      "Water",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following help in carrying sand and silt to different places?",
+    "choices": [
+      "Wind",
+      "Rain",
+      "Rivers",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "1 cm layer of soil gets formed in:",
+    "choices": [
+      "Thousands of years",
+      "Thousand years",
+      "Hundreds of years",
+      "Hundred years"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Alluvial soil is shown in _______ colour on the map.",
+    "choices": [
+      "Yellow",
+      "Green",
+      "Purple",
+      "Brown"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "What all of a place depends on the type of soil it has?",
+    "choices": [
+      "Climate",
+      "Vegetation",
+      "Economy",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What do you understand by soil conservation?",
+    "choices": [
+      "Protecting soil from erosion",
+      "Improving soil fertility",
+      "Sustainable soil management",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which types of crops grow in alluvial soil?",
+    "choices": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Why is desert soil not fertile?",
+    "choices": [
+      "Lack of water",
+      "High salinity",
+      "Lack of nutrients",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which type of plants grow in the mountain soil?",
+    "choices": [
+      "Conifers",
+      "Grasses",
+      "Shrubs",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How is soil formed?",
+    "choices": [
+      "Weathering of rocks",
+      "Decomposition of organic matter",
+      "Both A and B",
+      "None of the above"
+
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Soil is considered an important resource. Why?",
+    "choices": [
+      "Supports plant growth",
+      "Provides habitat for organisms",
+      "Essential for agriculture",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is soil erosion? How can we prevent it?",
+    "choices": [
+      "Loss of topsoil; Planting trees, terracing",
+      "Loss of nutrients; Fertilizing",
+      "Compaction; Aeration",
+      "Salinization; Irrigation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Suppose you live in an area which gets heavy rainfall. What steps would you take to make sure that plants and crops grow well in your area? What steps would you take if you lived in an area which gets very little rainfall?",
+    "choices":[
+      "Drainage systems, water harvesting",
+      "Irrigation, drought-resistant crops",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Soil is made fertile by use of fertilisers, then why are farmers increasingly being warned against excessive use of fertilisers?",
+    "choices": [
+      "Environmental pollution",
+      "Soil degradation",
+      "Health hazards",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  }
+]

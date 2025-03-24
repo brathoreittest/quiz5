@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+ul li a:hover {
+    background-color: #0056b3;
+}
+
+#questions {
+    margin-top: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.question h3 {
+    margin-top: 0;
+}
+
+.choices {
+    margin-top: 10px;
+}
+
+.choices label {
+    display: block;
+    margin: 5px 0;
+}
+
+/* Add these styles to your existing CSS */
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Add these styles to your existing CSS */
+.choices label {
+    display: block;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.choices label.correct {
+    background-color: #d4edda; /* Light green for correct answer */
+    color: #155724; /* Dark green text */
+    border: 1px solid #c3e6cb;
+}
+
+.choices label.incorrect {
+    background-color: #f8d7da; /* Light red for incorrect answer */
+    color: #721c24; /* Dark red text */
+    border: 1px solid #f5c6cb;
+}
+
+.choices input[type="radio"]:disabled + span {
+    color: #ccc; /* Gray out text for disabled choices */
+}
+
+.choices input[type="radio"]:disabled {
+    cursor: not-allowed; /* Show not-allowed cursor for disabled radio buttons */
+}
+.score-display {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}

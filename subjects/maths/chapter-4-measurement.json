@@ -1,0 +1,698 @@
+[
+  {
+    "question": "What is the most suitable unit of measurement to find the weight of an elephant?",
+    "choices": ["grams", "kilograms", "milligrams", "tons"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the most suitable unit of measurement to find the length of your shoe?",
+    "choices": ["kilometers", "meters", "centimeters", "millimeters"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the most suitable unit of measurement to find the volume of water in a swimming pool?",
+    "choices": ["milliliters", "liters", "kiloliters", "cubic meters"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the most suitable unit of measurement to find the distance between Mumbai and Chennai?",
+    "choices": ["centimeters", "meters", "kilometers", "millimeters"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Convert 5455 cm to meters and centimeters.",
+    "choices": ["54 m 55 cm", "5 m 45 cm", "545 m 5 cm", "54 m 5 cm"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 8488 m to kilometers and meters.",
+    "choices": ["8 km 488 m", "84 km 88 m", "848 km 8 m", "84 km 8 m"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 30 kg 95 g to grams.",
+    "choices": ["30095 g", "3095 g", "30950 g", "300950 g"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 24339 m to kilometers and meters.",
+    "choices": ["24 km 339 m", "2 km 4339 m", "243 km 39 m", "243 km 390 m"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Subtract 6/305 ml from 15/22 ml.",
+    "choices": ["Result not possible", "8/305 ml", "9/305 ml", "Impossible to determine without further information"],
+    "correctAnswer": 1
+  },
+    {
+    "question": "Convert 2462 ml into litres.",
+    "choices": [
+      "2.462 L",
+      "24.62 L",
+      "246.2 L",
+      "0.2462 L"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 6025 ml into litres.",
+    "choices": [
+      "6.025 L",
+      "60.25 L",
+      "602.5 L",
+      "0.6025 L"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 2625 ml into litres.",
+    "choices": [
+      "2.625 L",
+      "26.25 L",
+      "262.5 L",
+      "0.2625 L"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 2320 ml into litres.",
+    "choices": [
+      "2.32 L",
+      "23.2 L",
+      "232 L",
+      "0.232 L"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Arrange the following capacities in ascending order: 2462 ml, 6025 ml, 2625 ml, 2320 ml",
+    "choices": [
+      "2320 ml, 2462 ml, 2625 ml, 6025 ml",
+      "6025 ml, 2625 ml, 2462 ml, 2320 ml",
+      "2320 ml, 2625 ml, 2462 ml, 6025 ml",
+      "6025 ml, 2462 ml, 2625 ml, 2320 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Is 450 ml greater than 1/2 litre?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the sum of 14l 250ml, 35l 320ml, and 45l 65ml?",
+    "choices": [
+      "94l 635ml",
+      "95l 235ml",
+      "94l 235ml",
+      "95l 635ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the result of subtracting 65l 25ml from 90l?",
+    "choices":[
+      "24l 975ml",
+      "25l 975ml",
+      "24l 75ml",
+      "25l 75ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How many milliliters are there in 2.5 liters?",
+    "choices": [
+        "250 ml",
+        "2500 ml",
+        "25000 ml",
+        "25 ml"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Convert 1500 ml to liters.",
+    "choices": [
+      "0.15 L",
+      "1.5 L",
+      "15 L",
+      "150 L"
+    ],
+    "correctAnswer": 1
+  },
+    {
+    "question": "What is the sum of 25 l 329 ml and 43 l 107 ml?",
+    "choices": [
+      "68 l 436 ml",
+      "67 l 436 ml",
+      "68 l 336 ml",
+      "67 l 336 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the sum of 120 l 275 ml and 399 l 70 ml?",
+    "choices": [
+      "519 l 345 ml",
+      "520 l 345 ml",
+      "519 l 445 ml",
+      "520 l 445 ml"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Write 37 l 215 ml, 43 l 45 ml, and 630 l 230 ml in vertical form and find the sum.",
+    "choices": [
+      "710 l 490 ml",
+      "710 l 495 ml",
+      "711 l 490 ml",
+      "711 l 495 ml"
+
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Write 625 l, 150 l 750 ml, and 63 l 250 ml in vertical form and find the sum.",
+    "choices":[
+      "838 l 1000 ml",
+      "839 l 000 ml",
+      "839 l 1000 ml",
+      "838 l 000 ml"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the sum of 45 l 45 ml, 23 l 873 ml, and 13 l?",
+    "choices": [
+      "81 l 918 ml",
+      "81 l 818 ml",
+      "82 l 918 ml",
+      "82 l 818 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the sum of 25 liters and 329 milliliters and 43 liters and 107 milliliters?",
+    "choices": [
+      "68 liters and 436 milliliters",
+      "67 liters and 436 milliliters",
+      "68 liters and 336 milliliters",
+      "67 liters and 336 milliliters"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the total capacity of 120 liters and 275 milliliters and 399 liters and 70 milliliters.",
+    "choices": [
+      "519 liters and 345 milliliters",
+      "520 liters and 345 milliliters",
+      "519 liters and 445 milliliters",
+      "520 liters and 445 milliliters"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Calculate the sum of 37 liters 215 ml, 43 liters 45 ml, and 630 liters 230 ml.",
+    "choices": [
+      "710 liters 490 ml",
+      "710 liters 495 ml",
+      "711 liters 490 ml",
+      "711 liters 495 ml"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Determine the total volume when 625 liters, 150 liters 750 ml, and 63 liters 250 ml are combined.",
+    "choices": [
+      "838 liters 1000 ml",
+      "839 liters 000 ml",
+      "839 liters 1000 ml",
+      "838 liters 000 ml"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the total volume of 45 liters 45 ml, 23 liters 873 ml, and 13 liters?",
+    "choices": [
+      "81 liters 918 ml",
+      "81 liters 818 ml",
+      "82 liters 918 ml",
+      "82 liters 818 ml"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Convert 6 liters into milliliters.",
+    "choices": [
+      "600 ml",
+      "6000 ml",
+      "60 ml"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Convert 50 liters and 5 milliliters into milliliters.",
+    "choices": [
+      "50005 ml",
+      "505 ml",
+      "5050 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 16 liters and 44 milliliters into milliliters.",
+    "choices": [
+      "16044 ml",
+      "1644 ml",
+      "16440 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 4000 milliliters into liters and milliliters.",
+    "choices": [
+      "4 liters 0 milliliters",
+      "40 liters 0 milliliters",
+      "400 liters 0 milliliters"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 4045 milliliters into liters and milliliters.",
+    "choices": [
+      "4 liters 45 milliliters",
+      "40 liters 45 milliliters",
+      "400 liters 45 milliliters"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 43007 milliliters into liters and milliliters.",
+    "choices": [
+      "43 liters 7 milliliters",
+      "430 liters 7 milliliters",
+      "4300 liters 7 milliliters"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 10 liters to milliliters",
+    "choices": [
+      "100 ml",
+      "1000 ml",
+      "10000 ml"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Convert 2500 ml to liters",
+    "choices": [
+      "2.5 liters",
+      "25 liters",
+      "0.25 liters"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 1 liter and 250 ml to milliliters",
+    "choices": [
+      "1250 ml",
+      "10250 ml",
+      "125 ml"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 5 liters and 5 ml to milliliters",
+    "choices":[
+      "5005 ml",
+      "55 ml",
+      "505 ml"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Find the sum of 143 kg 350 g and 178 kg 2 g.",
+    "choices": [
+      "321 kg 352 g",
+      "320 kg 352 g",
+      "321 kg 342 g",
+      "322 kg 352 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of 300 kg 410 g and 239 kg 261 g.",
+    "choices": [
+      "539 kg 671 g",
+      "540 kg 671 g",
+      "539 kg 681 g",
+      "539 kg 661 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of 42 kg 205 g, 635 kg 415 g, and 35 kg 10 g.",
+    "choices": [
+      "712 kg 630 g",
+      "712 kg 720 g",
+      "712 kg 620 g",
+      "713 kg 630 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of 925 kg 425 g, 141 kg 108 g, and 75 kg 40 g.",
+    "choices": [
+      "1141 kg 973 g",
+      "1140 kg 973 g",
+      "1141 kg 963 g",
+      "1142 kg 973 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of 100 kg 58 g, 200 kg 95 g, and 75 kg 40 g.",
+    "choices": [
+      "376 kg 193 g",
+      "375 kg 193 g",
+      "376 kg 183 g",
+      "375 kg 183 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the difference between 6 kg 250 g and 2 kg 759 g.",
+    "choices": [
+      "3 kg 491 g",
+      "3 kg 490 g",
+      "4 kg 491 g",
+      "3 kg 591 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the difference between 9 kg 141 g and 7 kg 052 g.",
+    "choices": [
+      "2 kg 89 g",
+      "2 kg 99 g",
+      "2 kg 79 g",
+      "1 kg 89 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Subtract 725 kg 480 g from 900 kg 400 g.",
+    "choices": [
+      "174 kg 920 g",
+      "174 kg 910 g",
+      "175 kg 920 g",
+      "174 kg 820 g"
+
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Subtract 370 kg from 700 kg 225 g.",
+    "choices": [
+      "330 kg 225 g",
+      "320 kg 225 g",
+      "330 kg 125 g",
+      "320 kg 125 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Subtract 631 kg from 900 kg 900 g.",
+    "choices": [
+      "269 kg 900 g",
+      "270 kg 900 g",
+      "269 kg 800 g",
+      "270 kg 800 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Add the following lengths: 7 km 321 m 632 cm, 43109 m 63 cm, and 5043 m 4 cm.",
+    "choices": [
+      "11829639 cm",
+      "11844969 cm",
+      "11829639 m",
+      "11844969 m"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Add the following lengths: 403 m 25 cm 6 mm, 271 m 35 cm 7 mm, and 46 m 61 cm 9 mm.",
+    "choices": [
+      "721 m 23 cm 2 mm",
+      "721 m 22 cm 2 mm",
+      "722 m 22 cm 2 mm",
+      "720 m 22 cm 2 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of the following lengths: 628 km 420 m, 48 km 85 m, and 400 km 400 m.",
+    "choices": [
+      "1077 km 905 m",
+      "1076 km 905 m",
+      "1077 km 95 m",
+      "1076 km 95 m"
+
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the sum of the following lengths: 308 m 6 cm, 152 m 43 cm, and 12 m 9 cm.",
+    "choices": [
+      "472 m 58 cm",
+      "473 m 58 cm",
+      "472 m 59 cm",
+      "473 m 59 cm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Find the difference between the following lengths: 19 km 175835 m and 28274 m.",
+    "choices":[
+      "19 km 147561 m",
+      "16 km 7561 m",
+      "16 km 147561 m",
+      "19 km 147561 cm"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the difference between the following lengths: 458 m 57 cm 7 mm and 107 m 38 mm.",
+    "choices": [
+      "351 m 18 cm 9 mm",
+      "351 m 19 cm 3 mm",
+      "351 m 19 cm 9 mm",
+      "350 m 19 cm 9 mm"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is 7321632 cm + 4310963 cm + 504304 cm?",
+    "choices":[
+      "12136900 cm",
+      "12136899 cm",
+      "12136898 cm",
+      "12136901 cm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is 403256 mm + 271357 mm + 46619 mm?",
+    "choices": [
+      "721232 mm",
+      "721231 mm",
+      "721230 mm",
+      "721233 mm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is 628 km 420 m + 48 km 85 m + 400 km 400 m?",
+    "choices": [
+      "1076 km 905 m",
+      "1077 km 905 m",
+      "1077 km 95 m",
+      "1076 km 95 m"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is 308 m 6 cm + 152 m 43 cm + 12 m 9 cm?",
+    "choices": [
+      "472 m 58 cm",
+      "473 m 58 cm",
+      "472 m 59 cm",
+      "473 m 59 cm"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Convert 12 g 34 mg into milligrams (mg).",
+    "choices": [
+      "12034 mg",
+      "1234 mg",
+      "120034 mg",
+      "12340 mg"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 60 g 900 mg into milligrams (mg).",
+    "choices": [
+      "60900 mg",
+      "6900 mg",
+      "600900 mg",
+      "69000 mg"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 25 g into milligrams (mg).",
+    "choices": [
+      "25000 mg",
+      "250 mg",
+      "2500 mg",
+      "250000 mg"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 5000 g into kilograms (kg) and grams (g).",
+    "choices": [
+      "5 kg 0 g",
+      "50 kg 0 g",
+      "0 kg 5000 g",
+      "500 kg 0 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 18076 g into kilograms (kg) and grams (g).",
+    "choices": [
+      "18 kg 76 g",
+      "180 kg 76 g",
+      "1807 kg 6 g",
+      "18076 kg 0 g"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 13152 g into kilograms (kg) and grams (g).",
+    "choices": [
+      "13 kg 152 g",
+      "131 kg 52 g",
+      "1315 kg 2 g",
+      "13152 kg 0 g"
+    ],
+    "correctAnswer": 0
+  },
+    {
+    "question": "Convert 5 km 4 m into metres (m)",
+    "choices": [
+      "5004 m",
+      "5010 m",
+      "5400 m",
+      "5000 m"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 7 km 1 m into metres (m)",
+    "choices": [
+      "7001 m",
+      "7100 m",
+      "7010 m",
+      "7101 m"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 3 m into centimetres (cm)",
+    "choices": [
+      "30 cm",
+      "300 cm",
+      "3000 cm",
+      "3 cm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Convert 7 m 30 cm into centimetres (cm)",
+    "choices": [
+      "730 cm",
+      "7030 cm",
+      "7300 cm",
+      "73 cm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 6 cm into millimetres (mm)",
+    "choices": [
+      "60 mm",
+      "600 mm",
+      "6 mm",
+      "0.6 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 16 cm 1 mm into millimetres (mm)",
+    "choices": [
+      "161 mm",
+      "160 mm",
+      "1601 mm",
+      "151 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 30 mm into centimetres and millimetres",
+    "choices": [
+      "3 cm 0 mm",
+      "0 cm 3 mm",
+      "30 cm 0 mm",
+      "0 cm 30 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 94 mm into centimetres and millimetres",
+    "choices": [
+      "9 cm 4 mm",
+      "94 cm 0 mm",
+      "0 cm 94 mm",
+      "4 cm 9 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 400 cm into metres and centimetres",
+    "choices": [
+      "4 m 0 cm",
+      "40 m 0 cm",
+      "0 m 400 cm",
+      "400 m 0 cm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Convert 18000 m into kilometres and metres",
+    "choices": [
+      "18 km 0 m",
+      "180 km 0 m",
+      "0 km 18000 m",
+      "1800 km 0 m"
+    ],
+    "correctAnswer": 0
+  }  
+]

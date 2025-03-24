@@ -1,0 +1,368 @@
+[
+    {
+      "question": "What is a large area of land covered with lots of trees, bushes, and plants called?",
+      "choices": ["Jungle", "Park", "Forest", "Garden"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Besides trees and bushes, what else is found in a forest?",
+      "choices": ["Rocks only", "Plants only", "Plants and animals", "Water only"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What are forests considered to be?",
+      "choices": ["A waste of land", "A source of pollution", "Gifts of nature", "Man-made structures"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the main reason forests are considered an important natural resource?",
+      "choices": [
+        "They provide timber for houses and furniture.",
+        "They provide oxygen and prevent soil erosion.",
+        "They help cause rainfall and cool the area.",
+        "They provide shelter for animals and birds."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Besides timber, what other products do forests provide?",
+      "choices": [
+        "Only fuel and medicines.",
+        "Rubber, gum, pulp, and various other materials.",
+        "Mainly paper and herbs.",
+        "Mostly wood for furniture and construction."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What percentage of India's land is currently covered by forests?",
+      "choices": [
+        "33%",
+        "50%",
+        "20%",
+        "10%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the ideal percentage of land that should be covered by forests in India?",
+      "choices": [
+        "10%",
+        "20%",
+        "33%",
+        "50%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What are evergreen forests also known as?",
+      "choices": [
+        "Monsoon forests",
+        "Tropical rainforests",
+        "Deciduous forests",
+        "Thorn forests"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which trees are commonly found in evergreen forests?",
+      "choices": [
+        "Teak and Sal",
+        "Semul and Sandalwood",
+        "Ebony, Mahogany, and Rosewood",
+        "Sheesham and Mahua"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where in India are evergreen forests predominantly found?",
+      "choices": [
+        "The foothills of the Himalayas",
+        "The wetter parts of the Southern Plateaus",
+        "Rainy slopes of Western Ghats and Northeast India",
+        "Andaman and Nicobar Islands only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Why are deciduous forests called 'deciduous'?",
+      "choices": [
+        "They remain green all year round.",
+        "They shed their leaves once a year during the dry season.",
+        "They are dense and difficult to penetrate.",
+        "They are found in hot, rainy regions."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What are other names for deciduous forests?",
+      "choices": [
+        "Tropical rainforests",
+        "Monsoon forests",
+        "Evergreen forests",
+        "Thorn forests"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which trees are primarily found in deciduous forests?",
+      "choices": [
+        "Ebony, Mahogany, and Rosewood",
+        "Teak and Sal",
+        "Only Bamboo",
+        "All of the above"
+  
+      ],
+      "correctAnswer": 1
+    },
+      {
+      "question": "Thorn forests are mainly found in which type of areas?",
+      "choices": [
+        "Areas with heavy rainfall",
+        "Areas with moderate rainfall",
+        "Dry areas with little rainfall",
+        "Coastal areas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following trees are mainly found in Thorn forests?",
+      "choices": [
+        "Pine and Fir",
+        "Babul and Keekar",
+        "Sundari and Mangrove",
+        "Deodar and Spruce"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Another name for Thorn forests is:",
+      "choices": [
+        "Mangrove forests",
+        "Coniferous forests",
+        "Desert forests",
+        "Tidal forests"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Mountain forests are also known as:",
+      "choices": [
+        "Desert forests",
+        "Mangrove forests",
+        "Coniferous forests",
+        "Tidal forests"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which type of leaves do trees in Mountain forests have?",
+      "choices": [
+        "Broad leaves",
+        "Needle-shaped leaves",
+        "Small leaves",
+        "Large leaves"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The pulp of trees from Mountain forests is used for making:",
+      "choices": [
+        "Furniture",
+        "Paper",
+        "Clothes",
+        "Houses"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Tidal forests are also called:",
+      "choices": [
+        "Coniferous forests",
+        "Mangrove forests",
+        "Desert forests",
+        "Mountain forests"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Where are Tidal forests found?",
+      "choices": [
+        "High altitudes",
+        "Deserts",
+        "Delta regions of rivers",
+        "Dry areas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "The tidal forests in the Ganga-Brahmaputra Delta are called:",
+      "choices": [
+        "Mangroves",
+        "Sunderbans",
+        "Himalayas",
+        "Nilgiri Hills"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the movement launched by female peasants in Uttarakhand to protect trees?",
+      "choices": [
+        "Vanmahotsav",
+        "Chipko Movement",
+        "Social Forestry Movement",
+        "Sacred Groves"
+      ],
+      "correctAnswer": 1
+    },
+      {
+      "question": "Which of these trees is a part of evergreen forests?",
+      "choices": [
+        "Keekar",
+        "Teak",
+        "Ebony",
+        "Pine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Tidal forests are also called:",
+      "choices": [
+        "Mangrove forests",
+        "Coniferous forests",
+        "Tropical forests",
+        "Thorny forests"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "The Sunderban Delta is formed by these rivers:",
+      "choices": [
+        "Ganga-Yamuna",
+        "Yamuna-Brahmaputra",
+        "Ganga-Brahmaputra",
+        "Krishna-Godavari"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Every year, the Wildlife Week is celebrated in the month of:",
+      "choices": [
+        "January",
+        "October",
+        "May",
+        "March"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The pulp of which type of trees is used for making paper?",
+      "choices": [
+        "Deciduous",
+        "Evergreen",
+        "Mountain",
+        "Tidal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Cutting of trees in India is banned in:",
+      "choices": [
+        "Forests reserves",
+        "National parks",
+        "Both Forests reserves and National parks",
+        "None of the above"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "At present, what percentage of land in our country is covered with forests?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who was the leader of the Chipko movement?",
+      "choices": [
+        "Sunderlal Bahuguna",
+        "Chandi Prasad Bhatt",
+        "Baba Amte",
+        "Medha Patkar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Babul and keekar trees are found in which type of forests?",
+      "choices": [
+        "Evergreen forests",
+        "Deciduous forests",
+        "Tropical forests",
+        "Coniferous forests"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Deforestation ________ soil erosion.",
+      "choices": [
+        "increases",
+        "decreases",
+        "has no effect on",
+        "sometimes increases, sometimes decreases"
+      ],
+      "correctAnswer": 0
+    },
+      {
+      "question": "Which is the smallest continent in the world?",
+      "choices": ["Asia", "Europe", "Australia", "North America"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "The Plateau region of India is:",
+      "choices": ["Rich in mineral deposits", "The food bowl of India", "Surrounded by high mountain ranges", "None of these"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "The capital of Mizoram is:",
+      "choices": ["Imphal", "Aizawl", "Agartala", "Shillong"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The Brahmaputra river originates in:",
+      "choices": ["Nepal", "Myanmar", "Tibet", "Bangladesh"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "The Indira Gandhi Canal gets water from ______ river.",
+      "choices": ["Ganga", "Brahmaputra", "Yamuna", "Satluj"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which is a popular dance form of Tamil Nadu?",
+      "choices": ["Mohiniattam", "Bharatanatyam", "Kuchipudi", "Kathakali"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The southernmost point of our country is located in:",
+      "choices": ["Kerala", "Andaman and Nicobar Islands", "Lakshadweep Islands", "Tamil Nadu"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Strong winds during the winter season are called:",
+      "choices": ["western disturbances", "eastern disturbances", "loo", "none of these"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Many windmills have been set up in which of the following states?",
+      "choices": ["Gujarat and Tamil Nadu", "Maharashtra and Rajasthan", "Kerala and West Bengal", "All of these"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "The Hirakud Dam is constructed on the River:",
+      "choices": ["Narmada", "Satluj", "Krishna", "Mahanadi"],
+      "correctAnswer": 3
+    }
+  ]

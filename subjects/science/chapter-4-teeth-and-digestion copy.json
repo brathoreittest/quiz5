@@ -1,0 +1,440 @@
+[
+    {
+      "question": "What causes cavities in teeth?",
+      "choices": [
+        "Bacteria",
+        "Acid from food particles",
+        "Lack of brushing",
+        "Sugar consumption"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the sticky yellow substance that forms on teeth?",
+      "choices": [
+        "Cavity",
+        "Plaque",
+        "Acid",
+        "Enamel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How often should you brush your teeth?",
+      "choices": [
+        "Once a day",
+        "Twice a day",
+        "Three times a day",
+        "As needed"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is a Datun?",
+      "choices": [
+        "A type of toothpaste",
+        "A toothbrush",
+        "A chew stick for cleaning teeth",
+        "A type of mouthwash"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is recommended to remove food particles stuck between teeth?",
+      "choices": [
+        "Avoid brushing",
+        "Rinse your mouth after every meal",
+        "Eat only soft foods",
+        "Use only floss"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How frequently should you visit your dentist for check-up?",
+      "choices": [
+        "Every three months",
+        "Every six months",
+        "Once a year",
+        "Whenever you experience pain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the substance that damages tooth enamel?",
+      "choices": [
+        "Sugar",
+        "Saliva",
+        "Acid",
+        "Plaque"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What should you do to help clean your teeth and make them strong?",
+      "choices":[
+        "Eat chocolates",
+        "Eat aerated drinks",
+        "Eat raw carrots, apples and radishes",
+        "Avoid brushing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the correct way to brush your teeth?",
+      "choices": [
+        "Hard and fast strokes",
+        "Gentle back and forth strokes",
+        "Circular motions",
+        "Up and down motions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What can happen if you don't take care of your teeth?",
+      "choices": [
+        "Your teeth stay healthy",
+        "Your teeth can develop cavities",
+        "Nothing will happen",
+        "Your gums will stay healthy"
+      ],
+      "correctAnswer": 1
+    },
+      {
+      "question": "When do baby teeth start coming out?",
+      "choices": [
+        "At birth",
+        "Around six months old",
+        "Around three years old",
+        "Around six years old"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What are baby teeth also known as?",
+      "choices": [
+        "Permanent teeth",
+        "Molar teeth",
+        "Milk teeth",
+        "Incisors"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How many teeth does a child typically have around age three?",
+      "choices": [
+        "10",
+        "16",
+        "20",
+        "32"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What type of teeth are used for biting and cutting?",
+      "choices": [
+        "Canines",
+        "Molars",
+        "Premolars",
+        "Incisors"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What type of teeth are used for tearing?",
+      "choices": [
+        "Incisors",
+        "Canines",
+        "Premolars",
+        "Molars"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How many permanent teeth do adults have?",
+      "choices": [
+        "10",
+        "20",
+        "28",
+        "32"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the function of our teeth besides eating?",
+      "choices":[
+        "Sleeping",
+        "Singing",
+        "Speaking and looking good",
+        "Running"
+      ],
+      "correctAnswer":2
+    },
+    {
+      "question": "Are all teeth the same size and shape?",
+      "choices": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "When do baby teeth start to fall out?",
+      "choices": [
+        "Around six months old",
+        "Around three years old",
+        "Around six years old",
+        "Around twelve years old"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the term for the first set of teeth?",
+      "choices": [
+        "Permanent teeth",
+        "Adult teeth",
+        "Baby teeth",
+        "Wisdom teeth"
+      ],
+      "correctAnswer": 2
+    },
+      {
+      "question": "When Ria was one month old, how many teeth did she have?",
+      "choices": [
+        "20 teeth",
+        "no teeth",
+        "14 teeth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "When Ria was 4 years old, how many teeth did she have?",
+      "choices": [
+        "20 permanent teeth",
+        "20 milk teeth",
+        "32 permanent teeth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "When Ria is 28 years old, how many teeth should she have?",
+      "choices": [
+        "20 teeth",
+        "44 teeth",
+        "32 teeth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of the visible part of the tooth?",
+      "choices": [
+        "Root",
+        "Crown",
+        "Pulp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the part of the tooth hidden inside the gum?",
+      "choices": [
+        "Crown",
+        "Dentine",
+        "Root"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which part of the tooth is the hardest part of our body?",
+      "choices": [
+        "Dentine",
+        "Pulp",
+        "Enamel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where is dentine located in the tooth?",
+      "choices": [
+        "Inside the pulp",
+        "Below the enamel",
+        "Outside the enamel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the soft part of the tooth containing blood vessels and nerves?",
+      "choices": [
+        "Enamel",
+        "Dentine",
+        "Pulp"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How many incisors are there in each jaw?",
+      "choices": [
+        "Two",
+        "Four",
+        "Six"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How many molars are present on each side of the jaw?",
+      "choices":[
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correctAnswer":2
+    },
+    {
+      "question": "What is the process of breaking down food into simpler substances inside the body called?",
+      "choices": ["Absorption", "Digestion", "Excretion", "Ingestion"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which organ is NOT a main part of the digestive system?",
+      "choices": ["Mouth", "Liver", "Heart", "Small intestine"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the primary function of the digestive system?",
+      "choices": ["To absorb water", "To break down food into nutrients", "To remove waste", "To circulate blood"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "According to the text, what type of diet is recommended for a healthy digestive system?",
+      "choices": ["High-fat diet", "Balanced diet rich in fiber", "Diet low in carbohydrates", "Diet consisting only of fruits"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What should be limited to maintain a healthy digestive system?",
+      "choices": ["Water intake", "Fiber intake", "Intake of fat-rich foods", "Exercise"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is one recommendation to improve digestive health?",
+      "choices": ["Avoid chewing food", "Eat irregularly", "Avoid drinking water", "Chew your food well"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is a negative habit for digestive health mentioned in the text?",
+      "choices": ["Drinking plenty of water", "Exercising regularly", "Eating junk food", "Eating a balanced diet"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the role of the large intestine?",
+      "choices": ["Breaks down food into smaller pieces", "Absorbs nutrients", "Absorbs water from the food", "Produces enzymes"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Why is it important to have meals at fixed times?",
+      "choices": ["It's not mentioned", "For better digestion and to maintain regular bowel movements", "To prevent weight loss", "To increase appetite"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is suggested to do before and after a meal regarding exercise?",
+      "choices": ["Not mentioned", "Exercise immediately after a meal", "Exercise before a meal and rest after a meal", "Exercise regularly but not immediately after a meal"],
+      "correctAnswer": 3
+    },
+      {
+      "question": "Where does the digestion of food begin?",
+      "choices": [
+        "Stomach",
+        "Mouth",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the function of saliva in the mouth?",
+      "choices": [
+        "To break down food into nutrients",
+        "To make food soft and moist",
+        "To absorb water from food",
+        "To push food down to the stomach"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What organ pushes food down to the stomach?",
+      "choices": [
+        "Mouth",
+        "Stomach",
+        "Food pipe",
+        "Small intestine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What substances are produced in the stomach walls to help break down food?",
+      "choices": [
+        "Bile and enzymes",
+        "Acids and bile",
+        "Acids and enzymes",
+        "Enzymes and saliva"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which digestive juice does the liver release?",
+      "choices": [
+        "Saliva",
+        "Enzymes",
+        "Bile",
+        "Acids"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where does the process of digestion get completed?",
+      "choices": [
+        "Stomach",
+        "Mouth",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What happens to the nutrients in the small intestine?",
+      "choices": [
+        "They are broken down further",
+        "They are absorbed by the blood",
+        "They are stored",
+        "They are expelled"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does the large intestine absorb from food?",
+      "choices": [
+        "Nutrients",
+        "Acids",
+        "Water",
+        "Bile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the final waste product formed in the digestive system?",
+      "choices": [
+        "Nutrients",
+        "Enzymes",
+        "Faeces",
+        "Bile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How does the undigested food leave the body?",
+      "choices": [
+        "Through the mouth",
+        "Through the anus",
+        "Through the stomach",
+        "Through the small intestine"
+      ],
+      "correctAnswer": 1
+    }
+  ]

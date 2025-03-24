@@ -1,0 +1,760 @@
+[
+    {
+        "question": "6700 paise is equal to:",
+        "choices": [
+            "\u20b969",
+            "\u20b967",
+            "\u20b94",
+            "\u20b957"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "One mathematics workbook costs \u20b9150. There are 40 students in your class. What is the total cost of 40 workbooks?",
+        "choices": [
+            "\u20b96000",
+            "\u20b9600",
+            "\u20b960000",
+            "\u20b9190"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If 10 shirts cost \u20b97360.00, what will be the cost of one shirt?",
+        "choices": [
+            "\u20b9763",
+            "\u20b97360",
+            "\u20b9736",
+            "\u20b973.60"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "10 notes of \u20b9500 means a total of",
+        "choices": [
+            "5 notes of \u20b91000",
+            "10 notes of \u20b950",
+            "100 notes of \u20b9100",
+            "200 notes of \u20b920"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A \u20b95 coin is changed for 25 paise coins. How many 25 paise coins will you get for it?",
+        "choices": [
+            "25",
+            "20",
+            "26",
+            "50"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Ankit is very fond of buying stickers. Once he bought stickers for \u20b9275. He gave \u20b9300 to the shopkeeper. Which expression shows the correct amount of change that he will get back from the shopkeeper?",
+        "choices": [
+            "\u20b9300 \u00d7 \u20b9275",
+            "\u20b9300 \u00f7 \u20b9275",
+            "\u20b9300 + \u20b9275",
+            "\u20b9300 - \u20b9275"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Mrs Verma needs to pay \u20b95000 to the shopkeeper. She has the following amount with her in her purse. How much amount does Mrs Verma needs to pay more, to the shopkeeper?",
+        "choices": [
+            "\u20b93070",
+            "\u20b9450",
+            "\u20b91450",
+            "\u20b9550"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "15 rupees 3 paise is written as...",
+        "choices": [
+            "\u20b915.30",
+            "\u20b915.3",
+            "\u20b915.03",
+            "\u20b930.15"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Ten \u20b9100 notes is equal to...",
+        "choices": [
+            "\u20b9100",
+            "\u20b91000",
+            "\u20b9500",
+            "\u20b910000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "25 coins of \u20b95 will make the total sum as...",
+        "choices": [
+            "\u20b9125",
+            "\u20b91250",
+            "\u20b975",
+            "\u20b91205"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many \u20b92 coins will make \u20b9250?",
+        "choices": [
+            "125",
+            "500",
+            "50",
+            "100"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "One 1000 rupee note equals to...",
+        "choices": [
+            "20 notes of \u20b9100",
+            "25 notes of \u20b950",
+            "20 notes of \u20b950",
+            "30 notes of \u20b920"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Sam wants to buy a Bose speaker that costs \u20b96200. She has \u20b93200. Her grandmother will give her \u20b92200, and her aunt will give her \u20b9500. Will Sam have enough money to buy the speaker?",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Vinamr and Siddhant spent \u20b9100 to play 3 games. They played 21 games in total. How much money did they spend?",
+        "choices": [
+            "\u20b9700",
+            "\u20b9600",
+            "\u20b9800",
+            "\u20b9900"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Madhu selected five sarees costing \u20b9599, \u20b9754.68, \u20b91640.80, \u20b93210.65, and \u20b91322. What is the total amount she will pay?",
+        "choices": [
+            "\u20b97527.13",
+            "\u20b97528.13",
+            "\u20b97526.13",
+            "\u20b97529.13"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your grandmother gave you \u20b9500 to buy candles, diyas, rangoli color, and crackers. You spent \u20b914.50 x 2 on candles, \u20b97.50 x 15 on diyas, \u20b9132.60 on rangoli color, and \u20b9122.40 on crackers. How much money did you return to your grandmother?",
+        "choices": [
+            "\u20b927.50",
+            "\u20b928.50",
+            "\u20b929.50",
+            "\u20b930.50"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Nikunj saved \u20b915 when buying 3 packets of biscuits and paid \u20b958.50. What was the price of each packet?",
+        "choices": [
+            "\u20b914.50",
+            "\u20b915.50",
+            "\u20b916.50",
+            "\u20b917.50"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Multiply the following: 125.50 \u00d7 8",
+        "choices": [
+            "1004",
+            "1004.00",
+            "1000",
+            "1000.00"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Divide the following amounts: 515.00 \u00f7 5",
+        "choices": [
+            "103",
+            "103.00",
+            "100",
+            "100.00"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If one pen costs \u20b915.75, what is the price of 12 pens?",
+        "choices": [
+            "\u20b9189",
+            "\u20b9189.00",
+            "\u20b9180",
+            "\u20b9190"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "There are 25 chocolates in a box. One chocolate costs \u20b930.50. What is the price of the box?",
+        "choices": [
+            "\u20b9762.50",
+            "\u20b9762",
+            "\u20b9750",
+            "\u20b9770"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "4 jackets cost \u20b94760. What is the price of one jacket?",
+        "choices": [
+            "\u20b91190",
+            "\u20b91190.00",
+            "\u20b91200",
+            "\u20b91100"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Aisha bought 9 registers, each costing \u20b936.75. If she gave \u20b91000 to the shopkeeper, what amount will she get back?",
+        "choices": [
+            "\u20b9667.50",
+            "\u20b9667",
+            "\u20b9650",
+            "\u20b9670"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A shopkeeper counted \u20b91856 as his day's income from selling cricket balls at \u20b964 each. How many balls did he sell?",
+        "choices": [
+            "29",
+            "28",
+            "30",
+            "27"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Akriti had \u20b91000, took \u20b9500 more, and spent \u20b9236.30 each on 5 video games. How much money is left?",
+        "choices": [
+            "\u20b91181.50",
+            "\u20b91180",
+            "\u20b91170",
+            "\u20b91200"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The price of 1 quintal (100 kg) of wheat is \u20b91400. What is the price of 5 kg of wheat?",
+        "choices": [
+            "\u20b970",
+            "\u20b970.00",
+            "\u20b980",
+            "\u20b960"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Eighty-seven rupees and seventy-five paise = ?",
+        "choices": [
+            "\u20b978.57",
+            "\u20b987.75",
+            "\u20b957.57",
+            "None of these"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If one ice cream costs \u20b935.25, what is the cost of 8 ice creams?",
+        "choices": [
+            "\u20b9282.00",
+            "\u20b9280.00",
+            "\u20b9281.00",
+            "\u20b9283.00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of dividing \u20b9114.10 by 7?",
+        "choices": [
+            "\u20b916.30",
+            "\u20b916.20",
+            "\u20b917.30",
+            "\u20b915.30"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "One register costs \u20b915.  If you have \u20b9480, how many registers can you buy?",
+        "choices": [
+            "32",
+            "30",
+            "35",
+            "40"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Razia's city bus pass costs \u20b9150. \u20b97 is deducted each time she rides. With a minimum balance of \u20b930, how many times can she ride?",
+        "choices": [
+            "17",
+            "18",
+            "16",
+            "19"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Kanika's uncle spent \u20b93420 on hotel charges, \u20b95000 on transport, and \u20b91850 on food. He received a \u20b9500 discount. What was the total amount paid for the trip?",
+        "choices": [
+            "\u20b99770",
+            "\u20b910270",
+            "\u20b99270",
+            "\u20b910770"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Add \u20b933.89 and \u20b942.10",
+        "choices": [
+            "\u20b975.99",
+            "\u20b976.99",
+            "\u20b975.89",
+            "\u20b976.00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Add \u20b967.12 and \u20b912.4",
+        "choices": [
+            "\u20b979.52",
+            "\u20b979.62",
+            "\u20b980.52",
+            "\u20b979.12"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Add \u20b900.98 and \u20b900.48",
+        "choices": [
+            "\u20b91.46",
+            "\u20b91.45",
+            "\u20b90.46",
+            "\u20b90.146"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Add \u20b9183.45 and \u20b9245.56",
+        "choices": [
+            "\u20b9429.01",
+            "\u20b9428.01",
+            "\u20b9429.11",
+            "\u20b9428.11"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Add \u20b9207.09 and \u20b9365.00",
+        "choices": [
+            "\u20b9572.09",
+            "\u20b9571.09",
+            "\u20b9572.99",
+            "\u20b9571.99"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Subtract \u20b9386.00 from \u20b91000",
+        "choices": [
+            "\u20b9614",
+            "\u20b9614.00",
+            "\u20b9615",
+            "\u20b9615.00"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Subtract \u20b91631.75 from \u20b91800.25",
+        "choices": [
+            "\u20b9168.50",
+            "\u20b9167.50",
+            "\u20b9168.5",
+            "\u20b9167.5"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Subtract \u20b92895 from \u20b95000",
+        "choices": [
+            "\u20b92105",
+            "\u20b92115",
+            "\u20b92005",
+            "\u20b92105.00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Subtract \u20b9256.09 from \u20b9643.85",
+        "choices": [
+            "\u20b9387.76",
+            "\u20b9387.66",
+            "\u20b9377.76",
+            "\u20b9388.76"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Subtract \u20b91055.68 from \u20b92054.99",
+        "choices": [
+            "\u20b9999.31",
+            "\u20b9999.41",
+            "\u20b91000.31",
+            "\u20b9998.31"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Compare 1111 paise and \u20b910.12. Which one is greater?",
+        "choices": [
+            "1111 p",
+            "\u20b910.12",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Compare 3275 paise and \u20b920.75. Which one is greater?",
+        "choices": [
+            "3275 p",
+            "\u20b920.75",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Compare 4475 paise and \u20b944.57. Which one is greater?",
+        "choices": [
+            "4475 p",
+            "\u20b944.57",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Compare 4224 paise and \u20b924.42. Which one is greater?",
+        "choices": [
+            "4224 p",
+            "\u20b924.42",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the sum of \u20b9575.25 and \u20b9480.75?",
+        "choices": [
+            "\u20b9956.00",
+            "\u20b91056.00",
+            "\u20b91055.00",
+            "\u20b91055.90"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Akash bought a school bag for \u20b9345.00 and a story book for \u20b9125.80. What is the total cost?",
+        "choices": [
+            "\u20b9470.80",
+            "\u20b9470.00",
+            "\u20b9460.80",
+            "\u20b9480.80"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert \u20b932.00 to paise.",
+        "choices": [
+            "3200 p",
+            "320 p",
+            "32 p",
+            "32000 p"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert \u20b942.05 to paise.",
+        "choices": [
+            "4205 p",
+            "425 p",
+            "42050 p",
+            "4250 p"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert \u20b958.58 to paise.",
+        "choices": [
+            "5858 p",
+            "58580 p",
+            "585.8 p",
+            "58.58 p"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert \u20b99.99 to paise.",
+        "choices": [
+            "999 p",
+            "99 p",
+            "9990 p",
+            "9.99 p"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 288 p to rupees.",
+        "choices": [
+            "\u20b92.88",
+            "\u20b928.8",
+            "\u20b9288",
+            "\u20b90.288"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 7298 p to rupees.",
+        "choices": [
+            "\u20b972.98",
+            "\u20b9729.8",
+            "\u20b97298",
+            "\u20b97.298"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 1825 p to rupees.",
+        "choices": [
+            "\u20b918.25",
+            "\u20b9182.5",
+            "\u20b91825",
+            "\u20b91.825"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 3333 p to rupees.",
+        "choices": [
+            "\u20b933.33",
+            "\u20b9333.3",
+            "\u20b93333",
+            "\u20b93.333"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many paise are there in \u20b91?",
+        "choices": [
+            "10 paise",
+            "100 paise",
+            "1000 paise",
+            "1 paise"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The symbol used to separate rupees and paise is:",
+        "choices": [
+            "-",
+            "/",
+            ".",
+            ","
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many forms can money be converted into?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are the two forms of money conversion mentioned?",
+        "choices": [
+            "Rupees to dollars, Dollars to rupees",
+            "Rupees to paise, Paise to rupees",
+            "Pounds to rupees, Rupees to pounds",
+            "Yen to rupees, Rupees to yen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which entity has the sole authority of issuing bank notes in India?",
+        "choices": [
+            "The Indian Government",
+            "The Reserve Bank of India",
+            "The Prime Minister of India",
+            "The President of India"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many notes are usually bundled together by the Reserve Bank of India?",
+        "choices": [
+            "50",
+            "100",
+            "200",
+            "500"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the value of a bundle of \u20b920 notes?",
+        "choices": [
+            "\u20b91000",
+            "\u20b92000",
+            "\u20b95000",
+            "\u20b910000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How are bundles of notes held together?",
+        "choices": [
+            "Staple",
+            "Paper strap",
+            "Rubber band",
+            "String"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To convert rupees into paise, what operation should be performed?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To convert 4 rupees into paise, what is the result?",
+        "choices": [
+            "4 paise",
+            "40 paise",
+            "400 paise",
+            "4000 paise"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To convert paise into rupees, what operation should be performed?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Rehaan and his father bought a paint box for \u20b925 and 3 brushes at \u20b93 each. What's the total cost?",
+        "choices": [
+            "\u20b934",
+            "\u20b914",
+            "\u20b931",
+            "\u20b928"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "1 Rupee is equal to how many paise?",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "50"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the official currency of India?",
+        "choices": [
+            "Dollar",
+            "Pound",
+            "Rupee",
+            "Euro"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What symbol is used to denote the Indian Rupee?",
+        "choices": [
+            "$",
+            "\u00a3",
+            "\u20b9",
+            "\u20ac"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The smallest unit of money in India is:",
+        "choices": [
+            "Rupee",
+            "Paisa",
+            "Dollar",
+            "Cent"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rs 85.50 represents how many rupees and paise?",
+        "choices": [
+            "85 rupees and 5 paise",
+            "8 rupees and 55 paise",
+            "85 rupees and 50 paise",
+            "50 rupees and 85 paise"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert \u20b975 into paise.",
+        "choices": [
+            "750 paise",
+            "7500 paise",
+            "75 paise",
+            "7.5 paise"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you have 500 paise, how many rupees do you have?",
+        "choices": [
+            "5 rupees",
+            "50 rupees",
+            "0.5 rupees",
+            "500 rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is NOT a popular currency in other countries?",
+        "choices": [
+            "Dollar",
+            "Rupee",
+            "Pound",
+            "Euro"
+        ],
+        "correctAnswer": 1
+    }
+]

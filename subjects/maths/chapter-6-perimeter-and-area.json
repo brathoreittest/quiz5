@@ -1,0 +1,362 @@
+[
+    {
+        "question": "The perimeter of a rectangular room is 28 m. If the width of the room is 5 m, find its length.",
+        "choices": [
+            "9 m",
+            "10 m",
+            "8 m",
+            "7 m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A fly walks along the edge of a cup. If after 3 complete rounds it covers a distance of 63 cm, find the perimeter of the cup.",
+        "choices": [
+            "36 cm",
+            "189 cm",
+            "60 cm",
+            "21 cm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the difference in the perimeter of two squares having sides 4 cm and 6 cm?",
+        "choices": [
+            "2 cm",
+            "10 cm",
+            "8 cm",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The perimeter of the figure is 60 m. What is the value of 'x'?",
+        "choices": [
+            "10 m",
+            "52 m",
+            "7 m",
+            "8 m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following units cannot be used to measure the perimeter of a square?",
+        "choices": [
+            "cm",
+            "sq m",
+            "mm",
+            "m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of a square is 84 cm. What is the length of each side of the square?",
+        "choices": [
+            "20 cm",
+            "22 cm",
+            "21 cm",
+            "19 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Aastha wants to pack a present in a box (length 26 cm, thickness 15 cm). She has 1 m of ribbon. Will it be enough to wrap around the gift once?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A rectangular dining table measures 18 m in length and 12 m in width. Find the perimeter. If a square table cloth of 3 cm side is used to cover the entire table, find the number of cloths required.",
+        "choices": [
+            "60m, 1200",
+            "60m, 360000",
+            "60m, 3600",
+            "60m, 120000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The perimeter of a rectangular field is 72 m. If the width is 16 m, calculate its length.",
+        "choices": [
+            "20 m",
+            "10 m",
+            "36 m",
+            "18 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A 60 cm wire forms a square. Find the side. If the same wire forms a rectangle with length 19 cm, find its width.",
+        "choices": [
+            "15cm, 11cm",
+            "15cm, 22cm",
+            "15cm, 21cm",
+            "10cm, 11cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A rectangle has length 28 cm and width 20 cm. Find the side of a square with the same perimeter.",
+        "choices": [
+            "24 cm",
+            "12 cm",
+            "48 cm",
+            "14 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of Sq-4?",
+        "choices": [
+            "14 sq cm",
+            "15 sq cm",
+            "16 sq cm",
+            "17 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Ritesh jogs around a lake with a perimeter of 1 km 200 m.  If he jogs around 5 times, what's the total distance?",
+        "choices": [
+            "5 km 200 m",
+            "6 km",
+            "5 km 1000 m",
+            "6 km 1000 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A roller coaster ride is 725 m long.  If someone takes 4 rides, what's the total distance traveled?",
+        "choices": [
+            "2900 m",
+            "181.25 m",
+            "729 m",
+            "2800 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A roller coaster is 725m long. How many rides are needed to travel 9km 425m?",
+        "choices": [
+            "13",
+            "12",
+            "11",
+            "10"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The space enclosed within a boundary is called:",
+        "choices": [
+            "Perimeter",
+            "Area",
+            "Volume",
+            "Length"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Area is always expressed in terms of:",
+        "choices": [
+            "Meters",
+            "Square units",
+            "Cubic units",
+            "Linear units"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A larger sized object will have a ______ area.",
+        "choices": [
+            "Smaller",
+            "Greater",
+            "Equal",
+            "None of these"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the formula to calculate the area of a rectangle?",
+        "choices": [
+            "Length + Width",
+            "Length x Width",
+            "2(Length + Width)",
+            "Length / Width"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What unit is commonly used to measure the area of a large land?",
+        "choices": [
+            "Square centimeters",
+            "Square meters",
+            "Square kilometers",
+            "Hectares"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a square with a side of 5 cm?",
+        "choices": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A rectangle has a length of 7 cm and a perimeter of 22 cm. What is its breadth?",
+        "choices": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "7 cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Merin wants to put a lace around a square handkerchief of side 11 cm. How much lace does she need?",
+        "choices": [
+            "22 cm",
+            "33 cm",
+            "44 cm",
+            "55 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Piyush's L-shaped hexagonal garden has four sides of 18 m and two sides of 25 m.  What is the total length of the fence?",
+        "choices": [
+            "76 m",
+            "86 m",
+            "96 m",
+            "106 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of a square is 36 cm. What is the length of one side?",
+        "choices": [
+            "6 cm",
+            "7 cm",
+            "8 cm",
+            "9 cm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the method used to measure the perimeter of a curved figure?",
+        "choices": [
+            "Ruler",
+            "String",
+            "Protractor",
+            "Measuring tape"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a perimeter?",
+        "choices": [
+            "The area enclosed by a figure",
+            "The distance around a figure",
+            "The total number of sides",
+            "The length of the longest side"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the perimeter of a square of 5 cm.",
+        "choices": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the perimeter of a rectangle having a length of 8 cm and a breadth of 6 cm.",
+        "choices": [
+            "14 cm",
+            "28 cm",
+            "32 cm",
+            "48 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the perimeter of a square of side 6 cm.",
+        "choices": [
+            "12 cm",
+            "18 cm",
+            "24 cm",
+            "36 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 5 cm and breadth 3 cm?",
+        "choices": [
+            "8 cm",
+            "10 cm",
+            "16 cm",
+            "15 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A pentagon has all sides equal to 7 cm. What is its perimeter?",
+        "choices": [
+            "14 cm",
+            "21 cm",
+            "28 cm",
+            "35 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a hexagon whose all sides are equal to 4 cm 2 mm?",
+        "choices": [
+            "24 cm",
+            "26.4 cm",
+            "28 cm",
+            "24.2 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The word 'perimeter' comes from which language?",
+        "choices": [
+            "Latin",
+            "French",
+            "Greek",
+            "English"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "'Peri' in the word 'perimeter' means:",
+        "choices": [
+            "measure",
+            "around",
+            "length",
+            "area"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "'Meter' in the word 'perimeter' means:",
+        "choices": [
+            "around",
+            "measure",
+            "length",
+            "width"
+        ],
+        "correctAnswer": 1
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "question": "Use of coal and wood as _______ is a cause of air pollution.",
+        "choices": [
+            "fuel",
+            "energy",
+            "heat",
+            "resource"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Emission of _______ by vehicles and factories is a cause of air pollution.",
+        "choices": [
+            "smoke",
+            "gases",
+            "liquids",
+            "sound"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Throwing _______ into ponds, lakes, and rivers is a cause of water pollution.",
+        "choices": [
+            "waste",
+            "trash",
+            "garbage",
+            "chemicals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Releasing untreated industrial and domestic sewage directly into _______ is a cause of water pollution.",
+        "choices": [
+            "air",
+            "land",
+            "water",
+            "soil"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Excessive use of pesticides and _______ is a cause of land pollution.",
+        "choices": [
+            "herbicides",
+            "insecticides",
+            "fungicides",
+            "fertilizers"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Untreated _______ from industries is a cause of land pollution.",
+        "choices": [
+            "sewage",
+            "waste",
+            "smoke",
+            "emissions"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Walk or ride a cycle instead of using _______ to cover short distances.",
+        "choices": [
+            "bicycle",
+            "car",
+            "scooter",
+            "motorbike"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Plant _______ in your neighborhood to help control air pollution.",
+        "choices": [
+            "trees",
+            "flowers",
+            "gardens",
+            "grass"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Always use _______ to dispose of garbage to control water pollution.",
+        "choices": [
+            "litter",
+            "bins",
+            "dumpsites",
+            "containers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Never _______ garbage in and around water bodies to control water pollution.",
+        "choices": [
+            "dump",
+            "throw",
+            "leave",
+            "burn"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Do not throw oil, medicines and chemicals down the _______ to control water pollution.",
+        "choices": [
+            "drain",
+            "river",
+            "lake",
+            "pond"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Sewage waste should be _______ before it is released into water bodies to control water pollution.",
+        "choices": [
+            "treated",
+            "filtered",
+            "cleaned",
+            "removed"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Use _______ instead of chemical fertilisers to control land pollution.",
+        "choices": [
+            "manure",
+            "pesticides",
+            "insecticides",
+            "herbicides"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Collect biodegradable and non-biodegradable waste _______ to control land pollution.",
+        "choices": [
+            "daily",
+            "frequently",
+            "separately",
+            "regularly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Follow the _______ to control land pollution.",
+        "choices": [
+            "regulation",
+            "procedure",
+            "process",
+            "rule"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is biodegradable waste?",
+        "choices": [
+            "Leftover food",
+            "Broken glass",
+            "A discarded metal container",
+            "A plastic bottle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following release oxygen that we breathe in.",
+        "choices": [
+            "Trees",
+            "Plastic",
+            "Metals",
+            "Rubber"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following statements is true?",
+        "choices": [
+            "Human beings do not need natural resources for their daily needs.",
+            "Bursting crackers pollutes the air.",
+            "Biodegradable waste does not decay naturally.",
+            "In recycling, we don't treat the waste."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following statements is true?",
+        "choices": [
+            "In recycling, we treat the waste so that it can be reused.",
+            "We should waste paper as it is made by cutting down trees.",
+            "Harmful gases released from factories help improve the air",
+            "Plastic, metal, and glass are examples of biodegradable waste."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The _______ consist of air, water, rocks, minerals, and soil.",
+        "choices": [
+            "animals",
+            "plants",
+            "natural non-living things",
+            "living things"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To keep the air clean, we should _______.",
+        "choices": [
+            "plant more trees",
+            "cut down trees",
+            "make use of vehicles as much as we can",
+            "burst crackers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "_______ grow in polluted water.",
+        "choices": [
+            "Aquatic flowers",
+            "Aquatic animals",
+            "Germs",
+            "Plants"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "We can save water by _______.",
+        "choices": [
+            "using a bucket instead of shower to take a bath",
+            "not leaving the tap open while brushing our teeth",
+            "repairing dripping taps",
+            "all of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Old textbooks can be given to?",
+        "choices": [
+            "Scrap-dealers",
+            "Paper mill",
+            "Library",
+            "Charity organizations"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What can worn out clothes be used for?",
+        "choices": [
+            "Cloth bags",
+            "Doormats",
+            "Dusters",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Old newspapers are recycled in a paper mill to make",
+        "choices": [
+            "High-grade paper",
+            "Lower-grade paper",
+            "Cardboard",
+            "Plastic"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an example of non-biodegradable items that can be recycled?",
+        "choices": [
+            "Food waste",
+            "Paper",
+            "Broken glass",
+            "Leaves"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Trees help in preventing",
+        "choices": [
+            "Air pollution",
+            "Landslide",
+            "Soil erosion",
+            "Drought"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Trees release what gas?",
+        "choices": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Chipko andolan was initiated in which state?",
+        "choices": [
+            "Delhi",
+            "Uttarakhand",
+            "Maharashtra",
+            "Punjab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Chipko movement aimed to save trees from:",
+        "choices": [
+            "Natural disasters",
+            "Deforestation by government",
+            "Diseases",
+            "Old age"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should we plant more of, if we have to cut trees?",
+        "choices": [
+            "Flowers",
+            "Trees",
+            "Bushes",
+            "Grass"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Since paper is made from trees, we should not:",
+        "choices": [
+            "Use paper",
+            "Waste paper",
+            "Write on paper",
+            "Read books"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Villagers should use which of the following fuels?",
+        "choices": [
+            "Wood",
+            "Liquified Petroleum Gas (LPG)",
+            "Kerosene",
+            "Coal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is formed by the decay of cow dung and other organic waste?",
+        "choices": [
+            "Natural gas",
+            "Gobar gas",
+            "Petroleum gas",
+            "Propane gas"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Old toys can be given to?",
+        "choices": [
+            "Scrap-dealers",
+            "Paper mill",
+            "Library",
+            "Orphanages"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Trees hold the soil firmly using their",
+        "choices": [
+            "Branches",
+            "Trunk",
+            "Roots",
+            "Leaves"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Chipko movement involved Indian women",
+        "choices": [
+            "Cutting trees",
+            "Hugging trees",
+            "Planting trees",
+            "Burning trees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Fruits and vegetables form what kind of waste?",
+        "choices": [
+            "Non-biodegradable",
+            "Hazardous",
+            "Biodegradable",
+            "Recyclable"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Approximately how much of the Earth's surface is covered with water?",
+        "choices": [
+            "25%",
+            "50%",
+            "70%",
+            "90%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The contamination of natural resources is called?",
+        "choices": [
+            "Pollution",
+            "Decomposition",
+            "Erosion",
+            "Conservation"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is affected by haze caused due to air pollution?",
+        "choices": [
+            "Temperature",
+            "Humidity",
+            "Visibility",
+            "Wind speed"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The contamination of water bodies is called?",
+        "choices": [
+            "Air pollution",
+            "Water pollution",
+            "Soil pollution",
+            "Noise pollution"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the 3R rule stand for?",
+        "choices": [
+            "Reduce, Reuse, Recycle",
+            "Refuse, Reduce, Recycle",
+            "Reduce, Repair, Recycle",
+            "Refuse, Reuse, Repair"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Biodegradable waste can be recycled as?",
+        "choices": [
+            "Plastic",
+            "Metal",
+            "Manure",
+            "Glass"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Waste decays within how many days?",
+        "choices": [
+            "30 to 60",
+            "45 to 90",
+            "60 to 120",
+            "90 to 150"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Non-biodegradable waste can also be?",
+        "choices": [
+            "Composted",
+            "Recycled",
+            "Burned",
+            "Eaten"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following can be recycled?",
+        "choices": [
+            "Fruits",
+            "Dead leaves",
+            "Discarded plastic objects",
+            "Vegetable peels"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Discarded plastic objects are recycled to make new objects such as?",
+        "choices": [
+            "Buckets, mugs, and toys",
+            "Manure",
+            "Compost",
+            "Food"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "As non-biodegradable waste does not decompose naturally, it poses a threat to the?",
+        "choices": [
+            "Animals",
+            "Environment",
+            "Ozone layer",
+            "Plants"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should we minimise the use of?",
+        "choices": [
+            "Disposable items",
+            "Cloth",
+            "Hand towels",
+            "Handkerchiefs"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Instead of tissue papers we can use?",
+        "choices": [
+            "Plastic bags",
+            "Glass bottles",
+            "Cloth, hand towels, or handkerchiefs",
+            "Metal cans"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "We should purchase and consume only?",
+        "choices": [
+            "Disposable items",
+            "Plastic objects",
+            "Necessary things",
+            "Expensive things"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a cause of soil pollution?",
+        "choices": [
+            "Excessive use of pesticides and fertilizers",
+            "Planting more trees",
+            "Using eco-friendly products",
+            "Recycling waste"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a cause of soil pollution?",
+        "choices": [
+            "Excessive use of pesticides",
+            "Leakage in sewage system",
+            "Treated water from industries",
+            "Untreated wastewater from industries"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a possible effect of soil pollution?",
+        "choices": [
+            "The plants grown in polluted soil may be contaminated.",
+            "Improving soil fertility.",
+            "Cleaning groundwater",
+            "Promoting plant growth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following can result from soil pollution?",
+        "choices": [
+            "Increased crop yields",
+            "Infertile land",
+            "Improved air quality",
+            "Clean water resources"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of waste decays quickly and mixes with soil?",
+        "choices": [
+            "Non-biodegradable waste",
+            "Biodegradable waste",
+            "Industrial waste",
+            "Hazardous waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is waste created from plastic, metal, and glass called?",
+        "choices": [
+            "Biodegradable waste",
+            "Compost waste",
+            "Non-biodegradable waste",
+            "Organic waste"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Waste materials can be grouped into how many types?",
+        "choices": [
+            "One type",
+            "Two types",
+            "Three types",
+            "Four types"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Waste from our homes can be in the form of ",
+        "choices": [
+            "Waste",
+            "Plastic",
+            "Water",
+            "Food"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is anything that is left over and not used?",
+        "choices": [
+            "Food",
+            "Waste",
+            "Plant",
+            "Material"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How long does plastic take to decompose on average?",
+        "choices": [
+            "50 years",
+            "100 years",
+            "450 years",
+            "1000 years"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these items is biodegradable?",
+        "choices": [
+            "Torn polythene bags",
+            "Plastic bottles",
+            "Fruit and vegetable peels",
+            "Old toothbrushes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these items is non-biodegradable?",
+        "choices": [
+            "Newspaper",
+            "Fruit peels",
+            "Plastic Bottles",
+            "Vegetable peels"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of biodegradable waste?",
+        "choices": [
+            "Old clothes and shoes",
+            "The glass mug, plate, and cup that break",
+            "Fruit and vegetable peels and seeds",
+            "Torn polythene bags and old plastic bottles"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What may contaminants in soil do?",
+        "choices": [
+            "Clean soil",
+            "Infiltrate into groundwater",
+            "Clean water",
+            "Clean air"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are the two types of waste materials we generate in our daily lives?",
+        "choices": [
+            "solid and liquid",
+            "food and plastic",
+            "biodegradable and non-biodegradable",
+            "organic and inorganic"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why is water precious?",
+        "choices": [
+            "It's expensive.",
+            "It's essential for the survival of all life.",
+            "It looks nice.",
+            "It's fun to play with."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a step to conserve water?",
+        "choices": [
+            "Watering plants with a hose pipe.",
+            "Taking long showers.",
+            "Fixing leaking taps and pipes.",
+            "Leaving taps running."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you use instead of a hose pipe to water plants or wash your car?",
+        "choices": [
+            "A bucket.",
+            "A sprinkler.",
+            "A swimming pool.",
+            "A river."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the process called when rainwater is piped into an underground tank from rooftops?",
+        "choices": [
+            "Water recycling.",
+            "Water filtration.",
+            "Rainwater harvesting.",
+            "Water conservation."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Rainwater harvesting is compulsory in order to conserve what?",
+        "choices": [
+            "Land.",
+            "Air.",
+            "Water.",
+            "Animals."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contamination of soil with harmful substances called?",
+        "choices": [
+            "Water pollution.",
+            "Air pollution.",
+            "Soil pollution.",
+            "Noise pollution."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a bad action for saving water?",
+        "choices": [
+            "Fixing leaking taps and pipes.",
+            "Turn off taps when they are not in use.",
+            "Take long showers.",
+            "Reuse kitchen water for watering plants."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you use when you take bath?",
+        "choices": [
+            "A bucket and a mug.",
+            "A hose pipe.",
+            "A water tank.",
+            "A swimming pool."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is necessary to conserve water?",
+        "choices": [
+            "Water pipes.",
+            "Rainwater harvesting.",
+            "Hose pipe.",
+            "Long showers."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is essential for the survival of all life?",
+        "choices": [
+            "Water.",
+            "Air.",
+            "Soil.",
+            "Noise."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the key takeaway from 'Water is life, Save every drop of it.'?",
+        "choices": [
+            "Water is very important.",
+            "Water can harm you.",
+            "Water is fun.",
+            "Water is very expensive."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How rainwater can be used in the future?",
+        "choices": [
+            "It cannot be used.",
+            "Piped into an underground tank.",
+            "It can be used as soil pollution.",
+            "It can be used as air pollution."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a potential source for rainwater harvesting?",
+        "choices": [
+            "Small buildings.",
+            "Big buildings such as school.",
+            "Houses.",
+            "Garbage."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do you do with leaky taps?",
+        "choices": [
+            "Ignore them.",
+            "Get them fixed.",
+            "Add more water.",
+            "Don't use it."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The statement 'Water is precious' highlights that water is?",
+        "choices": [
+            "Expendable.",
+            "Renewable.",
+            "Invaluable.",
+            "Polluted."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What percentage of the Earth's surface is covered with fresh water?",
+        "choices": [
+            "About two-thirds",
+            "About one-third",
+            "About three per cent",
+            "About half"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The contamination of water bodies is called:",
+        "choices": [
+            "Air pollution",
+            "Water pollution",
+            "Soil pollution",
+            "Noise pollution"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a cause of water pollution?",
+        "choices": [
+            "Using waste bins",
+            "Releasing treated sewage",
+            "Throwing garbage into ponds",
+            "Planting trees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Releasing untreated industrial and domestic sewage directly into water bodies is a cause of:",
+        "choices": [
+            "Air pollution",
+            "Water pollution",
+            "Noise pollution",
+            "Soil erosion"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Diseases such as jaundice, diarrhoea, and typhoid can be caused by:",
+        "choices": [
+            "Drinking clean water",
+            "Breathing fresh air",
+            "Drinking polluted water",
+            "Eating healthy food"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does polluted water kill?",
+        "choices": [
+            "Aquatic animals and plants",
+            "Only plants",
+            "Only animals",
+            "Humans"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following should always be used to dispose of garbage?",
+        "choices": [
+            "Drains",
+            "Water bodies",
+            "Waste bins",
+            "Roads"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you never throw in and around water bodies?",
+        "choices": [
+            "Plants",
+            "Garbage",
+            "Clean water",
+            "Fertilizers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of manure is recommended instead of fertilizers and pesticides?",
+        "choices": [
+            "Chemical",
+            "Organic",
+            "Synthetic",
+            "Inorganic"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Sewage waste should be __________ before it is released into water bodies.",
+        "choices": [
+            "Stored",
+            "Treated",
+            "Ignored",
+            "Dumped"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should NOT be thrown down the drain?",
+        "choices": [
+            "Water",
+            "Oil, medicines, and chemicals",
+            "Soap",
+            "Shampoo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is emission?",
+        "choices": [
+            "A type of fertilizer",
+            "Release of something into the atmosphere",
+            "A type of pesticide",
+            "A water purification method"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a pesticide?",
+        "choices": [
+            "A chemical used for killing pests",
+            "A substance added to soil to make plants grow",
+            "Waste matter from animals",
+            "Release of something into the atmosphere"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is fertiliser?",
+        "choices": [
+            "A chemical used for killing pests",
+            "A substance added to soil to make plants grow",
+            "Waste matter from animals",
+            "Release of something into the atmosphere"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is manure?",
+        "choices": [
+            "A chemical used for killing pests",
+            "A substance added to soil to make plants grow",
+            "Waste matter from animals mixed with the soil",
+            "Release of something into the atmosphere"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the contamination of air by the addition of harmful substances called?",
+        "choices": [
+            "Water pollution",
+            "Land pollution",
+            "Air pollution",
+            "Noise pollution"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a major cause of air pollution?",
+        "choices": [
+            "Planting trees",
+            "Using clean fuel",
+            "Emission of harmful gases by vehicles and factories",
+            "Walking or riding a cycle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an effect of air pollution?",
+        "choices": [
+            "Improved visibility",
+            "Breathing problems",
+            "Healthy plants",
+            "Clean groundwater"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What can smog caused due to air pollution block?",
+        "choices": [
+            "Rain",
+            "Wind",
+            "Sunlight",
+            "Clouds"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does acid rain do?",
+        "choices": [
+            "Cleans buildings",
+            "Harms plants and animals",
+            "Improves groundwater",
+            "Helps the soil"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following can help reduce air pollution?",
+        "choices": [
+            "Using a car for short distances",
+            "Walking or riding a cycle",
+            "Burning coal and wood",
+            "Creating smog"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you do to reduce air pollution?",
+        "choices": [
+            "Use the school bus to go to school",
+            "Use a car for short distances",
+            "Burn waste materials",
+            "Start a fire to keep warm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what is smog?",
+        "choices": [
+            "Smoky rain",
+            "Smoky snow",
+            "Smoky fog",
+            "Smoky cloud"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the government doing to tackle air pollution?",
+        "choices": [
+            "Promoting the use of coal",
+            "Promoting the use of clean fuel and electric vehicles",
+            "Promoting the use of petroleum",
+            "Promoting burning coal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the effect of harmful chemicals mixing with rain drops?",
+        "choices": [
+            "Pure rain",
+            "Acid rain",
+            "Harmless rain",
+            "Bubbly rain"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a cause of air pollution?",
+        "choices": [
+            "Planting trees",
+            "Bursting crackers",
+            "Walking and riding a bike",
+            "Using clean fuel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following causes acid rain?",
+        "choices": [
+            "Clean air",
+            "Harmful chemicals mixing with rain drops",
+            "Sunlight",
+            "Clean fuel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the cause of air pollution?",
+        "choices": [
+            "The use of clean fuel",
+            "Planting trees",
+            "Dust blown due to construction work",
+            "Walking"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you ask your father to do at a red light?",
+        "choices": [
+            "Turn off your car or motorbike engine",
+            "Honk the horn",
+            "Speed through the intersection",
+            "Blast music"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is one thing the government is focusing on to help with air pollution?",
+        "choices": [
+            "Solar energy",
+            "Burning waste",
+            "Cutting down trees",
+            "Using coal"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does our environment comprise?",
+        "choices": [
+            "Only living things",
+            "Only non-living things",
+            "Living and non-living things",
+            "Only plants"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are examples of natural non-living things in our environment?",
+        "choices": [
+            "Plants and animals",
+            "Air, water, rocks, and soil",
+            "Buildings and cars",
+            "Mountains and rivers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Living and non-living things are called:",
+        "choices": [
+            "Pollution",
+            "Natural Resources",
+            "Factories",
+            "Waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why is it important to take care of our environment?",
+        "choices": [
+            "To build more factories",
+            "To stay alive and fulfill our needs",
+            "To pollute the air",
+            "Because it's interesting"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where are most of the things we need manufactured?",
+        "choices": [
+            "Homes",
+            "Schools",
+            "Factories",
+            "Hospitals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do factories and vehicles release that contaminates the air?",
+        "choices": [
+            "Clean air",
+            "Water vapor",
+            "Smoke and poisonous gases",
+            "Flowers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the waste from factories and our homes released into?",
+        "choices": [
+            "Water bodies and land (soil)",
+            "The atmosphere",
+            "Factories",
+            "Other planets"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The contamination of natural resources is called:",
+        "choices": [
+            "Preservation",
+            "Pollution",
+            "Recycling",
+            "Reduction"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'contaminate' mean according to the Vocabulary section?",
+        "choices": [
+            "Clean",
+            "Make dirty",
+            "Recycle",
+            "Reduce"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one of the learning goals of this chapter?",
+        "choices": [
+            "Planting flowers",
+            "Air pollution",
+            "Building more factories",
+            "Traveling to space"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another learning goal of this chapter?",
+        "choices": [
+            "How to save environment - reduce, reuse, recycle",
+            "Playing games",
+            "Going to the movies",
+            "Eating junk food"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are some groups focusing on?",
+        "choices": [
+            "Planting trees in cities",
+            "Building more cars",
+            "Selling food",
+            "Playing sports"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The harmful substances in the waste contaminate:",
+        "choices": [
+            "Water and Soil",
+            "Trees",
+            "Animals",
+            "Air"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Plants and animals are the ______ things",
+        "choices": [
+            "Non-living",
+            "Living",
+            "Dead",
+            "Polluted"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the chapter exploring?",
+        "choices": [
+            "Pollution",
+            "Sports",
+            "Games",
+            "Movies"
+        ],
+        "correctAnswer": 0
+    }
+]

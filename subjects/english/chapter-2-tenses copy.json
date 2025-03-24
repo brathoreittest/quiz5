@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Which tense is used in the sentence, 'She has completed her homework'?",
+        "choices": ["Present Simple", "Present Perfect", "Past Simple", "Future Perfect"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tense is used in the sentence, 'They will go to the market tomorrow'?",
+        "choices": ["Future Simple", "Present Continuous", "Past Perfect", "Present Perfect"],
+        "correctAnswer": 0
+    }
+]

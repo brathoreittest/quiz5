@@ -1,0 +1,752 @@
+[
+  {
+      "question": "Which of the following is NOT a part of the Southern Plateaus?",
+      "choices": [
+          "The Central Highlands",
+          "The Malwa Plateau",
+          "The Chota Nagpur Plateau",
+          "The Eastern Coastal Plains"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which hills surround the Southern Plateaus in the northwest?",
+      "choices": [
+          "The Western Ghats",
+          "The Eastern Ghats",
+          "The Aravalli Hills",
+          "The Rajmahal Hills"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which river divides the Southern Plateaus into two parts?",
+      "choices": [
+          "Godavari",
+          "Krishna",
+          "Narmada",
+          "Tapi"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the shape of the Southern Plateaus?",
+      "choices": [
+          "Square",
+          "Circular",
+          "Triangular",
+          "Rectangular"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is another name for a plateau?",
+      "choices": [
+          "Tableland",
+          "Highland",
+          "Lowland",
+          "Mountain"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Central Highlands are surrounded by the ________ Range in the Northwest.",
+      "choices": [
+          "Vindhya",
+          "Aravalli",
+          "Satpura",
+          "Eastern Ghats"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following plateaus is included in the Central Highlands?",
+      "choices": [
+          "Deccan Plateau",
+          "Malwa Plateau",
+          "Chota Nagpur Plateau",
+          "Both B and C"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The Malwa Plateau has which type of soil?",
+      "choices": [
+          "Red soil",
+          "Black soil",
+          "Laterite soil",
+          "Sandy soil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following crops is NOT suitable to grow in the Malwa Plateau region?",
+      "choices": [
+          "Cotton",
+          "Sugarcane",
+          "Rice",
+          "Wheat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following cities is located in the Malwa Plateau region?",
+      "choices": [
+          "Mumbai",
+          "Chennai",
+          "Indore",
+          "Kolkata"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the approximate length of the Southern Plateaus from north to south?",
+      "choices": [
+          "1000 km",
+          "1400 km",
+          "1600 km",
+          "2000 km"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the approximate width of the Southern Plateaus from east to west?",
+      "choices": [
+          "1000 km",
+          "1400 km",
+          "1600 km",
+          "2000 km"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following states is NOT listed as being part of the Southern Plateaus region?",
+      "choices": [
+          "Madhya Pradesh",
+          "Jharkhand",
+          "Bihar",
+          "Maharashtra"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The River Narmada divides the region of the Southern Plateaus into the Central Highlands in the north, and the _______ in the south.",
+      "choices": [
+          "Eastern Ghats",
+          "Western Ghats",
+          "Deccan Plateau",
+          "Malwa Plateau"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which hills surround the Southern Plateaus in the northeast?",
+      "choices": [
+          "The Western Ghats",
+          "The Eastern Ghats",
+          "The Aravalli Hills",
+          "The Rajmahal Hills"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The Chota Nagpur Plateau covers which of the following states?",
+      "choices": [
+          "Jharkhand, Odisha, and West Bengal",
+          "Jharkhand, Odisha, and Chhattisgarh",
+          "Bihar, Jharkhand, and Odisha",
+          "Chhattisgarh, Odisha, and Madhya Pradesh"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following minerals is NOT found in the Chota Nagpur Plateau?",
+      "choices": [
+          "Coal",
+          "Iron",
+          "Gold",
+          "Manganese"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which range lies to the south of the Satpura Range?",
+      "choices": [
+          "Vindhya Range",
+          "Aravalli Range",
+          "Deccan Plateau",
+          "Eastern Ghats"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following states is NOT covered by the Deccan Plateau?",
+      "choices": [
+          "Maharashtra",
+          "Karnataka",
+          "Kerala",
+          "Odisha"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Deccan Plateau is surrounded by the _______ Ghats in the west and the _______ Ghats in the east.",
+      "choices": [
+          "Eastern, Western",
+          "Western, Eastern",
+          "Northern, Southern",
+          "Southern, Northern"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following are hills of the Western Ghats?",
+      "choices": [
+          "Himalayas",
+          "Sahyadri, Nilgiri, Annamalai, and Cardamom Hills",
+          "Aravalli",
+          "Shiwalik"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Eastern Ghats are broken by rivers coming from:",
+      "choices": [
+          "The Himalayas",
+          "The Western Ghats",
+          "The Vindhya Range",
+          "The Aravalli Range"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rivers that dry up in summers or have very little water are called:",
+      "choices": [
+          "Perennial rivers",
+          "Seasonal rivers",
+          "Glacial rivers",
+          "Tributary rivers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rivers that have water all year round are called:",
+      "choices": [
+          "Perennial rivers",
+          "Seasonal rivers",
+          "Glacial rivers",
+          "Tributary rivers"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which dam is built on the River Krishna?",
+      "choices": [
+          "Bhakra Nangal Dam",
+          "Nagarjunasagar Dam",
+          "Hirakud Dam",
+          "Tehri Dam"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is the capital of Madhya Pradesh?",
+      "choices": [
+          "Indore",
+          "Bhopal",
+          "Jabalpur",
+          "Gwalior"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the main occupation of the people in Madhya Pradesh?",
+      "choices": [
+          "Mining",
+          "Fishing",
+          "Agriculture",
+          "Tourism"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The state of Chhattisgarh was formed in the year:",
+      "choices": [
+          "1995",
+          "2000",
+          "2005",
+          "2010"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which rivers from the Central Highlands join Ganga and Yamuna?",
+      "choices": [
+          "Mahanadi, Godavari",
+          "Chambal, Son, Betwa",
+          "Krishna, Kaveri",
+          "Narmada, Tapi"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of soil is found in the Deccan Plateau, making it suitable for growing cotton and sugarcane?",
+      "choices": [
+          "Red soil",
+          "Black soil",
+          "Alluvial soil",
+          "Laterite soil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is the capital of Jharkhand?",
+      "choices": [
+          "Jamshedpur",
+          "Bokaro",
+          "Ranchi",
+          "Dhanbad"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main language spoken in Karnataka?",
+      "choices": [
+          "Telugu",
+          "Marathi",
+          "Kannada",
+          "Urdu"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which state is known as the 'garden city'?",
+      "choices": [
+          "Maharashtra",
+          "Karnataka",
+          "Odisha",
+          "Jharkhand"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the capital of Odisha?",
+      "choices": [
+          "Puri",
+          "Konark",
+          "Cuttack",
+          "Bhubaneshwar"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following crops are grown in Maharashtra?",
+      "choices": [
+          "Rice and Jute",
+          "Cotton and Sugarcane",
+          "Coffee and Spices",
+          "Rice and Jowar"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is the largest producer of tobacco in India?",
+      "choices": [
+          "Telangana",
+          "Karnataka",
+          "Andhra Pradesh",
+          "Maharashtra"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the popular dance form of Andhra Pradesh and Telangana?",
+      "choices": [
+          "Lavani",
+          "Tamasha",
+          "Odissi",
+          "Kuchipudi"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which states formed a common capital?",
+      "choices": [
+          "Karnataka and Telangana",
+          "Andhra Pradesh and Maharashtra",
+          "Andhra Pradesh and Telangana",
+          "Jharkhand and Odisha"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In which year was the state of Jharkhand formed?",
+      "choices": [
+          "2014",
+          "2000",
+          "1990",
+          "2010"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which river flows through the state of Jharkhand?",
+      "choices": [
+          "Ganga",
+          "Brahmaputra",
+          "Damodar",
+          "Godavari"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following cities is the capital of Maharashtra?",
+      "choices": [
+          "Pune",
+          "Nagpur",
+          "Nashik",
+          "Mumbai"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is a popular dance form in Maharashtra?",
+      "choices": [
+          "Kathak",
+          "Kuchipudi",
+          "Tamasha",
+          "Odissi"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which state is rich in coal, manganese, and iron?",
+      "choices": [
+          "Maharashtra",
+          "Karnataka",
+          "Odisha",
+          "Jharkhand"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following festivals is celebrated in Karnataka?",
+      "choices": [
+          "Ugadi",
+          "Ganesh Chaturthi",
+          "Diwali",
+          "Holi"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In which state is Bhilai, one of India's largest steel plants, located?",
+      "choices": [
+          "Jharkhand",
+          "Odisha",
+          "Maharashtra",
+          "Karnataka"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a popular dance form of Tamil Nadu?",
+      "choices": [
+          "Mohiniattam",
+          "Bharatnatyam",
+          "Kuchipudi",
+          "Kathakali"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Bokaro and Bhilai are famous for:",
+      "choices": [
+          "Textile industries",
+          "Steel plants",
+          "Farming",
+          "Tourism"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which state is the largest producer of tobacco in India?",
+      "choices": [
+          "Tamil Nadu",
+          "Karnataka",
+          "Andhra Pradesh",
+          "Odisha"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Deccan Plateau is rich in fertile ______ soil.",
+      "choices": [
+          "red",
+          "alluvial",
+          "black",
+          "laterite"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which river divides the north and south parts of the Southern Plateaus?",
+      "choices": [
+          "Krishna",
+          "Kaveri",
+          "Narmada",
+          "Ganga"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To the south of the Northern Plains of India lies a vast region that is ______ in shape.",
+      "choices": [
+          "Sphere",
+          "Oblate",
+          "Square",
+          "Triangular"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In the northwest, the southern plateaus are bound by the ______.",
+      "choices": [
+          "Western Ghats",
+          "Aravalli Hills",
+          "Anamalai Hills",
+          "Rajmahal Hills"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the northeast, the southern plateaus are bound by the ______.",
+      "choices": [
+          "Rajmahal Hills",
+          "Anamalai Hills",
+          "AnaiMudi",
+          "Eastern Ghats"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A plateau is also called a ______.",
+      "choices": [
+          "Triangular land",
+          "Uneven land",
+          "Tableland",
+          "Rocky land"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Southern Plateaus lie south of the ______ Plains.",
+      "choices": [
+          "Eastern",
+          "Northern",
+          "Western",
+          "Southern"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Southern Plateaus are surrounded by ______ ranges on all sides.",
+      "choices": [
+          "water",
+          "land",
+          "hill",
+          "desert"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "______ Narmada divides the region of the Southern Plateaus into two parts.",
+      "choices": [
+          "River",
+          "Lake",
+          "Stream",
+          "Pond"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The Central Highlands are surrounded by the Aravalli Hills in the north-west and the ______.",
+      "choices": [
+          "Ganga",
+          "Vindhya",
+          "Kaveri",
+          "Yamuna"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Deccan Plateau lies to the south of the Satpura Range and stretches up to the southern tip of the ______.",
+      "choices": [
+          "India",
+          "Ocean",
+          "Peninsula",
+          "Island"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Southern Plateaus covers the states of Madhya Pradesh, Chhatisgarh, Jharkhand, Odisha, Maharashtra, Karnataka, Andhra Pradesh, Telangana and ______.",
+      "choices": [
+          "Bihar",
+          "Punjab",
+          "Haryana",
+          "Tamil Nadu"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The Southern Plateaus are bound by which hill ranges?",
+      "choices": [
+          "Himalayan Ranges",
+          "Western and Eastern Ghats",
+          "Vindhya and Satpura Ranges",
+          "Aravalli Hills"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which statement is true about the plateaus?",
+      "choices": [
+          "They lack natural resources",
+          "They are not suitable for mining activities",
+          "Mining is an important industry in these areas",
+          "The plateaus are very poor in natural resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The rivers of the Southern Plateaus are...",
+      "choices": [
+          "Perennial",
+          "Non-perennial",
+          "Seasonal",
+          "Both Perennial and Seasonal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What type of soil is ideal for growing cotton and sugarcane?",
+      "choices": [
+          "Red soil",
+          "Alluvial soil",
+          "Black soil",
+          "Laterite soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Waterfalls are often used to produce...",
+      "choices": [
+          "Thermal energy",
+          "Nuclear energy",
+          "Electricity",
+          "Solar energy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is one of the states is well-known for 'bidri' work?",
+      "choices": [
+          "Maharashtra",
+          "Kerala",
+          "Karnataka",
+          "Bihar"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which river is associated with the Southern Plateaus of India (marking locations)?",
+      "choices": [
+          "Ganges",
+          "Brahmaputra",
+          "Narmada",
+          "Indus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In which Indian state are several mines located?",
+      "choices": [
+          "Karnataka",
+          "Odisha",
+          "Chhattisgarh",
+          "Madhya Pradesh"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Major crops grown in Karnataka?",
+      "choices": [
+          "Cotton",
+          "Sugarcane",
+          "Coffee",
+          "Tea"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Capital of Madhya Pradesh",
+      "choices": [
+          "Indore",
+          "Bhopal",
+          "Gwalior",
+          "Jabalpur"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do people protest against setting up of mines?",
+      "choices": [
+          "Environmental impact of mining",
+          "Economic development of the region",
+          "Increase of job vacancies",
+          "All of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How does the region get water during the summers if the rivers of the Southern Plateaus are seasonal?",
+      "choices": [
+          "Rainwater",
+          "Groundwater",
+          "Canals",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Where are the Centres of information technology industry located?",
+      "choices": [
+          "Karnataka",
+          "Tamil Nadu",
+          "Telangana",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Why do rivers of the Southern Plateau flow very fast?",
+      "choices": [
+          "Due to the high altitude",
+          "Due to the rocky terrain",
+          "Due to the low rainfall",
+          "Due to the presence of waterfalls"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What makes towns in Odisha famous tourist destinations?",
+      "choices": [
+          "Beach",
+          "Historical temples and heritage sites",
+          "National Parks",
+          "All of the above"
+      ],
+      "correctAnswer": 1
+  }
+]

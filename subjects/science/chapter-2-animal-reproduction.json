@@ -1,0 +1,1472 @@
+[
+  {
+      "question": "The process by which animals produce young ones of their own kind is known as what?",
+      "choices": [
+          "Growth",
+          "Reproduction",
+          "Evolution",
+          "Development"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A dog gives birth to its young ones. What are they called?",
+      "choices": [
+          "Kittens",
+          "Calves",
+          "Puppies",
+          "Chicks"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A pigeon lays eggs to give birth to their young ones. What are they called?",
+      "choices": [
+          "Cubs",
+          "Squabs",
+          "Pups",
+          "Lambs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals lays eggs?",
+      "choices": [
+          "Dog",
+          "Cat",
+          "Elephant",
+          "Bird"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following animals give birth to babies?",
+      "choices": [
+          "Insects",
+          "Birds",
+          "Elephant",
+          "Cockroach"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which type of animals are birds?",
+      "choices": [
+          "Give birth to babies",
+          "Lay eggs",
+          "Reproduce by budding",
+          "Reproduce asexually"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name of an unfledged pigeon?",
+      "choices": [
+          "Chick",
+          "Squab",
+          "Baby Pigeon",
+          "Pigeonlet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals has a life cycle that includes eggs?",
+      "choices": [
+          "Dog",
+          "Cat",
+          "Butterfly",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals gives birth to babies?",
+      "choices": [
+          "Chicken",
+          "Dog",
+          "Cockroach",
+          "Butterfly"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals has a life cycle that includes eggs?",
+      "choices": [
+          "Elephant",
+          "Dog",
+          "Cockroach",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals lays eggs?",
+      "choices": [
+          "Dog",
+          "Cat",
+          "Butterfly",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals give birth to babies?",
+      "choices": [
+          "Chicken",
+          "Cat",
+          "Cockroach",
+          "Butterfly"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals has a life cycle that includes eggs?",
+      "choices": [
+          "Elephant",
+          "Dog",
+          "Frog",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals lays eggs?",
+      "choices": [
+          "Dog",
+          "Cat",
+          "Insect",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals give birth to babies?",
+      "choices": [
+          "Chicken",
+          "Dog",
+          "Cockroach",
+          "Insect"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these animals are birds?",
+      "choices": [
+          "Hen",
+          "Frog",
+          "Crocodile",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these animals are Amphibians?",
+      "choices": [
+          "Hen",
+          "Frog",
+          "Crocodile",
+          "Butterfly"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these animals are Reptiles?",
+      "choices": [
+          "Hen",
+          "Frog",
+          "Crocodile",
+          "Butterfly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals are Insects?",
+      "choices": [
+          "Hen",
+          "Frog",
+          "Crocodile",
+          "Butterfly"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which animal is an example of fish?",
+      "choices": [
+          "Goldfish",
+          "Butterfly",
+          "Crocodile",
+          "Dog"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following reproduction methods involves giving birth to young ones?",
+      "choices": [
+          "Laying eggs",
+          "Give birth to young ones",
+          "Both",
+          "None"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is a Mammal?",
+      "choices": [
+          "Cat",
+          "Hen",
+          "Frog",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is a Mammal?",
+      "choices": [
+          "dog",
+          "Hen",
+          "Frog",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is a Mammal?",
+      "choices": [
+          "Humans",
+          "Hen",
+          "Frog",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is a Mammal?",
+      "choices": [
+          "Horse",
+          "Hen",
+          "Frog",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which is a Mammal?",
+      "choices": [
+          "Whale",
+          "Hen",
+          "Frog",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Birds lay _______?",
+      "choices": [
+          "Eggs",
+          "Young one",
+          "Nothing",
+          "I don't Know"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the other term for laying?",
+      "choices": [
+          "Reproduction",
+          "Give birth",
+          "Mammals",
+          "Whale"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Frogs lay _______?",
+      "choices": [
+          "Eggs",
+          "Young one",
+          "Nothing",
+          "I don't Know"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Crocodile lay _______?",
+      "choices": [
+          "Eggs",
+          "Young one",
+          "Nothing",
+          "I don't Know"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The silk casing that a caterpillar spins around itself is called:",
+      "choices": [
+          "Shell",
+          "Chrysalis",
+          "Cocoon",
+          "Web"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The part of the egg that develops into a chick is called:",
+      "choices": [
+          "Yolk",
+          "Shell",
+          "Embryo",
+          "Albumen"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The process by which animals produce young ones of their own kind is called:",
+      "choices": [
+          "Evolution",
+          "Metamorphosis",
+          "Reproduction",
+          "Growth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A reptile that lays eggs and can be found in homes is:",
+      "choices": [
+          "Snake",
+          "Lizard",
+          "Turtle",
+          "Alligator"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The young one of a frog is called:",
+      "choices": [
+          "Tadpole",
+          "Froglet",
+          "Eft",
+          "Polliwog"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The jelly-like substance inside an egg is called:",
+      "choices": [
+          "Yolk",
+          "Chalaza",
+          "Germinal disc",
+          "Albumen"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "An insect's baby that eats greedily is called:",
+      "choices": [
+          "Larva",
+          "Nymph",
+          "Pupae",
+          "Grub"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The yellow portion of an egg is called:",
+      "choices": [
+          "Yolk",
+          "Albumen",
+          "Chalaza",
+          "Shell"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The sleeping stage in the life of a butterfly is called:",
+      "choices": [
+          "Larva",
+          "Pupa",
+          "Egg",
+          "Adult"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If a silkworm spins 880 yards of silk thread, how much silk will 25 silkworms spin?",
+      "choices": [
+          "22,000 yards",
+          "21,000 yards",
+          "20,000 yards",
+          "23,000 yards"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A butterfly, on an average, lays 100 eggs. How many eggs will 500 butterflies lay?",
+      "choices": [
+          "50,000",
+          "5,000",
+          "150,000",
+          "500,000"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In a poultry, 80 hens lay 400 eggs on a particular day. An egg hatches in 21 days. How many days will it take for these 400 eggs to hatch, if all eggs hatch?",
+      "choices": [
+          "8400",
+          "6300",
+          "400",
+          "21"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The process by which living things produce more of their own kind is called",
+      "choices": [
+          "hatching",
+          "incubation",
+          "moulting",
+          "reproduction"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The part of an egg that contains food for the developing baby is",
+      "choices": [
+          "albumen",
+          "yolk",
+          "embryo",
+          "shell"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The life cycle of a butterfly comprises ______ stages.",
+      "choices": [
+          "two",
+          "three",
+          "four",
+          "six"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The process of the shedding of skin in a cockroach is called",
+      "choices": [
+          "metamorphosis",
+          "moulting",
+          "hatching",
+          "incubation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals undergoes metamorphosis?",
+      "choices": [
+          "Butterfly",
+          "Dog",
+          "Hen",
+          "Crocodile"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is reproduction?",
+      "choices": [
+          "The process of shedding skin.",
+          "The process of producing more of one's kind.",
+          "The process of changing form.",
+          "The process of an animal growing."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals DOES NOT lay eggs?",
+      "choices": [
+          "Chicken",
+          "Duck",
+          "Lizard",
+          "Dog"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT an animal that gives birth to babies?",
+      "choices": [
+          "Cow",
+          "Cat",
+          "Chicken",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why do parent birds sit on their eggs?",
+      "choices": [
+          "To protect them from predators",
+          "To keep them warm",
+          "To feed them",
+          "To help them hatch"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does hatching refer to?",
+      "choices": [
+          "The process of laying eggs",
+          "The process of an egg opening and a young animal emerging",
+          "The process of mating",
+          "The process of a caterpillar growing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is not a layer of an egg?",
+      "choices": [
+          "Albumen",
+          "Yolk",
+          "Shell",
+          "Pupae"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does metamorphosis mean?",
+      "choices": [
+          "The process of shedding skin.",
+          "The process of animals growing",
+          "The process of changing from one physical form to another.",
+          "The process of an animal eating"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How do parent birds take care of their young ones?",
+      "choices": [
+          "By building nests",
+          "By feeding them",
+          "By protecting them",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which statement is most true about the life cycle of a butterfly?",
+      "choices": [
+          "The butterfly is born from an egg, grows into a butterfly, and flies away",
+          "The butterfly lays eggs, that hatch into caterpillars, transform into a chrysalis, and emerge as a butterfly.",
+          "The butterfly lays eggs that immediately transform into a chrysalis and then emerge as a butterfly",
+          "The butterfly lives inside the earth for 10 years before it comes up and flies."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is NOT a feature that differentiates mammals from other animals?",
+      "choices": [
+          "Mammals do not have hair",
+          "Mammals give birth to live young",
+          "Mammals feed their young with milk",
+          "Mammals are warm-blooded"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the term for reproduction in which the baby develops outside the mother's body?",
+      "choices": [
+          "Gestation",
+          "Hatching",
+          "Parthenogenesis",
+          "Budding"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following reptiles lays eggs and cares for its young ones for a short time?",
+      "choices": [
+          "Snake",
+          "Turtle",
+          "Crocodile",
+          "Lizard"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What part of an egg contains the developing baby?",
+      "choices": [
+          "Yolk",
+          "Albumen",
+          "Shell",
+          "Embryo"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the stage of life cycle of a butterfly contained in a cocoon called?",
+      "choices": [
+          "Larva",
+          "Egg",
+          "Pupa",
+          "Adult"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following insects has three stages in its life cycle?",
+      "choices": [
+          "Butterfly",
+          "Grasshopper",
+          "Cockroach",
+          "Dragonfly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the outer covering of an egg called?",
+      "choices": [
+          "Yolk",
+          "Albumin",
+          "Hard shell",
+          "Embryo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the yellow part of an egg called?",
+      "choices": [
+          "Yolk",
+          "Shell",
+          "Albumin",
+          "Embryo"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the fluid inside an egg called?",
+      "choices": [
+          "Yolk",
+          "Shell",
+          "Albumen",
+          "Embryo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the developing baby inside the egg called?",
+      "choices": [
+          "Yolk",
+          "Shell",
+          "Albumin",
+          "Embryo"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following words could fill in the blank space if the sentence was 'reproduction in which the baby develops outside the mother's body is called...'?",
+      "choices": [
+          "gestation",
+          "parthenogenisis",
+          "hatching",
+          "budding"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following words could fill in the blank space if the sentence was 'reptiles such as ... lay eggs and cares for its young ones for a short time'?",
+      "choices": [
+          "turtle",
+          "snake",
+          "crocodile",
+          "lizard"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following words could fill in the blank space if the sentence was 'the part of an egg that contains the developing baby is the...'?",
+      "choices": [
+          "yolk",
+          "shell",
+          "albumin",
+          "embryo"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following words could fill in the blank space if the sentence was 'the stage of a butterfly contained in a cocoon is called a ...'?",
+      "choices": [
+          "larva",
+          "pupa",
+          "adult",
+          "egg"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following words could fill in the blank space if the sentence was 'an insect that has three stages is ...'?",
+      "choices": [
+          "butterfly",
+          "grasshopper",
+          "cockroach",
+          "dragonfly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What provides nourishment to the embryo inside an egg?",
+      "choices": [
+          "Shell",
+          "Albumin",
+          "Yolk",
+          "Allantois"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a characteristic of mammals?",
+      "choices": [
+          "Giving birth to fully developed young ones",
+          "Feeding their young ones with their own milk",
+          "Laying eggs",
+          "Looking after their young ones until they are old enough to look after themselves"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the process by which a living thing produces more of its own kind called?",
+      "choices": [
+          "Moulting",
+          "Reproduction",
+          "Metamorphosis",
+          "Hatching"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the shedding of skin called?",
+      "choices": [
+          "Reproduction",
+          "Moulting",
+          "Hatching",
+          "Life cycle"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the young one of a cockroach called?",
+      "choices": [
+          "Tadpole",
+          "Caterpillar",
+          "Nymph",
+          "Embryo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the young one of a frog called?",
+      "choices": [
+          "Nymph",
+          "Tadpole",
+          "Caterpillar",
+          "Embryo"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the young one of a butterfly called?",
+      "choices": [
+          "Nymph",
+          "Tadpole",
+          "Caterpillar",
+          "Embryo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'hatching' mean?",
+      "choices": [
+          "The act of birds sitting on eggs for heating them",
+          "To come out of an egg",
+          "Shedding of skin",
+          "The process of producing more of its own kind"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is metamorphosis?",
+      "choices": [
+          "Shedding of skin",
+          "The act of birds sitting on eggs for heating them",
+          "Many changes that a young one undergoes before becoming an adult",
+          "The process by which a living thing produces more of its own kind"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are mammals?",
+      "choices": [
+          "Animals that lay eggs",
+          "Animals that go through metamorphosis",
+          "Animals that give birth to young ones and feed them on their milk",
+          "Animals that shed their skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a life cycle?",
+      "choices": [
+          "The process by which a living thing produces more of its own kind",
+          "The shedding of skin",
+          "The stages of development from an embryo to an adult",
+          "Many changes that a young one undergoes before becoming an adult"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is incubation?",
+      "choices": [
+          "The act of birds sitting on eggs for heating them",
+          "The process by which a living thing produces more of its own kind",
+          "The shedding of skin",
+          "Many changes that a young one undergoes before becoming an adult"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is an embryo?",
+      "choices": [
+          "A young one of a butterfly",
+          "Developing babies inside the egg",
+          "The shedding of skin",
+          "The process by which a living thing produces more of its own kind"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Animals reproduce to...",
+      "choices": [
+          "Multiply in number",
+          "Shed their skin",
+          "Undergo metamorphosis",
+          "Incubate eggs"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Butterflies complete their life cycle in how many stages?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Cockroaches complete their life cycle in how many stages?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animals reproduce by laying eggs?",
+      "choices": [
+          "Birds only",
+          "Insects only",
+          "Birds, insects, amphibians, fish, and reptiles",
+          "Mammals only"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What protects the baby inside the egg?",
+      "choices": [
+          "Yolk",
+          "Albumen",
+          "Shell",
+          "Embryo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What allows air to pass through the egg shell?",
+      "choices": [
+          "Cracks",
+          "Large holes",
+          "Tiny pores",
+          "The albumen"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The thick jelly-like substance inside the egg is called:",
+      "choices": [
+          "Yolk",
+          "Albumen",
+          "Embryo",
+          "Shell"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The yellow portion within the albumen is called:",
+      "choices": [
+          "Albumen",
+          "Yolk",
+          "Shell",
+          "Embryo"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the yolk contain?",
+      "choices": [
+          "Albumen",
+          "Shell",
+          "A developing baby called embryo",
+          "Air"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the yolk provide for the developing embryo?",
+      "choices": [
+          "Protection",
+          "Food",
+          "Air",
+          "Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What protects the yolk and the embryo?",
+      "choices": [
+          "Shell",
+          "Yolk",
+          "Albumen",
+          "Air"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do many birds build to keep their eggs?",
+      "choices": [
+          "Houses",
+          "Nests",
+          "Caves",
+          "Burrows"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of conditions do the embryo inside the egg needs to develop?",
+      "choices": [
+          "Cold",
+          "Dark",
+          "Warm",
+          "Wet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the act of some birds to keep their eggs warm by sitting on them is known as?",
+      "choices": [
+          "Hatching",
+          "Incubation",
+          "Migration",
+          "Hibernation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is it called when the egg breaks and a baby bird comes out?",
+      "choices": [
+          "Incubation",
+          "Hatching",
+          "Development",
+          "Growth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who takes care of the baby birds until they are able to look after themselves?",
+      "choices": [
+          "Other birds",
+          "Parent birds",
+          "The environment",
+          "No one"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do parent birds give to the young ones during the period they are taking care of them?",
+      "choices": [
+          "Water",
+          "Food",
+          "Shelter",
+          "All of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The stages of development from an embryo to an adult form the:",
+      "choices": [
+          "Growth cycle",
+          "Food cycle",
+          "Life cycle of a bird",
+          "Reproductive cycle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the process of transformation of the young one of an insect into an adult called?",
+      "choices": [
+          "Mutation",
+          "Metamorphosis",
+          "Evolution",
+          "Germination"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which insects undergo complete metamorphosis?",
+      "choices": [
+          "Butterflies and houseflies",
+          "Ants and bees",
+          "Grasshoppers and crickets",
+          "Cockroaches and termites"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the first stage in the life cycle of a butterfly, according to the text?",
+      "choices": [
+          "Pupa",
+          "Caterpillar",
+          "Butterfly",
+          "Eggs"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does a caterpillar spend most of its time doing?",
+      "choices": [
+          "Spinning a cocoon",
+          "Eating leaves",
+          "Flying around",
+          "Laying eggs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens after the caterpillar becomes bigger and fatter?",
+      "choices": [
+          "It flies away",
+          "It finds a safe place to rest",
+          "It lays eggs",
+          "It starts spinning a web"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the caterpillar spin around its body?",
+      "choices": [
+          "A spider web",
+          "A cotton ball",
+          "A protective silk casing (cocoon)",
+          "A leaf blanket"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the name of the stage after the caterpillar spins a cocoon?",
+      "choices": [
+          "Larva",
+          "Pupa",
+          "Nymph",
+          "Adult"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens inside the cocoon during the pupa stage?",
+      "choices": [
+          "The caterpillar dies",
+          "The caterpillar transforms into a butterfly",
+          "The caterpillar sleeps",
+          "The caterpillar lays eggs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How does the butterfly leave the cocoon?",
+      "choices": [
+          "It eats its way out",
+          "The cocoon splits open",
+          "It dissolves the cocoon",
+          "It is helped out by another butterfly"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many stages does a butterfly go through in its life cycle?",
+      "choices": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which stage does the caterpillar find a safe place to rest?",
+      "choices": [
+          "After laying eggs",
+          "After becoming bigger and fatter",
+          "After becoming an adult",
+          "After starting to eat"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the butterfly do after it crawls out of the cocoon?",
+      "choices": [
+          "It immediately flies away",
+          "It dries its wings",
+          "It finds food",
+          "It lays eggs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does a female cockroach lay its eggs?",
+      "choices": [
+          "On a leaf",
+          "In a case",
+          "Under a rock",
+          "In water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the 'Vocabulary' section, what does 'transformation' mean?",
+      "choices": [
+          "A process of change",
+          "A container or cover",
+          "A drastic change in form",
+          "The beginning of something"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the 'Vocabulary' section, what does 'case' mean?",
+      "choices": [
+          "A process of change",
+          "A container or cover",
+          "A drastic change in form",
+          "The beginning of something"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a young cockroach called?",
+      "choices": [
+          "Larva",
+          "Nymph",
+          "Caterpillar",
+          "Pupil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does a nymph cockroach eat?",
+      "choices": [
+          "Only plants",
+          "Leftover food, paper, cloth",
+          "Only insects",
+          "Nothing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the shedding of skin in cockroaches called?",
+      "choices": [
+          "Metamorphosis",
+          "Regeneration",
+          "Moulting",
+          "Hibernation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many stages are there in the life cycle of a cockroach?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where do fish live?",
+      "choices": [
+          "Ponds",
+          "Rivers",
+          "Seas",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How do fish breathe?",
+      "choices": [
+          "Through lungs",
+          "Through skin",
+          "Through gills",
+          "Through nose"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How are fish and frogs alike?",
+      "choices": [
+          "Both lay eggs in water",
+          "Both breathe through lungs",
+          "Both live on land",
+          "Both have scales"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How are frogs and fish different?",
+      "choices": [
+          "A fish can live on land",
+          "A frog can live on land",
+          "Both can live on land",
+          "Both cannot live on land"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The mother frog lays hundreds of eggs in:",
+      "choices": [
+          "Mud",
+          "Water",
+          "Sand",
+          "Plants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the eggs of the frog hatch into?",
+      "choices": [
+          "Froglet",
+          "Adult Frog",
+          "Tadpoles",
+          "Young frog"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A tadpole has:",
+      "choices": [
+          "Legs",
+          "Wings",
+          "Tail",
+          "Fins"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does a tadpole feed on?",
+      "choices": [
+          "Insects",
+          "Pond weeds",
+          "Meat",
+          "Fish"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How does a tadpole breathe?",
+      "choices": [
+          "Through lungs",
+          "Through gills",
+          "Through skin",
+          "Through nose"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these lays hundreds of eggs at one time?",
+      "choices": [
+          "Fish",
+          "Bird",
+          "Dog",
+          "Cat"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where does the tadpole feeds and breathes?",
+      "choices": [
+          "Pond",
+          "River",
+          "Sea",
+          "Lake"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following animals are reptiles?",
+      "choices": [
+          "Lizards",
+          "Crocodiles",
+          "Alligators",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Where do reptiles lay their eggs?",
+      "choices": [
+          "In water",
+          "In a safe place on the ground",
+          "In trees",
+          "Inside their bodies"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are reptile eggs warmed?",
+      "choices": [
+          "By the mother's body heat",
+          "By the heat of the sun",
+          "By being buried in warm sand",
+          "By being kept in a nest"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which reptiles look after their young ones for a short period?",
+      "choices": [
+          "Lizards",
+          "Snakes",
+          "Turtles",
+          "Crocodiles"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Animals that give birth to young ones and feed them on their milk are called?",
+      "choices": [
+          "Reptiles",
+          "Amphibians",
+          "Mammals",
+          "Birds"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Most mammals have what on their bodies?",
+      "choices": [
+          "Scales",
+          "Feathers",
+          "Hair",
+          "Skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where does the baby develop in mammals?",
+      "choices": [
+          "Inside an egg",
+          "Inside the mother's body",
+          "In a nest",
+          "In a pouch"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the mother provide for its baby until it learns to look after itself?",
+      "choices": [
+          "Food",
+          "Protection",
+          "Milk",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "After a few weeks, what happens to a tadpole's legs?",
+      "choices": [
+          "They disappear",
+          "They grow",
+          "They shrink",
+          "They change color"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What happens to the frog's tail when fully grown?",
+      "choices": [
+          "It remains",
+          "It turns red",
+          "It completely loses its tail",
+          "It grows longer"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where does the adult frog breathe?",
+      "choices": [
+          "In water only",
+          "On land only",
+          "Both on land and in water",
+          "Through its gills"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do fully grown frogs eat?",
+      "choices": [
+          "Plants",
+          "Insects, Beetles, and Worms",
+          "Fish",
+          "Seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Dolphins and Whales look like __ but they are __.",
+      "choices": [
+          "Reptiles, fish",
+          "Fish, mammals",
+          "Mammals, Fish",
+          "Amphibians, Reptiles"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is NOT an example of a mammal?",
+      "choices": [
+          "Dog",
+          "Elephant",
+          "Bat",
+          "Reptile"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Lizards, snakes and turtles __look after their young ones.",
+      "choices": [
+          "always",
+          "usually",
+          "do not",
+          "sometimes"
+      ],
+      "correctAnswer": 2
+  }
+]

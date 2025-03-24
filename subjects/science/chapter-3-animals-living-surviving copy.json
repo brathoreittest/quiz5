@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "Herbivores have ______ for cutting off plant parts.",
+        "choices": [
+            "sharp teeth",
+            "pointed teeth",
+            "long teeth",
+            "flat teeth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Carnivores have ______ teeth at the back.",
+        "choices": [
+            "sharp",
+            "pointed",
+            "long",
+            "flat"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Omnivores have ______ pointed ______ for piercing and tearing flesh.",
+        "choices": [
+            "long, sharp",
+            "short, blunt",
+            "small, curved",
+            "large, flat"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A penguin has a ______ under its skin and a waterproof coat of feathers.",
+        "choices": [
+            "thick fur",
+            "layer of fat",
+            "layer of scales",
+            "layer of blubber"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A polar bear has a thick layer of ______ under its skin and a coat of thick fur.",
+        "choices": [
+            "scales",
+            "feathers",
+            "fat",
+            "blubber"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A mountain goat has ______ making it difficult to be spotted.",
+        "choices": [
+            "dark fur",
+            "light fur",
+            "camouflage",
+            "thick fur"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A camel can live without water for many days and has ______ to move easily on sand.",
+        "choices": [
+            "hooves",
+            "claws",
+            "paddles",
+            "large feet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animal uses camouflage?",
+        "choices": [
+            "Penguin",
+            "Polar bear",
+            "Mountain goat",
+            "Camel"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animals hibernate in winter?",
+        "choices": [
+            "Arctic terns",
+            "Some animals and birds",
+            "Mountain goats",
+            "Camels"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which animals migrate?",
+        "choices": [
+            "Polar bears",
+            "Mountain goats",
+            "Camels",
+            "Arctic terns"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What special features help a camel to survive in the desert?",
+        "choices": [
+            "Thick fur",
+            "Hump for storing fat",
+            "Large paws",
+            "All of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What helps a polar bear to live in extremely cold conditions?",
+        "choices": [
+            "Thick fur",
+            "Blubber",
+            "White fur for camouflage",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Is the ability to camouflage a useful adaptation?",
+        "choices": [
+            "Yes, it helps animals hide from predators.",
+            "No, it doesn't help animals survive.",
+            "Only sometimes, depending on the animal and environment.",
+            "Yes, but only for predators."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why do some desert animals hunt only at night?",
+        "choices": [
+            "To avoid the heat of the day",
+            "To avoid predators",
+            "Because they are nocturnal",
+            "All of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why do deer and zebras have hooves on their feet?",
+        "choices": [
+            "For protection",
+            "For running and jumping",
+            "For climbing",
+            "To help them swim"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why do Siberian cranes migrate to warmer regions during winter?",
+        "choices": [
+            "To find food",
+            "To escape the cold",
+            "To breed",
+            "All of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What animal is found in the arctic regions?",
+        "choices": [
+            "Camel",
+            "Penguin",
+            "Polar bear",
+            "Lizard"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What animal is found in the Antarctic region?",
+        "choices": [
+            "Camel",
+            "Penguin",
+            "Polar bear",
+            "Lizard"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What adaptation helps a penguin survive in cold climates?",
+        "choices": [
+            "Thick fur",
+            "Blubber",
+            "Camouflage",
+            "Large ears"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What adaptation helps a camel survive in hot climates?",
+        "choices": [
+            "Thick fur",
+            "Hump for storing fat and water",
+            "Webbed feet",
+            "Large ears"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Birds fly because of their",
+        "choices": [
+            "small bodies",
+            "feathers",
+            "wings",
+            "all of these"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following animals needs canines?",
+        "choices": [
+            "Giraffe",
+            "Cheetah",
+            "Rabbit",
+            "Horse"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an adaptation shown by a desert animal?",
+        "choices": [
+            "Fur",
+            "Blubber",
+            "Wings",
+            "Hump"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Hyenas feed on",
+        "choices": [
+            "grass",
+            "flesh of other animals",
+            "bones of other animals",
+            "both (ii) and (iii)"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "A long sleep taken by some animals to avoid the harsh winter is called migration.",
+        "choices": [
+            "Hibernation",
+            "Migration",
+            "Aestivation",
+            "Dormancy"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Tigers need canines to grab and tear the leaves of plants.",
+        "choices": [
+            "The flesh of other animals",
+            "Leaves",
+            "Plants",
+            "Grasses"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Squirrels and polar bears are aerial animals.",
+        "choices": [
+            "Arboreal",
+            "Aerial",
+            "Terrestrial",
+            "Aquatic"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Some animals hibernate to survive without food in summers.",
+        "choices": [
+            "Winter",
+            "Summer",
+            "Autumn",
+            "Spring"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Animals that live on land are called aquatic animals.",
+        "choices": [
+            "Terrestrial",
+            "Aquatic",
+            "Amphibians",
+            "Reptiles"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Animals that feed on the flesh of other animals",
+        "choices": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores",
+            "Detritivores"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In water, amphibians breathe through their",
+        "choices": [
+            "mouth",
+            "lungs",
+            "gills",
+            "skin"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Animals that eat plants or plant products are called",
+        "choices": [
+            "carnivores",
+            "herbivores",
+            "omnivores",
+            "scavengers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Animals that eat flesh of other animals are called",
+        "choices": [
+            "herbivores",
+            "carnivores",
+            "omnivores",
+            "parasites"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Animals that eat both plants and flesh of other animals are called",
+        "choices": [
+            "herbivores",
+            "carnivores",
+            "omnivores",
+            "scavengers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The natural environment in which an animal lives is called its",
+        "choices": [
+            "habitat",
+            "camouflage",
+            "hibernation",
+            "migration"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The ability of some animals to blend with their surroundings is called",
+        "choices": [
+            "hibernation",
+            "migration",
+            "camouflage",
+            "adaptation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Deep sleep through the winter that enables an animal to save energy and survive without food is called",
+        "choices": [
+            "migration",
+            "hibernation",
+            "camouflage",
+            "adaptation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Mass movement of animals from one place to another in search of food, water, or to escape from harsh weather is called",
+        "choices": [
+            "hibernation",
+            "migration",
+            "camouflage",
+            "adaptation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Animals that eat decaying flesh of dead animals or rotting plants are called",
+        "choices": [
+            "parasites",
+            "scavengers",
+            "omnivores",
+            "carnivores"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Tiny animals that live on the blood of other animals are called",
+        "choices": [
+            "scavengers",
+            "parasites",
+            "herbivores",
+            "omnivores"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the color of a grasshopper, and why is this advantageous?",
+        "choices": [
+            "Brown, to blend with soil",
+            "Green, to blend with plants",
+            "Gray, to blend with rocks",
+            "Black, to absorb heat"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How does the Arctic fox's coat help it survive?",
+        "choices": [
+            "Its dark coat absorbs heat",
+            "Its thick coat provides insulation",
+            "Its white coat provides camouflage",
+            "Its thin coat allows for quick drying"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is hibernation?",
+        "choices": [
+            "A period of dormancy in cold weather",
+            "A type of migration to warmer climates",
+            "A process of storing food for winter",
+            "A mating behavior in animals"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which animals are mentioned as examples of animals that hibernate?",
+        "choices": [
+            "Cranes and wildebeest",
+            "Lizards and snakes",
+            "Grasshoppers and stick insects",
+            "Arctic foxes and terns"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is migration?",
+        "choices": [
+            "A seasonal movement of animals",
+            "A change in an animal's diet",
+            "The building of a shelter for winter",
+            "A type of animal communication"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why do some animals migrate?",
+        "choices": [
+            "To find mates",
+            "To find food, water, or escape harsh weather",
+            "To avoid predators",
+            "To establish territory"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a pasture?",
+        "choices": [
+            "A forest",
+            "A desert",
+            "Land covered with grass for grazing",
+            "A mountain"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where do wildebeest migrate from and to?",
+        "choices": [
+            "Siberia to India",
+            "Serengeti National Park to Maasai Mara National Park",
+            "Arctic Circle to Antarctica",
+            "North America to South America"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the approximate distance covered by wildebeest during their migration?",
+        "choices": [
+            "100 to 200 miles",
+            "500 to 1000 miles",
+            "1000 to 2000 miles",
+            "2000 to 3000 miles"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which bird has the longest animal migration route?",
+        "choices": [
+            "Wildebeest",
+            "Arctic tern",
+            "Crane",
+            "Grasshopper"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Camels have one or two ______ that store fat.",
+        "choices": [
+            "legs",
+            "humps",
+            "tails",
+            "ears"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When water is available, a camel can drink about ______ litres at a time.",
+        "choices": [
+            "50",
+            "70",
+            "90",
+            "100"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Camels have broad, ______ feet to help them walk easily on the desert sand.",
+        "choices": [
+            "clawed",
+            "hooved",
+            "padded",
+            "webbed"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "During a sandstorm, a camel's ______ close up to block out sand.",
+        "choices": [
+            "eyes",
+            "ears",
+            "mouth",
+            "nostrils"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Many desert animals rest or take shelter under ______ during the day.",
+        "choices": [
+            "trees",
+            "bushes",
+            "stones",
+            "caves"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the ability of animals to blend with their surroundings called?",
+        "choices": [
+            "Migration",
+            "Hibernation",
+            "Camouflage",
+            "Adaptation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a special adaptation mentioned in the text?",
+        "choices": [
+            "Camouflage",
+            "Migration",
+            "Hibernation",
+            "Swimming"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does the term 'padded' mean in the context of the text?",
+        "choices": [
+            "Having sharp edges",
+            "Filled with air",
+            "Covered with soft material for protection",
+            "Made of hard material"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the word 'blend' mean in the context of camouflage?",
+        "choices": [
+            "To fight",
+            "To hide",
+            "To mix with",
+            "To run away"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animal is described as the biggest desert animal?",
+        "choices": [
+            "Lizard",
+            "Camel",
+            "Spider",
+            "Snake"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Animals that spend most of their time on trees are called?",
+        "choices": [
+            "Flying animals",
+            "Arboreal animals",
+            "Aquatic animals",
+            "Terrestrial animals"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is NOT an example of an arboreal animal?",
+        "choices": [
+            "Monkey",
+            "Squirrel",
+            "Garden lizard",
+            "Polar bear"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Arboreal animals use their feet and claws to:",
+        "choices": [
+            "Run fast",
+            "Swim efficiently",
+            "Grip and hold branches",
+            "Fly in the air"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What adaptation does a monkey use for balance and swinging from branches?",
+        "choices": [
+            "Webbed feet",
+            "Flippers",
+            "Thick fur",
+            "Long tail"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The Arctic and Antarctica are known as:",
+        "choices": [
+            "Tropical regions",
+            "Temperate regions",
+            "Polar regions",
+            "Desert regions"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What animal inhabits the Arctic?",
+        "choices": [
+            "Penguin",
+            "Mountain goat",
+            "Polar bear",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Penguins are found along the coast of which ocean?",
+        "choices": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Antarctic Ocean"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What keeps penguins warm in the cold environment?",
+        "choices": [
+            "Thick fur",
+            "Thick layer of fat and waterproof feathers",
+            "Long tail",
+            "Webbed feet"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What helps polar bears blend with the snow?",
+        "choices": [
+            "Their thick layer of fat",
+            "Their waterproof feathers",
+            "Their white fur",
+            "Their long claws"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The furry hair of mountain goats helps them to:",
+        "choices": [
+            "Blend with the snow",
+            "Swim in cold water",
+            "Fly in the air",
+            "Survive in cold winter"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are animals that eat plants as well as the flesh of other animals called?",
+        "choices": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores",
+            "Scavengers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are hyenas and vultures called because they eat dead animals?",
+        "choices": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores",
+            "Scavengers"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are tiny animals that live on the blood of other animals called?",
+        "choices": [
+            "Herbivores",
+            "Carnivores",
+            "Omnivores",
+            "Parasites"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is NOT an example of a parasite?",
+        "choices": [
+            "Lice",
+            "Fleas",
+            "Ticks",
+            "Deer"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What adaptation do deer and zebra have to run fast on hard soil?",
+        "choices": [
+            "Wings",
+            "Claws",
+            "Hooves",
+            "Paws"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What adaptation do tigers and lions have to move quietly?",
+        "choices": [
+            "Wings",
+            "Claws",
+            "Hooves",
+            "Paws"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Animals that fly are called what?",
+        "choices": [
+            "Aerial animals",
+            "Aquatic animals",
+            "Terrestrial animals",
+            "Arboreal animals"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What kind of teeth do cows have?",
+        "choices": [
+            "Sharp, pointed teeth",
+            "Flat, grinding teeth",
+            "Large canines",
+            "Short, powerful teeth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of teeth do lions have?",
+        "choices": [
+            "Sharp, pointed teeth",
+            "Flat, grinding teeth",
+            "Large canines",
+            "Short, powerful teeth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What kind of teeth do hyenas have?",
+        "choices": [
+            "Sharp, pointed teeth",
+            "Flat, grinding teeth",
+            "Large canines",
+            "Short, powerful teeth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the natural environment in which an animal lives called?",
+        "choices": [
+            "Adaptation",
+            "Habitat",
+            "Environment",
+            "Biome"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are changes that make organisms suited to their environment called?",
+        "choices": [
+            "Camouflage",
+            "Migration",
+            "Adaptations",
+            "Hibernation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a way animals adapt themselves?",
+        "choices": [
+            "By food habit",
+            "By movement",
+            "By photosynthesis",
+            "By showing special adaptations"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Animals that eat only plants are called what?",
+        "choices": [
+            "Carnivores",
+            "Omnivores",
+            "Herbivores",
+            "Parasites"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which type of teeth do herbivores have at the back for grinding plant parts?",
+        "choices": [
+            "Sharp teeth",
+            "Canines",
+            "Incisors",
+            "Grinding teeth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What type of teeth do squirrels use to gnaw on nuts and berries?",
+        "choices": [
+            "Grinding teeth",
+            "Canines",
+            "Razor-sharp front teeth",
+            "Premolars"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Animals that eat the flesh of other animals are called what?",
+        "choices": [
+            "Herbivores",
+            "Omnivores",
+            "Carnivores",
+            "Parasites"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of teeth do carnivores have to pierce and tear flesh?",
+        "choices": [
+            "Grinding teeth",
+            "Incisors",
+            "Canines",
+            "Premolars"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animals are examples of herbivores?",
+        "choices": [
+            "Lions and tigers",
+            "Cows and goats",
+            "Wolves and jackals",
+            "Leopards and panthers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why did dinosaurs go extinct, according to the text?",
+        "choices": [
+            "They were hunted by other animals",
+            "They could not adapt to the changing environment",
+            "They ran out of food",
+            "A meteor hit the Earth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a flightless bird?",
+        "choices": [
+            "Crow",
+            "Sparrow",
+            "Ostrich",
+            "Eagle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of skin do reptiles have?",
+        "choices": [
+            "Feathery",
+            "Hairy",
+            "Scaly and dry",
+            "Smooth and wet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How do mammals feed their young?",
+        "choices": [
+            "With insects",
+            "With fruits",
+            "With their milk",
+            "With meat"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of mammals?",
+        "choices": [
+            "Hair all over their body",
+            "Four limbs",
+            "Lay eggs",
+            "External ears"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are animals without a backbone called?",
+        "choices": [
+            "Vertebrates",
+            "Invertebrates",
+            "Reptiles",
+            "Mammals"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of an invertebrate?",
+        "choices": [
+            "Dog",
+            "Elephant",
+            "Butterfly",
+            "Human"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What enables most birds to fly?",
+        "choices": [
+            "Their feathers only",
+            "Their boat-shaped bodies and wings",
+            "Their strong legs",
+            "Their sharp beaks"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Besides dogs, which of these animals is also a mammal?",
+        "choices": [
+            "Ant",
+            "Spider",
+            "Crocodile",
+            "Elephant"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is a hen?",
+        "choices": [
+            "A male bird",
+            "A young bird",
+            "A female bird that lays eggs",
+            "A type of reptile"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animals may look like fish but are mammals?",
+        "choices": [
+            "Snakes and lizards",
+            "Cows and horses",
+            "Dolphins and whales",
+            "Birds and insects"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are vertebrates?",
+        "choices": [
+            "Animals without backbones",
+            "Animals with backbones",
+            "Animals that live in water",
+            "Animals that live on land"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another name for the backbone?",
+        "choices": [
+            "Vertebral column",
+            "Spinal cord",
+            "Rib cage",
+            "Skull"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a group of vertebrates?",
+        "choices": [
+            "Fish",
+            "Amphibians",
+            "Insects",
+            "Mammals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What helps fish breathe?",
+        "choices": [
+            "Lungs",
+            "Gills",
+            "Skin",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What helps fish swim?",
+        "choices": [
+            "Fins and tail",
+            "Legs and feet",
+            "Wings",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where do amphibians live?",
+        "choices": [
+            "Only on land",
+            "Only in water",
+            "Both on land and in water",
+            "In the air"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How do amphibians breathe in water?",
+        "choices": [
+            "Through their lungs",
+            "Through their gills",
+            "Through their moist skin",
+            "Through their nostrils"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How do amphibians breathe on land?",
+        "choices": [
+            "Through their moist skin",
+            "Through their gills",
+            "Through their lungs",
+            "Through their nostrils"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Give an example of an amphibian.",
+        "choices": [
+            "Snake",
+            "Frog",
+            "Shark",
+            "Bird"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main difference between vertebrates and invertebrates?",
+        "choices": [
+            "Size",
+            "Habitat",
+            "Presence or absence of a backbone",
+            "Diet"
+        ],
+        "correctAnswer": 2
+    }
+]
