@@ -1,0 +1,2883 @@
+[
+    {
+        "question": "Numbers can be ______ in any order.",
+        "choices": [
+            "added",
+            "multiplied",
+            "added and multiplied",
+            "divided"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following demonstrates regrouping?",
+        "choices": [
+            "175 + 234 + 25 = 234 + 175 + 25",
+            "8 x 167 x 125 = 167 x 8 x 125",
+            "175 + 234 + 25 = 234 + 200",
+            "8 x 167 x 125 = 167 x 1000",
+            "Both C and D"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "350 + 18624 + 250 =",
+        "choices": [
+            "19224",
+            "18924",
+            "18824",
+            "19024"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the sum of 1250 + 3678 + 3750?",
+        "choices": [
+            "8678",
+            "8578",
+            "8778",
+            "8688"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the sum of 2700 + 5468 + 1300?",
+        "choices": [
+            "9468",
+            "9368",
+            "9568",
+            "9478"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 50 x 369 x 2?",
+        "choices": [
+            "36900",
+            "37000",
+            "36800",
+            "37900"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "40 x 972 x 25 =",
+        "choices": [
+            "972000",
+            "973000",
+            "971000",
+            "97200"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "1250 x 869 x 8 =",
+        "choices": [
+            "8690000",
+            "8691000",
+            "869000",
+            "869100"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the aim of the 'Maths Lab Activity' described?",
+        "choices": [
+            "To show numbers can be subtracted in any order",
+            "To show numbers can be divided in any order",
+            "To show numbers can be added in any order",
+            "To show numbers can be multiplied in any order"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What materials are required for this 'Maths Lab Activity'?",
+        "choices": [
+            "White paper and coloured paper",
+            "White checkered paper and coloured checkered paper",
+            "Only white checkered paper",
+            "Only coloured checkered paper"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the Maths Lab Activity, what does the teacher cut out from the checkered paper?",
+        "choices": [
+            "Squares of same length",
+            "Squares of different length",
+            "Strips of same length",
+            "Strips of different length"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the example provided on the page, what does 4 + 7 equal?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example provided on the page, what does 2 + 3 + 1 equal?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the sum of 7 + 4 + 1?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the sum of 1 + 4 + 2?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The membership fees of a particular club is \u20b95,225 per year. If 6,754 people are members of that club, what will be the total fee collected by the club in a year?",
+        "choices": [
+            "\u20b935,382,150",
+            "\u20b935,382,050",
+            "\u20b935,282,150",
+            "\u20b935,182,150"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The teacher will assign the teams/houses different human activities, such as",
+        "choices": [
+            "deforestation",
+            "pollution",
+            "energy consumption",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The method of addition and subtraction remains the same whether the numbers to be added or subtracted are:",
+        "choices": [
+            "Odd",
+            "Small or large",
+            "Prime",
+            "Even"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Numbers can be added and multiplied in any ____, but they cannot be subtracted and divided in any order.",
+        "choices": [
+            "order",
+            "sequence",
+            "list",
+            "table"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The product of any number and 0 is:",
+        "choices": [
+            "That number itself",
+            "1",
+            "0",
+            "10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The product of any number and 1 is:",
+        "choices": [
+            "0",
+            "1",
+            "That number itself",
+            "2"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In division, Dividend = Divisor x _____ + Remainder",
+        "choices": [
+            "divisor",
+            "remainder",
+            "quotient",
+            "dividend"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Any number divided by 1 will give the same number as the:",
+        "choices": [
+            "divisor",
+            "dividend",
+            "remainder",
+            "quotient"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Any number divided by itself will give _____ as the quotient.",
+        "choices": [
+            "0",
+            "1",
+            "The number itself",
+            "10"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If we divide 0 by any non-zero number, the quotient is always:",
+        "choices": [
+            "1",
+            "That number",
+            "0",
+            "Undefined"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A number cannot be divided by:",
+        "choices": [
+            "1",
+            "0",
+            "itself",
+            "2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Nidhi is reading a book that contains 9,465 pages. She has read 3,255 pages. About how many pages are unread?",
+        "choices": [
+            "6,210 pages",
+            "12,720 pages",
+            "10,000 pages",
+            "6,000 pages"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Amar collected 2,157 stamps and Karan collected 9,293 stamps. About how many stamps do they collect together?",
+        "choices": [
+            "7,136 stamps",
+            "11,450 stamps",
+            "11,000 stamps",
+            "7,000 stamps"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In a city, daily 27,120 newspapers are distributed equally amongst 320 newsagents. About how many newspapers does each newsagent get to distribute in various parts of the city?",
+        "choices": [
+            "85 newspapers",
+            "90 newspapers",
+            "84 newspapers",
+            "100 newspapers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A confectionery shop makes 18,426 pastries every month. About how many pastries will be made by the same in a year?",
+        "choices": [
+            "221,112 pastries",
+            "220,000 pastries",
+            "221,000 pastries",
+            "21,112 pastries"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Money saved in a year = 49880; Period of saving = 12. How much did Shobana save in a month?",
+        "choices": [
+            "5,000",
+            "50,000",
+            "60,000",
+            "10,000"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the estimated amount saved in a year(nearest 10000)?",
+        "choices": [
+            "49880",
+            "12",
+            "50000",
+            "5000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the example, what is the estimated number of leaves left on the tree?",
+        "choices": [
+            "18,000",
+            "19,000",
+            "20,000",
+            "21,000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, what is the actual number of leaves fallen?",
+        "choices": [
+            "1000",
+            "1293",
+            "18932",
+            "20000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, what is the actual number of leaves on the tree?",
+        "choices": [
+            "1000",
+            "1293",
+            "18932",
+            "20000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the estimated number of books on one shelf?",
+        "choices": [
+            "489",
+            "500",
+            "700",
+            "722"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the estimated number of shelves?",
+        "choices": [
+            "489",
+            "500",
+            "700",
+            "722"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the estimated total number of books?",
+        "choices": [
+            "35,000",
+            "3,500",
+            "350,000",
+            "3,500,000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the actual number of books on one shelf?",
+        "choices": [
+            "489",
+            "500",
+            "700",
+            "722"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the actual number of shelves?",
+        "choices": [
+            "489",
+            "500",
+            "700",
+            "722"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to example 20, the number of leaves on the tree is rounded to the nearest:",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to example 21, the number of books on one shelf is rounded to the nearest:",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to example 21, the number of shelves is rounded to the nearest:",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the 'Estimating Quotient' section about?",
+        "choices": [
+            "Estimating savings per month",
+            "Estimating total savings in a year",
+            "Estimating total salary in a year",
+            "Estimating total number of months in a year"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the 'Estimating Difference' example, what is the main operation for leaves left?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Estimating Product' example, what is the main operation for total books in the library?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 500x700?",
+        "choices": [
+            "35000",
+            "350000",
+            "3500000",
+            "35000000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "There were 62,910 participants from 45 countries in a youth sports meet. How many youths participated from each country (assume that there were equal number of participants from each country)?",
+        "choices": [
+            "1,398",
+            "1,400",
+            "1,397",
+            "1,399"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Neha won \u20b924,78,900 in a lottery. If she has to distribute this amount equally among 10 of her relatives, how much money would each relative get?",
+        "choices": [
+            "\u20b92,47,880",
+            "\u20b92,47,890",
+            "\u20b92,48,000",
+            "\u20b92,47,900"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "There are 99,89,001 number of apples packed in 999 cartons. How many apples are packed in each carton?",
+        "choices": [
+            "99,999",
+            "100,000",
+            "10,000",
+            "99,889"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The cost of a set of storybooks is \u20b9999. We may say that the cost of the set of storybooks is about:",
+        "choices": [
+            "\u20b9500",
+            "\u20b9900",
+            "\u20b91,000",
+            "\u20b91,100"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Aditya scored 1,489 points in a video game, which is approximately:",
+        "choices": [
+            "2,000",
+            "1,000",
+            "1,500",
+            "500"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rahul scored 2,822 points in a video game, which is approximately:",
+        "choices": [
+            "2,000",
+            "3,000",
+            "2,800",
+            "2,900"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quotient of 8,976 \u00f7 11?",
+        "choices": [
+            "815",
+            "816",
+            "798",
+            "817"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the remainder of 8,976 \u00f7 11?",
+        "choices": [
+            "8",
+            "9",
+            "10",
+            "7"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the quotient of 6,589 \u00f7 12?",
+        "choices": [
+            "549",
+            "548",
+            "550",
+            "551"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the remainder of 6,589 \u00f7 12?",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quotient of 5,268 \u00f7 17?",
+        "choices": [
+            "309",
+            "310",
+            "311",
+            "312"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the remainder of 5,268 \u00f7 17?",
+        "choices": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quotient of 9,575 \u00f7 15?",
+        "choices": [
+            "637",
+            "638",
+            "639",
+            "640"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the remainder of 9,575 \u00f7 15?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the quotient of 6,382 \u00f7 25?",
+        "choices": [
+            "255",
+            "256",
+            "257",
+            "258"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the remainder of 6,382 \u00f7 25?",
+        "choices": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quotient of 24,720 \u00f7 60?",
+        "choices": [
+            "412",
+            "413",
+            "414",
+            "415"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the remainder of 24,720 \u00f7 60?",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Lata earned \u20b91,15,230 from a summer job for 6 months. What was her monthly salary?",
+        "choices": [
+            "\u20b919,105",
+            "\u20b919,205",
+            "\u20b919,305",
+            "\u20b919,405"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If Lata had continued working there, what would have been her annual income?",
+        "choices": [
+            "\u20b92,20,460",
+            "\u20b92,30,460",
+            "\u20b92,40,460",
+            "\u20b92,50,460"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Amount she would have earned in 12 months",
+        "choices": [
+            "\u20b919,205 x 12 = \u20b92,30,460",
+            "\u20b919,205 x 11 = \u20b92,30,460",
+            "\u20b919,205 x 13 = \u20b92,30,460",
+            "\u20b919,205 x 14 = \u20b92,30,460"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the quotient when 335 is divided by 10?",
+        "choices": [
+            "3",
+            "33",
+            "5",
+            "335"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the remainder when 4,268 is divided by 100?",
+        "choices": [
+            "42",
+            "68",
+            "4,268",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quotient when 78,965 is divided by 1,000?",
+        "choices": [
+            "965",
+            "78,965",
+            "78",
+            "79"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the remainder when 8,32,456 is divided by 10,000?",
+        "choices": [
+            "83",
+            "8,32,456",
+            "2,456",
+            "10,000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Property 1 of Division, what is the result of dividing any number by 1?",
+        "choices": [
+            "1",
+            "0",
+            "The same number",
+            "Undefined"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Property 2 of Division, what is the quotient when a number is divided by itself?",
+        "choices": [
+            "0",
+            "1",
+            "The same number",
+            "Undefined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Property 3 of Division, what is the quotient when 0 is divided by any number except 0?",
+        "choices": [
+            "1",
+            "The same number",
+            "0",
+            "Undefined"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happens if we divide 4298 by 0?",
+        "choices": [
+            "The result is 0",
+            "The result is 4298",
+            "The result is 1",
+            "The result is undefined"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the quotient when 35,674 is divided by 1?",
+        "choices": [
+            "1",
+            "0",
+            "35,674",
+            "35"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the quotient when 35,674 is divided by 35,674?",
+        "choices": [
+            "35,674",
+            "1",
+            "0",
+            "Undefined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what should you count when dividing by 10 and its multiples?",
+        "choices": [
+            "The number of digits in the dividend",
+            "The number of zeroes in the divisor",
+            "The number of digits in the divisor",
+            "The number of zeroes in the dividend"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When dividing by 10 or its multiple, where do the digits that form the remainder originate from?",
+        "choices": [
+            "The extreme left of the dividend",
+            "The middle of the dividend",
+            "The extreme right of the dividend",
+            "The divisor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When dividing by 10 or its multiple, what forms the quotient of the division?",
+        "choices": [
+            "The digits on the extreme right of the dividend",
+            "The digits on the extreme left of the dividend",
+            "The digits in the divisor",
+            "The rest of the digits in the dividend after the remainder"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Is there an exception to the rule for dividing 0 by any number?",
+        "choices": [
+            "Yes, you can divide by any number",
+            "No, you cannot divide by any number",
+            "Yes, you cannot divide by 0",
+            "Yes, you can divide by 1"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "For Property 1, the quotient is the same as which number?",
+        "choices": [
+            "Dividend",
+            "Divisor",
+            "1",
+            "Remainder"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the answer to a division problem called?",
+        "choices": [
+            "Remainder",
+            "Divisor",
+            "Quotient",
+            "Dividend"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the number left over after division called?",
+        "choices": [
+            "Divisor",
+            "Quotient",
+            "Dividend",
+            "Remainder"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the formula to verify the result of a division?",
+        "choices": [
+            "Divisor + Quotient + Remainder = Dividend",
+            "Divisor x Quotient - Remainder = Dividend",
+            "Divisor x Quotient + Remainder = Dividend",
+            "Divisor / Quotient + Remainder = Dividend"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the given example (26,775 \u00f7 25), what is the quotient?",
+        "choices": [
+            "25",
+            "26775",
+            "0",
+            "1071"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the given example (26,775 \u00f7 25), what is the remainder?",
+        "choices": [
+            "1071",
+            "25",
+            "0",
+            "26775"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 1, after bringing down the next digit, what is the value?",
+        "choices": [
+            "2",
+            "6",
+            "26",
+            "25"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 1, is 2 < 25 (the divisor)?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Sometimes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In step 2, after bringing down the next digit, what is the value?",
+        "choices": [
+            "1",
+            "7",
+            "17",
+            "25"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 2, is 17 < 25?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Maybe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In step 2, after bringing down another digit, what is the value?",
+        "choices": [
+            "77",
+            "177",
+            "175",
+            "25"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In step 2, how many times does 25 go into 177?",
+        "choices": [
+            "Five times",
+            "Six times",
+            "Seven times",
+            "Eight times"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 3, after bringing down the next digit, what is the value?",
+        "choices": [
+            "1",
+            "5",
+            "25",
+            "0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 3, how many times does 25 go into 25?",
+        "choices": [
+            "One time",
+            "Two times",
+            "Three times",
+            "Zero times"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When checking the result, which formula do we use?",
+        "choices": [
+            "Divisor x Quotient + Remainder",
+            "Divisor / Quotient + Remainder",
+            "Divisor + Quotient + Remainder",
+            "Divisor - Quotient + Remainder"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the step 3, is 'write 1 at the ones place in the quotient'?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Maybe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Mary deposits \u20b92,500 every month in her account. How much money would she have deposited in 15 months?",
+        "choices": [
+            "\u20b935,000",
+            "\u20b937,500",
+            "\u20b938,000",
+            "\u20b936,500"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "New Creation School is preparing for its annual day function. They have planned to decorate the school building with 15,340 strings of lights and each string of light has 112 bulbs. How many bulbs will be there for decoration?",
+        "choices": [
+            "1,718,080",
+            "1,708,080",
+            "1,718,000",
+            "1,728,080"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The cost of a laptop is \u20b939,565. Find the total spending on laptops which are given to 212 employees of a company.",
+        "choices": [
+            "\u20b98,387,780",
+            "\u20b98,387,680",
+            "\u20b98,377,780",
+            "\u20b98,377,680"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "2,550 oranges were packed in one carton. How many oranges were packed in 275 such cartons?",
+        "choices": [
+            "701,250",
+            "700,250",
+            "701,350",
+            "700,350"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In division, the number being divided is called the?",
+        "choices": [
+            "Divisor",
+            "Quotient",
+            "Dividend",
+            "Remainder"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In division, the number by which we divide is called the?",
+        "choices": [
+            "Divisor",
+            "Quotient",
+            "Dividend",
+            "Remainder"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Division is the repeated _________ of a number.",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 23 and 100?",
+        "choices": [
+            "230",
+            "2300",
+            "23",
+            "2003"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 348 and 1,000?",
+        "choices": [
+            "348",
+            "34,800",
+            "3,480",
+            "348,000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the product of 1,987 and 10?",
+        "choices": [
+            "19,870",
+            "198.7",
+            "1,977",
+            "10,987"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 7,000 and 300?",
+        "choices": [
+            "210,000",
+            "2,100,000",
+            "21,000",
+            "7300"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 652 and 20?",
+        "choices": [
+            "13040",
+            "1304",
+            "130.4",
+            "130400"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 200 and 87?",
+        "choices": [
+            "287",
+            "20087",
+            "17400",
+            "20000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the product of 10,000 and 934?",
+        "choices": [
+            "934,000",
+            "93,400,000",
+            "9,340,000",
+            "9340"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the product of 704 and 500?",
+        "choices": [
+            "35,200",
+            "352,000",
+            "3520",
+            "7504"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Solve: 2,315 x 1",
+        "choices": [
+            "1",
+            "2315",
+            "0",
+            "2316"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Solve: 3,462 \u00d7 0",
+        "choices": [
+            "3,462",
+            "1",
+            "0",
+            "34620"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Solve: 966 x 38",
+        "choices": [
+            "36,708",
+            "36,709",
+            "36,707",
+            "36,706"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Solve: 1,518 x 19",
+        "choices": [
+            "28,842",
+            "28,841",
+            "28,843",
+            "28,844"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Solve: 294 x 16",
+        "choices": [
+            "4,704",
+            "4,705",
+            "4,703",
+            "4,702"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Solve: 482 x 27",
+        "choices": [
+            "13,014",
+            "13,015",
+            "13,016",
+            "13,017"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Solve: 8,726 \u00d7 109",
+        "choices": [
+            "951,133",
+            "951,134",
+            "951,135",
+            "951,136"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to property 1 of multiplication, what remains the same regardless of the order of the multiplicand and the multiplier?",
+        "choices": [
+            "The sum",
+            "The difference",
+            "The product",
+            "The quotient"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should be recorded in the upper half of the square if the product doesn't have a tens digit?",
+        "choices": [
+            "1",
+            "0",
+            "The digit itself",
+            "The tens digit"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which direction do you start adding the numbers in the grid?",
+        "choices": [
+            "Upper left corner",
+            "Upper right corner",
+            "Lower left corner",
+            "Lower right corner"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What needs to be added to the next diagonal?",
+        "choices": [
+            "The next number",
+            "Carry over",
+            "Previous number",
+            "The first number"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the grid, where the tens are written?",
+        "choices": [
+            "upper half of square",
+            "lower half of square",
+            "middle of the square",
+            "Outside of the square"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 2314 and 157 based on the information in the picture?",
+        "choices": [
+            "3,63,298",
+            "3,63,297",
+            "3,63,296",
+            "3,63,295"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do the rows and columns in the grid depicts?",
+        "choices": [
+            "multiplicand",
+            "multiplier",
+            "both",
+            "none"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where is the product written after multiply the numbers?",
+        "choices": [
+            "square",
+            "circle",
+            "outside of the grid",
+            "triangle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What type of lines you draw from each box in the grid?",
+        "choices": [
+            "horizontal",
+            "vertical",
+            "diagonal",
+            "random"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the other name of product in multiplication?",
+        "choices": [
+            "Sum",
+            "Result",
+            "Total",
+            "Answer"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following multiplication rule is true based on property 1?",
+        "choices": [
+            "a x b = b x a",
+            "a x b = a + b",
+            "a / b = b / a",
+            "a x 1 = a"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where do you find the answer?",
+        "choices": [
+            "bottom right",
+            "bottom left",
+            "top right",
+            "top left"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What operation the lines on the picture helps you to perform?",
+        "choices": [
+            "Subtraction",
+            "Addition",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many rows and columns are in the grid?",
+        "choices": [
+            "3 columns and 4 rows",
+            "4 columns and 3 rows",
+            "3 columns and 3 rows",
+            "4 columns and 4 rows"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The ones in the square are written on which half?",
+        "choices": [
+            "Upper Half",
+            "Middle",
+            "Lower Half",
+            "Outside of the square"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, when multiplying by 5, what is the first step?",
+        "choices": [
+            "Divide by 2",
+            "Multiply by 10",
+            "Multiply by 5",
+            "Multiply by 100"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is the second step when multiplying by 25?",
+        "choices": [
+            "Divide by 2",
+            "Multiply by 25",
+            "Divide by 4",
+            "Multiply by 100"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, when multiplying by 50, what is the first step?",
+        "choices": [
+            "Multiply by 2",
+            "Divide by 2",
+            "Multiply by 10",
+            "Multiply by 100"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is Lattice multiplication?",
+        "choices": [
+            "A method of dividing two large numbers using a grid",
+            "A method of multiplying two large numbers using a grid",
+            "A method of multiplying two small numbers without using a grid",
+            "A method of dividing two small numbers using a grid"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In example 11, what is the first step when both the multiplicand and multiplier have zeros?",
+        "choices": [
+            "Count the number of zeroes in the multiplicand",
+            "Multiply the non-zero parts of the multiplicand and the multiplier",
+            "Add the zeros of the multiplicand and the multiplier",
+            "Multiply the zeroes with the non-zero parts"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In example 11, what is 152 x 6 ?",
+        "choices": [
+            "902",
+            "912",
+            "812",
+            "922"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In example 11, what is the product of  1,520 \u00d7 6,000 ?",
+        "choices": [
+            "91,10,000",
+            "91,20,000",
+            "91,30,000",
+            "91,40,000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, what is 9,536 x 25 equal to?",
+        "choices": [
+            "(9,536 \u00d7 10) \u00f7 2",
+            "(9,536 \u00d7 100) \u00f7 4",
+            "(9,536 \u00d7 100) \u00f7 2",
+            "(9,536 \u00d7 10) \u00f7 4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, what is 9,999 \u00d7 50 equal to?",
+        "choices": [
+            "(9,999 \u00d7 10) \u00f7 2",
+            "(9,999 \u00d7 100) \u00f7 2",
+            "(9,999 \u00d7 100) \u00f7 4",
+            "(9,999 \u00d7 10) \u00f7 4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, what is 9,53,600 \u00f7 4 equal to?",
+        "choices": [
+            "2,38,400",
+            "2,38,500",
+            "2,38,600",
+            "2,38,700"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the example, what is 9,99,900 \u00f7 2 equal to?",
+        "choices": [
+            "4,99,950",
+            "4,99,960",
+            "4,99,970",
+            "4,99,980"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what is Lattice multiplication?",
+        "choices": [
+            "A method of dividing two large numbers using a grid.",
+            "A method of multiplying two large numbers using a grid.",
+            "A method of dividing two small numbers using a grid.",
+            "A method of multiplying two small numbers using a grid."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In example 12, how many digits are there in 2,314?",
+        "choices": [
+            "2 digits",
+            "3 digits",
+            "4 digits",
+            "5 digits"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In example 12, how many digits are there in 157?",
+        "choices": [
+            "2 digits",
+            "3 digits",
+            "4 digits",
+            "5 digits"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is the second step when both the multiplicand and the multiplier have zeros?",
+        "choices": [
+            "Count the zero(s) of the multiplicand and the multiplier and multiply them.",
+            "Count the non-zero(s) of the multiplicand and the multiplier and multiply them.",
+            "Count the zero(s) of the multiplicand and the multiplier and put the same number of zeroes to the extreme right of the product.",
+            "Count the non-zero(s) of the multiplicand and the multiplier and put the same number of non-zeroes to the extreme right of the product."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the example given, what is the result of 5283 multiplied by 2?",
+        "choices": [
+            "1056",
+            "10566",
+            "10560",
+            "10506"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example given, what is the result of 5283 multiplied by 10?",
+        "choices": [
+            "52830",
+            "5283",
+            "52803",
+            "52380"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the example given, what is the result of 5283 multiplied by 600?",
+        "choices": [
+            "31698",
+            "316980",
+            "3169800",
+            "3168900"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the example given, what is the result of 5283 multiplied by 3000?",
+        "choices": [
+            "1584900",
+            "15849000",
+            "158490000",
+            "158490"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 1,753 x 10?",
+        "choices": [
+            "1753",
+            "17530",
+            "175300",
+            "175.3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 572 x 100?",
+        "choices": [
+            "572",
+            "5720",
+            "57200",
+            "57.200"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step in multiplying 637 x 30?",
+        "choices": [
+            "Multiply 637 by 3",
+            "Add a zero to 637",
+            "Multiply 637 by 30",
+            "Multiply 637 by 0"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 637 x 3?",
+        "choices": [
+            "1811",
+            "1911",
+            "1901",
+            "1801"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 5,308 x 4?",
+        "choices": [
+            "21,322",
+            "21,232",
+            "21,223",
+            "21,332"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 637 x 30?",
+        "choices": [
+            "19,110",
+            "19,11",
+            "19,1100",
+            "1911"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 5,308 x 4,000?",
+        "choices": [
+            "2,12,32,000",
+            "2,12,3200",
+            "2,12,320",
+            "2,12,32,00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When multiplying a number by 10, 100, or 1000, what should you do?",
+        "choices": [
+            "Add as many zeroes to the product as there are in the multiplier.",
+            "Multiply the number by 1, 10, or 100",
+            "Subtract the product by 10, 100, or 1000.",
+            "Divide the number by 10, 100, or 1000"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When multiplying a number by multiples of 10 (like 30, 400, 5000), what is the first step?",
+        "choices": [
+            "Count the zeroes in the multiplier.",
+            "Multiply with the non-zero part first.",
+            "Put zeroes to the right side of the number",
+            "Subtract zeroes from the product."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the final product of 5283 x 3612?",
+        "choices": [
+            "1,90,82,190",
+            "1,90,82,196",
+            "1,90,82,198",
+            "1,90,82,194"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which step is not a decomposition of horizontal algorithm?",
+        "choices": [
+            "5283 \u00d7 3000",
+            "5283 \u00d7 600",
+            "5283 \u00d7 1",
+            "5283 \u00d7 10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the decomposition algorithm shown, what is the first step in multiplying 134259 by 23?",
+        "choices": [
+            "134259 \u00d7 23",
+            "(134259 \u00d7 20) + (134259 \u00d7 3)",
+            "134259 \u00d7 20",
+            "134259 \u00d7 3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the decomposition method, which times table is involved in the second multiplication when multiplying by 23?",
+        "choices": [
+            "2 times table",
+            "3 times table",
+            "5 times table",
+            "10 times table"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 134259 multiplied by 20, according to the example?",
+        "choices": [
+            "4,02,777",
+            "26,85,180",
+            "30,87,957",
+            "30,00,000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the product of 134259 multiplied by 3, according to the example?",
+        "choices": [
+            "26,85,180",
+            "30,87,957",
+            "4,02,777",
+            "4,00,000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the example, what operation is performed after calculating 134259 x 20 and 134259 x 3?",
+        "choices": [
+            "Multiplication",
+            "Subtraction",
+            "Addition",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the final product of 134259 multiplied by 23 according to the example?",
+        "choices": [
+            "26,85,180",
+            "4,02,777",
+            "30,87,957",
+            "30,00,000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the example multiplying 31,268 by 204, how many hundreds are in 204?",
+        "choices": [
+            "0",
+            "2",
+            "4",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example multiplying 31,268 by 204, how many tens are in 204?",
+        "choices": [
+            "0",
+            "2",
+            "4",
+            "20"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the example multiplying 31,268 by 214, how many hundreds are in 214?",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the example multiplying 31,268 by 214, how many tens are in 214?",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 31268 multiplied by 204, according to the example?",
+        "choices": [
+            "66,91,352",
+            "63,78,672",
+            "125072",
+            "000000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 31268 multiplied by 214, according to the example?",
+        "choices": [
+            "63,78,672",
+            "66,91,352",
+            "125072",
+            "312680"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to 'Grasp It', what number is believed to be a magic number?",
+        "choices": [
+            "0",
+            "1",
+            "4",
+            "9"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to 'Grasp It', what is the sum of digits of the result of 16 x 9?",
+        "choices": [
+            "9",
+            "16",
+            "144",
+            "153"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to 'Grasp It', if we multiply a number with 9, what is the sum of the digits of the result?",
+        "choices": [
+            "Divisible by 3",
+            "Divisible by 5",
+            "Divisible by 9",
+            "Divisible by 10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which direction is multiplication done?",
+        "choices": [
+            "From left to right",
+            "From right to left",
+            "Top to bottom",
+            "Bottom to top"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the multiplier has more than one digit, how is the multiplicand multiplied?",
+        "choices": [
+            "By all digits at once",
+            "By each digit separately",
+            "Only by the largest digit",
+            "Only by the smallest digit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where do you start multiplying when the multiplier has more than one digit?",
+        "choices": [
+            "At the largest place",
+            "At the middle digit",
+            "At the smallest place",
+            "It doesn't matter"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do you do if there is a carry-over in multiplication?",
+        "choices": [
+            "Ignore it",
+            "Subtract it",
+            "Add it to the product of the next column",
+            "Multiply it by the next digit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the multiplicand and the multiplier also known as?",
+        "choices": [
+            "Terms",
+            "Sums",
+            "Factors of the product",
+            "Variables"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the example of multiplying 1,34,259 by 23, what is step 1?",
+        "choices": [
+            "134259 \u00d7 3 = 402777",
+            "134259 \u00d7 20 = 2685180",
+            "402777 + 2685180 = 3087957",
+            "23 = 2 tens + 3 ones = 20 + 3"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the example of multiplying 1,34,259 by 23, what is step 2?",
+        "choices": [
+            "134259 \u00d7 3 = 402777",
+            "134259 \u00d7 20 = 2685180",
+            "402777 + 2685180 = 3087957",
+            "23 = 2 tens + 3 ones = 20 + 3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the example of multiplying 1,34,259 by 23, what is step 3?",
+        "choices": [
+            "134259 \u00d7 3 = 402777",
+            "134259 \u00d7 20 = 2685180",
+            "402777 + 2685180 = 3087957",
+            "23 = 2 tens + 3 ones = 20 + 3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example of multiplying 1,34,259 by 23, what is step 4?",
+        "choices": [
+            "134259 \u00d7 3 = 402777",
+            "134259 \u00d7 20 = 2685180",
+            "402777 + 2685180 = 3087957",
+            "23 = 2 tens + 3 ones = 20 + 3"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the answer in the example of multiplying 1,34,259 by 23?",
+        "choices": [
+            "402777",
+            "2685180",
+            "3087957",
+            "30,87,957"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the product of 2,50,761 by 3?",
+        "choices": [
+            "2,50,761",
+            "3",
+            "7,52,283",
+            "1"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the multiplicand in the 1-Digit Multiplier Example?",
+        "choices": [
+            "3",
+            "2,50,761",
+            "7,52,283",
+            "1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the multiplier in the 1-Digit Multiplier Example?",
+        "choices": [
+            "3",
+            "2,50,761",
+            "7,52,283",
+            "1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the multiplicand in the 2-Digit Multiplier Example?",
+        "choices": [
+            "23",
+            "1,34,259",
+            "30,87,957",
+            "1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the multiplier in the 2-Digit Multiplier Example?",
+        "choices": [
+            "23",
+            "1,34,259",
+            "30,87,957",
+            "1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Samika has spent 2,59,200 seconds on her project. If she was given 3,60,000 seconds to prepare it, how much more time does she have?",
+        "choices": [
+            "1,00,800 seconds",
+            "1,10,800 seconds",
+            "1,00,000 seconds",
+            "1,00,700 seconds"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A dam discharged 1,42,39,053 gallons of water in May. It discharged 80,46,190 gallons in June. How much water is discharged to the canal in these 2 months?",
+        "choices": [
+            "2,22,85,243 gallons",
+            "2,22,85,000 gallons",
+            "2,22,85,200 gallons",
+            "2,22,85,240 gallons"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A reputed airline requires a pilot to have 4,00,000 hours of flying experience before promotion. If Vinayak has completed 3,46,928 hours, how many more hours of experience does he need to qualify for the promotion?",
+        "choices": [
+            "53,072 hours",
+            "53,000 hours",
+            "53,070 hours",
+            "52,072 hours"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Candidates A, B and C had contested in an election. The total number of votes was 75,95,394. Find the votes polled for candidate C if A and B got 23,95,710 and 3,21,001 votes, respectively.",
+        "choices": [
+            "48,78,683",
+            "48,76,563",
+            "48,78,783",
+            "48,68,683"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who won the election?",
+        "choices": [
+            "Candidate A",
+            "Candidate B",
+            "Candidate C",
+            "It is a tie"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Universal Public School has two libraries. The number of books in the junior library is 48,473 and the number of books in the senior library is 73,602. What is the total number of books in both the libraries?",
+        "choices": [
+            "122,075",
+            "122,076",
+            "122,074",
+            "122,000"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many more books does the senior library have than the junior library?",
+        "choices": [
+            "25,129",
+            "25,120",
+            "25,000",
+            "25,128"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Multiplication refers to...",
+        "choices": [
+            "Repeated addition",
+            "Repeated subtraction",
+            "Repeated division",
+            "Repeated multiplication"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the example given, which number is the Multiplicand?",
+        "choices": [
+            "69",
+            "2315",
+            "159735",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example given, which number is the Multiplier?",
+        "choices": [
+            "69",
+            "2315",
+            "159735",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the example given, which number is the Product?",
+        "choices": [
+            "69",
+            "2315",
+            "159735",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In multiplication, the number that is added to itself multiple times is called...",
+        "choices": [
+            "Product",
+            "Multiplier",
+            "Multiplicand",
+            "Quotient"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In multiplication, the number of times the multiplicand is added is called...",
+        "choices": [
+            "Product",
+            "Multiplier",
+            "Multiplicand",
+            "Quotient"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In multiplication, the result is called...",
+        "choices": [
+            "Product",
+            "Multiplier",
+            "Multiplicand",
+            "Quotient"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which step is mentioned as the first step in multiplication?",
+        "choices": [
+            "Add the numbers",
+            "Write the numbers in place value chart",
+            "Multiply the numbers",
+            "Subtract the numbers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which words usually suggests Addition?",
+        "choices": [
+            "Subtract, Difference",
+            "Total, Sum",
+            "Left, Remaining",
+            "Balance"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which words usually suggests Subtraction?",
+        "choices": [
+            "Total, Sum",
+            "Together, Combined",
+            "Difference, Left",
+            "Overall"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A computer manufacturing company earned \u20b910,17,609 by selling computers in the first 6 months of the year?",
+        "choices": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A computer manufacturing company earned \u20b94,33,000 in?",
+        "choices": [
+            "January and February",
+            "March and April",
+            "May and June",
+            "July and August"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A computer manufacturing company earned \u20b93,20,656 in?",
+        "choices": [
+            "January and February",
+            "March and April",
+            "May and June",
+            "July and August"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A computer manufacturing company earned \u20b92,63,953 in?",
+        "choices": [
+            "January and February",
+            "March and April",
+            "May and June",
+            "July and August"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Sumita earns \u20b958,723 more than her brother Saurabh per year, If Sumita earns \u20b95,45,920 per year, what is Saurabh's salary?",
+        "choices": [
+            "\u20b94,87,197",
+            "\u20b95,00,000",
+            "\u20b94,00,000",
+            "\u20b96,00,000"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 96,78,913 \u2013 10,00,000?",
+        "choices": [
+            "86,78,913",
+            "95,78,913",
+            "97,78,913",
+            "87,78,913"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 46,80,023 \u2013 29,70,114?",
+        "choices": [
+            "17,09,909",
+            "17,09,919",
+            "16,09,909",
+            "16,09,919"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 75,00,641 - 74,25,732?",
+        "choices": [
+            "74,909",
+            "74,919",
+            "75,909",
+            "75,919"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 8,70,32,854 \u2013 3,81,51,117?",
+        "choices": [
+            "4,88,81,737",
+            "5,88,81,737",
+            "4,78,81,737",
+            "5,78,81,737"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 81,10,549 \u2013 80,55,672?",
+        "choices": [
+            "54,877",
+            "55,877",
+            "54,977",
+            "55,977"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the result of 63,10,400 \u2013 54,19,931?",
+        "choices": [
+            "8,90,469",
+            "8,91,469",
+            "9,00,469",
+            "9,90,469"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 90,00,000 and 62,53,102?",
+        "choices": [
+            "27,46,898",
+            "37,46,898",
+            "28,46,898",
+            "38,46,898"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 5,70,89,489 and 98,21,546?",
+        "choices": [
+            "4,72,67,943",
+            "4,73,67,943",
+            "4,62,67,943",
+            "4,82,67,943"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 80,02,41,623 and 72,46,81,974?",
+        "choices": [
+            "7,55,59,649",
+            "8,55,59,649",
+            "7,65,59,649",
+            "8,65,59,649"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 41,02,35,462 and 3,89,56,748?",
+        "choices": [
+            "37,12,78,714",
+            "38,12,78,714",
+            "37,22,78,714",
+            "38,22,78,714"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "By how much is 74,39,770 greater than 59,25,017?",
+        "choices": [
+            "15,14,753",
+            "25,14,753",
+            "14,14,753",
+            "24,14,753"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should be added to 4,95,321 to get 43,09,223?",
+        "choices": [
+            "38,13,902",
+            "37,13,902",
+            "38,23,902",
+            "37,23,902"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "By how much is the difference between 8,14,52,988 and 3,21,53,209 less than 6 crore?",
+        "choices": [
+            "2,72,99,779",
+            "2,72,98,779",
+            "2,73,99,779",
+            "2,73,98,779"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which property of subtraction is demonstrated by the example: 1,765 - 1,212 \u2260 1,212 \u2013 1,765?",
+        "choices": [
+            "Subtraction is commutative",
+            "We cannot change the order of numbers in subtraction",
+            "When 0 is subtracted from a number",
+            "When a number is subtracted from itself"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which property of subtraction is demonstrated by the example: 32,50,628 - 0 = 32,50,628?",
+        "choices": [
+            "Subtraction is commutative",
+            "We cannot change the order of numbers in subtraction",
+            "When 0 is subtracted from a number",
+            "When a number is subtracted from itself"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which property of subtraction is demonstrated by the example: 54,21,840 - 54,21,840 = 0?",
+        "choices": [
+            "Subtraction is commutative",
+            "We cannot change the order of numbers in subtraction",
+            "When 0 is subtracted from a number",
+            "When a number is subtracted from itself"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the first property of subtraction, can we change the order of the numbers?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "It depends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the difference when you subtract 0 from a number?",
+        "choices": [
+            "0",
+            "The number itself",
+            "1",
+            "Negative the number"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the difference when a number is subtracted from itself?",
+        "choices": [
+            "The number itself",
+            "0",
+            "1",
+            "2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are the place values?",
+        "choices": [
+            "TL L TTh Th H T O",
+            "T L TTh Th H TO",
+            "TL L TTH TH H TO",
+            "TL L TTH TH H T O"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the number to be subtracted called in subtraction?",
+        "choices": [
+            "Minuend",
+            "Subtrahend",
+            "Difference",
+            "Borrow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the number from which another number is subtracted called?",
+        "choices": [
+            "Subtrahend",
+            "Difference",
+            "Minuend",
+            "Borrow"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the result obtained in a subtraction called?",
+        "choices": [
+            "Minuend",
+            "Subtrahend",
+            "Difference",
+            "Remainder"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, how can you check the correctness of a subtraction answer?",
+        "choices": [
+            "Multiply the difference by the subtrahend.",
+            "Divide the minuend by the subtrahend.",
+            "Add the difference to the subtrahend and see if it equals the minuend.",
+            "Subtract the difference from the minuend."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the minuend of Example 3?",
+        "choices": [
+            "94,13,205",
+            "1,78,40,926",
+            "84,27,721",
+            "1,78,40,927"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the subtrahend of Example 3?",
+        "choices": [
+            "1,78,40,926",
+            "84,27,721",
+            "94,13,205",
+            "95,13,205"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the difference of Example 3?",
+        "choices": [
+            "1,78,40,926",
+            "84,27,721",
+            "94,13,205",
+            "94,13,206"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the minuend of Example 4?",
+        "choices": [
+            "6,23,42,750",
+            "14,16,300",
+            "6,09,26,450",
+            "7,23,42,750"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the subtrahend of Example 4?",
+        "choices": [
+            "14,16,300",
+            "6,23,42,750",
+            "6,09,26,450",
+            "14,17,300"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference of Example 4?",
+        "choices": [
+            "14,16,300",
+            "6,23,42,750",
+            "6,09,26,450",
+            "6,09,25,450"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When checking subtraction by addition, what should be the result of adding the difference to the subtrahend?",
+        "choices": [
+            "The difference",
+            "The subtrahend",
+            "The minuend",
+            "Zero"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If adding the difference to the subtrahend does NOT result in the minuend, what should you do?",
+        "choices": [
+            "Accept the answer as correct",
+            "Do the subtraction again",
+            "Try adding the minuend to the subtrahend",
+            "Multiply the difference and subtrahend"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the first example what is 1,78,40,926?",
+        "choices": [
+            "Subtrahend",
+            "Minuend",
+            "Difference",
+            "Borrow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the first example what is 94,13,205?",
+        "choices": [
+            "Subtrahend",
+            "Minuend",
+            "Difference",
+            "Borrow"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the first example what is 84,27,721?",
+        "choices": [
+            "Subtrahend",
+            "Minuend",
+            "Difference",
+            "Borrow"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a step in subtracting large numbers?",
+        "choices": [
+            "Write the numbers in a row",
+            "Write the numbers in the place value chart one below the other, with the greater number above the smaller number.",
+            "Subtract the digits from left to right",
+            "Multiply the numbers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which direction do we perform subtraction?",
+        "choices": [
+            "Left to right",
+            "Top to bottom",
+            "Column-wise from right to left",
+            "It does not matter"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you do if the digit of minuend is less than the digit of subtrahend?",
+        "choices": [
+            "Exchange the numbers",
+            "Regroup (borrow)",
+            "Skip the digit",
+            "Add a zero"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In question 2(a), What is the number of addends to be added?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 2(c), What is the number of addends to be added?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 2(b), What is the number of addends to be added?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 2(d), What is the number of addends to be added?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the numbers to be added called in an addition?",
+        "choices": [
+            "Subtrahends",
+            "Addends",
+            "Multiplicands",
+            "Dividends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the result obtained in an addition called?",
+        "choices": [
+            "Difference",
+            "Product",
+            "Sum",
+            "Quotient"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happens to the sum if the grouping is changed when adding more than two numbers?",
+        "choices": [
+            "The sum changes",
+            "The sum remains the same",
+            "The sum becomes zero",
+            "The sum is doubled"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happens to the sum if we add zero to a number?",
+        "choices": [
+            "The sum becomes zero",
+            "The sum becomes double the number",
+            "The sum becomes the number itself",
+            "The sum becomes one"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Property 1 of Addition, what happens if you change the order of addends?",
+        "choices": [
+            "The sum changes",
+            "The sum does not change",
+            "The sum becomes zero",
+            "The sum is doubled"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, is the addition method different if adding small or large numbers?",
+        "choices": [
+            "Yes, there's a different method for large numbers.",
+            "Yes, there's a different method for small numbers.",
+            "No, the method remains the same.",
+            "It depends on the numbers."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step in adding large numbers, according to the text?",
+        "choices": [
+            "Regroup when the sum exceeds 9.",
+            "Add column-wise from right to left.",
+            "Write the numbers in the place value chart one below the other.",
+            "Ensure that digits at the same place are in the same row."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what is the second step in adding large numbers?",
+        "choices": [
+            "Regroup when the sum exceeds 9.",
+            "Add column-wise from right to left.",
+            "Write the numbers in the place value chart one below the other.",
+            "Ensure that digits at the same place are in the same row."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is the third step in adding large numbers?",
+        "choices": [
+            "Regroup (carry over) whenever the sum in a column exceeds 9.",
+            "Add column-wise from right to left.",
+            "Write the numbers in the place value chart one below the other.",
+            "Ensure that digits at the same place are in the same row."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In which direction does addition proceed according to the text?",
+        "choices": [
+            "Left to Right",
+            "Right to Left",
+            "Top to Bottom",
+            "Bottom to Top"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which place value should you start adding from?",
+        "choices": [
+            "Thousands place",
+            "Hundreds place",
+            "Ones place",
+            "Tens place"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is another name for 'carry over'?",
+        "choices": [
+            "Regroup",
+            "Column-wise",
+            "Addend",
+            "Sum"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What happens if the sum in a column exceeds 9?",
+        "choices": [
+            "You regroup (carry over)",
+            "You write the number as is",
+            "You subtract 9 from the sum",
+            "You write only the ones digit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the numbers being added called?",
+        "choices": [
+            "Sums",
+            "Addends",
+            "Totals",
+            "Carries"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which mathematical operations will we learn about in this chapter?",
+        "choices": [
+            "Addition and Subtraction",
+            "Multiplication and Division",
+            "All of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the Learning Objectives includes?",
+        "choices": [
+            "Add, subtract, multiply and divide large numbers",
+            "Estimate sum, difference, product and quotient of numbers",
+            "Apply mathematical operations in real life",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is Raghav doing in the cricket match?",
+        "choices": [
+            "Bowling",
+            "Batting",
+            "Fielding",
+            "Wicket-keeping"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many runs has Raghav already scored in the ongoing cricket match?",
+        "choices": [
+            "47 runs",
+            "188 runs",
+            "15,000 runs",
+            "235 runs"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If Raghav scores 47 more runs in the current match, what will his total runs?",
+        "choices": [
+            "15,000",
+            "235",
+            "188",
+            "47"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If Raghav makes another 47 runs in the current match. What will be the total?",
+        "choices": [
+            "15,047 runs",
+            "15,000 runs",
+            "47 runs",
+            "188 runs"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the aim of the Learning Objectives?",
+        "choices": [
+            "To understand the basic concepts of math",
+            "To learn about the capitals of different states",
+            "To learn to estimate, verify and understand the use of different mathematical strategies",
+            "To play chess"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are Raghav's friends doing?",
+        "choices": [
+            "Playing Cricket",
+            "Cheering for him and holding banners",
+            "Solving Math problems",
+            "Eating snacks"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which chapter we have learnt about large numbers?",
+        "choices": [
+            "In previous chapter",
+            "In this chapter",
+            "In next chapter",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many runs did Raghav score before coming to play the match?",
+        "choices": [
+            "188",
+            "47",
+            "0",
+            "15,000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many runs is required to complete 15,000 runs in test matches?",
+        "choices": [
+            "188",
+            "47",
+            "15,000",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the chapter about?",
+        "choices": [
+            "Additions",
+            "Multiplication",
+            "Subtractions",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which type of algorithms we will be using?",
+        "choices": [
+            "Standard algorithms",
+            "Simple algorithms",
+            "Complex algorithms",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should you do after answering the questions?",
+        "choices": [
+            "Write a story",
+            "Show support to Raghav",
+            "Dance",
+            "Sleep"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of match is Raghav playing?",
+        "choices": [
+            "One day match",
+            "Test match",
+            "T20 match",
+            "Friendly match"
+        ],
+        "correctAnswer": 1
+    }
+]
