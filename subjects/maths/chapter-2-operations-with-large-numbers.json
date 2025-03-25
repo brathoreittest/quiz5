@@ -781,16 +781,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "According to the text, what should you count when dividing by 10 and its multiples?",
-        "choices": [
-            "The number of digits in the dividend",
-            "The number of zeroes in the divisor",
-            "The number of digits in the divisor",
-            "The number of zeroes in the dividend"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "When dividing by 10 or its multiple, where do the digits that form the remainder originate from?",
         "choices": [
             "The extreme left of the dividend",
@@ -1251,16 +1241,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "What is the product of 2314 and 157 based on the information in the picture?",
-        "choices": [
-            "3,63,298",
-            "3,63,297",
-            "3,63,296",
-            "3,63,295"
-        ],
-        "correctAnswer": 0
-    },
-    {
         "question": "What do the rows and columns in the grid depicts?",
         "choices": [
             "multiplicand",
@@ -1321,16 +1301,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "What operation the lines on the picture helps you to perform?",
-        "choices": [
-            "Subtraction",
-            "Addition",
-            "Multiplication",
-            "Division"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "How many rows and columns are in the grid?",
         "choices": [
             "3 columns and 4 rows",
@@ -1349,36 +1319,6 @@
             "Outside of the square"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "According to the text, when multiplying by 5, what is the first step?",
-        "choices": [
-            "Divide by 2",
-            "Multiply by 10",
-            "Multiply by 5",
-            "Multiply by 100"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the text, what is the second step when multiplying by 25?",
-        "choices": [
-            "Divide by 2",
-            "Multiply by 25",
-            "Divide by 4",
-            "Multiply by 100"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "According to the text, when multiplying by 50, what is the first step?",
-        "choices": [
-            "Multiply by 2",
-            "Divide by 2",
-            "Multiply by 10",
-            "Multiply by 100"
-        ],
-        "correctAnswer": 3
     },
     {
         "question": "What is Lattice multiplication?",
@@ -1461,16 +1401,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "According to the text, what is Lattice multiplication?",
-        "choices": [
-            "A method of dividing two large numbers using a grid.",
-            "A method of multiplying two large numbers using a grid.",
-            "A method of dividing two small numbers using a grid.",
-            "A method of multiplying two small numbers using a grid."
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "In example 12, how many digits are there in 2,314?",
         "choices": [
             "2 digits",
@@ -1489,16 +1419,6 @@
             "5 digits"
         ],
         "correctAnswer": 1
-    },
-    {
-        "question": "According to the text, what is the second step when both the multiplicand and the multiplier have zeros?",
-        "choices": [
-            "Count the zero(s) of the multiplicand and the multiplier and multiply them.",
-            "Count the non-zero(s) of the multiplicand and the multiplier and multiply them.",
-            "Count the zero(s) of the multiplicand and the multiplier and put the same number of zeroes to the extreme right of the product.",
-            "Count the non-zero(s) of the multiplicand and the multiplier and put the same number of non-zeroes to the extreme right of the product."
-        ],
-        "correctAnswer": 2
     },
     {
         "question": "In the example given, what is the result of 5283 multiplied by 2?",
@@ -2401,16 +2321,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "According to the text, how can you check the correctness of a subtraction answer?",
-        "choices": [
-            "Multiply the difference by the subtrahend.",
-            "Divide the minuend by the subtrahend.",
-            "Add the difference to the subtrahend and see if it equals the minuend.",
-            "Subtract the difference from the minuend."
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "What is the minuend of Example 3?",
         "choices": [
             "94,13,205",
@@ -2637,56 +2547,6 @@
             "The sum does not change",
             "The sum becomes zero",
             "The sum is doubled"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the text, is the addition method different if adding small or large numbers?",
-        "choices": [
-            "Yes, there's a different method for large numbers.",
-            "Yes, there's a different method for small numbers.",
-            "No, the method remains the same.",
-            "It depends on the numbers."
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the first step in adding large numbers, according to the text?",
-        "choices": [
-            "Regroup when the sum exceeds 9.",
-            "Add column-wise from right to left.",
-            "Write the numbers in the place value chart one below the other.",
-            "Ensure that digits at the same place are in the same row."
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "According to the text, what is the second step in adding large numbers?",
-        "choices": [
-            "Regroup when the sum exceeds 9.",
-            "Add column-wise from right to left.",
-            "Write the numbers in the place value chart one below the other.",
-            "Ensure that digits at the same place are in the same row."
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the text, what is the third step in adding large numbers?",
-        "choices": [
-            "Regroup (carry over) whenever the sum in a column exceeds 9.",
-            "Add column-wise from right to left.",
-            "Write the numbers in the place value chart one below the other.",
-            "Ensure that digits at the same place are in the same row."
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In which direction does addition proceed according to the text?",
-        "choices": [
-            "Left to Right",
-            "Right to Left",
-            "Top to Bottom",
-            "Bottom to Top"
         ],
         "correctAnswer": 1
     },

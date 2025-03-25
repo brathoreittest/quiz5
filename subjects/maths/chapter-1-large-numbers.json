@@ -50,16 +50,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "Al-Khwarizmi and Al-Kindi were from where?",
-      "choices": [
-          "Indian",
-          "Italian",
-          "Arabic",
-          "Islamic"
-      ],
-      "correctAnswer": 3
-  },
-  {
       "question": "Who popularized the Indian numeral system in Europe?",
       "choices": [
           "Al-Khwarizmi",
@@ -420,16 +410,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "What is the aim of the math lab activity?",
-      "choices": [
-          "To learn addition",
-          "To understand the concept of building numbers",
-          "To learn subtraction",
-          "To practice multiplication"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "If the digits picked by students are 9, 4, 0, 5, 3, 7 and 1, form an even number?",
       "choices": [
           "9405371",
@@ -516,26 +496,6 @@
           "Regrouping the common symbols",
           "Substituting symbols",
           "Adding the numerals"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "Which art/social studies topic is being discussed in the first half of the text?",
-      "choices": [
-          "Indian Geography",
-          "Regional New Year",
-          "Indian Art",
-          "Social Celebrations"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "According to the text, in which month do many states in India celebrate their New Year?",
-      "choices": [
-          "January",
-          "March",
-          "April",
-          "December"
       ],
       "correctAnswer": 2
   },
@@ -1200,16 +1160,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "According to the text, what is the first step in the shortcut method of rounding off?",
-      "choices": [
-          "Compare the highlighted digit with 5.",
-          "Replace all digits with zeros.",
-          "Identify the place to be rounded off and underline the digit at this place.",
-          "Highlight the digit to the immediate right of the underlined digit."
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "What should you do if the digit to the right of the underlined digit is less than 5?",
       "choices": [
           "Round the number up and increase the underlined digit by 1.",
@@ -1226,16 +1176,6 @@
           "Leave the underlined digit as is and replace all numbers to the right of it with zeros.",
           "Round the number up and increase the underlined digit by 1, replacing all numbers to the right of it with zeros.",
           "Do nothing."
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "According to the text, what should NOT be rounded off?",
-      "choices": [
-          "Weight",
-          "Length",
-          "Date and time",
-          "Temperature"
       ],
       "correctAnswer": 2
   },
@@ -1820,16 +1760,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "According to the text, the places from ones till __________ are the same in both the Indian and International systems.",
-      "choices": [
-          "thousands",
-          "ten thousands",
-          "hundred thousands",
-          "millions"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "What is the number 45,276,981 written as in the Indian system?",
       "choices": [
           "Forty-five million two hundred seventy-six thousand nine hundred eighty-one",
@@ -2400,16 +2330,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "According to the text, which number is greater: 7,06,24,538 or 21,63,740?",
-      "choices": [
-          "7,06,24,538",
-          "21,63,740",
-          "They are equal",
-          "Cannot be determined"
-      ],
-      "correctAnswer": 0
-  },
-  {
       "question": "How do you construct the greatest number with a given set of digits?",
       "choices": [
           "Arrange digits in ascending order.",
@@ -2476,16 +2396,6 @@
           "Hundred thousand's place",
           "Million's Place",
           "Billion's Place"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "According to the text, is 60,14,53,879 greater than 60,14,60,752?",
-      "choices": [
-          "Yes",
-          "No",
-          "They are the same",
-          "Cannot be determined"
       ],
       "correctAnswer": 1
   },
@@ -3350,26 +3260,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "How is the number 315576000 written with commas according to the image?",
-      "choices": [
-          "315,576,000",
-          "3,155,760,00",
-          "31,55,76,000",
-          "31,557,6000"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "According to the image, how is the number 315576000 read?",
-      "choices": [
-          "Thirty-one crore fifty-five lakh seventy-six thousand",
-          "Three hundred fifteen million five hundred seventy-six thousand",
-          "Thirty-one million fifty-five lakh seventy-six thousand",
-          "Thirty-one crore five lakh seventy-six thousand"
-      ],
-      "correctAnswer": 0
-  },
-  {
       "question": "How many digits does the number '1000000' have?",
       "choices": [
           "5",
@@ -3468,16 +3358,6 @@
           "Thousand Crores"
       ],
       "correctAnswer": 2
-  },
-  {
-      "question": "How many systems are there to read and write large numbers according to the text?",
-      "choices": [
-          "One",
-          "Two",
-          "Three",
-          "Four"
-      ],
-      "correctAnswer": 1
   },
   {
       "question": "In the Indian Place Value Chart, what comes before 'Ones' in the 'Periods'?",
