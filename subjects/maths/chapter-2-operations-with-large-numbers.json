@@ -111,26 +111,6 @@
         "correctAnswer": 3
     },
     {
-        "question": "In the example provided on the page, what does 4 + 7 equal?",
-        "choices": [
-            "10",
-            "11",
-            "12",
-            "13"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example provided on the page, what does 2 + 3 + 1 equal?",
-        "choices": [
-            "5",
-            "6",
-            "7",
-            "8"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "What is the sum of 7 + 4 + 1?",
         "choices": [
             "10",
@@ -321,36 +301,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "According to the example, what is the estimated number of leaves left on the tree?",
-        "choices": [
-            "18,000",
-            "19,000",
-            "20,000",
-            "21,000"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, what is the actual number of leaves fallen?",
-        "choices": [
-            "1000",
-            "1293",
-            "18932",
-            "20000"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, what is the actual number of leaves on the tree?",
-        "choices": [
-            "1000",
-            "1293",
-            "18932",
-            "20000"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "What is the estimated number of books on one shelf?",
         "choices": [
             "489",
@@ -401,36 +351,6 @@
         "correctAnswer": 3
     },
     {
-        "question": "According to example 20, the number of leaves on the tree is rounded to the nearest:",
-        "choices": [
-            "10",
-            "100",
-            "1000",
-            "10000"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "According to example 21, the number of books on one shelf is rounded to the nearest:",
-        "choices": [
-            "10",
-            "100",
-            "1000",
-            "10000"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to example 21, the number of shelves is rounded to the nearest:",
-        "choices": [
-            "10",
-            "100",
-            "1000",
-            "10000"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "What is the 'Estimating Quotient' section about?",
         "choices": [
             "Estimating savings per month",
@@ -439,26 +359,6 @@
             "Estimating total number of months in a year"
         ],
         "correctAnswer": 0
-    },
-    {
-        "question": "According to the 'Estimating Difference' example, what is the main operation for leaves left?",
-        "choices": [
-            "Addition",
-            "Subtraction",
-            "Multiplication",
-            "Division"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the 'Estimating Product' example, what is the main operation for total books in the library?",
-        "choices": [
-            "Addition",
-            "Subtraction",
-            "Multiplication",
-            "Division"
-        ],
-        "correctAnswer": 2
     },
     {
         "question": "What is 500x700?",
@@ -851,122 +751,12 @@
         "correctAnswer": 2
     },
     {
-        "question": "In the given example (26,775 \u00f7 25), what is the quotient?",
-        "choices": [
-            "25",
-            "26775",
-            "0",
-            "1071"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "In the given example (26,775 \u00f7 25), what is the remainder?",
-        "choices": [
-            "1071",
-            "25",
-            "0",
-            "26775"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In step 1, after bringing down the next digit, what is the value?",
-        "choices": [
-            "2",
-            "6",
-            "26",
-            "25"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In step 1, is 2 < 25 (the divisor)?",
-        "choices": [
-            "Yes",
-            "No",
-            "Maybe",
-            "Sometimes"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In step 2, after bringing down the next digit, what is the value?",
-        "choices": [
-            "1",
-            "7",
-            "17",
-            "25"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In step 2, is 17 < 25?",
-        "choices": [
-            "Yes",
-            "No",
-            "Sometimes",
-            "Maybe"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In step 2, after bringing down another digit, what is the value?",
-        "choices": [
-            "77",
-            "177",
-            "175",
-            "25"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In step 2, how many times does 25 go into 177?",
-        "choices": [
-            "Five times",
-            "Six times",
-            "Seven times",
-            "Eight times"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In step 3, after bringing down the next digit, what is the value?",
-        "choices": [
-            "1",
-            "5",
-            "25",
-            "0"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In step 3, how many times does 25 go into 25?",
-        "choices": [
-            "One time",
-            "Two times",
-            "Three times",
-            "Zero times"
-        ],
-        "correctAnswer": 0
-    },
-    {
         "question": "When checking the result, which formula do we use?",
         "choices": [
             "Divisor x Quotient + Remainder",
             "Divisor / Quotient + Remainder",
             "Divisor + Quotient + Remainder",
             "Divisor - Quotient + Remainder"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the step 3, is 'write 1 at the ones place in the quotient'?",
-        "choices": [
-            "Yes",
-            "No",
-            "Sometimes",
-            "Maybe"
         ],
         "correctAnswer": 0
     },
@@ -1331,136 +1121,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "In example 11, what is the first step when both the multiplicand and multiplier have zeros?",
-        "choices": [
-            "Count the number of zeroes in the multiplicand",
-            "Multiply the non-zero parts of the multiplicand and the multiplier",
-            "Add the zeros of the multiplicand and the multiplier",
-            "Multiply the zeroes with the non-zero parts"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In example 11, what is 152 x 6 ?",
-        "choices": [
-            "902",
-            "912",
-            "812",
-            "922"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In example 11, what is the product of  1,520 \u00d7 6,000 ?",
-        "choices": [
-            "91,10,000",
-            "91,20,000",
-            "91,30,000",
-            "91,40,000"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, what is 9,536 x 25 equal to?",
-        "choices": [
-            "(9,536 \u00d7 10) \u00f7 2",
-            "(9,536 \u00d7 100) \u00f7 4",
-            "(9,536 \u00d7 100) \u00f7 2",
-            "(9,536 \u00d7 10) \u00f7 4"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, what is 9,999 \u00d7 50 equal to?",
-        "choices": [
-            "(9,999 \u00d7 10) \u00f7 2",
-            "(9,999 \u00d7 100) \u00f7 2",
-            "(9,999 \u00d7 100) \u00f7 4",
-            "(9,999 \u00d7 10) \u00f7 4"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, what is 9,53,600 \u00f7 4 equal to?",
-        "choices": [
-            "2,38,400",
-            "2,38,500",
-            "2,38,600",
-            "2,38,700"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "According to the example, what is 9,99,900 \u00f7 2 equal to?",
-        "choices": [
-            "4,99,950",
-            "4,99,960",
-            "4,99,970",
-            "4,99,980"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In example 12, how many digits are there in 2,314?",
-        "choices": [
-            "2 digits",
-            "3 digits",
-            "4 digits",
-            "5 digits"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In example 12, how many digits are there in 157?",
-        "choices": [
-            "2 digits",
-            "3 digits",
-            "4 digits",
-            "5 digits"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example given, what is the result of 5283 multiplied by 2?",
-        "choices": [
-            "1056",
-            "10566",
-            "10560",
-            "10506"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example given, what is the result of 5283 multiplied by 10?",
-        "choices": [
-            "52830",
-            "5283",
-            "52803",
-            "52380"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the example given, what is the result of 5283 multiplied by 600?",
-        "choices": [
-            "31698",
-            "316980",
-            "3169800",
-            "3168900"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In the example given, what is the result of 5283 multiplied by 3000?",
-        "choices": [
-            "1584900",
-            "15849000",
-            "158490000",
-            "158490"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "What is the product of 1,753 x 10?",
         "choices": [
             "1753",
@@ -1479,16 +1139,6 @@
             "57.200"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "What is the first step in multiplying 637 x 30?",
-        "choices": [
-            "Multiply 637 by 3",
-            "Add a zero to 637",
-            "Multiply 637 by 30",
-            "Multiply 637 by 0"
-        ],
-        "correctAnswer": 0
     },
     {
         "question": "What is 637 x 3?",
@@ -1541,16 +1191,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "When multiplying a number by multiples of 10 (like 30, 400, 5000), what is the first step?",
-        "choices": [
-            "Count the zeroes in the multiplier.",
-            "Multiply with the non-zero part first.",
-            "Put zeroes to the right side of the number",
-            "Subtract zeroes from the product."
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "What is the final product of 5283 x 3612?",
         "choices": [
             "1,90,82,190",
@@ -1561,132 +1201,12 @@
         "correctAnswer": 1
     },
     {
-        "question": "Which step is not a decomposition of horizontal algorithm?",
-        "choices": [
-            "5283 \u00d7 3000",
-            "5283 \u00d7 600",
-            "5283 \u00d7 1",
-            "5283 \u00d7 10"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "According to the decomposition algorithm shown, what is the first step in multiplying 134259 by 23?",
-        "choices": [
-            "134259 \u00d7 23",
-            "(134259 \u00d7 20) + (134259 \u00d7 3)",
-            "134259 \u00d7 20",
-            "134259 \u00d7 3"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "In the decomposition method, which times table is involved in the second multiplication when multiplying by 23?",
         "choices": [
             "2 times table",
             "3 times table",
             "5 times table",
             "10 times table"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the product of 134259 multiplied by 20, according to the example?",
-        "choices": [
-            "4,02,777",
-            "26,85,180",
-            "30,87,957",
-            "30,00,000"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the product of 134259 multiplied by 3, according to the example?",
-        "choices": [
-            "26,85,180",
-            "30,87,957",
-            "4,02,777",
-            "4,00,000"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "According to the example, what operation is performed after calculating 134259 x 20 and 134259 x 3?",
-        "choices": [
-            "Multiplication",
-            "Subtraction",
-            "Addition",
-            "Division"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the final product of 134259 multiplied by 23 according to the example?",
-        "choices": [
-            "26,85,180",
-            "4,02,777",
-            "30,87,957",
-            "30,00,000"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In the example multiplying 31,268 by 204, how many hundreds are in 204?",
-        "choices": [
-            "0",
-            "2",
-            "4",
-            "20"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example multiplying 31,268 by 204, how many tens are in 204?",
-        "choices": [
-            "0",
-            "2",
-            "4",
-            "20"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the example multiplying 31,268 by 214, how many hundreds are in 214?",
-        "choices": [
-            "0",
-            "1",
-            "2",
-            "4"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In the example multiplying 31,268 by 214, how many tens are in 214?",
-        "choices": [
-            "0",
-            "1",
-            "2",
-            "4"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the product of 31268 multiplied by 204, according to the example?",
-        "choices": [
-            "66,91,352",
-            "63,78,672",
-            "125072",
-            "000000"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the product of 31268 multiplied by 214, according to the example?",
-        "choices": [
-            "63,78,672",
-            "66,91,352",
-            "125072",
-            "312680"
         ],
         "correctAnswer": 1
     },
@@ -1771,56 +1291,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "In the example of multiplying 1,34,259 by 23, what is step 1?",
-        "choices": [
-            "134259 \u00d7 3 = 402777",
-            "134259 \u00d7 20 = 2685180",
-            "402777 + 2685180 = 3087957",
-            "23 = 2 tens + 3 ones = 20 + 3"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "In the example of multiplying 1,34,259 by 23, what is step 2?",
-        "choices": [
-            "134259 \u00d7 3 = 402777",
-            "134259 \u00d7 20 = 2685180",
-            "402777 + 2685180 = 3087957",
-            "23 = 2 tens + 3 ones = 20 + 3"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the example of multiplying 1,34,259 by 23, what is step 3?",
-        "choices": [
-            "134259 \u00d7 3 = 402777",
-            "134259 \u00d7 20 = 2685180",
-            "402777 + 2685180 = 3087957",
-            "23 = 2 tens + 3 ones = 20 + 3"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example of multiplying 1,34,259 by 23, what is step 4?",
-        "choices": [
-            "134259 \u00d7 3 = 402777",
-            "134259 \u00d7 20 = 2685180",
-            "402777 + 2685180 = 3087957",
-            "23 = 2 tens + 3 ones = 20 + 3"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the answer in the example of multiplying 1,34,259 by 23?",
-        "choices": [
-            "402777",
-            "2685180",
-            "3087957",
-            "30,87,957"
-        ],
-        "correctAnswer": 3
-    },
-    {
         "question": "What is the product of 2,50,761 by 3?",
         "choices": [
             "2,50,761",
@@ -1829,46 +1299,6 @@
             "1"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "What is the multiplicand in the 1-Digit Multiplier Example?",
-        "choices": [
-            "3",
-            "2,50,761",
-            "7,52,283",
-            "1"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the multiplier in the 1-Digit Multiplier Example?",
-        "choices": [
-            "3",
-            "2,50,761",
-            "7,52,283",
-            "1"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What is the multiplicand in the 2-Digit Multiplier Example?",
-        "choices": [
-            "23",
-            "1,34,259",
-            "30,87,957",
-            "1"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the multiplier in the 2-Digit Multiplier Example?",
-        "choices": [
-            "23",
-            "1,34,259",
-            "30,87,957",
-            "1"
-        ],
-        "correctAnswer": 0
     },
     {
         "question": "Samika has spent 2,59,200 seconds on her project. If she was given 3,60,000 seconds to prepare it, how much more time does she have?",
@@ -1951,36 +1381,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "In the example given, which number is the Multiplicand?",
-        "choices": [
-            "69",
-            "2315",
-            "159735",
-            "None of the above"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the example given, which number is the Multiplier?",
-        "choices": [
-            "69",
-            "2315",
-            "159735",
-            "None of the above"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the example given, which number is the Product?",
-        "choices": [
-            "69",
-            "2315",
-            "159735",
-            "None of the above"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "In multiplication, the number that is added to itself multiple times is called...",
         "choices": [
             "Product",
@@ -2009,16 +1409,6 @@
             "Quotient"
         ],
         "correctAnswer": 0
-    },
-    {
-        "question": "Which step is mentioned as the first step in multiplication?",
-        "choices": [
-            "Add the numbers",
-            "Write the numbers in place value chart",
-            "Multiply the numbers",
-            "Subtract the numbers"
-        ],
-        "correctAnswer": 1
     },
     {
         "question": "Which words usually suggests Addition?",
@@ -2221,36 +1611,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "Which property of subtraction is demonstrated by the example: 1,765 - 1,212 \u2260 1,212 \u2013 1,765?",
-        "choices": [
-            "Subtraction is commutative",
-            "We cannot change the order of numbers in subtraction",
-            "When 0 is subtracted from a number",
-            "When a number is subtracted from itself"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Which property of subtraction is demonstrated by the example: 32,50,628 - 0 = 32,50,628?",
-        "choices": [
-            "Subtraction is commutative",
-            "We cannot change the order of numbers in subtraction",
-            "When 0 is subtracted from a number",
-            "When a number is subtracted from itself"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which property of subtraction is demonstrated by the example: 54,21,840 - 54,21,840 = 0?",
-        "choices": [
-            "Subtraction is commutative",
-            "We cannot change the order of numbers in subtraction",
-            "When 0 is subtracted from a number",
-            "When a number is subtracted from itself"
-        ],
-        "correctAnswer": 3
-    },
-    {
         "question": "In the first property of subtraction, can we change the order of the numbers?",
         "choices": [
             "Yes",
@@ -2321,66 +1681,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "What is the minuend of Example 3?",
-        "choices": [
-            "94,13,205",
-            "1,78,40,926",
-            "84,27,721",
-            "1,78,40,927"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the subtrahend of Example 3?",
-        "choices": [
-            "1,78,40,926",
-            "84,27,721",
-            "94,13,205",
-            "95,13,205"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the difference of Example 3?",
-        "choices": [
-            "1,78,40,926",
-            "84,27,721",
-            "94,13,205",
-            "94,13,206"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the minuend of Example 4?",
-        "choices": [
-            "6,23,42,750",
-            "14,16,300",
-            "6,09,26,450",
-            "7,23,42,750"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What is the subtrahend of Example 4?",
-        "choices": [
-            "14,16,300",
-            "6,23,42,750",
-            "6,09,26,450",
-            "14,17,300"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What is the difference of Example 4?",
-        "choices": [
-            "14,16,300",
-            "6,23,42,750",
-            "6,09,26,450",
-            "6,09,25,450"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "When checking subtraction by addition, what should be the result of adding the difference to the subtrahend?",
         "choices": [
             "The difference",
@@ -2397,46 +1697,6 @@
             "Do the subtraction again",
             "Try adding the minuend to the subtrahend",
             "Multiply the difference and subtrahend"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the first example what is 1,78,40,926?",
-        "choices": [
-            "Subtrahend",
-            "Minuend",
-            "Difference",
-            "Borrow"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the first example what is 94,13,205?",
-        "choices": [
-            "Subtrahend",
-            "Minuend",
-            "Difference",
-            "Borrow"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In the first example what is 84,27,721?",
-        "choices": [
-            "Subtrahend",
-            "Minuend",
-            "Difference",
-            "Borrow"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which of the following is a step in subtracting large numbers?",
-        "choices": [
-            "Write the numbers in a row",
-            "Write the numbers in the place value chart one below the other, with the greater number above the smaller number.",
-            "Subtract the digits from left to right",
-            "Multiply the numbers"
         ],
         "correctAnswer": 1
     },

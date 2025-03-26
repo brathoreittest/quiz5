@@ -490,16 +490,6 @@
       "correctAnswer": 0
   },
   {
-      "question": "In the given example of adding Roman numerals, which step involves substituting a symbol of bigger value in place of 2 or more same symbols of smaller values?",
-      "choices": [
-          "Combining all the symbols",
-          "Regrouping the common symbols",
-          "Substituting symbols",
-          "Adding the numerals"
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "The exercise on Roman numerals focuses on:",
       "choices": [
           "Subtraction",
@@ -758,16 +748,6 @@
           "It doesn't matter"
       ],
       "correctAnswer": 2
-  },
-  {
-      "question": "How can the smallest and greatest numbers be formed from given digits?",
-      "choices": [
-          "Arranging in random order",
-          "Arranging in descending order",
-          "Arranging in ascending order",
-          "Arranging in ascending and descending order, respectively"
-      ],
-      "correctAnswer": 3
   },
   {
       "question": "Which symbols are used to represent numbers in the Roman numeral system?",
@@ -1310,16 +1290,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "To round off a given number to the nearest 10, find out the multiple of 10 that is:",
-      "choices": [
-          "Largest",
-          "Smallest",
-          "Nearest to the given number",
-          "Farthest from the given number"
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "According to the 'Grasp It' note, a number at the midway point is always rounded:",
       "choices": [
           "Down",
@@ -1366,16 +1336,6 @@
           "95",
           "100",
           "0"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "To round off a given number to the nearest 100, find out the multiple of 100 that is:",
-      "choices": [
-          "Largest",
-          "Smallest",
-          "Nearest to the given number",
-          "Farthest to the given number"
       ],
       "correctAnswer": 2
   },
@@ -1556,26 +1516,6 @@
           "Rounded off Numbers",
           "Multiples",
           "Complex Numbers"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "In International system what place value is given?",
-      "choices": [
-          "Lakhs",
-          "Crores",
-          "Millions",
-          "Thousands"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "In indian system what place value is given?",
-      "choices": [
-          "Millions",
-          "Billions",
-          "Lakhs",
-          "Thousands"
       ],
       "correctAnswer": 2
   },
@@ -2180,16 +2120,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "To construct the smallest number with a given set of digits, arrange the digits in what order?",
-      "choices": [
-          "Descending order",
-          "Ascending order",
-          "Random order",
-          "Reverse order"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "What should you do if there is a 0 at the extreme left when constructing the smallest number?",
       "choices": [
           "Leave it as it is",
@@ -2210,16 +2140,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "What is a Predecessor of a number?",
-      "choices": [
-          "The number that comes 'just after' a given number",
-          "The number that comes 'just before' a given number",
-          "The double of the number",
-          "The square root of the number"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "How to find the predecessor of a number?",
       "choices": [
           "Add 1 to it",
@@ -2228,16 +2148,6 @@
           "Divide it by 2"
       ],
       "correctAnswer": 1
-  },
-  {
-      "question": "What is a Successor of a number?",
-      "choices": [
-          "The number that comes 'just after' a given number",
-          "The number that comes 'just before' a given number",
-          "The half of the number",
-          "The square of the number"
-      ],
-      "correctAnswer": 0
   },
   {
       "question": "How to find the successor of a number?",
@@ -2330,16 +2240,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "How do you construct the greatest number with a given set of digits?",
-      "choices": [
-          "Arrange digits in ascending order.",
-          "Arrange digits in descending order.",
-          "Arrange digits randomly.",
-          "It's not possible to construct the greatest number."
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "What is the ascending order of: 6,976, 3,70,024, 7,49,621, 12,03,450?",
       "choices": [
           "6,976 < 3,70,024 < 7,49,621 < 12,03,450",
@@ -2358,16 +2258,6 @@
           "7,49,621 > 12,03,450 > 6,976 > 3,70,024"
       ],
       "correctAnswer": 1
-  },
-  {
-      "question": "What is the first step in comparing two numbers with different number of digits?",
-      "choices": [
-          "Write the numbers one above the other.",
-          "Compare the digits from the extreme left.",
-          "Compare the number of digits in the two numbers.",
-          "There is no way to compare numbers with different digits"
-      ],
-      "correctAnswer": 2
   },
   {
       "question": "How do you compare the numbers if they have the same number of digits?",
