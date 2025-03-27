@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "A baker makes 12 cakes every day. Each cake needs 15 cherries. How many cherries does he need in 5 days?",
+        "choices": [
+            "180",
+            "600",
+            "900",
+            "750"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "There are 8 rows of seats in a movie theatre. Each row has 25 seats. If 18 people are absent, how many people are present?",
+        "choices": [
+            "182",
+            "200",
+            "172",
+            "218"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Riya buys 6 notebooks for Rupees 30 each and 4 pens for Rupees 12 each. How much money does she spend in total?",
+        "choices": [
+            "Rupees 228",
+            "Rupees 180",
+            "Rupees 48",
+            "Rupees 238"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school has 350 students. They want to divide the students into 14 equal teams for a competition. How many students will be in each team?",
+        "choices": [
+            "30",
+            "25",
+            "20",
+            "35"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A shopkeeper buys 25 boxes of chocolates. Each box contains 18 chocolates. He sells each chocolate for Rupees 5. How much money does he make if he sells all the chocolates?",
+        "choices": [
+            "Rupees 2250",
+            "Rupees 450",
+            "Rupees 2000",
+            "Rupees 1250"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Look at the pattern: 3, 6, 12, 24, ___. What is the next number in the pattern?",
+        "choices": [
+            "30",
+            "36",
+            "48",
+            "60"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Look at the pattern: 1, 4, 9, 16, ___. What is the next number in the pattern?",
+        "choices": [
+            "20",
+            "25",
+            "24",
+            "30"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A farmer has 15 rows of apple trees. Each row has 20 trees, and each tree produces 35 apples. How many apples does the farmer have in total?",
+        "choices": [
+            "7500",
+            "10500",
+            "300",
+            "1050"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 75 kilometers every hour. How many kilometers will it travel in 12 hours?",
+        "choices": [
+            "800",
+            "850",
+            "900",
+            "950"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A school library has 840 books. They want to put the books on 24 shelves with an equal number of books on each shelf. How many books will be on each shelf?",
+        "choices": [
+            "30",
+            "35",
+            "40",
+            "45"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A farmer has 25 rows of mango trees. Each row has 18 trees. How many mango trees does the farmer have in total?",
+        "choices": [
+            "33",
+            "430",
+            "450",
+            "400"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A sweet shop made 364 laddoos. They want to pack them into boxes, with 14 laddoos in each box. How many boxes will they need?",
+        "choices": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 85 kilometers every hour. How far will it travel in 12 hours?",
+        "choices": [
+            "920 kilometers",
+            "1020 kilometers",
+            "820 kilometers",
+            "980 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A school is organizing a picnic for 246 students. If each bus can hold 41 students, how many buses are needed?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rina earns 15 Rupees per day selling flowers. How much will she earn in 3 weeks?",
+        "choices": [
+            "305 Rupees",
+            "315 Rupees",
+            "325 Rupees",
+            "335 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 3, 6, 12, 24, __?",
+        "choices": [
+            "36",
+            "42",
+            "48",
+            "50"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper bought 45 pens for 9 Rupees each. He sold each pen for 12 Rupees. How much profit did he make in total?",
+        "choices": [
+            "135 Rupees",
+            "145 Rupees",
+            "155 Rupees",
+            "165 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A hall has 16 rows of chairs. Each row has 24 chairs. If 10 chairs are removed, how many chairs are left in the hall?",
+        "choices": [
+            "374",
+            "384",
+            "394",
+            "404"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Sita had 500 Rupees. She bought 3 books that cost 85 Rupees each. How much money does she have left?",
+        "choices": [
+            "245 Rupees",
+            "255 Rupees",
+            "265 Rupees",
+            "275 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A rectangular garden is 18 meters long and 12 meters wide. What is the area of the garden?",
+        "choices": [
+            "206 square meters",
+            "216 square meters",
+            "226 square meters",
+            "236 square meters"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A baker makes 25 cakes every day. If he sells each cake for 150 Rupees, how much money does he make in a week (7 days)?",
+        "choices": [
+            "26,250 Rupees",
+            "2,625 Rupees",
+            "262,500 Rupees",
+            "2,526 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school library has 12 shelves. Each shelf has 36 books. If the librarian wants to divide these books equally among 9 classes, how many books will each class get?",
+        "choices": [
+            "56 books",
+            "48 books",
+            "52 books",
+            "44 books"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 175 kilometers in 2 hours and 30 minutes. If it continues at the same speed, how far will it travel in 5 hours?",
+        "choices": [
+            "350 kilometers",
+            "437.5 kilometers",
+            "400 kilometers",
+            "325 kilometers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Ria has 3 boxes of crayons. Each box contains 24 crayons. She wants to share the crayons equally with her 5 friends. How many crayons will each friend get?",
+        "choices": [
+            "13 crayons",
+            "14 crayons",
+            "15 crayons",
+            "16 crayons"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A gardener plants 18 rows of flowers. Each row has 22 flowers. He then notices that 15 flowers have wilted. How many flowers are still healthy?",
+        "choices": [
+            "396 flowers",
+            "381 flowers",
+            "390 flowers",
+            "375 flowers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Complete the pattern: 3, 9, 27, 81, ____",
+        "choices": [
+            "162",
+            "243",
+            "2187",
+            "216"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Complete the pattern: 1, 4, 9, 16, ____",
+        "choices": [
+            "20",
+            "24",
+            "25",
+            "27"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper buys 15 toys for 75 Rupees each. He sells each toy for 100 Rupees. How much profit does he make in total?",
+        "choices": [
+            "375 Rupees",
+            "300 Rupees",
+            "425 Rupees",
+            "500 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A farmer has 180 apples. He puts them into boxes, with 12 apples in each box. He sells each box for 75 Rupees. How much money does he make if he sells all the boxes?",
+        "choices": [
+            "1125 Rupees",
+            "15 Rupees",
+            "1050 Rupees",
+            "1250 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school has 450 students. If the students are divided into 18 equal groups for a field trip, and each group needs 3 teachers as guides, how many teachers are needed in total?",
+        "choices": [
+            "66 teachers",
+            "75 teachers",
+            "81 teachers",
+            "90 teachers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper buys 6 boxes of crayons. Each box has 24 crayons. He then divides all the crayons equally into 8 smaller boxes. How many crayons are in each smaller box?",
+        "choices": [
+            "12 crayons",
+            "18 crayons",
+            "24 crayons",
+            "36 crayons"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 145 kilometers every hour. How many kilometers will it travel in 7 hours?",
+        "choices": [
+            "845 kilometers",
+            "915 kilometers",
+            "1015 kilometers",
+            "1115 kilometers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A farmer has 3 fields. He plants 125 sunflower seeds in each field. If each sunflower seed grows into a sunflower and he sells each sunflower for 8 Rupees, how much money does he make?",
+        "choices": [
+            "2000 Rupees",
+            "2500 Rupees",
+            "3000 Rupees",
+            "4000 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A library has 4 shelves. Each shelf has 75 books. If you want to move all the books to 5 shelves, how many books will be on each shelf?",
+        "choices": [
+            "50 books",
+            "60 books",
+            "70 books",
+            "80 books"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the pattern: 3, 6, 12, 24, ?",
+        "choices": [
+            "30",
+            "36",
+            "48",
+            "60"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the next number in the pattern: 1, 4, 9, 16, ?",
+        "choices": [
+            "20",
+            "24",
+            "25",
+            "30"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A baker makes 150 cookies. He sells them in boxes of 6 cookies each. If he sells each box for 25 Rupees, how much money does he earn?",
+        "choices": [
+            "525 Rupees",
+            "600 Rupees",
+            "625 Rupees",
+            "700 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A school has 25 classrooms. Each classroom has 20 students. If the school wants to divide all the students into groups of 10 for a project, how many groups will there be?",
+        "choices": [
+            "40 groups",
+            "50 groups",
+            "60 groups",
+            "70 groups"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rahul has 48 sweets. He eats 6 of them. Then he divides the remaining sweets equally among 7 friends. How many sweets does each friend get?",
+        "choices": [
+            "5 sweets",
+            "6 sweets",
+            "7 sweets",
+            "8 sweets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A movie ticket costs 75 Rupees. If a family of 5 goes to see the movie and buys 2 buckets of popcorn at 120 Rupees each, what is the total cost?",
+        "choices": [
+            "515 Rupees",
+            "615 Rupees",
+            "715 Rupees",
+            "815 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A baker makes 24 cakes every day. How many cakes does he make in 2 weeks?",
+        "choices": [
+            "48 cakes",
+            "168 cakes",
+            "336 cakes",
+            "240 cakes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A box contains 15 chocolates.  If you buy 8 boxes and want to share the chocolates equally with 6 friends (including yourself), how many chocolates does each friend get?",
+        "choices": [
+            "10 chocolates",
+            "20 chocolates",
+            "25 chocolates",
+            "30 chocolates"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shop sells 32 books each day. If each book costs 50 Rupees, how much money does the shop make in 5 days?",
+        "choices": [
+            "1600 Rupees",
+            "8000 Rupees",
+            "6400 Rupees",
+            "3200 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A train travels 125 kilometers every hour. How far will it travel in 8 hours?",
+        "choices": [
+            "800 kilometers",
+            "1000 kilometers",
+            "1125 kilometers",
+            "900 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A farmer has 7 rows of apple trees with 25 trees in each row. If he picks 10 apples from each tree, how many apples does he collect in total?",
+        "choices": [
+            "1750 apples",
+            "32 apples",
+            "70 apples",
+            "250 apples"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the next number in the sequence: 3, 6, 12, 24, ____?",
+        "choices": [
+            "36",
+            "30",
+            "48",
+            "52"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A school has 450 students. They are divided into 9 equal groups for a field trip. How many students are in each group?",
+        "choices": [
+            "40",
+            "50",
+            "60",
+            "70"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you have 155 Rupees and you want to buy pens that cost 5 Rupees each, how many pens can you buy?",
+        "choices": [
+            "30",
+            "31",
+            "32",
+            "33"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A store sells 15 packets of cookies in an hour. Each packet has 12 cookies. How many cookies are sold in 4 hours?",
+        "choices": [
+            "60 cookies",
+            "180 cookies",
+            "720 cookies",
+            "360 cookies"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A rectangular garden has a length of 24 meters and a width of 12 meters.  If you need to put a fence around the entire garden, how many meters of fencing do you need?",
+        "choices": [
+            "36 meters",
+            "288 meters",
+            "72 meters",
+            "48 meters"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper buys 7 boxes of mangoes. Each box has 24 mangoes. He sells each mango for 15 Rupees. How much money does he make if he sells all the mangoes?",
+        "choices": [
+            "2160 Rupees",
+            "2520 Rupees",
+            "2400 Rupees",
+            "2880 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "There are 12 rows of chairs in the school hall. Each row has 18 chairs. If 5 students sit on each chair, how many students can sit in the hall?",
+        "choices": [
+            "1080 students",
+            "1170 students",
+            "1260 students",
+            "1350 students"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A baker makes 350 cookies. He puts them into bags of 7 cookies each. He sells each bag for 45 Rupees. How much money does he make if he sells all the bags?",
+        "choices": [
+            "2250 Rupees",
+            "2500 Rupees",
+            "2750 Rupees",
+            "3000 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A train travels 165 kilometers every hour. How far will it travel in 12 hours?",
+        "choices": [
+            "1820 kilometers",
+            "1980 kilometers",
+            "2145 kilometers",
+            "2310 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A library has 25 shelves. Each shelf has 32 books. If you need to divide the books equally among 8 schools, how many books will each school get?",
+        "choices": [
+            "100 books",
+            "125 books",
+            "150 books",
+            "175 books"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A farmer has 144 apples. He wants to pack them into boxes so that each box has 12 apples. He sells each box for 60 Rupees. How much money will he make if he sells all the boxes?",
+        "choices": [
+            "720 Rupees",
+            "780 Rupees",
+            "840 Rupees",
+            "900 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the next number in the pattern: 3, 6, 12, 24, ___?",
+        "choices": [
+            "36",
+            "42",
+            "48",
+            "54"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the next number in the pattern: 1, 4, 9, 16, ___?",
+        "choices": [
+            "20",
+            "25",
+            "27",
+            "30"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A school bus travels 45 kilometers each day. It makes 2 trips in the morning and 2 trips in the afternoon. What is the total distance it travels in 5 days?",
+        "choices": [
+            "450 kilometers",
+            "900 kilometers",
+            "225 kilometers",
+            "180 kilometers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A shopkeeper buys 8 packets of pens. Each packet has 15 pens. He sells each pen for 8 Rupees. If he wants to buy chocolates from the money he earns and each chocolate costs 4 Rupees, how many chocolates can he buy?",
+        "choices": [
+            "120 chocolates",
+            "240 chocolates",
+            "300 chocolates",
+            "360 chocolates"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A baker makes 12 cakes every day. If he sells each cake for 50 Rupees, how much money does he make in a week?",
+        "choices": [
+            "4200 Rupees",
+            "3500 Rupees",
+            "2100 Rupees",
+            "1400 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A school has 3 floors. Each floor has 8 classrooms, and each classroom has 30 students. How many students are there in the whole school?",
+        "choices": [
+            "240",
+            "720",
+            "960",
+            "1440"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper buys 25 boxes of chocolates. Each box has 16 chocolates. He sells each chocolate for 15 Rupees. How much money does he make in total?",
+        "choices": [
+            "4000 Rupees",
+            "6000 Rupees",
+            "5000 Rupees",
+            "6500 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "There are 45 rows of seats in a stadium. Each row has 28 seats. If all the seats are filled, how many people are in the stadium?",
+        "choices": [
+            "1260",
+            "1160",
+            "1360",
+            "1560"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A train travels 135 kilometers per hour. How far will it travel in 8 hours?",
+        "choices": [
+            "980 kilometers",
+            "1080 kilometers",
+            "1180 kilometers",
+            "1280 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What comes next in the pattern: 2, 6, 18, 54, ___?",
+        "choices": [
+            "108",
+            "162",
+            "160",
+            "81"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A library has 2400 books. If the books are divided equally among 60 shelves, how many books are on each shelf?",
+        "choices": [
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A movie ticket costs 125 Rupees. How much will it cost for a group of 12 friends to watch the movie?",
+        "choices": [
+            "1250 Rupees",
+            "1500 Rupees",
+            "1750 Rupees",
+            "1000 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A farmer has 1500 apples. He packs them into boxes with 25 apples in each box. How many boxes does he need?",
+        "choices": [
+            "50",
+            "60",
+            "75",
+            "80"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What comes next in the pattern: 1, 4, 9, 16, 25, ___?",
+        "choices": [
+            "30",
+            "35",
+            "36",
+            "40"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A baker makes 12 trays of cookies. Each tray has 24 cookies. He sells each cookie for 5 Rupees. If he sells all the cookies, how much money will he make in Rupees?",
+        "choices": [
+            "1440 Rupees",
+            "600 Rupees",
+            "288 Rupees",
+            "1500 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school is organizing a field trip. There are 185 students going. Each bus can hold 45 students. How many buses are needed for the field trip?",
+        "choices": [
+            "3 buses",
+            "4 buses",
+            "5 buses",
+            "6 buses"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Riya earns 35 Rupees an hour. She works 6 hours a day for 5 days. How much money does she earn in total in Rupees?",
+        "choices": [
+            "1050 Rupees",
+            "210 Rupees",
+            "175 Rupees",
+            "300 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the next number in the following sequence: 2, 6, 18, 54, ____?",
+        "choices": [
+            "108",
+            "162",
+            "164",
+            "120"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A book has 256 pages. Rahul reads 16 pages each day. How many days will it take him to read the entire book?",
+        "choices": [
+            "14 days",
+            "15 days",
+            "16 days",
+            "17 days"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A store sells apples for 8 Rupees each and oranges for 6 Rupees each. If Maya buys 5 apples and 7 oranges, how much does she spend in Rupees?",
+        "choices": [
+            "40 Rupees",
+            "42 Rupees",
+            "82 Rupees",
+            "88 Rupees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the missing number in the sequence: 1, 4, 9, __, 25, 36?",
+        "choices": [
+            "12",
+            "15",
+            "16",
+            "20"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A farmer has 144 mangoes. He wants to pack them into boxes. If each box can hold 12 mangoes, how many boxes does he need?",
+        "choices": [
+            "10 boxes",
+            "11 boxes",
+            "12 boxes",
+            "13 boxes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A train travels 125 kilometers in one hour. How many kilometers will it travel in 8 hours?",
+        "choices": [
+            "800 kilometers",
+            "900 kilometers",
+            "1000 kilometers",
+            "1100 kilometers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A rectangular garden is 15 meters long and 8 meters wide. If you want to build a fence around the garden, how many meters of fencing will you need?",
+        "choices": [
+            "23 meters",
+            "46 meters",
+            "120 meters",
+            "60 meters"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A shopkeeper buys 8 boxes of pencils. Each box has 24 pencils. If he sells each pencil for 5 Rupees, how much money does he make?",
+        "choices": [
+            "960 Rupees",
+            "192 Rupees",
+            "1000 Rupees",
+            "800 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Riya wants to bake 6 cakes for her friends' birthday party. Each cake needs 150 grams of flour. If she buys a 1 kilogram bag of flour (1 kilogram = 1000 grams), how much flour will she have left?",
+        "choices": [
+            "100 grams",
+            "150 grams",
+            "900 grams",
+            "50 grams"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A train travels 250 kilometers in 5 hours. If it continues at the same speed, how far will it travel in 8 hours?",
+        "choices": [
+            "400 kilometers",
+            "300 kilometers",
+            "450 kilometers",
+            "350 kilometers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the next number in this sequence: 3, 6, 12, 24, ____?",
+        "choices": [
+            "36",
+            "48",
+            "30",
+            "50"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in this sequence: 1, 4, 9, 16, ____?",
+        "choices": [
+            "20",
+            "24",
+            "25",
+            "30"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "There are 4 teams in a quiz. Each team has 5 students. Each student answers 3 questions correctly. How many questions did all the students answer correctly in total?",
+        "choices": [
+            "12 questions",
+            "20 questions",
+            "60 questions",
+            "23 questions"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A farmer has 72 apples. He wants to put them into boxes. If each box can hold 8 apples, how many boxes does he need?",
+        "choices": [
+            "6 boxes",
+            "8 boxes",
+            "9 boxes",
+            "10 boxes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A school is organizing a field trip. There are 125 students and each bus can hold 25 students. How many buses are needed?",
+        "choices": [
+            "4 buses",
+            "5 buses",
+            "6 buses",
+            "7 buses"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you buy 3 notebooks for 15 Rupees each and 2 pens for 8 Rupees each, how much money do you spend in total?",
+        "choices": [
+            "46 Rupees",
+            "61 Rupees",
+            "50 Rupees",
+            "40 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A rectangular garden is 12 meters long and 8 meters wide. What is the area of the garden? (Area = Length x Width)",
+        "choices": [
+            "96 square meters",
+            "20 square meters",
+            "40 square meters",
+            "86 square meters"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A baker makes 12 cakes every day. How many cakes will they make in 3 weeks?",
+        "choices": [
+            "36 cakes",
+            "84 cakes",
+            "252 cakes",
+            "126 cakes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A shopkeeper buys 8 boxes of crayons. Each box contains 24 crayons. He divides all the crayons equally among 6 children. How many crayons does each child get?",
+        "choices": [
+            "24 crayons",
+            "32 crayons",
+            "192 crayons",
+            "28 crayons"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 180 kilometers in 3 hours. If it continues at the same speed, how far will it travel in 7 hours?",
+        "choices": [
+            "420 kilometers",
+            "60 kilometers",
+            "360 kilometers",
+            "540 kilometers"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school has 450 students. They are divided into 15 equal teams for a competition. How many students are there in each team?",
+        "choices": [
+            "20 students",
+            "25 students",
+            "30 students",
+            "15 students"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A farmer has 6 rows of mango trees, with 15 trees in each row. If each tree produces 20 mangoes, how many mangoes does the farmer have in total?",
+        "choices": [
+            "90 mangoes",
+            "180 mangoes",
+            "1800 mangoes",
+            "900 mangoes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the next number in the pattern: 3, 6, 12, 24, ______?",
+        "choices": [
+            "36",
+            "48",
+            "30",
+            "32"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Riya earns 75 Rupees per hour. If she works for 8 hours a day for 5 days, how many Rupees will she earn in total?",
+        "choices": [
+            "3000 Rupees",
+            "600 Rupees",
+            "375 Rupees",
+            "1500 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A box contains 36 sweets. If you want to share them equally among 9 friends, how many sweets will each friend get?",
+        "choices": [
+            "3 sweets",
+            "4 sweets",
+            "6 sweets",
+            "5 sweets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A movie ticket costs 120 Rupees. If a family of 4 goes to see the movie, how much will they pay in total?",
+        "choices": [
+            "30 Rupees",
+            "480 Rupees",
+            "240 Rupees",
+            "124 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A book has 256 pages. If you read 16 pages each day, how many days will it take you to finish the book?",
+        "choices": [
+            "12 days",
+            "14 days",
+            "16 days",
+            "18 days"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A baker makes 12 cakes every day. He needs to bake 384 cakes for a big party. How many days will it take him to bake all the cakes?",
+        "choices": [
+            "28 days",
+            "32 days",
+            "24 days",
+            "36 days"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 185 kilometers every hour. How far will it travel in 14 hours?",
+        "choices": [
+            "2490 kilometers",
+            "2590 kilometers",
+            "2500 kilometers",
+            "2550 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rohan has 15 boxes of marbles. Each box contains 65 marbles. How many marbles does Rohan have in total?",
+        "choices": [
+            "965 marbles",
+            "985 marbles",
+            "975 marbles",
+            "955 marbles"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A school has 426 students. If they want to divide the students into 6 equal groups for a school play, how many students will be in each group?",
+        "choices": [
+            "71 students",
+            "69 students",
+            "73 students",
+            "67 students"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A shopkeeper buys 25 radios for Rupees 12500. What is the cost of one radio?",
+        "choices": [
+            "Rupees 550",
+            "Rupees 500",
+            "Rupees 450",
+            "Rupees 600"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If a pattern follows: 3, 6, 12, 24, ___. What is the next number in the sequence?",
+        "choices": [
+            "36",
+            "48",
+            "30",
+            "60"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 1, 4, 9, 16, ___",
+        "choices": [
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A farmer has 35 rows of apple trees. Each row has 18 trees. If each tree produces 24 apples, how many apples does the farmer have in total?",
+        "choices": [
+            "14700 apples",
+            "15120 apples",
+            "15000 apples",
+            "14500 apples"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A library has 12 shelves of books. Each shelf has 35 books. If 5 books are taken out of each shelf, how many books are left in the library?",
+        "choices": [
+            "420 books",
+            "360 books",
+            "380 books",
+            "350 books"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Meena earns Rupees 150 per day. She works for 6 days a week. How much will she earn in 4 weeks?",
+        "choices": [
+            "Rupees 3600",
+            "Rupees 3500",
+            "Rupees 3200",
+            "Rupees 3800"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A shopkeeper buys 7 boxes of chocolates. Each box has 24 chocolates. He then divides all the chocolates equally among 8 of his friends. How many chocolates does each friend get?",
+        "choices": [
+            "21",
+            "28",
+            "24",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A farmer has 12 rows of apple trees in his orchard. Each row has 15 trees. If each tree produces 35 apples, how many apples does the farmer have in total?",
+        "choices": [
+            "4200",
+            "6300",
+            "5250",
+            "6500"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the next number in the pattern: 3, 6, 12, 24, ____",
+        "choices": [
+            "30",
+            "36",
+            "48",
+            "60"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Riya earns 150 Rupees every day. If she saves half of her earnings each day, how much will she save in 14 days?",
+        "choices": [
+            "1050 Rupees",
+            "2100 Rupees",
+            "750 Rupees",
+            "1250 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A school is organizing a trip. There are 25 students in each bus and they need to rent 6 buses. Each student needs to pay 350 Rupees for the trip. How much money will the school collect in total?",
+        "choices": [
+            "52500 Rupees",
+            "50000 Rupees",
+            "62500 Rupees",
+            "55000 Rupees"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the next number in the pattern: 1, 4, 9, 16, ____",
+        "choices": [
+            "20",
+            "25",
+            "27",
+            "30"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A tailor needs 3 meters of cloth to make one dress. He has 54 meters of cloth. If he sells each dress for 450 Rupees, how much money will he make if he sells all the dresses he can make?",
+        "choices": [
+            "7200 Rupees",
+            "8100 Rupees",
+            "7500 Rupees",
+            "8000 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A packet of biscuits costs 25 Rupees. If you buy 15 packets and pay with a 500 Rupees note, how much change will you get back?",
+        "choices": [
+            "100 Rupees",
+            "125 Rupees",
+            "250 Rupees",
+            "175 Rupees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the missing number in this pattern: 2, 6, __, 54, 162",
+        "choices": [
+            "12",
+            "18",
+            "27",
+            "36"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A train travels 125 kilometers per hour. How far will it travel in 8 hours if it stops for 30 minutes after every 2 hours?",
+        "choices": [
+            "1000 kilometers",
+            "900 kilometers",
+            "875 kilometers",
+            "750 kilometers"
+        ],
+        "correctAnswer": 2
+    }
+]
