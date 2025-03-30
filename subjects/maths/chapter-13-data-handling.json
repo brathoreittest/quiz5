@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the chapter mainly about?",
+        "choices": [
+            "Algebra",
+            "Geometry",
+            "Data Handling",
+            "Fractions"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the information collected in the form of numerical figures called?",
+        "choices": [
+            "Graph",
+            "Data",
+            "Chart",
+            "Pictograph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "On what day was the survey conducted in the school?",
+        "choices": [
+            "22nd January",
+            "22nd November",
+            "22nd December",
+            "22nd October"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which grade students were surveyed?",
+        "choices": [
+            "Grade 3",
+            "Grade 4",
+            "Grade 5",
+            "Grade 6"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the table, which symbol was liked by the most number of students?",
+        "choices": [
+            "%",
+            "<",
+            "+",
+            "X"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many students chose the 'minus' symbol (-)?",
+        "choices": [
+            "13",
+            "7",
+            "11",
+            "10"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many students chose the 'divide' symbol?",
+        "choices": [
+            "13",
+            "7",
+            "11",
+            "10"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which symbol was chosen by the least number of students?",
+        "choices": [
+            ">",
+            "%",
+            "<",
+            "x"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many students chose the '<' symbol?",
+        "choices": [
+            "3",
+            "5",
+            "9",
+            "11"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a way to record and interpret data, according to the learning objectives?",
+        "choices": [
+            "Bar graphs",
+            "Tally marks",
+            "Pie charts",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The number of times a particular observation occurs in the data is called its _________.",
+        "choices": [
+            "Frequency",
+            "Tally",
+            "Data",
+            "Raw data"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The process of collecting data and presenting it in a meaningful way such as graph, so that the information can be compared and some conclusion can be drawn from it is called:",
+        "choices": [
+            "Raw data",
+            "Tally marks",
+            "Data handling",
+            "Frequency"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When data is collected and noted down without being arranged in any particular manner, it is called __________",
+        "choices": [
+            "Data handling",
+            "Tally marks",
+            "Bar graph",
+            "Raw data"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The tally marks for first four items are represented by drawing same number of ___________",
+        "choices": [
+            "Horizontal lines",
+            "Diagonal lines",
+            "Vertical lines",
+            "Curved lines"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The tally mark for the fifth item is represented by crossing the four lines _________.",
+        "choices": [
+            "Horizontally",
+            "Vertically",
+            "Diagonally",
+            "Perpendicularly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In tally marks, each item is represented using a ___________ (tally mark).",
+        "choices": [
+            "Horizontal line",
+            "Vertical line",
+            "Diagonal line",
+            "Curved line"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A _________ is a graphical representation of numerical data in the form of rectangular bars of equal width.",
+        "choices": [
+            "Pie Chart",
+            "Bar graph",
+            "Tally Marks",
+            "Raw data"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Tally marks from sixth to ninth item are represented by drawing vertical lines after _________ crossed four vertical lines.",
+        "choices": [
+            "Horizontally",
+            "Vertically",
+            "Diagonally",
+            "Perpendicularly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the height of each bar represent in a bar graph?",
+        "choices": [
+            "The color of the data",
+            "The numerical value of the data",
+            "The type of data",
+            "The date the data was collected"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Bar graphs can be drawn in which orientations?",
+        "choices": [
+            "Only horizontally",
+            "Only vertically",
+            "Either vertically or horizontally",
+            "Diagonally"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the bar graph example, who scored the maximum marks?",
+        "choices": [
+            "Jyoti",
+            "Rashmi",
+            "Tarun",
+            "Sohail"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the example given, what were Jyoti's marks?",
+        "choices": [
+            "300",
+            "400",
+            "500",
+            "600"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the example, how many more marks did Rashmi get than Tarun?",
+        "choices": [
+            "50",
+            "75",
+            "100",
+            "150"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should be drawn on the horizontal and vertical axis while constructing bar graph?",
+        "choices": [
+            "Colors and Shapes",
+            "Random lines",
+            "Days and number of pizzas",
+            "Numbers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which step is used to give title to the bar graph?",
+        "choices": [
+            "Step 2",
+            "Step 3",
+            "Step 4",
+            "Step 5"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How much cost per 100g (\u20b9) of Imarti?",
+        "choices": [
+            "15",
+            "18",
+            "24",
+            "27"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the horizontal scale in example 2?",
+        "choices": [
+            "1 square = 1 student",
+            "1 square = 100 marks",
+            "1 square = 1 day",
+            "1 square = 100 pizzas"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the number of buses going from Delhi to Shimla?",
+        "choices": [
+            "18",
+            "20",
+            "28",
+            "32"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the term for the collection of numbers gathered to get some information or to make decisions?",
+        "choices": [
+            "Frequency",
+            "Data",
+            "Graph",
+            "Sector"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In statistics, what is the number of times a particular observation occurs?",
+        "choices": [
+            "Frequency",
+            "Data",
+            "Graph",
+            "Sector"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What type of graph is made by using rectangular bars of equal width but of different heights?",
+        "choices": [
+            "Pie chart",
+            "Circle Graph",
+            "Bar graph",
+            "Tally Marks"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A circle graph is also known as?",
+        "choices": [
+            "Bar graph",
+            "Pie chart",
+            "Tally Marks",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a pie chart or circle graph represent?",
+        "choices": [
+            "Represents data by dividing a circle into sectors",
+            "Represents data with rectangular bars of equal width",
+            "Uses tally marks to represent data",
+            "Does not represent data"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How can data be organized?",
+        "choices": [
+            "Tabular form using tally marks",
+            "Bar graphs",
+            "Circle graphs",
+            "All of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Based on the bar graph of books sold, on which day were the minimum number of books sold?",
+        "choices": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Based on the bar graph of books sold, approximately how many books were sold on Tuesday?",
+        "choices": [
+            "80",
+            "120",
+            "160",
+            "40"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Based on the bar graph of books sold, on which day were the maximum number of books sold?",
+        "choices": [
+            "Monday",
+            "Wednesday",
+            "Friday",
+            "Saturday"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which sport has the most sportsmen based on the data provided?",
+        "choices": [
+            "Cricket",
+            "Basketball",
+            "Hockey",
+            "Football"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which sport has the least sportsmen based on the data provided?",
+        "choices": [
+            "Cricket",
+            "Basketball",
+            "Swimming",
+            "Football"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many children chose Art and Craft as a co-curricular activity?",
+        "choices": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the circle graph, which type of tree is maximum in number?",
+        "choices": [
+            "Neem",
+            "Oak",
+            "Mango",
+            "Ashoka"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the circle graph, which type of tree is minimum in number?",
+        "choices": [
+            "Neem",
+            "Oak",
+            "Mango",
+            "Pine"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the circle graph, which type of tree is one fourth of the total number of trees?",
+        "choices": [
+            "Neem",
+            "Oak",
+            "Mango",
+            "Pine"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the circle graph, which type of trees are more in number than pine trees but less than mango trees?",
+        "choices": [
+            "Neem",
+            "Oak",
+            "Mango",
+            "Ashoka"
+        ],
+        "correctAnswer": 3
+    }
+]

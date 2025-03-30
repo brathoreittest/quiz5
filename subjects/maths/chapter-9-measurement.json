@@ -1,0 +1,602 @@
+[
+    {
+        "question": "Which of the following is the standard unit of length in the metric system?",
+        "choices": [
+            "gram",
+            "litre",
+            "metre",
+            "kilogram"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is the standard unit of weight in the metric system?",
+        "choices": [
+            "metre",
+            "litre",
+            "gram",
+            "kilometre"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is the standard unit of capacity in the metric system?",
+        "choices": [
+            "gram",
+            "metre",
+            "litre",
+            "kilogram"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If you move from metre to decimetre, the unit becomes how many times smaller?",
+        "choices": [
+            "10 times",
+            "100 times",
+            "1/10th",
+            "1/100th"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If you move from metre to decametre, the unit becomes how many times larger?",
+        "choices": [
+            "10 times",
+            "100 times",
+            "1/10th",
+            "1/100th"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which unit is larger: Kilogram or Gram?",
+        "choices": [
+            "Kilogram",
+            "Gram",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which unit is smaller: Centimetre or Decimetre?",
+        "choices": [
+            "Centimetre",
+            "Decimetre",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The metric system was adopted in France in which year?",
+        "choices": [
+            "1759",
+            "1795",
+            "1800",
+            "1850"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a common measurement we see around us?",
+        "choices": [
+            "Temperature",
+            "Length",
+            "Mass",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "1 Litre is equal to how many Decilitre?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "0.1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which prefix means 'thousand'?",
+        "choices": [
+            "deca",
+            "hecto",
+            "kilo",
+            "deci"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which prefix means 'tenth'?",
+        "choices": [
+            "deca",
+            "hecto",
+            "kilo",
+            "deci"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which prefix means 'hundred'?",
+        "choices": [
+            "deca",
+            "hecto",
+            "kilo",
+            "deci"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which prefix means 'ten'?",
+        "choices": [
+            "deca",
+            "hecto",
+            "kilo",
+            "deci"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the mnemonic to remember the descending order of different units?",
+        "choices": [
+            "All Cats Sit Down Carefully",
+            "King Henry Died Members Didn't Cry Much",
+            "Every Good Boy Does Fine",
+            "My Very Educated Mother Just Served Us Noodles"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What operation is used to convert bigger units into smaller units?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What operation is used to convert smaller units into bigger units?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the mnemonic 'King Henry Died Members Didn't Cry Much', what does 'M' stand for?",
+        "choices": [
+            "Meter",
+            "Mile",
+            "Millimeter",
+            "Micrometer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many hm are in 1.236 km?",
+        "choices": [
+            "1.236",
+            "12.36",
+            "123.6",
+            "0.1236"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many dam are in 1.236 km?",
+        "choices": [
+            "1.236",
+            "12.36",
+            "123.6",
+            "0.1236"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many decametres make one kilometre?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many decimetres make one metre?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many litres make one kilolitre?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many centigrams make one hectogram?",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 6 km into dm.",
+        "choices": [
+            "60 dm",
+            "600 dm",
+            "6000 dm",
+            "60000 dm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 7.5 L into mL.",
+        "choices": [
+            "75 mL",
+            "750 mL",
+            "7500 mL",
+            "0.75 mL"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert 8 dg into cg.",
+        "choices": [
+            "80 cg",
+            "800 cg",
+            "0.8 cg",
+            "0.08 cg"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 18.852 km into hm",
+        "choices": [
+            "188.52 hm",
+            "18.852 hm",
+            "1.8852 hm",
+            "0.18852 hm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 4.850 kL into dL",
+        "choices": [
+            "485 dL",
+            "4850 dL",
+            "48500 dL",
+            "485000 dL"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 4250 mL into L",
+        "choices": [
+            "42.5 L",
+            "4.25 L",
+            "0.425 L",
+            "425 L"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Quantities with different units can be multiplied and divided to define new units, but different units cannot be ______ with each other.",
+        "choices": [
+            "Added",
+            "Subtracted",
+            "Both Added and Subtracted",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Akshit's height is 1 m 8 cm. His sister is 3 cm shorter than him. What is his sister's height in metres?",
+        "choices": [
+            "1.11 m",
+            "1.05 m",
+            "1.03 m",
+            "1.18 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A jar contains 6.2 L of juice. The juice is poured into glasses, each of capacity 150 mL. How many glasses can be completely filled with the juice?",
+        "choices": [
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A vegetable seller sold 16.5 kg of onions, 10.25 kg of potatoes and 6.75 kg of tomatoes on a day. What was the total weight of the vegetables he sold that day?",
+        "choices": [
+            "32.5 kg",
+            "33 kg",
+            "33.5 kg",
+            "34 kg"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "An oil tank has a capacity of 145.23 L. How much oil can be stored in 52 such tanks?",
+        "choices": [
+            "7551.96 L",
+            "7451.96 L",
+            "7500 L",
+            "8000 L"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the term 'average' denote?",
+        "choices": [
+            "The highest value",
+            "The lowest value",
+            "The middle or central value",
+            "The sum of all values"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the average of the following numbers: 62, 69, 76, 68, 82, 66, 67.",
+        "choices": [
+            "68",
+            "69",
+            "70",
+            "71"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "1 kilogram + 1 metre - 1 second equals:",
+        "choices": [
+            "1 Newton",
+            "Applicable",
+            "Not Applicable",
+            "None"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "1 kilogram x 1 metre equals:",
+        "choices": [
+            "1 Newton (Unit of Force)",
+            "1 Pascal",
+            "1 Joule",
+            "None"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the process of finding the average of two or more values?",
+        "choices": [
+            "Subtracting all the values",
+            "Dividing all the values",
+            "Summing all the quantities divided by the total number of quantities.",
+            "Multiplying all the values"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "We multiply by multiples of ______ to convert a bigger metric unit to a smaller unit.",
+        "choices": [
+            "5",
+            "10",
+            "20",
+            "100"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "We divide by multiples of ______ to convert a smaller metric unit to a bigger unit.",
+        "choices": [
+            "5",
+            "10",
+            "20",
+            "100"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the average of 39, 38.5, 37, 35.2, 36.3?",
+        "choices": [
+            "37.2",
+            "37.5",
+            "37.0",
+            "37.8"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the result of 14 hm 2 dam 5 m multiplied by 13?",
+        "choices": [
+            "18525m",
+            "18.525m",
+            "18525hm",
+            "18.525hm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is taller - A building is 7 m 5 dm tall, A pole which is standing near the building is 75 dm 5 cm tall",
+        "choices": [
+            "Building",
+            "Pole",
+            "Same height",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A building is 7 m 5 dm tall, A pole which is standing near the building is 75 dm 5 cm tall.  How much taller?",
+        "choices": [
+            "5cm",
+            "5dm",
+            "5m",
+            "Same Height"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 756 mL to hL",
+        "choices": [
+            "0.00756 hL",
+            "7.56 hL",
+            "0.756 hL",
+            "75.6 hL"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 9.87 kg into g",
+        "choices": [
+            "987 g",
+            "9870 g",
+            "98.7 g",
+            "0.987 g"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 982.76 dm to dam",
+        "choices": [
+            "0.98276 dam",
+            "98.276 dam",
+            "9.8276 dam",
+            "9827.6 dam"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A juice bottle contains 750 mL juice. How much juice does 15 such bottles contain? Write your answer in litres.",
+        "choices": [
+            "1.125 Litres",
+            "1125 Litres",
+            "11.25 Litres",
+            "112.5 Litres"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The larger units are obtained by _______ the standard units by the multiples of 10.",
+        "choices": [
+            "multiplying",
+            "dividing",
+            "adding",
+            "subtracting"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The smaller units are obtained by _______ the standard units by the multiples of 10.",
+        "choices": [
+            "multiplying",
+            "dividing",
+            "adding",
+            "subtracting"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To convert metre to kilometre, we _______ by 1000.",
+        "choices": [
+            "multiply",
+            "divide",
+            "add",
+            "subtract"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To convert hectogram to centigram, we _______ by 10000.",
+        "choices": [
+            "multiply",
+            "divide",
+            "add",
+            "subtract"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "_______ times 250 g would make 3 kg.",
+        "choices": [
+            "10",
+            "12",
+            "14",
+            "8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Five times _______ cl would make 7 L.",
+        "choices": [
+            "1400",
+            "14",
+            "140",
+            "1.4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "100 cm = _______ dm",
+        "choices": [
+            "10",
+            "100",
+            "1",
+            "0.1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "10 daL = _______ mL",
+        "choices": [
+            "100",
+            "1000",
+            "10000",
+            "100000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "4 L 600 mL + 400 mL = _______ mL",
+        "choices": [
+            "4000",
+            "5000",
+            "4500",
+            "5400"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "4178 cg = _______ g",
+        "choices": [
+            "4.178",
+            "41.78",
+            "417.8",
+            "0.4178"
+        ],
+        "correctAnswer": 1
+    }
+]

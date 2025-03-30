@@ -1,0 +1,802 @@
+[
+    {
+        "question": "Which dance form is mentioned as a famous dance form of Odisha?",
+        "choices": [
+            "Kathak",
+            "Bharatanatyam",
+            "Odissi",
+            "Kuchipudi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What shape were Nidhi and Aditya decorating the border of?",
+        "choices": [
+            "Circle",
+            "Square",
+            "Rectangle",
+            "Triangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What item did Aditya bring to help decorate the notice board?",
+        "choices": [
+            "Ribbon",
+            "Audio cassette",
+            "Paint",
+            "Stickers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of the board with the given dimensions (25 cm and 40 cm)?",
+        "choices": [
+            "65 cm",
+            "105 cm",
+            "130 cm",
+            "260 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is one of the learning objectives mentioned in the text?",
+        "choices": [
+            "Finding the area of circles",
+            "Calculating the perimeter of rectangles",
+            "Evaluating the area of spheres",
+            "Calculating the circumference of cylinders"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What shapes area the children tasked to find the area of?",
+        "choices": [
+            "Circles, ovals, and spheres",
+            "Rectangles, squares, and triangles",
+            "Cubes, cones, and cylinders",
+            "Parallelograms, trapezoids, and rhombuses"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main topic of the chapter?",
+        "choices": [
+            "Algebra",
+            "Geometry",
+            "Perimeter, Area, and Volume",
+            "Trigonometry"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What concept does the text mention recalling from the previous grade?",
+        "choices": [
+            "Volume of spheres",
+            "Area of circles",
+            "Perimeter of rectangle and square",
+            "Surface area of cubes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following are objectives that are to be studied in the chapter?",
+        "choices": [
+            "Surface area of the shapes",
+            "Volume of irregular shapes",
+            "Area of an ellipse",
+            "Volume of cubes and cuboids"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are the children asked to calculate on a square grid?",
+        "choices": [
+            "The area of a rectangle",
+            "The volume of a square",
+            "The perimeter and area of irregular shapes",
+            "The area of a triangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a polygon defined as?",
+        "choices": [
+            "The area enclosed by the figure",
+            "The number of sides the figure has",
+            "The sum of the lengths of all its sides",
+            "The longest side of the figure"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The perimeter of a rectangle is equal to:",
+        "choices": [
+            "Length + Breadth",
+            "2 * (Length + Breadth)",
+            "Length * Breadth",
+            "2 * (Length * Breadth)"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of a square?",
+        "choices": [
+            "side * side",
+            "side + side",
+            "4 * side",
+            "side / 4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the side of a square picture frame is 11 cm, what is its perimeter?",
+        "choices": [
+            "22 cm",
+            "33 cm",
+            "44 cm",
+            "121 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the perimeter of a square field is 92 m, what is the length of its side?",
+        "choices": [
+            "20 m",
+            "23 m",
+            "46 m",
+            "368 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How do you find the perimeter of a triangle?",
+        "choices": [
+            "Multiply the lengths of all sides",
+            "Add the lengths of all three sides",
+            "Multiply the length and height",
+            "Find the area and double it"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If a rectangle has a breadth of 10cm and a perimeter of 200cm, what is its length?",
+        "choices": [
+            "80cm",
+            "90cm",
+            "100cm",
+            "110cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another name for perimeter?",
+        "choices": [
+            "Area",
+            "Volume",
+            "Circumference",
+            "Girth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The dimensions of any geometrical figure must have the same unit while calculating the?",
+        "choices": [
+            "Area",
+            "Volume",
+            "Perimeter",
+            "Angles"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of an irregular shape?",
+        "choices": [
+            "Sum of the lengths of all sides",
+            "Area + Volume",
+            "Length * Breadth",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The amount of surface enclosed by a closed figure is called its:",
+        "choices": [
+            "Perimeter",
+            "Area",
+            "Volume",
+            "Shape"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The area of a rectangle is equal to:",
+        "choices": [
+            "Length + Breadth",
+            "2 x (Length + Breadth)",
+            "Length x Breadth",
+            "Length / Breadth"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The area of a rectangle is expressed in:",
+        "choices": [
+            "cm, m, km",
+            "cm\u00b2, m\u00b2, km\u00b2",
+            "cm\u00b3, m\u00b3, km\u00b3",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "1 meter is equal to how many centimeters?",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "1 m\u00b2 is equal to how many cm\u00b2?",
+        "choices": [
+            "100",
+            "1000",
+            "10000",
+            "10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of the rectangle with length 35cm and breadth 28cm?",
+        "choices": [
+            "63 cm",
+            "126 cm",
+            "980 cm",
+            "120 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of the rectangle with length 14.5cm and breadth 8.8cm?",
+        "choices": [
+            "23.3 cm",
+            "46.6 cm",
+            "127.6 cm",
+            "20 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of square whose side is 50.2 cm?",
+        "choices": [
+            "100.4 cm",
+            "200.8 cm",
+            "2520.04 cm",
+            "100 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of the square whose side is 98 cm?",
+        "choices": [
+            "196 cm",
+            "392 cm",
+            "9604 cm",
+            "96 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the breadth of a rectangle when perimeter is 39.92 inches and length is 11.69 inches.",
+        "choices": [
+            "8.27 inches",
+            "28.23 inches",
+            "16.54 inches",
+            "51.61 inches"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The area of a square is expressed in:",
+        "choices": [
+            "cm",
+            "m",
+            "km",
+            "All of the above, with square unit"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "If the perimeter of a square chessboard is 120 cm, then the side of the chessboard is:",
+        "choices": [
+            "20 cm",
+            "30 cm",
+            "40 cm",
+            "50 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the side of square chessboard is 30 cm, then the area of the chessboard is:",
+        "choices": [
+            "600 cm\u00b2",
+            "900 cm\u00b2",
+            "1200 cm\u00b2",
+            "1500 cm\u00b2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The area of the half of a square is given by:",
+        "choices": [
+            "side x side",
+            "1/2 x side x side",
+            "length x breadth",
+            "1/2 x length x breadth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Each half of a square, which has been divided into half along the diagonal, is a:",
+        "choices": [
+            "Right-angled triangle",
+            "Equilateral triangle",
+            "Isosceles triangle",
+            "Scalene triangle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Area of each right-angled triangle of a square, when divided along the diagonal is:",
+        "choices": [
+            "1/4 x area of the square",
+            "1/3 x area of the square",
+            "1/2 x area of the square",
+            "2 x area of the square"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Each half of a rectangle, which has been divided into half along the diagonal, is a:",
+        "choices": [
+            "Right-angled triangle",
+            "Equilateral triangle",
+            "Isosceles triangle",
+            "Scalene triangle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If you need to find area of irregular shapes what should you do:",
+        "choices": [
+            "Trace the outline of the irregular shape on a graph sheet",
+            "Count the number of squares fully enclosed",
+            "Count the number of squares half enclosed",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Area of each right-angled triangle of a rectangle, when divided along the diagonal is:",
+        "choices": [
+            "1/4 x area of the rectangle",
+            "1/3 x area of the rectangle",
+            "1/2 x area of the rectangle",
+            "2 x area of the rectangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, how many half-filled squares are equal to one completely filled square?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of a rectangle with length 9 cm and breadth 5 cm?",
+        "choices": [
+            "14 sq cm",
+            "45 sq cm",
+            "28 sq cm",
+            "95 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of a rectangle with length 13 cm and breadth 8 cm?",
+        "choices": [
+            "21 sq cm",
+            "104 sq cm",
+            "42 sq cm",
+            "138 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of a rectangle with length 15 cm and breadth 9 cm?",
+        "choices": [
+            "24 sq cm",
+            "135 sq cm",
+            "48 sq cm",
+            "159 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of a square with a side of 10m?",
+        "choices": [
+            "10 m^2",
+            "20 m^2",
+            "100 m^2",
+            "40 m^2"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the area of a square with a side of 19m?",
+        "choices": [
+            "38 m^2",
+            "361 m^2",
+            "76 m^2",
+            "190 m^2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of a square with a side of 2.5m?",
+        "choices": [
+            "5 m^2",
+            "6.25 m^2",
+            "10 m^2",
+            "50 m^2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the length of a rectangular park whose area is 672 m\u00b2 and breadth is 21 m?",
+        "choices": [
+            "32 m",
+            "651 m",
+            "693 m",
+            "14112 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the area of a rectangle with length 25 cm and breadth 21 cm?",
+        "choices": [
+            "525 sq cm",
+            "46 sq cm",
+            "52 sq cm",
+            "1050 sq cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the area of a square of side 22 cm.",
+        "choices": [
+            "44 sq cm",
+            "484 sq cm",
+            "88 sq cm",
+            "222 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of a square is 34 m. Find its area.",
+        "choices": [
+            "8.5 sq m",
+            "289 sq m",
+            "72.25 sq m",
+            "136 sq m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A cuboid is a three-dimensional figure with how many rectangular faces?",
+        "choices": [
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many edges does a cube have?",
+        "choices": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The amount of space enclosed by a cuboid is called its:",
+        "choices": [
+            "Area",
+            "Perimeter",
+            "Volume",
+            "Surface Area"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A cube is a special type of cuboid whose:",
+        "choices": [
+            "Length and breadth are equal",
+            "Breadth and height are equal",
+            "Length, breadth and height are equal",
+            "It has no special characteristics"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The unit of volume is expressed in:",
+        "choices": [
+            "Square centimetres (cm\u00b2)",
+            "Centimetres (cm)",
+            "Cubic centimetres (cm\u00b3)",
+            "Metres (m)"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the volume of the cubical box whose each side measures 11 cm.",
+        "choices": [
+            "121 cm\u00b3",
+            "1331 cm\u00b3",
+            "1100 cm\u00b3",
+            "11 cm\u00b3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the volume of a cuboidal box of length 25 cm, breadth 20 cm and height 15 cm.",
+        "choices": [
+            "60 cm\u00b3",
+            "600 cm\u00b3",
+            "7500 cm\u00b3",
+            "1500 cm\u00b3"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The volume of a cube is 343 m\u00b3. Find the length of its side.",
+        "choices": [
+            "6 m",
+            "7 m",
+            "8 m",
+            "9 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The volume of a cuboidal carton of length 20 m and breadth 15 m is 1800 m\u00b3. Find its height.",
+        "choices": [
+            "4 m",
+            "5 m",
+            "6 m",
+            "7 m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How much sand is needed to fill a land pit that is 10 m deep, 8 m wide and 12 m long?",
+        "choices": [
+            "960 m\u00b3",
+            "96 m\u00b3",
+            "960 cm\u00b3",
+            "96 cm\u00b3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The volume of a cuboid is four times the volume of a cube whose each edge measures 7 m. Find the volume of the cuboid.",
+        "choices": [
+            "1372 m\u00b3",
+            "1272 m\u00b3",
+            "2744 m\u00b3",
+            "343 m\u00b3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many 6 cm cubical blocks can be cut out from a cube of side 24 cm?",
+        "choices": [
+            "16",
+            "64",
+            "8",
+            "24"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A matchbox has dimensions 6 cm x 4 cm x 2 cm. What will be the volume of a packet containing 15 such matchboxes?",
+        "choices": [
+            "48 cm\u00b3",
+            "720 cm\u00b3",
+            "360 cm\u00b3",
+            "540 cm\u00b3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A tea packet measures 10 cm x 6 cm x 4 cm. How many such packets can be placed in a cardboard box of dimensions 12 cm x 10 cm x 12 cm?",
+        "choices": [
+            "6",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A water tank is 18 m long, 12 m wide and 6 m deep. How many litres of water can it hold? (Use 1 m\u00b3 = 1 kL = 1000 L)",
+        "choices": [
+            "1296 kL",
+            "1296000 litres",
+            "129600 litres",
+            "Both A & B"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Find the length of a cuboid whose volume is 480 cm\u00b3, breadth is 12 cm and height is 5 cm.",
+        "choices": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "4 cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Find the height of a cuboid whose volume is 72 cm\u00b3, length is 4 cm and breadth is 2 cm.",
+        "choices": [
+            "6 cm",
+            "9 cm",
+            "12 cm",
+            "24 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the side of a cube of volume 2197 cm\u00b3.",
+        "choices": [
+            "7 cm",
+            "11 cm",
+            "13 cm",
+            "17 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the volume of the cuboids whose dimensions are given below l = 20 cm, b = 13 cm, h = 6 cm.",
+        "choices": [
+            "1560 cm\u00b3",
+            "1580 cm\u00b3",
+            "1450 cm\u00b3",
+            "1360 cm\u00b3"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the volume of the cubes, the lengths of whose sides are given below a) 5 cm",
+        "choices": [
+            "25 cm\u00b3",
+            "150 cm\u00b3",
+            "125 cm\u00b3",
+            "135 cm\u00b3"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A square has a perimeter of 64 cm. What is its area?",
+        "choices": [
+            "16 cm\u00b2",
+            "32 cm\u00b2",
+            "256 cm\u00b2",
+            "64 cm\u00b2"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The area of a rectangle is 120 m\u00b2. If its breadth is 12 m, then its perimeter is what?",
+        "choices": [
+            "22 m",
+            "44 m",
+            "10 m",
+            "46 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A cuboidal box has a volume of 128 cubic meters. Which of the following could be the dimensions of the box?",
+        "choices": [
+            "16m x 8m x 2m",
+            "8m x 4m x 4m",
+            "16m x 2m x 2m",
+            "8m x 4m x 2m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 1 cm\u00b3 represent?",
+        "choices": [
+            "A square whose length is 1 cm",
+            "A cube whose length, breadth and height are 1 cm each.",
+            "A rectangle whose length, breadth and height are 1 cm each.",
+            "A circle whose radius is 1 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many 1 cm squares can fit in a square of area 16 cm\u00b2?",
+        "choices": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the perimeter of a rectangle?",
+        "choices": [
+            "length x breadth",
+            "2(length + breadth)",
+            "length + breadth",
+            "2(length x breadth)"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the formula for the area of a rectangle?",
+        "choices": [
+            "side x side",
+            "4 x side",
+            "length x breadth",
+            "2(length + breadth)"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the formula for the volume of a cuboid?",
+        "choices": [
+            "side x side x side",
+            "length x breadth",
+            "length x breadth x height",
+            "length + breadth + height"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the formula for the perimeter of a square?",
+        "choices": [
+            "side x side",
+            "4 x side",
+            "length x breadth",
+            "2(length + breadth)"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the formula for the area of a square?",
+        "choices": [
+            "side x side",
+            "4 x side",
+            "length x breadth",
+            "2(length + breadth)"
+        ],
+        "correctAnswer": 0
+    }
+]

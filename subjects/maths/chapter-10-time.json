@@ -1,0 +1,703 @@
+[
+    {
+        "question": "The minute hand of a clock moves ______ than the hour hand.",
+        "choices": [
+            "slower",
+            "faster",
+            "at the same speed",
+            "backwards"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The hour hand goes around the clock twice in ______ hours.",
+        "choices": [
+            "12",
+            "6",
+            "24",
+            "36"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The hour hand takes ______ hour to move from one number to another.",
+        "choices": [
+            "two",
+            "half",
+            "one",
+            "three"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The minute hand takes ______ hour to take a complete round of the clock.",
+        "choices": [
+            "one",
+            "two",
+            "half",
+            "three"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The time is read in a.m. which is ______.",
+        "choices": [
+            "post meridiem",
+            "ante meridiem",
+            "mid day",
+            "evening"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The time is read in p.m. which is ______.",
+        "choices": [
+            "ante meridiem",
+            "morning",
+            "night",
+            "post meridiem"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is one of the learning objectives of the lesson?",
+        "choices": [
+            "Learn about famous dancers",
+            "Apply the operations of addition and subtraction in solving time related facts",
+            "Draw different types of clocks",
+            "Learn about different states of India"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one of the learning objectives of the lesson?",
+        "choices": [
+            "Learn about festivals",
+            "Learn about historical events",
+            "Read time on the 24-hour clock",
+            "Learn about planets"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is one of the learning objectives of the lesson?",
+        "choices": [
+            "Convert 24-hour clock time into 12-hour clock time and vice versa",
+            "Learn about famous scientists",
+            "Learn about different languages",
+            "Learn about types of animals"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is one of the learning objectives of the lesson?",
+        "choices": [
+            "Learn about famous tourist places",
+            "Learn about different types of food",
+            "Convert time into minutes, hours, days and vice versa",
+            "Learn about famous authors"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many hours are in 1 day?",
+        "choices": [
+            "12",
+            "24",
+            "30",
+            "60"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To convert days into hours, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many minutes are in 1 hour?",
+        "choices": [
+            "24",
+            "30",
+            "60",
+            "120"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To convert hours into minutes, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many seconds are in 1 minute?",
+        "choices": [
+            "24",
+            "30",
+            "60",
+            "120"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To convert minutes into seconds, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To convert hours into days, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "To convert minutes into hours, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "To convert seconds into minutes, what operation do you perform?",
+        "choices": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many minutes are there in 3 hours?",
+        "choices": [
+            "60",
+            "120",
+            "180",
+            "240"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "3 days equals how many hours?",
+        "choices": [
+            "3",
+            "24",
+            "36",
+            "72"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 5 hours into minutes",
+        "choices": [
+            "60",
+            "120",
+            "300",
+            "360"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "1 hour 4 minutes 26 seconds equals how many seconds?",
+        "choices": [
+            "60",
+            "100",
+            "386",
+            "6426"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Midnight is expressed as how many hours in 24-hour clock?",
+        "choices": [
+            "0000 hours",
+            "1200 hours",
+            "2400 hours",
+            "12:00 a.m."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Noon is expressed as how many hours in 24-hour clock?",
+        "choices": [
+            "0000 hours",
+            "1200 hours",
+            "2400 hours",
+            "12:00 p.m."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to 24-hour format table, what is the 24-hour clock time equivalent to 8:30 a.m.?",
+        "choices": [
+            "00830 hours",
+            "0803 hours",
+            "0830 hours",
+            "1830 hours"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to 24-hour format table, what is the 24-hour clock time equivalent to 5:00 p.m.?",
+        "choices": [
+            "0500 hours",
+            "1500 hours",
+            "1700 hours",
+            "2000 hours"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the conversion table, what is 0425 hours in 12-hour clock time?",
+        "choices": [
+            "12:15 a.m.",
+            "4:25 a.m.",
+            "7:40 p.m.",
+            "11:25 p.m."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the conversion table, what is 1940 hours in 12-hour clock time?",
+        "choices": [
+            "4:25 a.m.",
+            "7:40 p.m.",
+            "12:15 a.m.",
+            "11:25 p.m."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the conversion table, what is 2325 hours in 12-hour clock time?",
+        "choices": [
+            "4:25 a.m.",
+            "7:40 p.m.",
+            "12:15 a.m.",
+            "11:25 p.m."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is 5:00 p.m. in 24-hour clock time?",
+        "choices": [
+            "0500 hours",
+            "1700 hours",
+            "1200 hours",
+            "2100 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 6:45 p.m. in 24-hour clock time?",
+        "choices": [
+            "0645 hours",
+            "1845 hours",
+            "2045 hours",
+            "1645 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 8:05 a.m. in 24-hour clock time?",
+        "choices": [
+            "0805 hours",
+            "2005 hours",
+            "0005 hours",
+            "1805 hours"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 12:59 a.m. in 24-hour clock time?",
+        "choices": [
+            "0059 hours",
+            "1259 hours",
+            "2459 hours",
+            "1359 hours"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 2:05 p.m. in 24-hour clock time?",
+        "choices": [
+            "0205 hours",
+            "1405 hours",
+            "1605 hours",
+            "2005 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 10:25 p.m. in 24-hour clock time?",
+        "choices": [
+            "1025 hours",
+            "2225 hours",
+            "1225 hours",
+            "2425 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 0400 hours in 12-hour clock time?",
+        "choices": [
+            "4:00 p.m.",
+            "4:00 a.m.",
+            "12:00 p.m.",
+            "12:00 a.m."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 1500 hours in 12-hour clock time?",
+        "choices": [
+            "3:00 p.m.",
+            "3:00 a.m.",
+            "5:00 p.m.",
+            "5:00 a.m."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 2130 hours in 12-hour clock time?",
+        "choices": [
+            "9:30 a.m.",
+            "9:30 p.m.",
+            "7:30 a.m.",
+            "7:30 p.m."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 0040 hours in 12-hour clock time?",
+        "choices": [
+            "12:40 a.m.",
+            "12:40 p.m.",
+            "1:40 a.m.",
+            "1:40 p.m."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many months does a year have?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many days are there in a leap year?",
+        "choices": [
+            "364",
+            "365",
+            "366",
+            "367"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following months has 30 days?",
+        "choices": [
+            "January",
+            "March",
+            "September",
+            "July"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many days are there in the month of February in a leap year?",
+        "choices": [
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many days are there in a week?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a period of two weeks called?",
+        "choices": [
+            "Decade",
+            "Fortnight",
+            "Century",
+            "Millennium"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "7 minutes 15 seconds + 5 minutes 35 seconds = ?",
+        "choices": [
+            "12 minutes 40 seconds",
+            "12 minutes 50 seconds",
+            "13 minutes 50 seconds",
+            "13 minutes 40 seconds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "3 hours 18 minutes 22 seconds + 2 hours 27 minutes 31 seconds = ?",
+        "choices": [
+            "5 hours 45 minutes 53 seconds",
+            "6 hours 45 minutes 53 seconds",
+            "5 hours 46 minutes 53 seconds",
+            "6 hours 46 minutes 53 seconds"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "4 minutes 54 seconds + 7 minutes 38 seconds = ?",
+        "choices": [
+            "11 minutes 32 seconds",
+            "11 minutes 42 seconds",
+            "12 minutes 32 seconds",
+            "12 minutes 42 seconds"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "5 hours 8 seconds + 2 hours 19 minutes 55 seconds = ?",
+        "choices": [
+            "7 hours 20 minutes 3 seconds",
+            "7 hours 19 minutes 53 seconds",
+            "8 hours 19 minutes 53 seconds",
+            "8 hours 20 minutes 3 seconds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following years is a leap year?",
+        "choices": [
+            "2013",
+            "2000",
+            "1960",
+            "1888",
+            "2020"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many hours are there in 7 days and 13 hours?",
+        "choices": [
+            "181 hours",
+            "168 hours",
+            "178 hours",
+            "161 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many minutes are in 11 hours and 43 minutes?",
+        "choices": [
+            "660 minutes",
+            "703 minutes",
+            "713 minutes",
+            "643 minutes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many hours are there in 720 minutes?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many minutes and seconds are in 810 seconds?",
+        "choices": [
+            "12 minutes and 30 seconds",
+            "13 minutes and 30 seconds",
+            "11 minutes and 45 seconds",
+            "14 minutes and 15 seconds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the sum of 7 hours 15 minutes and 12 hours 43 minutes?",
+        "choices": [
+            "19 hours and 58 minutes",
+            "20 hours and 58 minutes",
+            "19 hours and 48 minutes",
+            "20 hours and 48 minutes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the sum of 16 minutes 39 seconds and 18 minutes 22 seconds?",
+        "choices": [
+            "34 minutes and 51 seconds",
+            "35 minutes and 1 second",
+            "34 minutes and 1 second",
+            "35 minutes and 51 seconds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many days are there in a year?",
+        "choices": [
+            "364",
+            "365",
+            "366",
+            "367"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When does a day begin?",
+        "choices": [
+            "Sunrise",
+            "Noon",
+            "Midnight",
+            "Sunset"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What term is used for time before 12:00 hours?",
+        "choices": [
+            "p.m.",
+            "a.m.",
+            "ante meridiem",
+            "post meridiem"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many days are there in a year (excluding leap year)?",
+        "choices": [
+            "366",
+            "365",
+            "360",
+            "355"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many days are there in a leap year?",
+        "choices": [
+            "365",
+            "360",
+            "366",
+            "355"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many days are there in a week?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Subtract 18 seconds from 1 minute",
+        "choices": [
+            "42 seconds",
+            "32 seconds",
+            "52 seconds",
+            "60 seconds"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 2210 hours in 12 hour clock format?",
+        "choices": [
+            "10:10 PM",
+            "8:10 PM",
+            "7:10 PM",
+            "10:10 AM"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 0000 hours in 12 hour clock format?",
+        "choices": [
+            "12:00 AM",
+            "12:00 PM",
+            "1:00 AM",
+            "1:00 PM"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 1200 hours in 12 hour clock format?",
+        "choices": [
+            "12:00 AM",
+            "12:00 PM",
+            "1:00 AM",
+            "1:00 PM"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Sanjay slept from 10:00 p.m. to 6 a.m. How many hours did he sleep?",
+        "choices": [
+            "6 hours",
+            "7 hours",
+            "8 hours",
+            "9 hours"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many minutes are there in a week?",
+        "choices": [
+            "10,080",
+            "1,440",
+            "420",
+            "60"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If Rashmi's school bus arrives at her home at 7:45 a.m. If she eats her breakfast in 20 minutes, what time should she begin eating latest by?",
+        "choices": [
+            "8:05 AM",
+            "7:25 AM",
+            "7:65 AM",
+            "7:15 AM"
+        ],
+        "correctAnswer": 1
+    }
+]

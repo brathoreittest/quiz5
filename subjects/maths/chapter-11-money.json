@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the method of finding the value of one article on the basis of the given information called?",
+        "choices": [
+            "Division Method",
+            "Multiplication Method",
+            "Unitary Method",
+            "Cost Price Method"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the cost of a number of articles is given, how do you find the cost of one article?",
+        "choices": [
+            "Multiplication",
+            "Division",
+            "Addition",
+            "Subtraction"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what mathematical operations are used to calculate the amount of money to be paid for articles?",
+        "choices": [
+            "Addition only",
+            "Multiplication only",
+            "Addition, subtraction, multiplication, and division",
+            "Subtraction and division only"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the cost of 1 article is given, how do you find the cost of a number of articles?",
+        "choices": [
+            "Division",
+            "Multiplication",
+            "Subtraction",
+            "Addition"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what operation should be used if the value of one is asked?",
+        "choices": [
+            "Multiplication",
+            "Addition",
+            "Division",
+            "Subtraction"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If a packet of 10 colour pencils costs \u20b935, how much will one colour pencil cost?",
+        "choices": [
+            "\u20b9 3.0",
+            "\u20b9 3.5",
+            "\u20b9 4.0",
+            "\u20b9 4.5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The cost of 1 metre long cloth is \u20b930. How much will 7 metres of the same cloth cost?",
+        "choices": [
+            "\u20b9 200",
+            "\u20b9 210",
+            "\u20b9 220",
+            "\u20b9 230"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A car travels 360 kilometers in 6 hours. How far can it travel in 10 hours?",
+        "choices": [
+            "500 kilometers",
+            "600 kilometers",
+            "700 kilometers",
+            "400 kilometers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should be done if the value of one is neither asked nor given in a problem?",
+        "choices": [
+            "Guess the value of one.",
+            "Find the value of one and then proceed.",
+            "Ignore the problem.",
+            "Use a different method."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, finding the value of one and then proceeding towards the given question is called?",
+        "choices": [
+            "Division Method",
+            "Multiplication Method",
+            "Unitary Method",
+            "Trial and Error Method"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the formula to calculate Profit?",
+        "choices": [
+            "Profit = C.P. - S.P.",
+            "Profit = S.P. + C.P.",
+            "Profit = S.P. - C.P.",
+            "Profit = C.P. * S.P."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the formula to calculate Selling Price (S.P.) when Cost Price (C.P.) and Profit are given?",
+        "choices": [
+            "S.P. = C.P. - Profit",
+            "S.P. = C.P. * Profit",
+            "S.P. = C.P. + Profit",
+            "S.P. = Profit - C.P."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the formula to calculate Cost Price (C.P.) when Selling Price (S.P.) and Profit are given?",
+        "choices": [
+            "C.P. = S.P. + Profit",
+            "C.P. = S.P. - Profit",
+            "C.P. = S.P. * Profit",
+            "C.P. = Profit - S.P."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are the additional expenses like transportation, labor, and maintenance called, which are added to the Cost Price?",
+        "choices": [
+            "Discounted Charges",
+            "Overhead Charges",
+            "Main Charges",
+            "Bonus Charges"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the total cost price formula?",
+        "choices": [
+            "Total C.P. = C.P. of the article - Overhead charges",
+            "Total C.P. = C.P. of the article * Overhead charges",
+            "Total C.P. = C.P. of the article + Overhead charges",
+            "Total C.P. = C.P. of the article / Overhead charges"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A car covers 50 km in 1 hour. Find the distance covered by the same car in 45 minutes.",
+        "choices": [
+            "25 km",
+            "37.5 km",
+            "40 km",
+            "50 km"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The cost of 5 kg mangoes is \u20b9 200. How many kg of mangoes can be purchased for \u20b9 300?",
+        "choices": [
+            "6.5 kg",
+            "7 kg",
+            "7.5 kg",
+            "8 kg"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If 6 chairs cost \u20b9 3390, find the cost of 10 such chairs.",
+        "choices": [
+            "\u20b9 5650",
+            "\u20b9 5600",
+            "\u20b9 5550",
+            "\u20b9 5700"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A parcel weighs 35 kg. How many parcels would weigh 2100 kg?",
+        "choices": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A worker is paid \u20b9 4507.50 for 15 days. How much would he be paid for 25 days?",
+        "choices": [
+            "\u20b9 7612.50",
+            "\u20b9 7512.50",
+            "\u20b9 7550.00",
+            "\u20b9 7600.00"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the selling price of an item is less than its cost price, then there is a:",
+        "choices": [
+            "Profit",
+            "Loss",
+            "Neither profit nor loss",
+            "Gain"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The formula to calculate Loss is:",
+        "choices": [
+            "S.P. - C.P.",
+            "C.P. + S.P.",
+            "C.P. - S.P.",
+            "S.P. + C.P."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The formula to calculate Cost Price (C.P.) when Selling Price (S.P.) and Loss are given is:",
+        "choices": [
+            "S.P. - Loss",
+            "S.P. + Loss",
+            "Loss - S.P.",
+            "C.P. - Loss"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the Cost Price and Selling Price are equal, then there is:",
+        "choices": [
+            "Profit",
+            "Loss",
+            "Neither profit nor loss",
+            "Always profit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If C.P. is \u20b9360 and S.P. is \u20b9400, then there is a:",
+        "choices": [
+            "Profit",
+            "Loss",
+            "No profit or loss",
+            "Insufficient data"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In Real Life example, how much profit did the shopkeeper earn by selling the oven.",
+        "choices": [
+            "\u20b9200",
+            "\u20b9300",
+            "\u20b9500",
+            "\u20b91000"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Total Cost Price = Cost Price of Article + ?",
+        "choices": [
+            "S.P.",
+            "Profit",
+            "Overheads",
+            "Loss"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the S.P if C.P = 835 and Profit = 65?",
+        "choices": [
+            "900",
+            "770",
+            "800",
+            "950"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the C.P if S.P. is \u20b9 3057 and Profit is \u20b9 569?",
+        "choices": [
+            "\u20b92488",
+            "\u20b93626",
+            "\u20b92500",
+            "\u20b93600"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Garment Store bought 50 shirts at 400 and sold them at a loss of 1600, What was the S.P of one shirt?",
+        "choices": [
+            "400",
+            "368",
+            "370",
+            "360"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "An article was bought for \u20b980 and sold for \u20b990. What is the profit?",
+        "choices": [
+            "\u20b95",
+            "\u20b910",
+            "\u20b915",
+            "\u20b920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the selling price is more than the cost price, then there is a:",
+        "choices": [
+            "Loss",
+            "Profit",
+            "No profit no loss",
+            "None of these"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the cost price is more than the selling price, then there is a:",
+        "choices": [
+            "Loss",
+            "Profit",
+            "No profit no loss",
+            "None of these"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "An article costing \u20b975 is sold for \u20b9135. The profit earned is:",
+        "choices": [
+            "\u20b935",
+            "\u20b975",
+            "\u20b960",
+            "\u20b965"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A trader bought an almirah for \u20b915,000 and gained \u20b9923 by selling it. What is the selling price of the almirah?",
+        "choices": [
+            "\u20b914,077",
+            "\u20b915,923",
+            "\u20b916,000",
+            "\u20b914,000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "By selling a scooter for \u20b934,000, Ravi incurred a loss of \u20b97,302. What was the cost price of the scooter?",
+        "choices": [
+            "\u20b941,302",
+            "\u20b926,698",
+            "\u20b934,000",
+            "\u20b97,302"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which is a better deal, a dozen eggs for \u20b978 or 5 eggs for \u20b935?",
+        "choices": [
+            "A dozen eggs for \u20b978",
+            "5 eggs for \u20b935",
+            "Both are the same",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rohit bought a stereo for \u20b95,863. Due to some defects in it, he had to pay \u20b9137 to the mechanic for its repair. He then sold it for \u20b95,700. Find his loss.",
+        "choices": [
+            "\u20b9200",
+            "\u20b9300",
+            "\u20b9400",
+            "\u20b9500"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Unitary Method is the method in which the value of _____ is calculated first:",
+        "choices": [
+            "all objects",
+            "required objects",
+            "one object",
+            "none of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A taxi charges a passenger \u20b9420 for travelling 35 km. How much will the taxi charge for travelling 23 km?",
+        "choices": [
+            "\u20b9276",
+            "\u20b9350",
+            "\u20b9420",
+            "\u20b9300"
+        ],
+        "correctAnswer": 0
+    }
+]

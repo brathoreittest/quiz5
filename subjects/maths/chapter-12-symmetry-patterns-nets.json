@@ -1,0 +1,422 @@
+[
+    {
+        "question": "What is the line that divides a figure into two identical halves called?",
+        "choices": [
+            "Diagonal Line",
+            "Line of Symmetry",
+            "Parallel Line",
+            "Perpendicular Line"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If a shape cannot be divided into two identical halves, what is it called?",
+        "choices": [
+            "Symmetrical",
+            "Asymmetrical",
+            "Congruent",
+            "Similar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following letters has horizontal symmetry?",
+        "choices": [
+            "T",
+            "M",
+            "E",
+            "X"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following letters has vertical symmetry?",
+        "choices": [
+            "E",
+            "B",
+            "O",
+            "M"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following letters has both vertical and horizontal symmetry?",
+        "choices": [
+            "T",
+            "M",
+            "E",
+            "O"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following letters has no line of symmetry?",
+        "choices": [
+            "X",
+            "O",
+            "Q",
+            "T"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the left portion of a shape is exactly the same as the right portion, which type of line of symmetry does it have?",
+        "choices": [
+            "Horizontal",
+            "Vertical",
+            "Diagonal",
+            "No symmetry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the top portion of a shape is exactly the same as the bottom portion, which type of line of symmetry does it have?",
+        "choices": [
+            "Vertical",
+            "Horizontal",
+            "Diagonal",
+            "No symmetry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of symmetry in daily life?",
+        "choices": [
+            "Shape of a leaf",
+            "Random numbers",
+            "Drawing a 3D object",
+            "Making 3D shapes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When is a figure considered symmetrical?",
+        "choices": [
+            "When it can be folded into two identical halves",
+            "When it has different shapes",
+            "When it has multiple colors",
+            "When it has no pattern"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is tessellation also called?",
+        "choices": [
+            "Reflection",
+            "Symmetry",
+            "Tiling",
+            "Transformation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a tessellation created by?",
+        "choices": [
+            "Overlapping shapes",
+            "Gaps between shapes",
+            "Repeated plane shapes covering a surface without gaps or overlaps",
+            "Randomly arranged shapes"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is reflection in 2-D shapes?",
+        "choices": [
+            "Changing its shape or size",
+            "Repeating shape",
+            "Transformation operation that flips a figure over a line without changing its shape or size",
+            "Moving shape"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Reflection symmetry is also known as?",
+        "choices": [
+            "Shape transformation",
+            "Mirror symmetry",
+            "Plane symmetry",
+            "Solid symmetry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happens when a solid has reflection symmetry?",
+        "choices": [
+            "It can be divided into equal parts with different shape",
+            "It becomes smaller",
+            "It becomes bigger",
+            "It can be divided into two identical halves by a plane of reflection"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What happens when you place a mirror along the plane of symmetry of a solid?",
+        "choices": [
+            "The solid's reflection will be distorted",
+            "The solid's reflection will perfectly match the original shape",
+            "The solid's reflection will disappear",
+            "The solid's reflection will change color"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What property does a shape have if it remains unchanged after rotation by a certain angle?",
+        "choices": [
+            "Reflection symmetry",
+            "Rotational symmetry",
+            "Translational symmetry",
+            "Glide reflection symmetry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A 3-D shape that possesses infinite rotational symmetry is a:",
+        "choices": [
+            "Cube",
+            "Cylinder",
+            "Sphere",
+            "Pyramid"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do we call the numbers 3, 6, 10, and 15?",
+        "choices": [
+            "Square numbers",
+            "Prime numbers",
+            "Triangular numbers",
+            "Composite numbers"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the numbers 1, 4, 9, and 16 called?",
+        "choices": [
+            "Triangular numbers",
+            "Square numbers",
+            "Cube numbers",
+            "Natural numbers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is created when a shape is turned through different angles?",
+        "choices": [
+            "New shapes and sizes",
+            "Different patterns",
+            "The shape disappears",
+            "The shape becomes a straight line"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What fraction of a full turn does a quarter turn represent?",
+        "choices": [
+            "1/2",
+            "1/3",
+            "1/4",
+            "1/8"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "1234 x 9 + 5 =",
+        "choices": [
+            "11111",
+            "11110",
+            "11112",
+            "11101"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "12345 x 9 + 6 =",
+        "choices": [
+            "111111",
+            "111110",
+            "111112",
+            "111010"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is formed when shapes, numbers, or letters are repeated in a specific order or according to a rule?",
+        "choices": [
+            "A sequence",
+            "A tessellation",
+            "A pattern",
+            "An algorithm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of symmetry is shown by a cube with a vertical plane passing through the center?",
+        "choices": [
+            "Rotational symmetry",
+            "Reflection symmetry",
+            "Asymmetry",
+            "Translational Symmetry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Shapes with two dimensions (length and breadth) are called:",
+        "choices": [
+            "3-Dimensional shapes",
+            "2-Dimensional shapes",
+            "Solid shapes",
+            "Nets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of a 2-D shape?",
+        "choices": [
+            "Cuboid",
+            "Cone",
+            "Square",
+            "Cube"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Shapes with three dimensions (length, breadth, and height) are called:",
+        "choices": [
+            "2-Dimensional shapes",
+            "Solid Shapes",
+            "3-Dimensional shapes",
+            "Nets"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of a 3-D shape?",
+        "choices": [
+            "Rectangle",
+            "Triangle",
+            "Cuboid",
+            "Square"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a net?",
+        "choices": [
+            "A 3-D shape",
+            "A 2-D shape that can be folded to form a 3-D shape",
+            "A type of fishing equipment",
+            "The surface of a 3-D shape"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 6, 16, 26, 36, ...?",
+        "choices": [
+            "42",
+            "46",
+            "56",
+            "66"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 7, 9, 11, 13, ...?",
+        "choices": [
+            "14",
+            "15",
+            "16",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 9, 16, 23, ...?",
+        "choices": [
+            "24",
+            "30",
+            "37",
+            "38"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 10, 15, 20, 25, ...?",
+        "choices": [
+            "30",
+            "35",
+            "40",
+            "45"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Consider the following pattern: 1 x 1 = 11. 11 x 11 = 121. What is the next expression in this pattern?",
+        "choices": [
+            "111 x 111 = 12121",
+            "111 x 111 = 11111",
+            "111 x 111 = 12321",
+            "111 x 111 = 1331"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A tessellation is created when a plane shape(s) is/are repeated over and over again, covering a surface with ______.",
+        "choices": [
+            "gaps",
+            "overlap",
+            "no gap or overlap",
+            "none of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When shapes, letters or numbers are repeated in a specific order according to a rule, a sequence is formed which is called a ________.",
+        "choices": [
+            "pattern",
+            "line",
+            "shape",
+            "number"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A net is a _____ shape that can be folded to form a _____ shape.",
+        "choices": [
+            "2-D, 3-D",
+            "3-D, 2-D",
+            "2-D, 2-D",
+            "3-D, 3-D"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When a figure is folded into two halves such that both the halves are identical, then the figure is said to be ______.",
+        "choices": [
+            "similar",
+            "symmetrical",
+            "identical",
+            "equal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The line which divides the figure into two identical halves is called the ______.",
+        "choices": [
+            "bisector",
+            "line of symmetry",
+            "equal line",
+            "diameter"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following numbers is both a square number and a triangular number?",
+        "choices": [
+            "55",
+            "49",
+            "36",
+            "None of these"
+        ],
+        "correctAnswer": 3
+    }
+]
