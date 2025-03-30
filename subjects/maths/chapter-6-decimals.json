@@ -1,0 +1,950 @@
+[
+    {
+        "question": "The terms tenths, hundredths and thousandths are related to?",
+        "choices": [
+            "Fractions",
+            "Integers",
+            "Decimals",
+            "Percentages"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What concept will be understood using a decimal place value chart?",
+        "choices": [
+            "The addition of decimal numbers",
+            "The place value of decimal numbers",
+            "The subtraction of decimal numbers",
+            "The division of decimal numbers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Fractions can be converted to?",
+        "choices": [
+            "Integers",
+            "Decimals",
+            "Percentages",
+            "All of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the term 'vice-versa' mean in the context of converting fractions into decimals?",
+        "choices": [
+            "Only fractions can be converted to decimals",
+            "Only decimals can be converted to fractions",
+            "Fractions can be converted to decimals and decimals to fractions",
+            "Fractions cannot be converted to decimals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Expansion of what type of numbers will be practiced?",
+        "choices": [
+            "Integers",
+            "Whole numbers",
+            "Decimal numbers",
+            "Fractions"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is true?",
+        "choices": [
+            "0.5, 0.50 and 0.500 are like decimals",
+            "1.250 and 1.25 represent the same decimal numbers",
+            "Both of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "4.  3 and 4.03 can be converted into like decimals?",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The decimal point moves towards the _______ while multiplying or dividing with 10,100,1000 and so on, respectively.",
+        "choices": [
+            "Up or Down",
+            "Right or Left",
+            "Left only",
+            "Right only"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 4 \u00f7 _______ = 0.04",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "0.1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 7.456 x _______ = 745.6",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "0.1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the appropriate sign for the boxes below: 10.8  \u25a2 108/10",
+        "choices": [
+            ">",
+            "<",
+            "=",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Choose the appropriate sign for the boxes below: 0.5 \u25a2 9/10",
+        "choices": [
+            ">",
+            "<",
+            "=",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the appropriate sign for the boxes below: 7.5 \u25a2 5/2",
+        "choices": [
+            ">",
+            "<",
+            "=",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Choose the appropriate sign for the boxes below: 0.2 \u25a2 0.02",
+        "choices": [
+            ">",
+            "<",
+            "=",
+            "None of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If the order of the decimals being added is changed, the sum does _______ change",
+        "choices": [
+            "Not",
+            "Always",
+            "Sometimes",
+            "Never"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A fraction in which the denominator is 10, 100, 1000,... is called a _______ fraction.",
+        "choices": [
+            "Proper",
+            "Improper",
+            "Decimal",
+            "Mixed"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 1/10 written in decimal form?",
+        "choices": [
+            "0.01",
+            "0.1",
+            "1.0",
+            "10.0"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The point in 0.1 is called the _______.",
+        "choices": [
+            "Decimal number",
+            "Decimal part",
+            "Decimal point",
+            "Whole number"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How is 0.4 read?",
+        "choices": [
+            "Zero point one",
+            "Zero point four",
+            "Four point zero",
+            "One point zero"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How is 0.6 read?",
+        "choices": [
+            "Zero point one",
+            "Zero point four",
+            "Zero point six",
+            "Six point zero"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal representation of 3/10?",
+        "choices": [
+            "0.03",
+            "0.3",
+            "3.0",
+            "30.0"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How to write 9.5 in words?",
+        "choices": [
+            "Nine point zero",
+            "Zero point nine",
+            "Nine point five",
+            "Five point nine"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How to write 4.9 in words?",
+        "choices": [
+            "Four point zero",
+            "Zero point four",
+            "Four point nine",
+            "Nine point four"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How to write 3.1 in words?",
+        "choices": [
+            "Three point zero",
+            "Zero point three",
+            "Three point one",
+            "One point three"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How to write Zero point four in decimals?",
+        "choices": [
+            "4.0",
+            "0.04",
+            "0.4",
+            "0.40"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal representation of one-hundredth?",
+        "choices": [
+            "0.1",
+            "0.001",
+            "0.01",
+            "1.00"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal representation of one-thousandth?",
+        "choices": [
+            "0.1",
+            "0.01",
+            "0.0001",
+            "0.001"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many hundredths are equal to one tenth?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the number 3.25, what is the place value of the digit 5?",
+        "choices": [
+            "Tenths",
+            "Ones",
+            "Hundredths",
+            "Thousands"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the number 145.106, what digit is in the tenths place?",
+        "choices": [
+            "1",
+            "4",
+            "5",
+            "0"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the number 145.106, what digit is in the thousandths place?",
+        "choices": [
+            "1",
+            "0",
+            "5",
+            "6"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the number 24.079, what digit is in the tenths place?",
+        "choices": [
+            "2",
+            "4",
+            "0",
+            "7"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the number 24.079, what digit is in the hundredths place?",
+        "choices": [
+            "2",
+            "4",
+            "0",
+            "7"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many thousandths are equal to one hundredth?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is the value of the 'hundreds' place?",
+        "choices": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the place value chart, if we move one place to the left, the place value becomes:",
+        "choices": [
+            "10 times smaller",
+            "10 times greater",
+            "100 times greater",
+            "100 times smaller"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the place value chart, if we move one place to the right, the place value becomes:",
+        "choices": [
+            "10 times smaller",
+            "10 times greater",
+            "100 times greater",
+            "100 times smaller"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What two parts does a decimal number consist of?",
+        "choices": [
+            "Numerator and denominator",
+            "Fractional part and decimal part",
+            "Whole number part and fractional part",
+            "Whole number part and decimal part"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How is 5.9 read, according to the image?",
+        "choices": [
+            "Five point nine",
+            "Five and nine tenths",
+            "Fifty-nine",
+            "Five point ninety"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How is 0.13 read, according to the image?",
+        "choices": [
+            "Thirteen tenths",
+            "Zero point thirteen",
+            "Thirteen hundredths",
+            "Zero and thirteen hundredths"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal form of 6/10?",
+        "choices": [
+            "6.0",
+            "0.06",
+            "0.6",
+            "60"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal form of 15/1000?",
+        "choices": [
+            "1.5",
+            "0.15",
+            "0.015",
+            "0.0015"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert 4/5 to a decimal.",
+        "choices": [
+            "0.4",
+            "0.5",
+            "0.6",
+            "0.8"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 3/4 to a decimal.",
+        "choices": [
+            "0.25",
+            "0.50",
+            "0.75",
+            "1.33"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the decimal form of 5/8?",
+        "choices": [
+            "0.500",
+            "0.625",
+            "0.750",
+            "0.800"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Decimals having the same number of decimal places are called:",
+        "choices": [
+            "Unlike decimals",
+            "Like decimals",
+            "Equal decimals",
+            "Normal decimals"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of unlike decimals?",
+        "choices": [
+            "5.45, 17.04, 272.89",
+            "7.5, 23.16, 31.054",
+            "7.500, 23.160, 31.054",
+            "None of the above"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Unlike decimals can be converted into like decimals by:",
+        "choices": [
+            "Subtracting zeros after the last digit",
+            "Adding zeros before the first digit",
+            "Adding zeros after the last digit",
+            "Multiplying by 10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When comparing decimals, which part should be compared first?",
+        "choices": [
+            "Decimal part",
+            "Tenths place",
+            "Whole number part",
+            "Hundredths place"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If the whole number parts of decimals are the same, then compare:",
+        "choices": [
+            "Digits at the tenths place",
+            "Digits at the hundredths place",
+            "Digits at the thousandths place",
+            "All of the above"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 6/10 into decimal:",
+        "choices": [
+            "0.06",
+            "0.6",
+            "6.0",
+            "0.006"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 7/100 into decimal:",
+        "choices": [
+            "0.7",
+            "0.07",
+            "7.0",
+            "0.007"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the decimal form of 12/10?",
+        "choices": [
+            "0.12",
+            "1.2",
+            "12.0",
+            "0.012"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the fractional form representing 6 in 2.816?",
+        "choices": [
+            "6/10",
+            "6/100",
+            "6/1000",
+            "6/1"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In 2.816, which digit is at the hundredths place?",
+        "choices": [
+            "2",
+            "8",
+            "1",
+            "6"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Expand 3.5 in fractional form.",
+        "choices": [
+            "3 + 5/10",
+            "3 + 5/100",
+            "3 + 5/1000",
+            "3 + 1/2"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Expand 6.27 in fractional form.",
+        "choices": [
+            "6 + 27/10",
+            "6 + 2/10 + 7/100",
+            "6 + 2/100 + 7/1000",
+            "6 + 27/1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Expand 25.51 in fractional form.",
+        "choices": [
+            "25 + 51/10",
+            "25 + 51/100",
+            "25 + 5/10 + 1/100",
+            "20 + 5 + 5/10 + 1/1000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Expand 13.3 in the decimal form.",
+        "choices": [
+            "10+3+0.3",
+            "10+3+0.03",
+            "10+0.3+0.03",
+            "10+3+3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Expand 82.26 in the decimal form.",
+        "choices": [
+            "80+2+0.2+0.6",
+            "80+2+0.2+0.06",
+            "80+2+0.02+0.06",
+            "80+20+0.2+0.06"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Expand 1.586 in the decimal form.",
+        "choices": [
+            "1+0.5+0.8+0.06",
+            "1+0.5+0.08+0.006",
+            "1+0.05+0.08+0.006",
+            "1+0.5+0.8+0.006"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert the unlike decimals 26.36 and 0.9 to like decimals.",
+        "choices": [
+            "26.36, 0.90",
+            "26.360, 0.90",
+            "26.36, 0.09",
+            "26.360, 0.900"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert the unlike decimals 18.235 and 9.05 to like decimals.",
+        "choices": [
+            "18.235, 9.05",
+            "18.235, 9.050",
+            "18.2350, 9.05",
+            "18.2350, 9.050"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Compare the following decimals: 3.67 and 36.7",
+        "choices": [
+            "3.67 > 36.7",
+            "3.67 < 36.7",
+            "3.67 = 36.7",
+            "Cannot be compared"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Compare the following decimals: 3.43 and 3.430",
+        "choices": [
+            "3.43 > 3.430",
+            "3.43 < 3.430",
+            "3.43 = 3.430",
+            "Cannot be compared"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Nidhi bought tomatoes, chicken and onions. The respective masses of these items were 2.12 kg, 1.45 kg and 3.19 kg. What is the total mass of the items bought?",
+        "choices": [
+            "5.76 kg",
+            "6.76 kg",
+            "7.76 kg",
+            "8.76 kg"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A mixture is obtained by mixing two products, A and B. Product A weighs 234.56 g and the mixture weighs 988.76 g. How much does product B weigh?",
+        "choices": [
+            "754.2 g",
+            "1223.32 g",
+            "754.22 g",
+            "1223.22 g"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Aditya's house is 12.53 km away from the park and 16.73 km away from his school. The park is on the way to the school from his house. How far is Aditya's school from the park?",
+        "choices": [
+            "4.2 km",
+            "29.26 km",
+            "5.2 km",
+            "28.26 km"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Subtract 0.8 from 5.4.",
+        "choices": [
+            "5.4",
+            "4.6",
+            "6.2",
+            "6"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Take away 24.23 from 78.3.",
+        "choices": [
+            "102.53",
+            "54.07",
+            "54.1",
+            "54.09"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the difference between 365.523 and 500.",
+        "choices": [
+            "134.477",
+            "144.477",
+            "134.476",
+            "144.476"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Paavni daily spends 1.25 hours for studying English, 1.40 hours for Math and 0.35 hours for Science. How many hours does she study daily?",
+        "choices": [
+            "2 hours",
+            "3 hours",
+            "2.5 hours",
+            "3.5 hours"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rahul measures a triangular plate whose sides are 12.4 inches, 9.45 inches and 10.35 inches, respectively. What is the total length of the plate?",
+        "choices": [
+            "31.2 inches",
+            "32.2 inches",
+            "33.2 inches",
+            "34.2 inches"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate: 6.10 + 8.543",
+        "choices": [
+            "14.643",
+            "14.543",
+            "14.64",
+            "13.643"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Calculate: 18.1 + 5.702",
+        "choices": [
+            "23.802",
+            "23.820",
+            "23.702",
+            "24.802"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 8.3 x 8?",
+        "choices": [
+            "64.4",
+            "66.4",
+            "65.4",
+            "67.4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the product of 19.5 x 14?",
+        "choices": [
+            "273",
+            "274",
+            "272",
+            "271"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the product of 0.17 x 0.54?",
+        "choices": [
+            "0.0918",
+            "0.918",
+            "9.18",
+            "0.00918"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 492.05 x 1000?",
+        "choices": [
+            "4920.5",
+            "49205",
+            "492050",
+            "492.05"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the result of 128.3 x 100?",
+        "choices": [
+            "12830",
+            "12.83",
+            "1283",
+            "1.283"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of 148.05 x 10?",
+        "choices": [
+            "148.05",
+            "14.805",
+            "1480.5",
+            "14805"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If 2.34 x 4.89 = 11.4426, then what is the value of 23.4 x 48.9?",
+        "choices": [
+            "11.4426",
+            "1144.26",
+            "114.426",
+            "1.14426"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If 2.34 x 4.89 = 11.4426, then what is the value of 0.234 x 0.489?",
+        "choices": [
+            "1.14426",
+            "0.114426",
+            "0.0114426",
+            "11.4426"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "89.929 = 0.89929 x ____",
+        "choices": [
+            "10",
+            "100",
+            "1000",
+            "0.1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "5.05 x 3 = 50.5 x ____",
+        "choices": [
+            "0.3",
+            "3",
+            "0.03",
+            "1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the decimal form of 6/10?",
+        "choices": [
+            "0.06",
+            "0.6",
+            "6.0",
+            "1.6"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the decimal form of 7/8?",
+        "choices": [
+            "0.78",
+            "0.875",
+            "0.87",
+            "7.8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the decimal form of 6/40?",
+        "choices": [
+            "0.15",
+            "0.64",
+            "0.46",
+            "0.06"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the decimal form of 98/1000?",
+        "choices": [
+            "0.98",
+            "0.098",
+            "0.0098",
+            "9.8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Express 17.75 as a fraction.",
+        "choices": [
+            "1775/10",
+            "1775/100",
+            "1775/1000",
+            "1775/1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Express 43.8 as a fraction.",
+        "choices": [
+            "438/10",
+            "438/100",
+            "438/1000",
+            "438/1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Express 156.313 as a fraction.",
+        "choices": [
+            "156313/10",
+            "156313/100",
+            "156313/1000",
+            "156313/1"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Express 30.05 as a fraction.",
+        "choices": [
+            "3005/10",
+            "3005/100",
+            "3005/1000",
+            "3005/1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the sum of 10.3, 14.519 and 45.08.",
+        "choices": [
+            "69.899",
+            "69.889",
+            "69.90",
+            "69.00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Calculate 86.08 - 17.976 + 97.5",
+        "choices": [
+            "165.604",
+            "165.594",
+            "165.614",
+            "165.00"
+        ],
+        "correctAnswer": 0
+    }
+]
