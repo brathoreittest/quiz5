@@ -1,0 +1,916 @@
+[
+    {
+        "question": "What is the main topic of the chapter?",
+        "choices": [
+            "Algebra",
+            "Geometry",
+            "Arithmetic",
+            "Trigonometry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tool is used to measure a given angle?",
+        "choices": [
+            "Ruler",
+            "Protractor",
+            "Compass",
+            "Set Square"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should students be able to do with different types of angles?",
+        "choices": [
+            "Calculate their perimeter",
+            "Identify and represent them by drawing",
+            "Find their area",
+            "Convert them into different units"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should students be able to understand about circles?",
+        "choices": [
+            "Only their area",
+            "Only their circumference",
+            "Their concept and its parts",
+            "Their volume"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a learning objective of the chapter?",
+        "choices": [
+            "Understand the concept of angles",
+            "Calculate the area of triangles",
+            "Measure the volume of a cube",
+            "Find the square root of a number"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is one of the aims of the chapter regarding polygons?",
+        "choices": [
+            "Explore the relationship between angles and the shape of a polygon",
+            "Calculate the perimeter of a polygon",
+            "Find the volume of a polygon",
+            "Draw 3D polygons"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a toy elephant said to be an example of?",
+        "choices": [
+            "Wooden craft",
+            "Stone craft",
+            "Paper craft",
+            "Marble handicraft"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What concept is to be understood in relation to triangles?",
+        "choices": [
+            "Area calculation",
+            "Classification of types",
+            "Perimeter measurement",
+            "Volume determination"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are lines arranged in different angles said to form?",
+        "choices": [
+            "Shapes",
+            "Volume",
+            "Length",
+            "Area"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What will students explore in our surroundings?",
+        "choices": [
+            "Different angles and polygons",
+            "Different angles and circles",
+            "Different angles and squares",
+            "Different angles and lines"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The radius of each given circle is 1.5 cm. What is the length of wire joined from end to end and passing through the centres of the given circles?",
+        "choices": [
+            "4.5 cm",
+            "7.5 cm",
+            "9 cm",
+            "15 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In any circle, the measure of the ______ is the greatest.",
+        "choices": [
+            "circumference",
+            "diameter",
+            "radius",
+            "chord"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following has a definite position or location, no length, no breadth, and no thickness?",
+        "choices": [
+            "Line",
+            "Ray",
+            "Point",
+            "Line Segment"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A collection of points that extends endlessly in both directions is called a:",
+        "choices": [
+            "Ray",
+            "Line Segment",
+            "Line",
+            "Point"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following has one endpoint and can be extended in the other direction indefinitely?",
+        "choices": [
+            "Line",
+            "Line Segment",
+            "Ray",
+            "Point"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A part of a line that has two end points and a definite length is called a:",
+        "choices": [
+            "Ray",
+            "Line",
+            "Line Segment",
+            "Point"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When two rays or lines meet at a point, they are called:",
+        "choices": [
+            "Parallel Lines",
+            "Intersecting Lines",
+            "Perpendicular Lines",
+            "Concurrent Lines"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is formed when two rays have a common initial point?",
+        "choices": [
+            "A Line",
+            "A Line Segment",
+            "An Angle",
+            "A Triangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The two rays forming an angle are called the:",
+        "choices": [
+            "Sides",
+            "Vertex",
+            "Arms",
+            "Both a and c"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the common initial point of the two rays forming the angle called?",
+        "choices": [
+            "Origin",
+            "Center",
+            "Vertex",
+            "Endpoint"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the figure shown, the angle formed can be named as \u2220AOB or",
+        "choices": [
+            "\u2220BAO",
+            "\u2220ABO",
+            "\u2220BOA",
+            "\u2220OAB"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When naming an angle using three capital letters, which letter is always written in the middle?",
+        "choices": [
+            "The letter for the vertex of an angle",
+            "The letter for the arm of an angle",
+            "The first letter of the alphabet",
+            "A random letter"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the unit used to measure angles?",
+        "choices": [
+            "Meter",
+            "Degree",
+            "Centimeter",
+            "Kilogram"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What instrument is used to measure angles?",
+        "choices": [
+            "Ruler",
+            "Compass",
+            "Protractor",
+            "Scale"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the straight line along the straight edge of a protractor called?",
+        "choices": [
+            "Inner scale",
+            "Outer scale",
+            "Base line",
+            "Curved edge"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many equal parts is each scale of a protractor divided into?",
+        "choices": [
+            "90",
+            "100",
+            "180",
+            "360"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Each division on the protractor represents:",
+        "choices": [
+            "One radian",
+            "One degree",
+            "One minute",
+            "One second"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The measure of an angle is:",
+        "choices": [
+            "The number of lines in an angle",
+            "The number of degrees in an angle",
+            "The length of the rays forming the angle",
+            "The shape of the angle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the starting point for measuring an angle using a protractor?",
+        "choices": [
+            "The vertex of the angle",
+            "The middle of the protractor",
+            "The ray aligned with the zero of the base line",
+            "Any point on the angle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The inner scale of a protractor is marked from:",
+        "choices": [
+            "0\u00b0 to 90\u00b0 from left to right",
+            "0\u00b0 to 180\u00b0 from left to right",
+            "0\u00b0 to 90\u00b0 from right to left",
+            "0\u00b0 to 180\u00b0 from right to left"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the basic unit of measurement for an angle?",
+        "choices": [
+            "Radian",
+            "Degree",
+            "Minute",
+            "Second"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How is a degree denoted?",
+        "choices": [
+            "'",
+            "\"",
+            "\u00b0",
+            "\u2207"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "An angle whose measure is more than 0\u00b0 but less than 90\u00b0 is called a/an ______ angle.",
+        "choices": [
+            "Obtuse",
+            "Right",
+            "Acute",
+            "Reflex"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "An angle whose measure is equal to 90\u00b0 is called a/an ______ angle.",
+        "choices": [
+            "Acute",
+            "Right",
+            "Obtuse",
+            "Straight"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "An angle whose measure is more than 90\u00b0 but less than 180\u00b0 is called a/an ______ angle.",
+        "choices": [
+            "Acute",
+            "Right",
+            "Obtuse",
+            "Straight"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "An angle whose measure is equal to 180\u00b0 is called a/an ______ angle.",
+        "choices": [
+            "Acute",
+            "Right",
+            "Obtuse",
+            "Straight"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "An angle whose measure is more than 180\u00b0 but less than 360\u00b0 is called a/an ______ angle.",
+        "choices": [
+            "Acute",
+            "Right",
+            "Obtuse",
+            "Reflex"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "An angle whose measure is equal to 360\u00b0 is called a ______ angle.",
+        "choices": [
+            "Straight",
+            "Reflex",
+            "Complete",
+            "Obtuse"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following angle measures represents an obtuse angle?",
+        "choices": [
+            "30\u00b0",
+            "90\u00b0",
+            "120\u00b0",
+            "180\u00b0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the measure of a complete angle?",
+        "choices": [
+            "90\u00b0",
+            "180\u00b0",
+            "270\u00b0",
+            "360\u00b0"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which inequality represents a reflex angle, A?",
+        "choices": [
+            "0\u00b0 < A < 90\u00b0",
+            "90\u00b0 < A < 180\u00b0",
+            "180\u00b0 < A < 360\u00b0",
+            "A = 360\u00b0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following angle measures represents a straight angle?",
+        "choices": [
+            "0\u00b0",
+            "90\u00b0",
+            "180\u00b0",
+            "360\u00b0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are coplanar lines?",
+        "choices": [
+            "Lines that never intersect.",
+            "Lines that intersect at a right angle.",
+            "Lines that lie in the same plane.",
+            "Lines that form angles."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are parallel lines?",
+        "choices": [
+            "Lines that intersect each other",
+            "Lines that lie in the same plane and never intersect",
+            "Lines that intersect at a right angle",
+            "Lines that lie on different planes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the symbol used to denote parallel lines?",
+        "choices": [
+            "\u22a5",
+            "\u2220",
+            "||",
+            "\u00b0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name given to two lines that intersect each other at right angles?",
+        "choices": [
+            "Parallel lines",
+            "Coplanar lines",
+            "Perpendicular lines",
+            "Intersecting lines"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What symbol is used to denote perpendicular lines?",
+        "choices": [
+            "||",
+            "\u2220",
+            "\u22a5",
+            "="
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the document, can line segments and rays also be parallel?",
+        "choices": [
+            "Yes",
+            "No",
+            "Only if they intersect",
+            "Only if they are perpendicular"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What must be true of two parallel lines?",
+        "choices": [
+            "The distance between them must increase.",
+            "The distance between them must decrease.",
+            "The distance between them must remain constant.",
+            "They must intersect."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If two lines are coplanar, what must be true of them?",
+        "choices": [
+            "They intersect each other.",
+            "They are parallel.",
+            "They lie in the same plane.",
+            "They are perpendicular."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is another name for angle RXQ?",
+        "choices": [
+            "Obtuse angle",
+            "Acute angle",
+            "Right angle",
+            "Straight angle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following angles are right angles besides angle RXQ?",
+        "choices": [
+            "ZRXP, ZSXQ and ZSXP",
+            "Angle PXS",
+            "Angle QXS",
+            "Angles YZX"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A polygon made up of three line segments is called a?",
+        "choices": [
+            "Quadrilateral",
+            "Triangle",
+            "Pentagon",
+            "Hexagon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many vertices does a triangle have?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A triangle having all the sides of equal length is called?",
+        "choices": [
+            "Scalene triangle",
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Right triangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A triangle having two sides of equal length is called?",
+        "choices": [
+            "Scalene triangle",
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Obtuse triangle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A triangle having all its sides of different lengths is called?",
+        "choices": [
+            "Scalene triangle",
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Acute triangle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A polygon made up of three or more line segments that do not cross each other are called?",
+        "choices": [
+            "Lines",
+            "Angles",
+            "Polygons",
+            "Triangles"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many sides does a hexagon have?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many sides does a quadrilateral have?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many sides does an octagon have?",
+        "choices": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following statements is true about an equilateral triangle?",
+        "choices": [
+            "All sides are of unequal length.",
+            "Two sides are of equal length.",
+            "All sides are of equal length.",
+            "No sides are of equal length."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In an isosceles triangle, which angles are equal?",
+        "choices": [
+            "All angles are equal.",
+            "The angles opposite to equal sides are equal.",
+            "All angles are unequal.",
+            "Only one angle is equal to 90 degrees."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a scalene triangle?",
+        "choices": [
+            "A triangle with all sides equal.",
+            "A triangle with two sides equal.",
+            "A triangle with all sides unequal.",
+            "A triangle with one right angle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the measure of each angle in an equilateral triangle?",
+        "choices": [
+            "30 degrees",
+            "60 degrees",
+            "90 degrees",
+            "120 degrees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an acute-angled triangle?",
+        "choices": [
+            "A triangle with one angle greater than 90 degrees.",
+            "A triangle with one angle equal to 90 degrees.",
+            "A triangle in which all angles are acute.",
+            "A triangle in which one angle equals 180 degrees."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a right-angled triangle?",
+        "choices": [
+            "A triangle with all angles less than 90 degrees.",
+            "A triangle with one angle equal to 90 degrees.",
+            "A triangle with all angles greater than 90 degrees.",
+            "A triangle with one angle equal to 180 degrees."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an obtuse-angled triangle?",
+        "choices": [
+            "A triangle with all angles less than 90 degrees.",
+            "A triangle with one angle equal to 90 degrees.",
+            "A triangle with one angle greater than 90 degrees.",
+            "A triangle with one angle equal to 180 degrees."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "True or False: A polygon can have curved lines.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "True or False: A triangle can have two obtuse angles.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "True or False: An equilateral triangle is also an isosceles triangle.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A part of the circumference of a circle is called?",
+        "choices": [
+            "Radius",
+            "Arc",
+            "Diameter",
+            "Chord"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The distance from a point on the circumference of a circle to its center is called?",
+        "choices": [
+            "Chord",
+            "Diameter",
+            "Radius",
+            "Circumference"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The length of the curved surface of a circle is called its:",
+        "choices": [
+            "Radius",
+            "Diameter",
+            "Circumference",
+            "Arc"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The distance from a point on the circumference of a circle to another point on it and passing the center of the circle is called?",
+        "choices": [
+            "Radius",
+            "Chord",
+            "Diameter",
+            "Arc"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The length of the diameter is _______ the radius.",
+        "choices": [
+            "half",
+            "twice",
+            "equal to",
+            "three times"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A diameter divides the circle into two halves. Each half is called?",
+        "choices": [
+            "Quadrant",
+            "Semicircle",
+            "Arc",
+            "Chord"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The line connecting any two points on the circumference of a circle is called?",
+        "choices": [
+            "Radius",
+            "Diameter",
+            "Chord",
+            "Arc"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The longest chord of a circle is its:",
+        "choices": [
+            "Radius",
+            "Arc",
+            "Diameter",
+            "Circumference"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The area inside the circumference of a circle is called?",
+        "choices": [
+            "Exterior",
+            "Interior",
+            "Chord",
+            "Arc"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Every diameter is a _______, but every _______ is not a diameter.",
+        "choices": [
+            "Radius, chord",
+            "Chord, radius",
+            "Chord, chord",
+            "Chord, diameter"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The longest chord of a circle is called the _____.",
+        "choices": [
+            "radius",
+            "diameter",
+            "arc",
+            "tangent"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The diameter divides the circle into two halves called _____.",
+        "choices": [
+            "radii",
+            "semicircles",
+            "quadrants",
+            "chords"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a closed curve consisting of numerous points which are at equal distance from a fixed point?",
+        "choices": [
+            "line",
+            "circle",
+            "square",
+            "polygon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Angles are measured in degrees, denoted by:",
+        "choices": [
+            "%",
+            "\u03c0",
+            "\u00b0",
+            "'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Two lines in a plane that never intersect each other are called _____ lines.",
+        "choices": [
+            "intersecting",
+            "perpendicular",
+            "parallel",
+            "skew"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Two lines that intersect each other at right angle are called _____ lines.",
+        "choices": [
+            "parallel",
+            "perpendicular",
+            "intersecting",
+            "skew"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A complete angle measures _____.",
+        "choices": [
+            "90\u00b0",
+            "180\u00b0",
+            "270\u00b0",
+            "360\u00b0"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "An angle is formed by two rays with a common _____.",
+        "choices": [
+            "side",
+            "vertex",
+            "point",
+            "plane"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a three-sided polygon called?",
+        "choices": [
+            "quadrilateral",
+            "pentagon",
+            "triangle",
+            "hexagon"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When all the sides of a triangle are unequal, it is called a _____ triangle.",
+        "choices": [
+            "equilateral",
+            "isosceles",
+            "scalene",
+            "right-angled"
+        ],
+        "correctAnswer": 2
+    }
+]
