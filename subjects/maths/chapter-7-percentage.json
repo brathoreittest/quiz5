@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What does 'per cent' mean?",
+        "choices": [
+            "Every thousand",
+            "Part of ten",
+            "Every hundred",
+            "Out of ten"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the symbol for 'per cent'?",
+        "choices": [
+            "#",
+            "$",
+            "%",
+            "&"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "75% marks means:",
+        "choices": [
+            "75 marks out of 50",
+            "75 marks out of 100",
+            "100 marks out of 75",
+            "75 marks out of 75"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How can fractions with a denominator of 100 be converted to percentages?",
+        "choices": [
+            "Multiply the denominator by 100",
+            "Add % symbol to the left of the numerator",
+            "Add % symbol to the right of the numerator and omit the denominator 100",
+            "Divide the numerator by 100"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what is one method to convert a fraction with a denominator other than 100 to a percentage?",
+        "choices": [
+            "Multiply the fraction by 10",
+            "Convert the fraction into an equivalent fraction with denominator 100",
+            "Divide the fraction by 100",
+            "Subtract 100 from the numerator"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is another method to convert a fraction with a denominator other than 100 to a percentage?",
+        "choices": [
+            "Add 100 to the fraction",
+            "Multiply the fraction by 100, add the % symbol, and simplify.",
+            "Divide the fraction by 100",
+            "Subtract 100 from the fraction"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 4/5 to a percentage.",
+        "choices": [
+            "40%",
+            "60%",
+            "80%",
+            "100%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the 'Tune Up' section, if a soccer club has played 100 games and won 50 of them, what percentage of games did they win?",
+        "choices": [
+            "20%",
+            "30%",
+            "50%",
+            "80%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the 'Tune Up' section, if a soccer club has played 100 games and drew 30 of them, what percentage of games did they drew?",
+        "choices": [
+            "20%",
+            "30%",
+            "50%",
+            "80%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Tune Up' section, if a soccer club has played 100 games and lost 20 of them, what percentage of games did they lose?",
+        "choices": [
+            "20%",
+            "30%",
+            "50%",
+            "80%"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 1/2 expressed as a percentage?",
+        "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 17/25 expressed as a percentage?",
+        "choices": [
+            "34%",
+            "51%",
+            "68%",
+            "85%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 0.25 expressed as a percentage?",
+        "choices": [
+            "2.5%",
+            "25%",
+            "0.25%",
+            "250%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 7.5% expressed as a fraction in its lowest terms?",
+        "choices": [
+            "3/40",
+            "7/100",
+            "15/200",
+            "75/100"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 45% expressed as a fraction in its lowest terms?",
+        "choices": [
+            "9/20",
+            "45/100",
+            "1/2",
+            "1/4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 55% expressed as a decimal number?",
+        "choices": [
+            "0.055",
+            "0.55",
+            "5.5",
+            "55.0"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 7.8% expressed as a decimal number?",
+        "choices": [
+            "0.78",
+            "7.8",
+            "0.078",
+            "78.0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the fraction equivalent of 50%?",
+        "choices": [
+            "1/2",
+            "1/4",
+            "3/4",
+            "1"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the fraction equivalent of 100%?",
+        "choices": [
+            "1/2",
+            "1/4",
+            "3/4",
+            "1"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the decimal equivalent of 1/4?",
+        "choices": [
+            "0.25",
+            "0.50",
+            "0.75",
+            "1.00"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 20% of 650?",
+        "choices": [
+            "65",
+            "130",
+            "325",
+            "195"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 140% of 75?",
+        "choices": [
+            "53.57",
+            "140",
+            "105",
+            "15"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 75% of 400?",
+        "choices": [
+            "300",
+            "100",
+            "533.33",
+            "50"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 15% of \u20b91200?",
+        "choices": [
+            "\u20b9180",
+            "\u20b98000",
+            "\u20b91185",
+            "\u20b91215"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "25 is what percentage of 60?",
+        "choices": [
+            "150%",
+            "41.67%",
+            "2.4%",
+            "0.41%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "7.5 is what percentage of 150?",
+        "choices": [
+            "20%",
+            "5%",
+            "10%",
+            "0.05%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "55 m is what percentage of 1 km?",
+        "choices": [
+            "0.055%",
+            "55%",
+            "5.5%",
+            "0.55%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "175 g is what percentage of 2.5 kg?",
+        "choices": [
+            "7%",
+            "0.07%",
+            "70%",
+            "0.7%"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Express 27% as a decimal.",
+        "choices": [
+            "27.0",
+            "0.027",
+            "0.27",
+            "2.7"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Express 8% as a decimal.",
+        "choices": [
+            "0.08",
+            "0.8",
+            "8.0",
+            "80"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 33/100 into percentage.",
+        "choices": [
+            "33%",
+            "3.3%",
+            "330%",
+            "0.33%"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Convert 3/4 into percentage.",
+        "choices": [
+            "3%",
+            "75%",
+            "25%",
+            "34%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 7/25 into percentage.",
+        "choices": [
+            "7%",
+            "25%",
+            "28%",
+            "0.28%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert 2 1/8 into percentage.",
+        "choices": [
+            "2.125%",
+            "21.25%",
+            "212.5%",
+            "2125%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert 17% into fraction.",
+        "choices": [
+            "17/10",
+            "17/100",
+            "1/17",
+            "17/1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 72% into fraction.",
+        "choices": [
+            "72/10",
+            "72/100",
+            "1/72",
+            "72/1000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 12.5% into fraction.",
+        "choices": [
+            "125/10",
+            "125/100",
+            "12.5",
+            "12.5/100"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Convert 5 1/2% into fraction.",
+        "choices": [
+            "55/100",
+            "11/20",
+            "11/200",
+            "5/2"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Convert 36% into decimal.",
+        "choices": [
+            "3.6",
+            "0.36",
+            "36.0",
+            "0.036"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Convert 5.4% into decimal.",
+        "choices": [
+            "5.4",
+            "0.54",
+            "0.054",
+            "54.0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What percentage is half a litre of a litre of milk?",
+        "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If 2% of a number is 4, what is 4% of that number?",
+        "choices": [
+            "2",
+            "4",
+            "8",
+            "12"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "10 is ______ % of 400",
+        "choices": [
+            "2.5",
+            "4",
+            "25",
+            "40"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "10 is ______ % of 200",
+        "choices": [
+            "2",
+            "5",
+            "10",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "80% of 20 is ______",
+        "choices": [
+            "4",
+            "8",
+            "12",
+            "16"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In which month did Sheeba visit the old age home 11 times?",
+        "choices": [
+            "January",
+            "February",
+            "March",
+            "April"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which month did Sheeba visit the old age home the most?",
+        "choices": [
+            "April",
+            "May",
+            "June",
+            "January"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which month did Sheeba visit the old age home the least?",
+        "choices": [
+            "February",
+            "March",
+            "April",
+            "June"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many visits in total did Sheeba make from January to June?",
+        "choices": [
+            "65",
+            "70",
+            "75",
+            "80"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many visits did Sheeba make in the month of January?",
+        "choices": [
+            "9",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2
+    }
+]
