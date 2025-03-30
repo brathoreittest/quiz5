@@ -1,0 +1,1100 @@
+[
+  {
+      "question": "Which of the following is a multiplication fact?",
+      "choices": [
+          "2 + 3 = 5",
+          "2 x 3 = 6",
+          "6 - 2 = 4",
+          "6 / 2 = 3"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the factors of 6 in the multiplication fact 2 x 3 = 6?",
+      "choices": [
+          "5 and 1",
+          "2 and 3",
+          "4 and 2",
+          "6 and 1"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A factor can be defined as a divisor that:",
+      "choices": [
+          "Leaves a remainder",
+          "Exactly divides the given number",
+          "Is always a prime number",
+          "Is always larger than the given number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the two methods to obtain factors of a number?",
+      "choices": [
+          "Addition and Subtraction",
+          "Multiplication and Division",
+          "Addition and Multiplication",
+          "Subtraction and Division"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is the universal factor?",
+      "choices": [
+          "0",
+          "1",
+          "The number itself",
+          "Any prime number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a factor of every number?",
+      "choices": [
+          "0",
+          "1",
+          "The number itself",
+          "Any prime number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the greatest factor of a non-zero number?",
+      "choices": [
+          "0",
+          "1",
+          "The number itself",
+          "Any prime number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Is every factor of a non-zero number is greater than or equal to the number?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Depends on the number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Every factor of a non-zero number is less than or equal to?",
+      "choices": [
+          "Zero",
+          "One",
+          "The number itself",
+          "Any prime number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Every number other than 1 has at least how many factors?",
+      "choices": [
+          "Zero",
+          "One",
+          "Two",
+          "Three"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What will be the 9th multiple of the following numbers?",
+      "choices": [
+          "7",
+          "9",
+          "11",
+          "13",
+          "16"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The product of two numbers is 864. If the HCF of the numbers is 12, find their LCM.",
+      "choices": [
+          "36",
+          "72",
+          "144",
+          "864"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Ginny was talking to her brother about the job and monthly salary. She told her brother that her salary is the product of the first five odd prime numbers. What is her salary?",
+      "choices": [
+          "105",
+          "115",
+          "205",
+          "215",
+          "231"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find the HCF and LCM of 9 and 16.",
+      "choices": [
+          "HCF = 1, LCM = 144",
+          "HCF = 2, LCM = 72",
+          "HCF = 3, LCM = 48",
+          "HCF = 4, LCM = 36"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find the HCF and LCM of the following numbers: 9 and 27",
+      "choices": [
+          "HCF = 1, LCM = 27",
+          "HCF = 9, LCM = 27",
+          "HCF = 3, LCM = 9",
+          "HCF = 27, LCM = 9"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Find the HCF and LCM of the following numbers: 12 and 48",
+      "choices": [
+          "HCF = 4, LCM = 12",
+          "HCF = 12, LCM = 48",
+          "HCF = 2, LCM = 24",
+          "HCF = 6, LCM = 24"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The HCF and LCM of two numbers are 15 and 60, respectively. If one number is a multiple of the other number, find the numbers.",
+      "choices": [
+          "15 and 60",
+          "30 and 45",
+          "20 and 30",
+          "10 and 75"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The LCM of two co-prime numbers is 72. If one of the number is 8, find the other number.",
+      "choices": [
+          "9",
+          "12",
+          "18",
+          "24"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Without dividing, find out whether the dividend is exactly divisible by the divisor or not. 2477818 \u00f7 9",
+      "choices": [
+          "Divisible",
+          "Not Divisible"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Without dividing, find out whether the dividend is exactly divisible by the divisor or not. 6204 \u00f7 3",
+      "choices": [
+          "Divisible",
+          "Not Divisible"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the Maths Lab Activity, what is the aim?",
+      "choices": [
+          "To understand the concept of HCF using grid",
+          "To understand the concept of LCM using grid",
+          "To understand the concept of multiplication using grid",
+          "To understand the concept of division using grid"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What materials are required for the 'Creating a Factor City' activity?",
+      "choices": [
+          "Crayons and paper",
+          "Old greeting cards, ice-cream sticks, checkered paper, blunt scissors, colours, glue, A4-size mountboard",
+          "Beads and string",
+          "Clay and paint"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the 'Multiple Relay Race' activity, what does the teacher do in the first step?",
+      "choices": [
+          "Divide the class into teams.",
+          "Set up cones or markers.",
+          "Give random numbers to students.",
+          "Blow the whistle."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the Maths Lab Activity, what colors of crayons are used?",
+      "choices": [
+          "Red, Yellow and Blue",
+          "Orange, Green and Purple",
+          "Blue, Yellow and Green",
+          "Black, White and Gray"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the first step in the 'Creating a Factor City' method?",
+      "choices": [
+          "Cut along the edges of each factor",
+          "Place the mountboard horizontally",
+          "Use checkered paper to determine the factors of any number, say 6.",
+          "Using ice-cream stick as support fix the factor grids."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the Maths Lab Activity, what is the first step the students do?",
+      "choices": [
+          "The students will make a grid of 10 rows and 10 columns in their notebook.",
+          "The teacher will ask the students to find the LCM of three numbers",
+          "The students will highlight 3 and its multiples",
+          "The students will write the numbers from 1 to 100 in it."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "According to 'Life Skills and Values', what is jogging considered?",
+      "choices": [
+          "A waste of time",
+          "The best form of exercise to stay healthy",
+          "Only for elderly people",
+          "An unnecessary activity"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Maths Lab Activity, which crayon is used to highlight 6 and its multiples?",
+      "choices": [
+          "Blue crayon",
+          "Yellow crayon",
+          "Green crayon",
+          "Red crayon"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Multiple Relay Race, what do the cones represent?",
+      "choices": [
+          "Random numbers",
+          "Different multiples",
+          "The teacher",
+          "The finishing line"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the Life Skills and Values section, what should you do if you don't jog?",
+      "choices": [
+          "Ignore it",
+          "Include it in your routine",
+          "Eat more",
+          "Sleep more"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 2 if the ones digit is:",
+      "choices": [
+          "0 or 5",
+          "0, 2, 4, 6, or 8",
+          "0",
+          "1, 3, 5, 7, or 9"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 5 if the ones digit is:",
+      "choices": [
+          "0, 2, 4, 6, or 8",
+          "0 or 5",
+          "0",
+          "Any digit"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 10 if the ones digit is:",
+      "choices": [
+          "0",
+          "5",
+          "Any even number",
+          "10"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A number is divisible by 3 if:",
+      "choices": [
+          "The last digit is divisible by 3",
+          "The sum of the digits is divisible by 3",
+          "The number is even",
+          "The number is odd"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 9 if:",
+      "choices": [
+          "The last digit is divisible by 9",
+          "The sum of the digits is divisible by 9",
+          "The number ends in 9",
+          "The number is a multiple of 3"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 4 if:",
+      "choices": [
+          "The last digit is divisible by 4",
+          "The number formed by last two digits is divisible by 4",
+          "The sum of the digits is divisible by 4",
+          "The number is even"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 6 if:",
+      "choices": [
+          "The sum of digits is divisible by 6",
+          "The number is divisible by 2 and 3",
+          "The last digit is 6",
+          "The number is even"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 8 if:",
+      "choices": [
+          "The last digit is divisible by 8",
+          "The sum of the digits is divisible by 8",
+          "The number formed by last three digits is divisible by 8",
+          "The number is even"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A number is divisible by 12 if:",
+      "choices": [
+          "The number is divisible by 2 and 6",
+          "The number is divisible by 3 and 4",
+          "The number ends in 2",
+          "The number is even"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A number is divisible by 15 if:",
+      "choices": [
+          "The number is divisible by 3 and 5",
+          "The number ends in 5",
+          "The number is divisible by 3 and 10",
+          "The number is odd"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A prime number is a number greater than 1 that can only be divided by:",
+      "choices": [
+          "1",
+          "Itself",
+          "1 or itself",
+          "Any number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A number which is divisible by 9 is also divisible by what other number?",
+      "choices": [
+          "3",
+          "Itself",
+          "1",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A number which is divisible by 10 is also divisible by what other number?",
+      "choices": [
+          "2",
+          "5",
+          "Both 2 and 5",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "1924 is divisible by 2 and what other number?",
+      "choices": [
+          "3",
+          "4",
+          "6",
+          "8"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a composite number?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "7"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A composite number is a number that has how many factors?",
+      "choices": [
+          "one",
+          "two",
+          "more than two",
+          "none"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to 'Grasp It' tip what is the only even prime number?",
+      "choices": [
+          "1",
+          "2",
+          "3",
+          "4"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these numbers can be written as a product of its prime factors, and also has more than two factors?",
+      "choices": [
+          "11",
+          "18",
+          "23",
+          "1"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which method did the Greek mathematician, Eratosthenes, use to find prime numbers between 1 and 100?",
+      "choices": [
+          "Division",
+          "Sieve",
+          "Multiplication",
+          "Subtraction"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a prime number?",
+      "choices": [
+          "4",
+          "6",
+          "8",
+          "11"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is prime factorization?",
+      "choices": [
+          "Writing a composite number as a sum of prime numbers",
+          "Writing a composite number as a product of prime numbers",
+          "Writing a prime number as a product of composite numbers",
+          "Dividing a prime number by a composite number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do you begin prime factorization using the division method?",
+      "choices": [
+          "Divide the number by the largest composite number",
+          "Divide the number by the largest prime number",
+          "Divide the number by the smallest composite number",
+          "Divide the number by the smallest prime number"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are the two methods of Prime Factorisation?",
+      "choices": [
+          "Addition and Subtraction",
+          "Division and Multiplication",
+          "Division and Factor Tree",
+          "Addition and Factor Tree"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the context of prime numbers, what are twin primes?",
+      "choices": [
+          "Two prime numbers that are equal",
+          "Two prime numbers that are consecutive",
+          "Two prime numbers that have a difference of 2",
+          "Two prime numbers that multiply to give 10"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a prime factor?",
+      "choices": [
+          "Factors of a number that are prime numbers",
+          "Factors of a number that are composite numbers",
+          "Factors of a number that are even numbers",
+          "Factors of a number that are odd numbers"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are numbers called if they have only 1 as the common factor?",
+      "choices": [
+          "Prime numbers",
+          "Co-prime numbers",
+          "Composite numbers",
+          "Twin prime numbers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the prime factorization of 48?",
+      "choices": [
+          "2 x 2 x 2 x 2 x 2",
+          "2 x 2 x 3 x 3",
+          "2 x 2 x 2 x 2 x 3",
+          "3 x 3 x 3 x 3"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the prime factorization of 12?",
+      "choices": [
+          "2 x 2 x 2",
+          "2 x 3 x 3",
+          "3 x 4",
+          "2 x 2 x 3"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is a composite number?",
+      "choices": [
+          "A number that is prime",
+          "A number that is a multiple of 5",
+          "A number that is crossed-out",
+          "A number that is circled"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of twin primes?",
+      "choices": [
+          "(1, 2)",
+          "(2, 3)",
+          "(3, 5)",
+          "(4, 6)"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the prime factorization of 48 (according to the image)?",
+      "choices": [
+          "2 x 2 x 2 x 2 x 3",
+          "2 x 2 x 3 x 4",
+          "2 x 24",
+          "4 x 12"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a method to find the HCF?",
+      "choices": [
+          "Prime factorization",
+          "Adding the numbers",
+          "Finding the average",
+          "Subtracting the numbers"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "68 is a ______ number.",
+      "choices": [
+          "Prime",
+          "Composite",
+          "Twin Prime",
+          "Co-Prime"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "71 is a ______ number.",
+      "choices": [
+          "Prime",
+          "Composite",
+          "Twin Prime",
+          "Co-Prime"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the prime factorization of 12 (according to example 7 in the image)?",
+      "choices": [
+          "2 x 2 x 2",
+          "2 x 2 x 3",
+          "3 x 4",
+          "2 x 6"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "5 and 18 are ______ numbers.",
+      "choices": [
+          "Prime",
+          "Composite",
+          "Twin prime",
+          "Co-prime"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "5 and 7 are ______ numbers.",
+      "choices": [
+          "Prime",
+          "Composite",
+          "Twin prime",
+          "Co-prime"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the prime factorization of 24 (according to example 7 in the image)?",
+      "choices": [
+          "2 x 2 x 2",
+          "2 x 2 x 3",
+          "2 x 2 x 2 x 3",
+          "2 x 6"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the prime factorization of 32 (according to example 7 in the image)?",
+      "choices": [
+          "2 x 2 x 2",
+          "2 x 2 x 3",
+          "2 x 2 x 2 x 3",
+          "2 x 2 x 2 x 2 x 2"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The highest number that exactly divides each number of a set of two or more numbers is known as the ______.",
+      "choices": [
+          "Lowest common multiple (LCM)",
+          "Highest common factor (HCF)",
+          "Prime Factorization",
+          "Composite number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the HCF of 13 and 169?",
+      "choices": [
+          "1",
+          "13",
+          "169",
+          "2197"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the HCF of 16 and 144?",
+      "choices": [
+          "2",
+          "4",
+          "8",
+          "16"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the HCF of 18 and 72?",
+      "choices": [
+          "2",
+          "9",
+          "18",
+          "36"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the HCF of 20 and 60?",
+      "choices": [
+          "5",
+          "10",
+          "20",
+          "30"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the HCF of 25 and 225?",
+      "choices": [
+          "5",
+          "15",
+          "25",
+          "75"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the HCF of 15 and 105?",
+      "choices": [
+          "3",
+          "5",
+          "15",
+          "35"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the common factors of 15 and 35, and what is their HCF?",
+      "choices": [
+          "1 and 3; HCF = 3",
+          "1 and 5; HCF = 5",
+          "1 and 7; HCF = 7",
+          "3 and 5; HCF = 5"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the common factors of 14 and 24, and what is their HCF?",
+      "choices": [
+          "1 and 2; HCF = 2",
+          "1 and 3; HCF = 3",
+          "1 and 4; HCF = 4",
+          "2 and 6; HCF = 6"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are the common factors of 9 and 21, and what is their HCF?",
+      "choices": [
+          "1 and 3; HCF = 3",
+          "1 and 7; HCF = 7",
+          "3 and 7; HCF = 7",
+          "9 and 21; HCF = 9"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Using prime factorization, what is the HCF of 25 and 35?",
+      "choices": [
+          "1",
+          "5",
+          "7",
+          "35"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A multiple of a number is the product of that number with a natural number. Multiples are the products of how many factors?",
+      "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Infinite"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following statements is TRUE about the multiples of 4?",
+      "choices": [
+          "They are finite.",
+          "They do not exist.",
+          "They are infinite.",
+          "They are always odd."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Every number is a multiple of what number?",
+      "choices": [
+          "Zero",
+          "Two",
+          "Itself",
+          "One"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The multiples of an even number are always what?",
+      "choices": [
+          "Odd",
+          "Prime",
+          "Even",
+          "Composite"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Is there an end to multiples of a number?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Depends on the number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to 'Get It', multiples of a number include what?",
+      "choices": [
+          "Zero",
+          "Other Multiples",
+          "The number itself",
+          "Only prime numbers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the smallest multiple of a number?",
+      "choices": [
+          "Zero",
+          "One",
+          "The number itself",
+          "The square of the number"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to 'Grasp It', a number exactly divides what?",
+      "choices": [
+          "All its divisors",
+          "All its prime factors",
+          "All its multiples",
+          "All even numbers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When a number is a multiple of two or more numbers, it is called what?",
+      "choices": [
+          "A common factor",
+          "A common multiple",
+          "A prime number",
+          "A composite number"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the smallest number among the common multiples?",
+      "choices": [
+          "Highest Common Factor",
+          "Least Common Denominator",
+          "Lowest Common Multiple",
+          "Greatest Common Divisor"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 12 and 15 found by common multiples?",
+      "choices": [
+          "30",
+          "45",
+          "60",
+          "75"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 15 and 20 found by common multiples?",
+      "choices": [
+          "25",
+          "30",
+          "40",
+          "60"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the LCM of 9 and 27 found by common multiples?",
+      "choices": [
+          "3",
+          "9",
+          "18",
+          "27"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the LCM of 6, 12 and 18 found by common multiples?",
+      "choices": [
+          "6",
+          "12",
+          "18",
+          "36"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 13, 26 and 39 found by common multiples?",
+      "choices": [
+          "13",
+          "26",
+          "39",
+          "52"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 11, 22 and 33 found by common multiples?",
+      "choices": [
+          "11",
+          "22",
+          "33",
+          "66"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 4, 6, and 9 using prime factorization?",
+      "choices": [
+          "12",
+          "18",
+          "36",
+          "72"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 10 and 24 using prime factorization?",
+      "choices": [
+          "24",
+          "60",
+          "80",
+          "120"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the LCM of 30, 60, and 15 using prime factorization?",
+      "choices": [
+          "15",
+          "30",
+          "60",
+          "90"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the LCM of 42 and 56 using prime factorization?",
+      "choices": [
+          "14",
+          "28",
+          "168",
+          "336"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If the product of two numbers is 84942 and their HCF is 33, what is their LCM?",
+      "choices": [
+          "2574",
+          "2575",
+          "2576",
+          "2577"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The product of HCF and LCM of two numbers is 9072. If one of the numbers is 72, what is the other number?",
+      "choices": [
+          "125",
+          "126",
+          "127",
+          "128"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The HCF and LCM of two numbers are 12 and 5040, respectively. If one of the numbers is 144, what is the other number?",
+      "choices": [
+          "410",
+          "420",
+          "430",
+          "440"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the smallest number that is divisible by 20, 48 and 72?",
+      "choices": [
+          "720",
+          "360",
+          "240",
+          "480"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Find the greatest number that can divide 510 and 425 exactly.",
+      "choices": [
+          "85",
+          "17",
+          "5",
+          "25"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "1 is a factor of every number. Is the statement true or false?",
+      "choices": [
+          "True",
+          "False",
+          "Cannot determine",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Every number except 1 has at least two factors. Is the statement true or false?",
+      "choices": [
+          "True",
+          "False",
+          "Cannot determine",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Prime numbers have only 2 factors-1 and the number itself. Is the statement true or false?",
+      "choices": [
+          "True",
+          "False",
+          "Cannot determine",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Composite numbers have more than 2 factors. Is the statement true or false?",
+      "choices": [
+          "True",
+          "False",
+          "Cannot determine",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The product of HCF and LCM of two natural numbers is equal to the product of the two numbers. Is the statement true or false?",
+      "choices": [
+          "True",
+          "False",
+          "Cannot determine",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  }
+]
