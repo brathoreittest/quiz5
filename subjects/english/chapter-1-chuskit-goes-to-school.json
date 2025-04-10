@@ -1,0 +1,1852 @@
+[
+    {
+        "question": "What is the topic of the 'Pronunciation' section?",
+        "choices": [
+            "Grammar rules",
+            "Tongue twisters with familiar sounds",
+            "Vocabulary building",
+            "Reading comprehension"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you do with the tongue twisters?",
+        "choices": [
+            "Write them down",
+            "Say them aloud correctly and try to guess the meaning",
+            "Translate them",
+            "Ignore them"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Betty Botter buy?",
+        "choices": [
+            "A bit of sugar",
+            "A bit of salt",
+            "A bit of butter",
+            "A bit of bread"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does Abdul give Chuskit?",
+        "choices": [
+            "Money",
+            "A gift",
+            "Directions to the school",
+            "A map"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Chuskit, what is the first step to get to the school from her house?",
+        "choices": [
+            "Turn right from the gate",
+            "Cross the bridge",
+            "Turn left from the gate",
+            "Go straight"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "After crossing the bridge and going down to the end of the lane, what will Chuskit see?",
+        "choices": [
+            "A river",
+            "A forest",
+            "Two signposts",
+            "A school"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do the signposts point towards?",
+        "choices": [
+            "North and South",
+            "Jispa and Darspa",
+            "East and West",
+            "School and Home"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of exercise is featured in the 'Speaking' section?",
+        "choices": [
+            "Describing a picture",
+            "Giving and asking for directions",
+            "Singing a song",
+            "Writing a story"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which way should you turn from the gate?",
+        "choices": [
+            "Right",
+            "Straight",
+            "Left",
+            "Back"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The topic is:",
+        "choices": [
+            "Tongue Twister",
+            "Grammar",
+            "Math",
+            "History"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where does Chuskit need to go?",
+        "choices": [
+            "Hospital",
+            "School",
+            "Home",
+            "Market"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of sound is in parenthesis after 'Pronunciation'?",
+        "choices": [
+            "Harsh Sounds",
+            "Familiar Sounds",
+            "Loud Sounds",
+            "Soft Sounds"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word is frequently repeated in the first tongue twister sentence?",
+        "choices": [
+            "Present",
+            "Present",
+            "Peasant",
+            "Pleasant"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many signposts will Chuskit see?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After you get past the lane what sign should you follow?",
+        "choices": [
+            "School",
+            "Jispa",
+            "Home",
+            "Monastery"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the comparative form of 'big'?",
+        "choices": [
+            "biggest",
+            "bigger",
+            "big",
+            "biger"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative form of 'smart'?",
+        "choices": [
+            "smarter",
+            "smartest",
+            "smart",
+            "smarted"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The story Grandfather told the children was ______ (funny) than the one he told them last week.",
+        "choices": [
+            "funny",
+            "funnier",
+            "funniest",
+            "funnily"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'with ease'?",
+        "choices": [
+            "without a sound",
+            "without any problem",
+            "with difficulty",
+            "without help"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'fundamental rights' mean?",
+        "choices": [
+            "things that are fun to do",
+            "basic freedom or rights",
+            "expensive items",
+            "things we need"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Stobdan is ______ (short) than Chuskit.",
+        "choices": [
+            "short",
+            "shorter",
+            "shortest",
+            "shortly"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The amchi is the ______ (hardworking) man I know.",
+        "choices": [
+            "hardworking",
+            "hardworker",
+            "hardworkinger",
+            "most hardworking"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Is this wheelchair ______ (expensive) than that one?",
+        "choices": [
+            "expensive",
+            "expensiver",
+            "more expensive",
+            "most expensive"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Leh is the ______ (peaceful) place in the world.",
+        "choices": [
+            "peaceful",
+            "peacefuller",
+            "peacefulest",
+            "most peaceful"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "It is not ______ (easy) to find seashells in Leh.",
+        "choices": [
+            "easy",
+            "easier",
+            "easiest",
+            "easily"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the superlative form of 'exciting'?",
+        "choices": [
+            "excitinger",
+            "excitingest",
+            "most exciting",
+            "excitingly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the comparative form of 'polite'?",
+        "choices": [
+            "politer",
+            "more polite",
+            "politiest",
+            "politely"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the positive form of 'biggest'?",
+        "choices": [
+            "big",
+            "bigger",
+            "bigest",
+            "bigly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the positive form of 'smartest'?",
+        "choices": [
+            "smart",
+            "smarter",
+            "smartable",
+            "smartly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the comparative form of 'smart'?",
+        "choices": [
+            "smartest",
+            "smartly",
+            "smarter",
+            "smartest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which article is considered a definite article?",
+        "choices": [
+            "a",
+            "an",
+            "the",
+            "some"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When is 'the' used according to the text?",
+        "choices": [
+            "When there is only one of a kind.",
+            "When something is plural",
+            "When something is indefinite",
+            "When referring to any item"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following examples uses 'the' correctly according to the provided text?",
+        "choices": [
+            "A Sun rises in the east.",
+            "The Sun rises in the east.",
+            "Sun rises in the east.",
+            "An Sun rises in the east."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following sentences is an example of 'the' used when there is only one of a kind in that place?",
+        "choices": [
+            "Should I go to the bank today?",
+            "Look at the woman buying eggs.",
+            "The temple in our locality is always crowded.",
+            "She is my aunt."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the main article used in the sentence 'It was the summer of 2005'?",
+        "choices": [
+            "a",
+            "an",
+            "the",
+            "of"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "I would like to tell you ___ story.",
+        "choices": [
+            "the",
+            "a",
+            "an",
+            "some"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I would like to tell you a story. ___ story is about ___ little girl who wanted to climb ___ mountain.",
+        "choices": [
+            "The, A, The",
+            "A, The, An",
+            "The, A, A",
+            "A, An, A"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I would like to tell you a story. The story is about the little girl who wanted to climb the mountain. She asked ___ people who lived close to ___ mountain to help her climb it.",
+        "choices": [
+            "an, a",
+            "the, an",
+            "the, the",
+            "a, the"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "I would like to tell you a story. The story is about the little girl who wanted to climb the mountain. She asked a people who lived close to the mountain to help her climb it. The people told her that ___ mountain was too high to climb.",
+        "choices": [
+            "a",
+            "the",
+            "an",
+            "some"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "I would like to tell you a story. The story is about the little girl who wanted to climb the mountain. She asked a people who lived close to the mountain to help her climb it. The people told her that the mountain was too high to climb. ___ girl said that she was not worried about ___ trouble she would have to go through to reach ___ world how brave she was.",
+        "choices": [
+            "The, some, the",
+            "A, the, the",
+            "The, the, the",
+            "The, the, an"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "I would like to tell you a story. The story is about the little girl who wanted to climb the mountain. She asked a people who lived close to the mountain to help her climb it. The people told her that the mountain was too high to climb. The girl said that she was not worried about the trouble she would have to go through to reach the world how brave she was. She wanted to show ___ top of ___ mountain.",
+        "choices": [
+            "an, the",
+            "a, an",
+            "the, the",
+            "the, an"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Select the correct articles to complete the sentence: I would like to tell you ___ story. ___ story is about ___ little girl who wanted to climb ___ mountain.",
+        "choices": [
+            "a, the, a, the",
+            "a, a, a, the",
+            "the, the, a, the",
+            "a, the, an, a"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Select the correct articles to complete the sentence: She asked ___ people who lived close to ___ mountain to help her climb it.",
+        "choices": [
+            "an, an",
+            "a, the",
+            "the, a",
+            "a, a"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Select the correct articles to complete the sentence: The people told her that ___ mountain was too high to climb.",
+        "choices": [
+            "a",
+            "the",
+            "an",
+            "some"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Select the correct articles to complete the sentence: ___ girl said that she was not worried about ___ trouble she would have to go through to reach ___ world how brave she was.",
+        "choices": [
+            "The, the, the",
+            "A, an, an",
+            "The, a, the",
+            "The, an, the"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where did the children gather?",
+        "choices": [
+            "Inside the school",
+            "In the library",
+            "Outside in the playground",
+            "At Chuskit's house"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why did the children come to school without their school bags?",
+        "choices": [
+            "They forgot them",
+            "There were no classes that day",
+            "It was a holiday",
+            "They were going on a trip"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did one group of children do?",
+        "choices": [
+            "Played games",
+            "Worked in front of Chuskit's house",
+            "Cleaned the classroom",
+            "Studied in the library"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did a third group of children help build?",
+        "choices": [
+            "A house",
+            "A bridge",
+            "A playground",
+            "A classroom"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the children laugh and sing as they removed?",
+        "choices": [
+            "Flowers and plants",
+            "Stones and rocks",
+            "Garbage",
+            "Old toys"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the children carry to the stream?",
+        "choices": [
+            "Water",
+            "Sand",
+            "Wooden planks",
+            "Mud"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who made sure that all went according to plan?",
+        "choices": [
+            "Chuskit",
+            "The teachers",
+            "The Headmaster",
+            "Chuskit's parents"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Chuskit's parents provide for everyone?",
+        "choices": [
+            "Cold drinks",
+            "Hot tea and biscuits",
+            "Sweets",
+            "Fruits"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did Chuskit's grandfather sit?",
+        "choices": [
+            "Inside the school",
+            "Under a willow tree by the stream",
+            "In Chuskit's house",
+            "On the playground"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was Chuskit's grandfather watching?",
+        "choices": [
+            "The river",
+            "The mountains",
+            "The busy school children",
+            "The clouds"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the group of children at the end of the day?",
+        "choices": [
+            "Tired but happy",
+            "Angry and sad",
+            "Excited and energetic",
+            "Bored and sleepy"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What was ready at the end of the day?",
+        "choices": [
+            "The school",
+            "Chuskit's house",
+            "The playground",
+            "The path from Chuskit's home to the school"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Why was Chuskit so excited?",
+        "choices": [
+            "She was going on a trip",
+            "She was going to school for the first time",
+            "It was her birthday",
+            "She was getting a new toy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the word 'levelled' mean?",
+        "choices": [
+            "Made something flat or smooth",
+            "Made something rough",
+            "Made something high",
+            "Made something low"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are 'planks'?",
+        "choices": [
+            "Small rocks",
+            "Long, thin, flat pieces of timber",
+            "Short, thick pieces of timber",
+            "Large, round rocks"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who handed a letter to Chuskit's grandfather?",
+        "choices": [
+            "The bus driver",
+            "A young boy",
+            "Chuskit's brother",
+            "Her parents"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the young boy say when he handed over the letter?",
+        "choices": [
+            "Goodbye!",
+            "Julley!",
+            "Thank you!",
+            "See you later!"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name of the boy who gave the letter?",
+        "choices": [
+            "Abdal",
+            "Abdul",
+            "Abdullah",
+            "Abdel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which class does Abdul study?",
+        "choices": [
+            "Class 5",
+            "Class 6",
+            "Class 7",
+            "Class 8"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where does Abdul study?",
+        "choices": [
+            "Private school",
+            "Government School",
+            "Home",
+            "Village school"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why doesn't Chuskit go to school?",
+        "choices": [
+            "She doesn't like school",
+            "The path to school is uneven and her wheelchair gets stuck",
+            "She has to help with chores at home",
+            "She is too young"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another reason that Chuskit doesn't go to school?",
+        "choices": [
+            "She cannot cross the stream in front of the school",
+            "Her parents don't want her to go",
+            "She is being home-schooled",
+            "Her brother wants her to study"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Chuskit say it would be difficult for her parents to do?",
+        "choices": [
+            "To carry her to the stream",
+            "To carry her to school and back every day",
+            "To buy her new clothes",
+            "To teach her"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Chuskit hear her younger brother talking about?",
+        "choices": [
+            "His friends",
+            "All that he does at school",
+            "His dreams",
+            "His teachers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Chuskit want to do at school?",
+        "choices": [
+            "Study, make friends, play games, wear a uniform, and write exams",
+            "Only study",
+            "Only play games",
+            "Just wear a uniform"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Chuskit dream of doing?",
+        "choices": [
+            "Going to the park",
+            "Carrying a school bag and eating packed lunch",
+            "Becoming a teacher",
+            "Traveling to a new country"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who interrupts Chuskit's dreams?",
+        "choices": [
+            "Abdul",
+            "Her brother",
+            "Her grandfather",
+            "Her parents"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does her grandfather tell Chuskit to do?",
+        "choices": [
+            "Go to school",
+            "Stop dreaming",
+            "Learn as much as she can at home",
+            "All of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who teaches Chuskit songs?",
+        "choices": [
+            "Her brother",
+            "Her grandfather",
+            "Her parents",
+            "Abdul"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does Chuskit say she used to be like?",
+        "choices": [
+            "A rock",
+            "A flower",
+            "A feather",
+            "A cloud"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Chuskit is described as:",
+        "choices": [
+            "A disabled child",
+            "A child with a disability",
+            "A handicapped child",
+            "A child with special needs"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The main focus of 'People First' language is:",
+        "choices": [
+            "The disability",
+            "The person's limitations",
+            "The person",
+            "The diagnosis"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of 'People First' language?",
+        "choices": [
+            "The handicapped",
+            "The disabled",
+            "Person with a disability",
+            "Crippled"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT an example of 'People First' language?",
+        "choices": [
+            "Person who has (name the disability)",
+            "The blind",
+            "People with disabilities",
+            "Person with a physical disability"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When referring to a person's mental health condition, which phrase is considered appropriate?",
+        "choices": [
+            "Crazy, insane, mad",
+            "Person with a mental health condition",
+            "The insane",
+            "Mental"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is considered an empathetic approach?",
+        "choices": [
+            "Focusing on the disability rather than the person.",
+            "Using 'People First' language.",
+            "Avoiding the topic of disability.",
+            "Using outdated or offensive terms."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is NOT an empathetic way to describe someone with a disability?",
+        "choices": [
+            "Person with a physical disability",
+            "Person who suffers from the disability",
+            "Person who has (name the disability)",
+            "People with disabilities"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If someone is unable to speak, a proper way to describe them is:",
+        "choices": [
+            "Dumb, mute",
+            "Person who is unable to speak",
+            "Speechless",
+            "Voiceless"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is not acceptable to say?",
+        "choices": [
+            "People with disabilities",
+            "The handicapped, the disabled",
+            "Person who has (name the disability)",
+            "Person with a physical disability"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The word 'crippled' is not acceptable to say because:",
+        "choices": [
+            "It is not a correct word",
+            "It focuses on the person",
+            "It focuses on the disability rather than the person",
+            "It is too long"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which type of paragraph should you write when you are describing what you see outside?",
+        "choices": [
+            "Narrative Paragraph",
+            "Descriptive Paragraph",
+            "Summary Paragraph",
+            "Argumentative Paragraph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of paragraph should you write when imagining Abdul coming home and telling his mother what he did to help Chuskit?",
+        "choices": [
+            "Descriptive Paragraph",
+            "Narrative Paragraph",
+            "Argumentative Paragraph",
+            "Expository Paragraph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you use to rewrite the following sentences: Rewrite these sentences using capital letters, full stops, commas, apostrophes, question marks, exclamation marks and quotation marks where needed.",
+        "choices": [
+            "Only capital letters",
+            "Only commas",
+            "Capital letters, full stops, commas, apostrophes, question marks, exclamation marks and quotation marks",
+            "Only quotation marks"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the 'integrated punctuation' in this question?",
+        "choices": [
+            "Making good gur gur tea is an art this salted and buttered tea is very popular in ladakh an infusion of tea leaves known as zarcha is made which is strained and added to boiling water with salt and baking soda the mixture is then put into a churner called gur gur and churned with butter into a thick liquid this is again warmed and kept in a pot on a smouldering fire.",
+            "Punctuation",
+            "Integrated Punctuation",
+            "Life Skills Activity"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the best thing to use while writing Abdul's story?",
+        "choices": [
+            "Care",
+            "Empathy",
+            "Care and Empathy",
+            "Only Care"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 'as old as' compared to?",
+        "choices": [
+            "a rock",
+            "the mountains",
+            "a snail",
+            "a mouse"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'as hard as' compared to?",
+        "choices": [
+            "a rock",
+            "the mountains",
+            "a snail",
+            "a mouse"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'as brave as' compared to?",
+        "choices": [
+            "a rock",
+            "the mountains",
+            "a snail",
+            "a lion"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is 'as slow as' compared to?",
+        "choices": [
+            "a rock",
+            "the mountains",
+            "a snail",
+            "a mouse"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is 'as quiet as' compared to?",
+        "choices": [
+            "a rock",
+            "the mountains",
+            "a mouse",
+            "a mouse"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Nouns that are used for a group of people, animals or things are called:",
+        "choices": [
+            "Similes",
+            "Collective nouns",
+            "Adjectives",
+            "Pronouns"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'class of'?",
+        "choices": [
+            "musician",
+            "ants",
+            "student",
+            "cars"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'pack of'?",
+        "choices": [
+            "ants",
+            "wolves",
+            "cars",
+            "musicians"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'fleet of'?",
+        "choices": [
+            "ants",
+            "wolves",
+            "cars",
+            "musicians"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is an 'army of'?",
+        "choices": [
+            "ants",
+            "wolves",
+            "cars",
+            "musicians"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'band of'?",
+        "choices": [
+            "ants",
+            "wolves",
+            "cars",
+            "musicians"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these words comes first in alphabetical order?",
+        "choices": [
+            "Tea",
+            "Bridge",
+            "Wheelchair",
+            "Right"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these words comes first in alphabetical order?",
+        "choices": [
+            "Right",
+            "Fundamental",
+            "Poplar",
+            "Stream"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these words comes last in alphabetical order?",
+        "choices": [
+            "Stream",
+            "Mother",
+            "Poplar",
+            "Wheelchair"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "You are in a shop and want chocolates. What is the situation?",
+        "choices": [
+            "Asking your father for a sandwich",
+            "Asking the shopkeeper for chocolates",
+            "Eating chocolates",
+            "Buying chocolates"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many forms can an adjective be written in to show degrees of comparison?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which degree of comparison is used in the sentence: 'Abdul is a tall boy.'?",
+        "choices": [
+            "Comparative",
+            "Superlative",
+            "Positive",
+            "Irregular"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What degree of comparison is used in the sentence: 'Abdul's teacher is taller than Abdul.'?",
+        "choices": [
+            "Positive",
+            "Superlative",
+            "Comparative",
+            "None"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What degree of comparison is used in the sentence: 'The Headmaster is the tallest of the three.'?",
+        "choices": [
+            "Comparative",
+            "Positive",
+            "Superlative",
+            "Irregular"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word do some adjectives use to form their comparative and superlative degrees?",
+        "choices": [
+            "Less",
+            "More and most",
+            "Tall",
+            "Short"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the comparative form of 'bad'?",
+        "choices": [
+            "Badder",
+            "Worse",
+            "Worst",
+            "Baddest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative form of 'much'?",
+        "choices": [
+            "Mucher",
+            "More",
+            "Most",
+            "Muchiest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the comparative form of 'good'?",
+        "choices": [
+            "Gooder",
+            "Better",
+            "Best",
+            "Goodest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the superlative form of 'little'?",
+        "choices": [
+            "Littlest",
+            "Less",
+            "Least",
+            "Littler"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of an irregular adjective?",
+        "choices": [
+            "Taller",
+            "More beautiful",
+            "Worst",
+            "Tallest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of flower is the jasmine?",
+        "choices": [
+            "Beautiful",
+            "More beautiful",
+            "Most beautiful",
+            "ugly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How beautiful is the lily than jasmine?",
+        "choices": [
+            "less",
+            "same",
+            "more",
+            "None"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How beautiful is the rose of all the flowers in the garden?",
+        "choices": [
+            "Beautiful",
+            "More beautiful",
+            "Most beautiful",
+            "ugly"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the adjectives that do not follow regular rules called?",
+        "choices": [
+            "Regular adjectives",
+            "Proper Adjectives",
+            "Irregular adjectives",
+            "Common adjectives"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the positive form of worse?",
+        "choices": [
+            "Bad",
+            "Good",
+            "Little",
+            "Much"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Chuskit was very happy because",
+        "choices": [
+            "the apricot trees were in full bloom.",
+            "she was about to go to school.",
+            "her mother was making her favourite tea.",
+            "she did not have to go to school."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Chuskit could",
+        "choices": [
+            "walk faster than the other children.",
+            "cook while the others could not.",
+            "stitch and draw well.",
+            "help her grandfather with his work."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Before she got her wheelchair, Chuskit used to",
+        "choices": [
+            "be carried around by her mother.",
+            "walk very easily.",
+            "walk with the help of a stick.",
+            "stay in bed all day long."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Abdul told the Headmaster that",
+        "choices": [
+            "Chuskit was too lazy to come to school.",
+            "he liked to play with Chuskit and her brother.",
+            "they should do something to get Chuskit to school.",
+            "Chuskit's grandfather did not want her to go to school."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Abdul studied in",
+        "choices": [
+            "the Government School.",
+            "the Village Education society.",
+            "the Village Education Committee.",
+            "Azangley Public School."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why was Chuskit pleading with Meme-ley?",
+        "choices": [
+            "Because she wanted to go to school.",
+            "Because she was angry.",
+            "Because Meme-ley was walking away.",
+            "Because she had tears in her eyes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What was the name of the boy who visited the Headmaster?",
+        "choices": [
+            "Stobdan",
+            "Azhang-ley",
+            "Chuskit",
+            "Abdul"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is Azhang-ley in relation to Stobdan?",
+        "choices": [
+            "His mother",
+            "His friend",
+            "His sister",
+            "His teacher"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why can't Azhang-ley reach the school?",
+        "choices": [
+            "She doesn't want to.",
+            "The path is too rough and uneven.",
+            "She doesn't have a wheelchair.",
+            "Her parents don't want her to go."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Azhang-ley use to move around?",
+        "choices": [
+            "A car",
+            "A bicycle",
+            "A wheelchair",
+            "Her feet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Abdul suggest to help Azhang-ley?",
+        "choices": [
+            "Build a new school.",
+            "Level the path and build a small bridge.",
+            "Buy her a new wheelchair.",
+            "Move her closer to the school."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Abdul and Azhang-ley read about in their civics class?",
+        "choices": [
+            "The importance of school",
+            "The benefits of exercise",
+            "The fundamental rights of citizens",
+            "The history of their village"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What right does every child have according to Abdul?",
+        "choices": [
+            "Right to play",
+            "Right to education",
+            "Right to food",
+            "Right to shelter"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the Headmaster decide to do after talking to Abdul?",
+        "choices": [
+            "Ignore the situation",
+            "Call a meeting with the teachers",
+            "Visit Azhang-ley's house",
+            "Contact Azhang-ley's parents"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How did one of the teachers respond to Abdul's idea?",
+        "choices": [
+            "Excited",
+            "Supportive",
+            "Impossible!",
+            "Indifferent"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the Headmaster say they had to work out?",
+        "choices": [
+            "How to get Chuskit to school",
+            "How to build a new toilet",
+            "How to raise money",
+            "How to convince the parents"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where did the Headmaster hear about a special toilet for a child with a disability?",
+        "choices": [
+            "In a newspaper",
+            "In the village of Mentok Yul",
+            "In a magazine",
+            "On television"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who helped build a special toilet for a child with a disability?",
+        "choices": [
+            "The Headmaster",
+            "The Village Education Committee",
+            "Abdul",
+            "The parents"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the first thing that needed to happen according to Headmaster?",
+        "choices": [
+            "Build the bridge",
+            "Level the path",
+            "Get Chuskit to school",
+            "Build a special toilet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the definition of 'fundamental rights of citizens'?",
+        "choices": [
+            "Rights only for children",
+            "Rights only for adults",
+            "Basic freedoms that human beings must have",
+            "Rights related to school"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who said 'Now I won't have to carry Chuskit everywhere, I can wheel her around'?",
+        "choices": [
+            "Stobdan",
+            "Chuskit",
+            "Ama-ley",
+            "The narrator"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was in Ama-ley's eyes when she spoke?",
+        "choices": [
+            "Anger",
+            "Sadness",
+            "Tears of happiness",
+            "Disappointment"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who cried out 'And I will be able to go wherever I want!'?",
+        "choices": [
+            "Stobdan",
+            "Ama-ley",
+            "Chuskit",
+            "The bus driver"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who begged to ride on Chuskit's wheelchair?",
+        "choices": [
+            "Ama-ley",
+            "The teacher",
+            "Stobdan",
+            "No one"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why did Stobdan want to ride the wheelchair?",
+        "choices": [
+            "He was tired",
+            "It looked like fun",
+            "He was injured",
+            "He wanted to race"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did Chuskit watch the children from?",
+        "choices": [
+            "The school",
+            "The marketplace",
+            "Her wheelchair outside her home",
+            "The kitchen window"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the children do while returning from school?",
+        "choices": [
+            "Sang songs",
+            "Chattered and laughed",
+            "Played games",
+            "Studied together"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did the evening bus return from?",
+        "choices": [
+            "The school",
+            "The mountains",
+            "Leh",
+            "The hospital"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who did the evening bus bring back?",
+        "choices": [
+            "Students",
+            "Tourists",
+            "People from work and the marketplace",
+            "Doctors"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where was the world more exciting for Chuskit?",
+        "choices": [
+            "From the mountains",
+            "From the school",
+            "From the kitchen window",
+            "From her wheelchair outside her home"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who helps Chuskit into the wheelchair every evening?",
+        "choices": [
+            "Stobdan",
+            "Her father",
+            "Her mother",
+            "The bus driver"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does Chuskit watch returning from Leh?",
+        "choices": [
+            "A taxi",
+            "A train",
+            "An evening bus",
+            "A donkey cart"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Chuskit learning to do?",
+        "choices": [
+            "To walk",
+            "To read",
+            "To use her wheelchair",
+            "To cook"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does Chuskit ask her mother to do?",
+        "choices": [
+            "To take her to school",
+            "To seat her in the wheelchair",
+            "To read her a story",
+            "To make her dinner"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What time of the day does Chuskit watch the children return?",
+        "choices": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "Night"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What time of year is it in the story?",
+        "choices": [
+            "Winter",
+            "Summer",
+            "Spring",
+            "Autumn"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of trees were in full bloom?",
+        "choices": [
+            "Apple trees",
+            "Cherry trees",
+            "Apricot trees",
+            "Peach trees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was Chuskit's Ama-ley doing in the kitchen?",
+        "choices": [
+            "Making tea",
+            "Cooking dinner",
+            "Washing dishes",
+            "Baking bread"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What was special about this day for Chuskit?",
+        "choices": [
+            "Her birthday",
+            "First day of school",
+            "A family visit",
+            "A trip to the market"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How old was Chuskit?",
+        "choices": [
+            "Seven years old",
+            "Eight years old",
+            "Nine years old",
+            "Ten years old"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What ran along a narrow stream near the road to school?",
+        "choices": [
+            "A fence",
+            "A prayer wheel",
+            "A garden",
+            "A path"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did children cross when they reach near the poplar trees?",
+        "choices": [
+            "A bridge",
+            "A narrow street",
+            "A stream",
+            "A garden"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of Chuskit's village?",
+        "choices": [
+            "Leh",
+            "Skitpo Yul",
+            "Stobdan",
+            "Amchi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Chuskit have?",
+        "choices": [
+            "A cold",
+            "A disability",
+            "A broken arm",
+            "A fever"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did Chuskit's father take her to get help?",
+        "choices": [
+            "To the market",
+            "To the village amchi and doctors in Leh",
+            "To the mountains",
+            "To a neighboring village"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is Stobdan?",
+        "choices": [
+            "Chuskit's father",
+            "Chuskit's brother",
+            "Chuskit's cousin",
+            "Chuskit's friend"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Aba-ley bring Chuskit from Leh?",
+        "choices": [
+            "Books",
+            "Colour pencils",
+            "Toys",
+            "Sweets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What could Chuskit see from her kitchen window?",
+        "choices": [
+            "The school",
+            "Her family's animals",
+            "The mountains",
+            "The market"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Chuskit use to move around?",
+        "choices": [
+            "A scooter",
+            "A wheelchair",
+            "Crutches",
+            "A walking stick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did everyone feel when Aba-ley first brought the wheelchair home?",
+        "choices": [
+            "Sad",
+            "Angry",
+            "Indifferent",
+            "Excited"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does 'aba-ley' mean?",
+        "choices": [
+            "father",
+            "mother",
+            "grandfather",
+            "doctor"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'amchi' mean?",
+        "choices": [
+            "father",
+            "a local doctor who has been trained in Tibetan medicine",
+            "grandfather",
+            "mother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'ama-ley' mean?",
+        "choices": [
+            "father",
+            "grandfather",
+            "mother",
+            "doctor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'azhang-ley' mean?",
+        "choices": [
+            "father",
+            "term used to show respect for an elderly man",
+            "grandfather",
+            "mother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'meme-ley' mean?",
+        "choices": [
+            "father",
+            "mother",
+            "grandfather",
+            "doctor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'gur-gur tea' refer to?",
+        "choices": [
+            "Tea without milk",
+            "Butter tea that is made in a long cylindrical wooden vessel",
+            "Plain tea",
+            "Black tea"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'julley' mean?",
+        "choices": [
+            "Goodbye",
+            "Thank you",
+            "Hello, goodbye",
+            "See you soon"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is the author of 'Chuskit Goes to School'?",
+        "choices": [
+            "Sujatha Padmanabhan",
+            "Padmanabhan Sujatha",
+            "Chuskit",
+            "None of these"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'gur-gur tea' churned with?",
+        "choices": [
+            "Sugar and milk",
+            "Salt and sugar",
+            "Butter, salt and milk",
+            "Water and sugar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of noise is produced during the churning of 'gur-gur tea'?",
+        "choices": [
+            "Low mee-mee noise",
+            "Low gur-gur noise",
+            "Loud gur-gur noise",
+            "High mee-mee noise"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is coming after the introduction?",
+        "choices": [
+            "A discussion",
+            "A question-answer session",
+            "A story about a boy helping a little girl",
+            "A warm-up exercise"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In what language is Amchi trained in?",
+        "choices": [
+            "English",
+            "Hindi",
+            "Tibetan",
+            "Urdu"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is butter tea made in?",
+        "choices": [
+            "Cylindrical steel vessel",
+            "Long cylindrical wooden vessel",
+            "Round steel vessel",
+            "Rectangular wooden vessel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is NOT an option for what you can greet with Julley?",
+        "choices": [
+            "Hello",
+            "Goodbye",
+            "Thank you",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In 'gur-gur tea' is only butter added?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "None of these"
+        ],
+        "correctAnswer": 1
+    }
+]
