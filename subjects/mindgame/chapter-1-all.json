@@ -1,0 +1,3626 @@
+[
+  {
+      "question": "Fill in the blank with the most appropriate noun: A _______ has a hump.",
+      "choices": [
+          "Camel",
+          "Elephant",
+          "Dog",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Fill in the blank with the most appropriate collective noun: Radha saw a _______ of ships in the harbour.",
+      "choices": [
+          "Fleet",
+          "Number",
+          "Group",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Choose the correct tense: My brother and sister _______ playing tennis at 11am yesterday.",
+      "choices": [
+          "were",
+          "was",
+          "are",
+          "none of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Choose the most appropriate pronoun: _______ like coffee.",
+      "choices": [
+          "I",
+          "He",
+          "She",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Choose the most appropriate pronoun: Lisa found her books but Mary couldn't find _______.",
+      "choices": [
+          "he",
+          "him",
+          "hers",
+          "none of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Choose the correct adjective: The _______ man said that the box was heavy.",
+      "choices": [
+          "tired",
+          "active",
+          "try",
+          "none of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Choose the correct synonym of 'Amount'",
+      "choices": [
+          "cash",
+          "quantity",
+          "quality",
+          "handsome"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Choose the correct synonym of 'Displacement'",
+      "choices": [
+          "shift",
+          "broken",
+          "taken",
+          "none of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which author wrote 'In a Free State'?",
+      "choices": [
+          "Salman Rushdie",
+          "V.S. Naipaul",
+          "Arundhati Roy",
+          "Kiran Desai"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which author wrote 'Midnight's Children'?",
+      "choices": [
+          "Arundhati Roy",
+          "Salman Rushdie",
+          "Aravind Adiga",
+          "Kiran Desai"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which book won the Man Booker Prize in 1997?",
+      "choices": [
+          "In a Free State",
+          "Midnight's Children",
+          "The God of Small Things",
+          "The White Tiger"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who wrote 'The God of Small Things'?",
+      "choices": [
+          "Salman Rushdie",
+          "Arundhati Roy",
+          "Kiran Desai",
+          "Aravind Adiga"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following authors is listed in the HELP BOX?",
+      "choices": [
+          "Geetanjali Shree",
+          "Daisy Rockwell",
+          "V.S. Naipaul",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The Man Booker Prize is designed to promote fiction written in what language?",
+      "choices": [
+          "Hindi",
+          "English",
+          "Tamil",
+          "Bengali"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In what year was 'The White Tiger' awarded the Man Booker Prize?",
+      "choices": [
+          "1971",
+          "1981",
+          "2006",
+          "2008"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Who wrote 'The White Tiger'?",
+      "choices": [
+          "Aravind Adiga",
+          "Salman Rushdie",
+          "V.S. Naipaul",
+          "Kiran Desai"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which novel won the Man Booker Prize in 2006?",
+      "choices": [
+          "In a Free State",
+          "The God of Small Things",
+          "Midnight's Children",
+          "The Inheritance of Loss"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Tomb of Sand is originally written in which language?",
+      "choices": [
+          "English",
+          "Hindi",
+          "Tamil",
+          "Bengali"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who translated 'Tomb of Sand' into English?",
+      "choices": [
+          "Salman Rushdie",
+          "Aravind Adiga",
+          "Daisy Rockwell",
+          "Arundhati Roy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In what year did 'Tomb of Sand' win the International Booker Prize?",
+      "choices": [
+          "2006",
+          "2008",
+          "2021",
+          "2022"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Who wrote 'The Inheritance of Loss'?",
+      "choices": [
+          "Salman Rushdie",
+          "Kiran Desai",
+          "Arundhati Roy",
+          "Aravind Adiga"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who is the author of Tomb of Sand?",
+      "choices": [
+          "Salman Rushdie",
+          "Geetanjali Shree",
+          "Arundhati Roy",
+          "Kiran Desai"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In what year did 'In a Free State' win the Man Booker Prize?",
+      "choices": [
+          "1971",
+          "1981",
+          "1997",
+          "2006"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "That's one small step for man, one giant leap for mankind.",
+      "choices": [
+          "Albert Einstein",
+          "Marlon Brando",
+          "Neil Armstrong",
+          "None of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Those that fail to learn from history are doomed to repeat it.",
+      "choices": [
+          "Winston Churchill",
+          "Jawaharlal Nehru",
+          "Napoleon Bonaparte",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Dance like no one is watching, sing like no one is listening, love like you have never been hurt and live like it is heaven on the earth.",
+      "choices": [
+          "Mark Twain",
+          "Oprah Winfrey",
+          "John Lennon",
+          "None of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "If you judge people, you have no time to love them.",
+      "choices": [
+          "Mother Teresa",
+          "Rabindranath Tagore",
+          "R.K. Narayan",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Float like a butterfly, sting like a bee.",
+      "choices": [
+          "Muhammad Ali",
+          "Don Bradman",
+          "Steffi Graf",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Arise! Awake! Stop not till the goal is reached.",
+      "choices": [
+          "Indira Gandhi",
+          "Swami Vivekananda",
+          "Lokmanya Tilak",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "It is better to remain silent and be thoughtful than to open one's mouth and remove all doubt.",
+      "choices": [
+          "Nelson Mandela",
+          "Abraham Lincoln",
+          "Mother Teresa",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Industries are the temples of modern India.",
+      "choices": [
+          "Subhash Chandra Bose",
+          "Jawaharlal Nehru",
+          "Bhagat Singh",
+          "None of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Two things are infinite: the universe and human stupidity; but I am not sure about the universe.",
+      "choices": [
+          "Stephen Hawking",
+          "Isaac Newton",
+          "Albert Einstein",
+          "None of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Be the change you wish to see in the world.",
+      "choices": [
+          "Barack Obama",
+          "Martin Luther King",
+          "Martin Luther King",
+          "None of these"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which cartoon series does the character Shaggy belong to?",
+      "choices": [
+          "Looney Tunes",
+          "Scooby-Doo",
+          "The Simpsons",
+          "SpongeBob SquarePants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Buttercup is a character from which cartoon series?",
+      "choices": [
+          "Dexter's Laboratory",
+          "The Powerpuff Girls",
+          "Johnny Bravo",
+          "Ed, Edd n Eddy"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Maleficent is from which animated movie?",
+      "choices": [
+          "Cinderella",
+          "Sleeping Beauty",
+          "Snow White",
+          "Beauty and the Beast"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which cartoon does Patlu belong to?",
+      "choices": [
+          "Motu Patlu",
+          "Chota Bheem",
+          "Shinchan",
+          "Doraemon"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Dora is the main character in which cartoon?",
+      "choices": [
+          "Go, Diego, Go!",
+          "Dora the Explorer",
+          "Ni Hao, Kai-Lan",
+          "Blue's Clues"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which comic strip and cartoon features Snoopy?",
+      "choices": [
+          "Garfield",
+          "Peanuts",
+          "Calvin and Hobbes",
+          "The Far Side"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Bagheera is a character from which story?",
+      "choices": [
+          "The Jungle Book",
+          "Tarzan",
+          "Kim",
+          "Rikki-Tikki-Tavi"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Nobita is from which cartoon series?",
+      "choices": [
+          "Shinchan",
+          "Doraemon",
+          "Pokemon",
+          "Hattori"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Phineas Flynn is a character in which Disney cartoon?",
+      "choices": [
+          "Kim Possible",
+          "Phineas and Ferb",
+          "Gravity Falls",
+          "Milo Murphy's Law"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Bart Simpson is a character from which television show?",
+      "choices": [
+          "Family Guy",
+          "The Simpsons",
+          "South Park",
+          "Rick and Morty"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Jasmine is a princess from which Disney movie?",
+      "choices": [
+          "The Little Mermaid",
+          "Aladdin",
+          "Mulan",
+          "Pocahontas"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Pumbaa is a character from what movie?",
+      "choices": [
+          "The Lion King",
+          "Madagascar",
+          "Finding Nemo",
+          "Kung Fu Panda"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which cartoon character is known for saying 'That's all folks!'?",
+      "choices": [
+          "Bugs Bunny",
+          "Mickey Mouse",
+          "Donald Duck",
+          "Porky Pig"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following character is from jungle book ?",
+      "choices": [
+          "Goofy",
+          "Mowgli",
+          "Elsa",
+          "Dumbo"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which cartoon is known for saying 'Eat my shorts'?",
+      "choices": [
+          "Peter Griffin",
+          "Bugs bunny",
+          "Bart Simpson",
+          "SpongeBob SquarePants"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal is the largest member of the deer family?",
+      "choices": [
+          "Moose",
+          "Elk",
+          "Reindeer",
+          "White-tailed deer"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which animal is omnivorous and has humped shoulders?",
+      "choices": [
+          "Polar Bear",
+          "Grizzly Bear",
+          "Panda Bear",
+          "Black Bear"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animal is known for its black mask across the eyes?",
+      "choices": [
+          "Squirrel",
+          "Opossum",
+          "Raccoon",
+          "Skunk"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal is a big cat and a good swimmer?",
+      "choices": [
+          "Tiger",
+          "Lion",
+          "Leopard",
+          "Jaguar"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which animal is a small, discrete amphibious animal?",
+      "choices": [
+          "Frog",
+          "Salamander",
+          "Newt",
+          "Otter"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which animal is known as an acrobatic animal?",
+      "choices": [
+          "Monkey",
+          "Ape",
+          "Gibbon",
+          "Orangutan"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal is a solitary plant-eating animal with a short trunk?",
+      "choices": [
+          "Elephant",
+          "Tapir",
+          "Rhino",
+          "Hippo"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animal is reared for its milk and hide?",
+      "choices": [
+          "Cow",
+          "Goat",
+          "Yak",
+          "Sheep"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals is known for its large antlers?",
+      "choices": [
+          "Lion",
+          "Elk",
+          "Elephant",
+          "Giraffe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these animals is known for its solitary nature?",
+      "choices": [
+          "Bear",
+          "Elephant",
+          "Dog",
+          "Cat"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these animals is NOT a big cat?",
+      "choices": [
+          "Lion",
+          "Tiger",
+          "Leopard",
+          "Wolf"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these animals is a primate?",
+      "choices": [
+          "Giraffe",
+          "Elephant",
+          "Gibbon",
+          "Deer"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals has a black mask?",
+      "choices": [
+          "Lion",
+          "Elk",
+          "Raccoon",
+          "Yak"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals is not reared for milk?",
+      "choices": [
+          "Yak",
+          "Cow",
+          "Cat",
+          "Goat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal is best known for its swimming ability?",
+      "choices": [
+          "Leopard",
+          "Elk",
+          "Elephant",
+          "Gibbon"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Out of 360 species of sharks, how many are known killers?",
+      "choices": [
+          "360",
+          "100",
+          "4",
+          "50"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which colors should you not wear when swimming in the sea?",
+      "choices": [
+          "Red and Blue",
+          "Yellow and Orange",
+          "Green and Black",
+          "White and Grey"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What marine creature is described as the 'sting masters of the sea'?",
+      "choices": [
+          "Sharks",
+          "Jellyfish",
+          "Snakes",
+          "Elephants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do jellyfish use to dredge up small prey?",
+      "choices": [
+          "Fins",
+          "Tentacles",
+          "Teeth",
+          "Beaks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of jellyfish is one of the most venomous marine creatures in the world?",
+      "choices": [
+          "Lion's mane jellyfish",
+          "Moon jellyfish",
+          "Box jellyfish",
+          "Portuguese man-of-war"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Approximately how many people are killed by snake bites each year?",
+      "choices": [
+          "Less than 100",
+          "More than 100,000",
+          "Exactly 100,000",
+          "About 50,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is mentioned as a 'troubling shortage' regarding snake bites?",
+      "choices": [
+          "Snakes",
+          "Trained Doctors",
+          "Essential anti-venom",
+          "Hospitals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a characteristic of elephants despite their friendly and approachable image?",
+      "choices": [
+          "They are always friendly",
+          "They never attack people",
+          "They kill an alarming number of people every year",
+          "They are very predictable"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who have elephants been known to kill?",
+      "choices": [
+          "Fisherman",
+          "Farmers",
+          "Mahouts",
+          "Swimmers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the four known killer sharks mentioned?",
+      "choices": [
+          "Hammerhead, whale, tiger and bull shark",
+          "Tiger, great white, oceanic white tip and bull sharks",
+          "Mako, goblin, frilled and whale shark",
+          "Angel, megamouth, basking and carpet sharks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of pain someone will experience being entagled with a jellyfish?",
+      "choices": [
+          "Ranging from a nasty nip to excruciating pain",
+          "Very little pain",
+          "Instant death",
+          "Mild itching"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Are Elephants considered predictable creatures?",
+      "choices": [
+          "Yes, they are highly predictable",
+          "Sometimes predictable, and sometimes unpredictable",
+          "They are unpredictable creatures",
+          "They are only unpredictable with their mahouts"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does a Jellyfish uses to dredge up small prey?",
+      "choices": [
+          "Stingers",
+          "Feet",
+          "Tentacles",
+          "Eyesight"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Are Sharks known for good eyesight?",
+      "choices": [
+          "Yes, Sharks have a good eyesight",
+          "No, Sharks have horrible eyesight",
+          "Sharks have good eyesight in the ocean",
+          "Sharks have good eyesight at night"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What colors seem to irritate Sharks?",
+      "choices": [
+          "Blue and Green",
+          "Black and White",
+          "Yellow and Orange",
+          "Purple and Blue"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of protective gears for animals?",
+      "choices": [
+          "To attract mates",
+          "To protect themselves from danger",
+          "To help them swim faster",
+          "To help them fly higher"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these is an example of a natural protective gear?",
+      "choices": [
+          "A saddle",
+          "A helmet",
+          "Spikes",
+          "A leash"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does electric eel produce to stun its prey?",
+      "choices": [
+          "Poison",
+          "Powerful electric shock",
+          "Sound waves",
+          "Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name for animals that stay in a dormant state through the winter to conserve energy?",
+      "choices": [
+          "Migration",
+          "Hibernation",
+          "Estivation",
+          "Adaptation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a Natterjack Toad?",
+      "choices": [
+          "A type of bird",
+          "A type of insect",
+          "A type of frog",
+          "A type of snake"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is another name for Wood Chuck?",
+      "choices": [
+          "Groundhog",
+          "Squirrel",
+          "Badger",
+          "Beaver"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a type of snake?",
+      "choices": [
+          "Newt",
+          "Adder",
+          "Frog",
+          "Tortoise"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Is Polar Bear a Hibernating Animal?",
+      "choices": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Maybe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which one is a tortoise?",
+      "choices": [
+          "A fish",
+          "A frog",
+          "A turtle",
+          "A bird"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is Common Toad",
+      "choices": [
+          "A reptile",
+          "An amphibian",
+          "A fish",
+          "A mammal"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where are Hibernating animals usually found?",
+      "choices": [
+          "Desert",
+          "Jungle",
+          "Cold Regions",
+          "Tropical area"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is Newt?",
+      "choices": [
+          "A type of dog",
+          "A type of salamander",
+          "A type of bird",
+          "A type of fish"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Is there any animal called Green Toad?",
+      "choices": [
+          "Yes",
+          "No",
+          "Maybe",
+          "Can't Say"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is frog?",
+      "choices": [
+          "A amphibian",
+          "A bird",
+          "A mammal",
+          "A reptile"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Adder is another name of",
+      "choices": [
+          "Snake",
+          "Dog",
+          "Rat",
+          "Cat"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Tortoise is an amphibian?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Hibernation is done during Summer",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Polar Bear is found in",
+      "choices": [
+          "Amazon forest",
+          "Desert",
+          "Arctic regions",
+          "Africa"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Coniferous trees have broad and flat leaves.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Ginger is an underground stem.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Jasmine grows on a tree.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Mildew, Rust and Dutch elm are diseases that attack plants.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Petals are part of the corolla of the flower.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Plants produce oxygen as a waste product during photosynthesis.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following best describes a Biennial?",
+      "choices": [
+          "Living for several years",
+          "Plants that grow in water or in wet areas",
+          "Plants that live for more than 2 years",
+          "Plants that shed their leaves annually"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the overall structure of petals of the flower called?",
+      "choices": [
+          "Biennial",
+          "Corolla",
+          "Deciduous",
+          "Perennial"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of deciduous plant?",
+      "choices": [
+          "Living for several years",
+          "Plants that grow in water or in wet areas",
+          "Overall structure of petals of the flower",
+          "Plants that shed their leaves annually"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of perennial plant?",
+      "choices": [
+          "Living for several years",
+          "Plants that grow in water or in wet areas",
+          "A plant that lives for more than 2 years",
+          "Plants that shed their leaves annually"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are aquatic plants?",
+      "choices": [
+          "Living for several years",
+          "Plants that grow in water or in wet areas",
+          "Overall structure of petals of the flower",
+          "Plants that shed their leaves annually"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How long can bamboo grow in a single day?",
+      "choices": [
+          "10 inches",
+          "20 inches",
+          "35 inches",
+          "50 inches"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How is bamboo described?",
+      "choices": [
+          "Fastest growing woody plant",
+          "Slowest growing woody plant",
+          "Largest tree",
+          "Smallest tree"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Where can we find bamboo?",
+      "choices": [
+          "Everywhere",
+          "Only in India",
+          "Only in Africa",
+          "All over the world"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How long do Biennials plants live?",
+      "choices": [
+          "2 years",
+          "3 years",
+          "More than 2 years",
+          "More than 3 years"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which plant is known as the fastest growing water plant?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which plant has the largest flower in the world and a characteristic smell of rotting meat?",
+      "choices": [
+          "Black Bat flower",
+          "Rafflesia",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which plant is found in Assam, Manipur and Nagaland, and is the second hottest chilly in the world?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Ghost Chilly",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which plant is known for its huge circular leaves that have a diameter of up to 10 feet?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which plant is a fleshy tropical fruit that, when sliced across, gets perfect star shaped pieces?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which plant has flowers that look like flying bats?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these plants is a parasite?",
+      "choices": [
+          "Carambola",
+          "Water Hyacinth",
+          "Rafflesia",
+          "Victoria Amazonica"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In winter, what happens to the amount of chlorophyll in leaves?",
+      "choices": [
+          "Increases",
+          "Decreases",
+          "Remains the same",
+          "Turns blue"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these plants is a water plant?",
+      "choices": [
+          "Carambola",
+          "Water Hyacinth",
+          "Rafflesia",
+          "Black Bat flower"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these plants is known for its round leaves?",
+      "choices": [
+          "Carambola",
+          "Water Hyacinth",
+          "Rafflesia",
+          "Victoria Amazonica"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is not a plant?",
+      "choices": [
+          "Rafflesia",
+          "Victoria Amazonica",
+          "Carambola",
+          "None of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these plants has a fruit that has star shaped pieces",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Carambola",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which plant is also known as Ghost Chilly?",
+      "choices": [
+          "Black Bat flower",
+          "Victoria Amazonica",
+          "Ghost Chilly",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which plant has the largest flower and has a characteristic smell of rotting meat?",
+      "choices": [
+          "Water Hyacinth",
+          "Rafflesia",
+          "Victoria Amazonica",
+          "Carambola"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which plant's flower is known for looking like flying bats?",
+      "choices": [
+          "Black Bat Flower",
+          "Victoria Amazonica",
+          "Rafflesia",
+          "Water Hyacinth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is fennel known as?",
+      "choices": [
+          "A vegetable",
+          "A spice",
+          "A carminative herb",
+          "A type of fruit"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does fennel ease?",
+      "choices": [
+          "Muscle pain",
+          "Bloating gas pains and digestive spasms",
+          "Headaches",
+          "Skin irritation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Leaves of many plants and trees are used for the treatment of...",
+      "choices": [
+          "Injuries",
+          "Different diseases",
+          "Aging",
+          "Weight loss"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'Recycle' mean according to the text?",
+      "choices": [
+          "To throw away old things.",
+          "To make new things from old/used things.",
+          "To burn waste materials.",
+          "To bury waste materials."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the characteristic of 'Biodegradable wastes'?",
+      "choices": [
+          "They do not get decomposed.",
+          "They get decomposed by bacteria in the soil.",
+          "They can be recycled easily.",
+          "They are harmful to the environment."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the characteristic of 'Non-biodegradable wastes'?",
+      "choices": [
+          "They get decomposed quickly.",
+          "They are beneficial for the soil.",
+          "They do not get decomposed.",
+          "They can be easily converted into compost."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is one of the three important ways to conserve nature?",
+      "choices": [
+          "Pollute",
+          "Reduce",
+          "Destroy",
+          "Ignore"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is one of the three important ways to conserve nature?",
+      "choices": [
+          "Contaminate",
+          "Reuse",
+          "Waste",
+          "Neglect"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is one of the three important ways to conserve nature?",
+      "choices": [
+          "recycle",
+          "Burn",
+          "Litter",
+          "Discard"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What kind of waste needs to be separated for recycling?",
+      "choices": [
+          "Only biodegradable waste.",
+          "Only non-biodegradable waste.",
+          "Both biodegradable and non-biodegradable waste.",
+          "Only liquid waste."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Conserve' mean in this context?",
+      "choices": [
+          "To waste",
+          "To protect",
+          "To pollute",
+          "To ignore"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do biodegradable wastes decompose?",
+      "choices": [
+          "By burning them.",
+          "By burying them in plastic.",
+          "By bacteria present in the soil.",
+          "By throwing them in the ocean."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the outcome of recycling?",
+      "choices": [
+          "Making new things.",
+          "Creating more waste.",
+          "Polluting the environment.",
+          "Consuming more resources."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which action doesn't contribute to conservation?",
+      "choices": [
+          "Recycling plastic bottles",
+          "Reusing shopping bags",
+          "Reducing consumption",
+          "Throwing away all packaging"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following can be recycled?",
+      "choices": [
+          "Paper",
+          "Vegetable Peels",
+          "Manure",
+          "Grass"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following can be reused?",
+      "choices": [
+          "Plastic",
+          "Food",
+          "Pesticides",
+          "Fertilizers"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following can be reduced?",
+      "choices": [
+          "Electricity wastage",
+          "Food consumption",
+          "Using resources",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is the key factor to conserve nature?",
+      "choices": [
+          "reduce",
+          "recycle",
+          "reuse",
+          "all of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of 'Asymptomatic'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 9
+  },
+  {
+      "question": "What does 'Community spread' refer to?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the meaning of 'Herd immunity'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 7
+  },
+  {
+      "question": "What is the meaning of 'Incubation period'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Isolation'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 6
+  },
+  {
+      "question": "What is the meaning of 'Lockdown'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of 'Mask'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 4
+  },
+  {
+      "question": "What is the meaning of 'Pandemic'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 5
+  },
+  {
+      "question": "What is the meaning of 'Covid-19'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Contagious'?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "A piece of cloth to cover the mouth and nose.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 8
+  },
+  {
+      "question": "What is PPE (Personal protective equipment)?",
+      "choices": [
+          "Transmission of disease directly within a community.",
+          "Coronavirus disease.",
+          "The time from a person's first exposure of a disease to the time when symptoms develop.",
+          "Official restriction movement within an area.",
+          "Special clothing worn over other garments that shield people from infection.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Keeping the infected person away from healthy people.",
+          "An indirect protection from a disease resulting from a large percentage of people gaining immunity.",
+          "A disease that can pass from one person to another.",
+          "Showing no symptoms of a particular disease."
+      ],
+      "correctAnswer": 4
+  },
+  {
+      "question": "If someone is showing no symptoms of a particular disease, what term applies?",
+      "choices": [
+          "Community spread",
+          "Incubation period",
+          "Asymptomatic",
+          "Pandemic",
+          "Contagious"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens during 'Isolation'?",
+      "choices": [
+          "Keeping the infected person away from healthy people.",
+          "Official restriction movement within an area.",
+          "Transmission of disease directly within a community.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Coronavirus disease"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is a 'Lockdown'?",
+      "choices": [
+          "Keeping the infected person away from healthy people.",
+          "Official restriction movement within an area.",
+          "Transmission of disease directly within a community.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "Coronavirus disease"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What best describes 'Contagious'?",
+      "choices": [
+          "Keeping the infected person away from healthy people.",
+          "Official restriction movement within an area.",
+          "Transmission of disease directly within a community.",
+          "Occurrence of a particular disease throughout the whole country or the world.",
+          "A disease that can pass from one person to another."
+      ],
+      "correctAnswer": 4
+  },
+  {
+      "question": "Children should know about the types of touches.",
+      "choices": [
+          "Soft and hard touch",
+          "Good touch and bad touch",
+          "Fast and slow touch",
+          "Hot and cold touch"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A good touch makes you feel...",
+      "choices": [
+          "Sad",
+          "Uncomfortable",
+          "Warm, comfortable and safe",
+          "Angry"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is NOT a feeling associated with a good touch?",
+      "choices": [
+          "Happy",
+          "Cheerful",
+          "Joyful",
+          "Unsafe"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is an example of a good touch?",
+      "choices": [
+          "Touch from a stranger",
+          "Hug from parents",
+          "Touching private parts",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Bad touch can make you feel...",
+      "choices": [
+          "Happy",
+          "Good",
+          "Uneasy",
+          "Comfortable"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a feeling associated with bad touch?",
+      "choices": [
+          "Sadness",
+          "Happiness",
+          "Joy",
+          "Comfort"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of a bad touch?",
+      "choices": [
+          "Pat from teacher",
+          "Hug from parents",
+          "Touch from a stranger",
+          "All of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What should you do if you experience a bad touch?",
+      "choices": [
+          "Say a loud 'No'",
+          "Tell an adult immediately",
+          "Shout and move away",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the first thing you should do when dealing with a bad touch?",
+      "choices": [
+          "Tell an adult",
+          "Say a loud 'No'",
+          "Be strong",
+          "Shout"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "After saying 'No' to a bad touch, what should you do?",
+      "choices": [
+          "Keep it a secret",
+          "Tell an adult you trust",
+          "Ignore it",
+          "Nothing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the text suggest you should be when dealing with a bad touch?",
+      "choices": [
+          "Quiet",
+          "Shy",
+          "Strong",
+          "Polite"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which action is recommended to get away from someone giving a bad touch?",
+      "choices": [
+          "Smile politely",
+          "Shout and move away",
+          "Say thank you",
+          "Stay quiet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What can be one of the feelings when someone experiences a bad touch?",
+      "choices": [
+          "Excited",
+          "Painful",
+          "Happy",
+          "Joyful"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does a good touch make you feel inside?",
+      "choices": [
+          "Cold",
+          "Comfortable",
+          "Scared",
+          "Confused"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is an important action to take if someone gives you a bad touch?",
+      "choices": [
+          "Keep it to yourself",
+          "Tell an adult you trust immediately",
+          "Pretend it didn't happen",
+          "Nothing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of document is the image about?",
+      "choices": [
+          "Magazines",
+          "Newspapers",
+          "Journals",
+          "Books"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the document, what is the task?",
+      "choices": [
+          "Write the names of the newspapers",
+          "Write the languages in which the newspapers are printed",
+          "List the editors of the newspapers",
+          "Summarize the headlines"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The National Post",
+          "Asomiya Pratidin",
+          "Global Times",
+          "Wall Street Journal"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "Daily Journal",
+          "The Daily Post",
+          "Daily Thanthi",
+          "The Morning Star"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Local News",
+          "Times Now",
+          "Navbharat Times",
+          "Global News"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "Local Post",
+          "Indian Tribune",
+          "Global News",
+          "The Gazette"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Daily News",
+          "The Post",
+          "Mathrubhumi",
+          "The Journal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Daily News",
+          "The Post",
+          "Loksatta",
+          "The Journal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Journal",
+          "Siasat",
+          "The Post",
+          "The Daily News"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The New York Time",
+          "The Post",
+          "Vijay Karnataka",
+          "The Journal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Times",
+          "The News Today",
+          "Hindustan Times",
+          "The New Times"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "Daily Report",
+          "Loktej, Lokmitra Daily",
+          "National News",
+          "Global Daily"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Daily Report",
+          "The News",
+          "Anand Bazar Patrika",
+          "The Times"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Journal",
+          "The New Times",
+          "Ajit",
+          "The News"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a newspaper name given in the image?",
+      "choices": [
+          "The Times",
+          "The Journal",
+          "Times of India",
+          "The New Times"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who wrote 'The Merchant of Venice'?",
+      "choices": [
+          "E.M. Forster",
+          "Jawaharlal Nehru",
+          "Mahatma Gandhi",
+          "William Shakespeare"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Who wrote 'Around the World in 80 Days'?",
+      "choices": [
+          "Rudyard Kipling",
+          "Jules Verne",
+          "Robert Louis Stevenson",
+          "Mark Twain"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote 'The Jungle Book'?",
+      "choices": [
+          "E.M. Forster",
+          "Rudyard Kipling",
+          "Ernest Hemingway",
+          "Robert Louis Stevenson"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote 'The Treasure Island'?",
+      "choices": [
+          "Mark Twain",
+          "Robert Louis Stevenson",
+          "Jules Verne",
+          "Ernest Hemingway"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote 'The Old Man and the Sea'?",
+      "choices": [
+          "Mark Twain",
+          "Ernest Hemingway",
+          "Jules Verne",
+          "R.K. Narayan"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote 'The Adventures of Tom Sawyer'?",
+      "choices": [
+          "Mark Twain",
+          "Robert Louis Stevenson",
+          "Jules Verne",
+          "Ernest Hemingway"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who wrote 'The Guide'?",
+      "choices": [
+          "Mahatma Gandhi",
+          "R.K. Narayan",
+          "Jawaharlal Nehru",
+          "E.M. Forster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who wrote 'My Experiments with Truth'?",
+      "choices": [
+          "Mahatma Gandhi",
+          "R.K. Narayan",
+          "Jawaharlal Nehru",
+          "E.M. Forster"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who wrote 'The Discovery of India'?",
+      "choices": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "R.K. Narayan",
+          "E.M. Forster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which book was written during imprisonment from 1942-1946?",
+      "choices": [
+          "The Merchant of Venice",
+          "The Discovery of India",
+          "The Guide",
+          "Around the World in 80 Days"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which author participated in the Quit India Movement?",
+      "choices": [
+          "E.M. Forster",
+          "Jawaharlal Nehru",
+          "William Shakespeare",
+          "R.K. Narayan"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which book is associated with Ahmadnagar Fort?",
+      "choices": [
+          "Passage to India",
+          "The Discovery of India",
+          "The Treasure Island",
+          "The Guide"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following books is written by William Shakespeare?",
+      "choices": [
+          "The Guide",
+          "The Merchant of Venice",
+          "The Jungle Book",
+          "The Treasure Island"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following books is written by R.K. Narayan?",
+      "choices": [
+          "The Merchant of Venice",
+          "The Jungle Book",
+          "The Guide",
+          "Around the World in 80 Days"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following books is written by Jules Verne?",
+      "choices": [
+          "The Merchant of Venice",
+          "The Jungle Book",
+          "Around the World in 80 Days",
+          "The Treasure Island"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Jungle'?",
+      "choices": [
+          "Spiritual leader",
+          "Forest",
+          "Single-storeyed house",
+          "Liquid preparation for washing hair"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Bangles'?",
+      "choices": [
+          "Stolen money or valuables",
+          "A thick sauce made from fruits, vinegar, sugar and spices",
+          "A large stiff ring worn as jewellery",
+          "Loose pants worn while sleeping"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Punch'?",
+      "choices": [
+          "A drink made up of soda, sugar, lemon, water and spices",
+          "A short official note",
+          "Spiritual leader",
+          "Forest"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the meaning of 'Loot'?",
+      "choices": [
+          "Single-storeyed house",
+          "Liquid preparation for washing hair",
+          "Stolen money or valuables",
+          "A thick sauce made from fruits, vinegar, sugar and spices"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Chit'?",
+      "choices": [
+          "A large stiff ring worn as jewellery",
+          "Loose pants worn while sleeping",
+          "A drink made up of soda, sugar, lemon, water and spices",
+          "A short official note"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of 'Pyjama'?",
+      "choices": [
+          "Spiritual leader",
+          "Forest",
+          "Loose pants worn while sleeping",
+          "Liquid preparation for washing hair"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Chutney'?",
+      "choices": [
+          "Stolen money or valuables",
+          "A thick sauce made from fruits, vinegar, sugar and spices",
+          "A large stiff ring worn as jewellery",
+          "Single-storeyed house"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Bungalow'?",
+      "choices": [
+          "A drink made up of soda, sugar, lemon, water and spices",
+          "A short official note",
+          "Spiritual leader",
+          "Single-storeyed house"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the meaning of 'Guru'?",
+      "choices": [
+          "Stolen money or valuables",
+          "Forest",
+          "Spiritual leader",
+          "Liquid preparation for washing hair"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Shampoo'?",
+      "choices": [
+          "Single-storeyed house",
+          "Liquid preparation for washing hair",
+          "A large stiff ring worn as jewellery",
+          "A thick sauce made from fruits, vinegar, sugar and spices"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where did several words originate from, according to the text?",
+      "choices": [
+          "England",
+          "America",
+          "India",
+          "France"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a 'pyjama' described as?",
+      "choices": [
+          "A spiritual leader",
+          "Loose pants worn while sleeping",
+          "Stolen money",
+          "A short official note"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 'chutney'?",
+      "choices": [
+          "A forest",
+          "A type of ring",
+          "A thick sauce made from fruits, vinegar, sugar and spices",
+          "A single-storeyed house"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of drink is 'Punch'?",
+      "choices": [
+          "A drink made up of soda, sugar, lemon, water and spices",
+          "Liquid preparation for washing hair",
+          "A type of ring",
+          "A thick sauce made from fruits, vinegar, sugar and spices"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does 'loot' mean?",
+      "choices": [
+          "Spiritual leader",
+          "Forest",
+          "Stolen money or valuables",
+          "Single-storeyed house"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "There are at least _______ ways to solve this puzzle.",
+      "choices": [
+          "ten",
+          "one",
+          "net",
+          "two"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "To stay up late at night is not a wise _______ to do.",
+      "choices": [
+          "plan",
+          "hingt",
+          "thing",
+          "play"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "She tried, tried and tried, even though she felt _______ .",
+      "choices": [
+          "tired",
+          "defate",
+          "defeated",
+          "deefated"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "To be able to listen better, it is important to be _______ .",
+      "choices": [
+          "lisetn",
+          "silent",
+          "tenils",
+          "liten"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "This is the last packet of _______ at home.",
+      "choices": [
+          "tea",
+          "teat",
+          "eat",
+          "eta"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The sweat of hard work can never go _______ .",
+      "choices": [
+          "wetas",
+          "stray",
+          "awaty",
+          "astray"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "I'm on the last plane to _______ .",
+      "choices": [
+          "pains",
+          "spain",
+          "pisan",
+          "spani"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Your name sounds cool, but what does it _______ ?",
+      "choices": [
+          "mean",
+          "same",
+          "mane",
+          "mnea"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "She accepted the ring with a wide _______ on her face.",
+      "choices": [
+          "ilmse",
+          "liesm",
+          "smile",
+          "leims"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "He _______ that the medical report was a farce.",
+      "choices": [
+          "infar",
+          "infrea",
+          "infer",
+          "finre"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Don't keep your _______ on the table; keep it below.",
+      "choices": [
+          "beolt",
+          "elobw",
+          "elbow",
+          "bleow"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Antarctica is the heart of the _______ .",
+      "choices": [
+          "atrh",
+          "earth",
+          "tarhe",
+          "heart"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do scorpions paralyze their prey?",
+      "choices": [
+          "By biting them",
+          "By pumping deadly venom through their curved stinger",
+          "By injecting poison through their feet",
+          "By constricting them"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the African spitting scorpion known for?",
+      "choices": [
+          "Its loud hissing",
+          "Its ability to spray venom up to metre!",
+          "Its bright colors",
+          "Its large size"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are Cape Buffalo reportedly responsible for?",
+      "choices": [
+          "Protecting other animals",
+          "Killing more hunters than any other creature",
+          "Migrating long distances",
+          "Building dams"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do Cape Buffalo do even when they're injured?",
+      "choices": [
+          "They hide",
+          "They continue charging",
+          "They call for help",
+          "They play dead"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is the mosquito considered the most dangerous creature on earth?",
+      "choices": [
+          "Because of its size",
+          "Because of its ability to spread disease with alarming efficiency",
+          "Because of its loud buzzing",
+          "Because of its aggressive behavior"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which diseases is mosquito best known for spreading?",
+      "choices": [
+          "Tuberculosis, AIDS, and cancer",
+          "Malaria, elephantiasis, yellow fever, dengue and chikungunya",
+          "Influenza, common cold, and pneumonia",
+          "Measles, mumps, and rubella"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How wide can a Hippopotamus open its mouth?",
+      "choices": [
+          "2 feet",
+          "4 feet",
+          "6 feet",
+          "8 feet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the passage say about Hippopotamus?",
+      "choices": [
+          "They are slow and harmless",
+          "They are one of the most dangerous of African animals",
+          "They only eat plants",
+          "They live in groups called herds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many feet wide can a hippopotamus open its mouth?",
+      "choices": [
+          "2",
+          "4",
+          "6",
+          "8"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of venom is produced by Scorpion?",
+      "choices": [
+          "Toxic",
+          "Deadly",
+          "Harmful",
+          "Venomous"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which creature is most dangerous on the earth?",
+      "choices": [
+          "Cape Buffalo",
+          "Scorpion",
+          "Mosquito",
+          "Hippopotamus"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal can outrun us on land?",
+      "choices": [
+          "Cape Buffalo",
+          "Scorpion",
+          "Mosquito",
+          "Hippopotamus"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the scorpion able to spray?",
+      "choices": [
+          "Venom",
+          "Poison",
+          "Acid",
+          "Gas"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How do scorpions paralyze their prey?",
+      "choices": [
+          "They bite them",
+          "They sting them",
+          "They poison them",
+          "They constrict them"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are Hippopotamus considered?",
+      "choices": [
+          "Highly aggressive",
+          "Highly dangerous",
+          "Most dangerous",
+          "Aggressive"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the main topic of the page?",
+      "choices": [
+          "Animal Habitats",
+          "Endangered Species",
+          "Extinct Animals",
+          "Animal Classification"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals is mentioned as a flightless relative of pigeons and doves?",
+      "choices": [
+          "Dinosaur",
+          "Archaeopteryx",
+          "Dodo",
+          "Quagga"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal looked like an elephant and lived from 4.8 million years ago to around 5000 years ago?",
+      "choices": [
+          "Dinosaur",
+          "Archaeopteryx",
+          "Mammoth",
+          "Quagga"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal was a reptile in the Mesozoic Era, also known as the 'Age of Reptiles'?",
+      "choices": [
+          "Dinosaur",
+          "Archaeopteryx",
+          "Dodo",
+          "Quagga"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which extinct creature is described as having both wings like a bird and teeth and a tail like a reptile?",
+      "choices": [
+          "Dinosaur",
+          "Archaeopteryx",
+          "Dodo",
+          "Quagga"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which zoo did the last specimen of the Quagga die?",
+      "choices": [
+          "London Zoo",
+          "Artis Magistra Zoo",
+          "Berlin Zoo",
+          "New York Zoo"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which word is included in the help box?",
+      "choices": [
+          "Elephant",
+          "Tiger",
+          "Dodo",
+          "Lion"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In which era was the Dinosaur?",
+      "choices": [
+          "Paleozoic Era",
+          "Mesozoic Era",
+          "Cenozoic Era",
+          "Modern Era"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What feature did the Archaeopteryx have?",
+      "choices": [
+          "Feathers",
+          "Gills",
+          "Scales",
+          "Fur"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these animals is classified as a reptile?",
+      "choices": [
+          "Dodo",
+          "Archaeopteryx",
+          "Quagga",
+          "Dinosaur"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which animal is said to have inhabited the islands of Mauritius?",
+      "choices": [
+          "Dodo",
+          "Dinosaur",
+          "Quagga",
+          "Mammoth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which animal from the given choices is known to resemble a horse and zebra?",
+      "choices": [
+          "Dodo",
+          "Mammoth",
+          "Dinosaur",
+          "Quagga"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "About how many years ago did the Mammoth live until?",
+      "choices": [
+          "500 years ago",
+          "5,000 years ago",
+          "50,000 years ago",
+          "500,000 years ago"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animal had wings like a bird but teeth and a tail like a reptile?",
+      "choices": [
+          "Quagga",
+          "Dodo",
+          "Archaeopteryx",
+          "Dinosaur"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main instruction on the page?",
+      "choices": [
+          "Draw the animals",
+          "Color the animals",
+          "Identify the extinct animals",
+          "List the animals"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a type of bird?",
+      "choices": [
+          "Dog",
+          "Cat",
+          "Parrot",
+          "Horse"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do pelicans use their pouch beneath their bill for?",
+      "choices": [
+          "To store food",
+          "To catch fish",
+          "To build nests",
+          "To attract mates"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which word describes things that have feathers?",
+      "choices": [
+          "Scaly",
+          "Furry",
+          "Feathery",
+          "Slimy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which bird is known for catching fish?",
+      "choices": [
+          "Kingfisher",
+          "Cuckoo",
+          "Finch",
+          "Parrot"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is a Kite?",
+      "choices": [
+          "Toy",
+          "Bird",
+          "Insect",
+          "Mammal"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these flies farthest north?",
+      "choices": [
+          "Kite",
+          "Arctic Tern",
+          "Cuckoo",
+          "Spoonbill"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name of the bird that eats insects in wood?",
+      "choices": [
+          "European White Stork",
+          "Spoonbill",
+          "Falcon",
+          "Woodpecker"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these birds has a spoon shaped bill?",
+      "choices": [
+          "Parrot",
+          "Kingfisher",
+          "Spoonbill",
+          "Cuckoo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which bird is known to have a short bill?",
+      "choices": [
+          "Cuckoo",
+          "Falcon",
+          "Woodpecker",
+          "Finch"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these is a bird?",
+      "choices": [
+          "Kite",
+          "Spoon",
+          "Fox",
+          "Dog"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these is a kind of stork?",
+      "choices": [
+          "Green",
+          "Black",
+          "European White",
+          "Pink"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is considered to be the fastest animal?",
+      "choices": [
+          "Cuckoo",
+          "Kingfisher",
+          "Woodpecker",
+          "Falcon"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which unit contains the feathery friend's chapter?",
+      "choices": [
+          "Unit III",
+          "Unit IV",
+          "Unit V",
+          "Unit I"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which bird is known for having a hooked bill?",
+      "choices": [
+          "Cuckoo",
+          "Falcon",
+          "Woodpecker",
+          "Finch"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which topic does the word 'Animal' show up?",
+      "choices": [
+          "Plant Life",
+          "Animal Life",
+          "Forest Life",
+          "Marine Life"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Approximately how many species of plants are there on Earth?",
+      "choices": [
+          "29,800",
+          "298,000",
+          "2,980,000",
+          "29,800,000"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which plant is also known as sensitive plant or shy plant?",
+      "choices": [
+          "Corpse flower",
+          "Lithop",
+          "Mimosa pudica",
+          "Baseball Plant"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where is Mimosa pudica native to?",
+      "choices": [
+          "North America",
+          "South America",
+          "Europe",
+          "Asia"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "From the list, which plant is not given as an example in the 'Help box'?",
+      "choices": [
+          "Corpse flower",
+          "Lithop",
+          "White baneberry",
+          "Welwitschia"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which part of the plant holds it firmly in the ground?",
+      "choices": [
+          "Leaves",
+          "Roots",
+          "Stem",
+          "Flowers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do roots absorb from the soil?",
+      "choices": [
+          "Sunlight",
+          "Water and minerals",
+          "Carbon dioxide",
+          "Oxygen"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of root stores food and water?",
+      "choices": [
+          "Prop",
+          "Storage",
+          "Breathing",
+          "Buttress"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of root helps mangrove trees breathe?",
+      "choices": [
+          "Storage",
+          "Breathing",
+          "Prop",
+          "Aerial"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of root helps support the heavy trunk of flame of the forest?",
+      "choices": [
+          "Breathing",
+          "Buttress",
+          "Storage",
+          "Aerial"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of root supports the Banyan tree?",
+      "choices": [
+          "Breathing",
+          "Prop",
+          "Aerial",
+          "Buttress"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps the weak stem cling to the support?",
+      "choices": [
+          "Orchid roots",
+          "Sweet potato roots",
+          "Mangrove roots",
+          "Banyan roots"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Roots are part of the plant that help to absorb?",
+      "choices": [
+          "Light",
+          "Oxygen",
+          "Water and minerals",
+          "Carbon"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Roots of sweet potato are example of what?",
+      "choices": [
+          "Aerial",
+          "Prop",
+          "Storage",
+          "Buttress"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Roots of mangrove trees grow?",
+      "choices": [
+          "Below ground",
+          "Above ground",
+          "Inside the ground",
+          "All of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps weak stem to cling to support?",
+      "choices": [
+          "Prop root",
+          "Aerial root",
+          "Buttress root",
+          "Storage root"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps the plant stand straight?",
+      "choices": [
+          "Branches",
+          "Leaf",
+          "Flower",
+          "Roots"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which type of root grows above the ground?",
+      "choices": [
+          "Prop",
+          "Storage",
+          "Breathing",
+          "Buttress"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of a prop root?",
+      "choices": [
+          "Roots of sweet potato",
+          "Roots of mangrove trees",
+          "Roots of banyan tree",
+          "Roots of orchid"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of a storage root?",
+      "choices": [
+          "Roots of sweet potato",
+          "Roots of mangrove trees",
+          "Roots of banyan tree",
+          "Roots of orchid"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is believed to help people stay young and has a positive effect on the skin?",
+      "choices": [
+          "Eucalyptus",
+          "Ashwagandha",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which herb is used for treating nervous disorders, intestinal infections, and leprosy?",
+      "choices": [
+          "Eucalyptus",
+          "Ashwagandha",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is used in traditional medicine as a remedy for many ailments and to relieve cold, flu, bronchitis, and pneumonia?",
+      "choices": [
+          "Eucalyptus",
+          "Ashwagandha",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The bark of which plant is processed to make quinine, which is used to treat malaria, fever, and pain?",
+      "choices": [
+          "Eucalyptus",
+          "Ashwagandha",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a medicinal herb with special antibiotic and antiseptic properties?",
+      "choices": [
+          "Eucalyptus",
+          "Ashwagandha",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following leaves are used in cooking and have digestive, tonic, and stimulating properties?",
+      "choices": [
+          "Eucalyptus",
+          "Curry leaves",
+          "Cinchona",
+          "Wild turmeric"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which disease is Bhingraj used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Hair Loss"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which disease is Amla used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Hair Loss"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which disease is Tulsi used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Hair Loss"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which disease is Isabgol used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Constipation"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which disease is Neem used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Skin Disease"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which disease is Clove used for treating?",
+      "choices": [
+          "Scurvy",
+          "Cough and Cold",
+          "Toothache",
+          "Skin Disease"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the phrase 'Let's reduce, reuse and recycle!' encourage us to do?",
+      "choices": [
+          "Waste more resources",
+          "Be creative and imaginative",
+          "Pollute the environment",
+          "Ignore environmental issues"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a way to reuse old cartons?",
+      "choices": [
+          "Throw them away",
+          "Burn them",
+          "Use them for storage",
+          "Leave them outside"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What can you do with old magazines to recycle them?",
+      "choices": [
+          "Put them in the trash",
+          "Recycle them for paper pulp",
+          "Use them for fuel",
+          "Leave them in the park"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is a good way to reuse old clothes?",
+      "choices": [
+          "Throw them out",
+          "Donate or repurpose them into rags",
+          "Burn them",
+          "Leave them outside"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a practical way to repurpose broken furniture?",
+      "choices": [
+          "Leave it on the curb",
+          "Repair or upcycle it into something new",
+          "Burn it for firewood",
+          "Leave it outside"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a good way to reuse a wooden box?",
+      "choices": [
+          "Use it for storage",
+          "Throw it in the trash",
+          "Burn it for fuel",
+          "Leave it outside"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How can vegetable peels be reused?",
+      "choices": [
+          "Throw them away",
+          "Compost them",
+          "Burn them",
+          "Put them down the drain"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a good way to reuse bedsheets?",
+      "choices": [
+          "Donate them to charity",
+          "Use them for cleaning rags",
+          "Repurpose them into new items",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What can you do with empty mineral water bottles to help the environment?",
+      "choices": [
+          "Throw them in the trash",
+          "Recycle them",
+          "Bury them",
+          "Leave them in the park"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Eco Friendly'?",
+      "choices": [
+          "Harmful to the environment",
+          "Having no impact on the environment",
+          "Not concerned with the environment",
+          "Not worried about environmental problems"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Reduce' in the term 'reduce, reuse, recycle'?",
+      "choices": [
+          "Throw away more items",
+          "Use fewer resources",
+          "Consume more products",
+          "Buy expensive items"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of 'Reuse' in the term 'reduce, reuse, recycle'?",
+      "choices": [
+          "Throw items away immediately",
+          "Buy new items instead of reusing old ones",
+          "Use items more than once",
+          "Consume more products"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the meaning of 'Recycle' in the term 'reduce, reuse, recycle'?",
+      "choices": [
+          "Discard items in the trash",
+          "Convert waste into reusable material",
+          "Burn waste items",
+          "Litter waste items around"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is meant by upcycling?",
+      "choices": [
+          "Throwing something away",
+          "Using something for its original purpose",
+          "Transforming waste materials into new products of better quality",
+          "Destroying something"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is meant by composting?",
+      "choices": [
+          "Burning organic materials",
+          "Recycling plastic items",
+          "Decomposition of organic waste to be used as fertilizer",
+          "Dumping organic materials in landfills"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is 'Private'?",
+      "choices": [
+          "for just one person",
+          "on the internet",
+          "a secret word",
+          "making you feel angry"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does it mean 'To share'?",
+      "choices": [
+          "on the internet",
+          "to show to other people information",
+          "be careful",
+          "to believe that someone is good"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does 'Online' mean?",
+      "choices": [
+          "making you feel angry",
+          "on the internet",
+          "a secret word",
+          "be careful"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does it mean 'To trust'?",
+      "choices": [
+          "to believe that someone is good",
+          "making you feel angry",
+          "a secret word",
+          "allows you to control who sees you"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does it mean to be 'Upsetting'?",
+      "choices": [
+          "be careful",
+          "a secret word",
+          "making you feel angry",
+          "to show to other people information"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'Take care' mean?",
+      "choices": [
+          "making you feel angry",
+          "allows you to control who sees you",
+          "to show to other people information",
+          "be careful"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the definition of 'Password'?",
+      "choices": [
+          "to show to other people information",
+          "a secret word",
+          "be careful",
+          "making you feel angry"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does it mean 'To report'?",
+      "choices": [
+          "a secret word",
+          "to show to other people information",
+          "making you feel angry",
+          "on the internet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who sends me jokes?",
+      "choices": [
+          "Someone who could be an online bully",
+          "Someone who could be an online friend",
+          "Someone who likes to play games with me",
+          "Someone who wants to know my personal information"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who Tags me in a picture of us going to the park?",
+      "choices": [
+          "Someone who could be an online friend",
+          "Someone who might be an online bully",
+          "Someone who is always mean to me",
+          "Someone who asks me for my password"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who Uses bad words in a text?",
+      "choices": [
+          "Someone who might be an online bully",
+          "Someone who could be an online friend",
+          "Someone who is trying to trick me",
+          "Someone who likes to help me with my homework"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who Asks where I live?",
+      "choices": [
+          "Someone who could be an online friend",
+          "Someone who could be an online bully",
+          "Someone who is always nice to me",
+          "Someone who is trying to make me laugh"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who Asks me about my favourites?",
+      "choices": [
+          "Someone who is trying to trick me",
+          "Someone who might be an online bully",
+          "Someone who could be an online friend",
+          "Someone who likes to play games with me"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who Sends an embarrassing picture?",
+      "choices": [
+          "Someone who might be an online bully",
+          "Someone who could be an online friend",
+          "Someone who is trying to make me laugh",
+          "Someone who wants to know my personal information"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who asks me to meet alone in a lonely place?",
+      "choices": [
+          "Someone who is always nice to me",
+          "Someone who might be an online bully",
+          "Someone who could be an online friend",
+          "Someone who likes to help me with my homework"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "You see your friend being beaten up by another kid. What would you do?",
+      "choices": [
+          "Go and try to stop the fight first.",
+          "Beat that other kid as he was beating your friend.",
+          "Call your teacher or someone elder.",
+          "You will ignore and just go away."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Your brother or sister needs help in their homework and asks you to help them. What will you reply?",
+      "choices": [
+          "Tell them you have your own homework, so cannot help.",
+          "Simply say no because you don't want to help.",
+          "Yell at them and tell them not to ask ever again.",
+          "You are happy to help."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Your friend forgot his/her lunch and asks you if you have anything to share. What would you do?",
+      "choices": [
+          "Laugh at him/her saying how stupid he/she is to forget the lunch.",
+          "Refuse to share your lunch as you have got your favourite food.",
+          "Complaint to the teacher that your friend forgot the lunch.",
+          "You will share your lunch with your friend."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "If your friend is unwell and he wants you to help him in completing his assignment, what will you do?",
+      "choices": [
+          "You will tell him that you can't help as you have your own work to do.",
+          "Complete your work and give him to copy from it.",
+          "Help him understand what is to be done and sit with him.",
+          "Ask another friend to help him."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Reema and Alia are best friends. They got their test papers checked. Reema got more marks in the test in which Alia got less. Alia thinks she has written the same answer as Reema. What would Alia do?",
+      "choices": [
+          "She will tell the teacher.",
+          "She will fight with Reema.",
+          "She will ignore it.",
+          "None of these."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is non-biodegradable?",
+      "choices": [
+          "plastic bag",
+          "orange peel",
+          "notebook",
+          "all of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which bulbs consume much less electricity than normal bulbs?",
+      "choices": [
+          "CFL",
+          "FTL",
+          "FCL",
+          "none of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The harmful ultraviolet rays of the sun are filtered by _______ layers.",
+      "choices": [
+          "Ozone",
+          "CO2",
+          "Helium",
+          "all of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Sending emails and paying bills online are ways to save _______.",
+      "choices": [
+          "paper",
+          "water",
+          "electricity",
+          "expenses"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Household electronic gadgets like computers, television sets and music systems when of no use are termed as _______.",
+      "choices": [
+          "waste",
+          "e-waste",
+          "enabled waste",
+          "none of these"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "World Environment Day is celebrated on _______.",
+      "choices": [
+          "1st June",
+          "5th June",
+          "10th June",
+          "19th June"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Our earth is more than _______ billion years old.",
+      "choices": [
+          "3.5",
+          "4.5",
+          "5.5",
+          "6.5"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What should you do to save paper?",
+      "choices": [
+          "Write on one side of the paper",
+          "Write on both sides of the paper",
+          "Use as much paper as you can",
+          "Throw away paper when you are done"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a way to save water?",
+      "choices": [
+          "Take long showers",
+          "Take shower baths",
+          "Use a bucket and a mug",
+          "Leave the water running when brushing teeth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What should you do to save electricity?",
+      "choices": [
+          "Keep the lights on all the time",
+          "Switch off the fans and lights when not in use",
+          "Keep the TV on all the time",
+          "Use all appliances at the same time"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The harmful ultraviolet rays can affect the _______.",
+      "choices": [
+          "Human",
+          "Animal",
+          "Plant",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The gases released from industries are _______.",
+      "choices": [
+          "Harmful",
+          "Helpful",
+          "Neither",
+          "None of these"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The greenhouse effect cause the earth _______.",
+      "choices": [
+          "Cool",
+          "Warm",
+          "Normal",
+          "Cold"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How can you keep earth healthy?",
+      "choices": [
+          "Plant more and more trees",
+          "Use less harmful gases",
+          "Use less electricity",
+          "All of these"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "We should take care of _______.",
+      "choices": [
+          "Ourself",
+          "Earth",
+          "Other People",
+          "All of these"
+      ],
+      "correctAnswer": 1
+  }
+]

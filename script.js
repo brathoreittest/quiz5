@@ -19,6 +19,8 @@ if (pageName === 'english.html') {
     currentSubject = 'hindi';
 } else if (pageName === 'sst.html') {
     currentSubject = 'sst';
+} else if (pageName === 'mindgame.html') {
+    currentSubject = 'mindgame';
 }
 
 // Fetch chapters for the subject
