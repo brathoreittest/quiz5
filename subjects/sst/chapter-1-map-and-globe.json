@@ -1,0 +1,1272 @@
+[
+  {
+      "question": "What is the Latin term from which 'Globe' is derived?",
+      "choices": [
+          "Thematic",
+          "Cardinal Directions",
+          "Globus",
+          "Green"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What type of map shows tourism and trade of a country?",
+      "choices": [
+          "Globus",
+          "Thematic",
+          "Cardinal Directions",
+          "Green"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is another term used for main directions?",
+      "choices": [
+          "Globus",
+          "Thematic",
+          "Cardinal Directions",
+          "Green"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What color scheme is used to indicate a plain area on a physical map?",
+      "choices": [
+          "Globus",
+          "Thematic",
+          "Cardinal Directions",
+          "Green"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the approximate percentage of land area on Earth?",
+      "choices": [
+          "20%",
+          "29.2%",
+          "70.8%",
+          "50%"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following activities is part of 'Creative Zone'?",
+      "choices": [
+          "Identifying names and clues",
+          "Finding information about neighboring states",
+          "Drawing a map of your house using symbols",
+          "Naming the three types of maps"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What activities need an atlas as per the 'Curiosity Zone' instruction?",
+      "choices": [
+          "Read the clues and identify and name",
+          "Prepare a key for the map of house",
+          "Find out information about your neighboring states",
+          "Write the deepest and the shallowest oceans in the world"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the topics used in 'Curiosity Zone'?",
+      "choices": [
+          "Main physical features",
+          "Major Airports",
+          "Major railway stations",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The busiest ocean is the",
+      "choices": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Pacific Ocean",
+          "Arctic Ocean"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "The number of continents in the world is",
+      "choices": [
+          "3",
+          "4",
+          "5",
+          "7"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "The top of the map shows the ______ direction.",
+      "choices": [
+          "South",
+          "East",
+          "West",
+          "North"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "______ is the only ocean which is named after a country.",
+      "choices": [
+          "Atlantic Ocean",
+          "Pacific Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Different ______ and ______ are used to give information on a map.",
+      "choices": [
+          "colors, shades",
+          "borders, boundaries",
+          "Signs, Symbols",
+          "latitude, longitude"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "______ is an island continent.",
+      "choices": [
+          "Africa",
+          "Australia",
+          "Asia",
+          "Europe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "______ colour is used for oceans, lakes and rivers.",
+      "choices": [
+          "Red",
+          "Yellow",
+          "Green",
+          "Blue"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "A ______ is the representation of the Earth on a flat surface.",
+      "choices": [
+          "Globe",
+          "Map",
+          "Sphere",
+          "Planet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Greenland is a continent.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The Caspian Sea separates Russia from Asia.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "All features on a map are shown in the same colour.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "It is easier to carry a map than a globe.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "An atlas is a book of maps.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Europe is a",
+      "choices": [
+          "Distance",
+          "Spherical shape",
+          "Continent",
+          "Desert"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Scale is",
+      "choices": [
+          "Distance",
+          "Spherical shape",
+          "Continent",
+          "Desert"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A globe cannot show ________ at once.",
+      "choices": [
+          "a part of the Earth",
+          "70% and 30% of the Earth",
+          "the whole of the Earth",
+          "behind the Earth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The second largest continent is ________.",
+      "choices": [
+          "North America",
+          "South America",
+          "Asia",
+          "Africa"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT a continent?",
+      "choices": [
+          "Asia",
+          "Pacific",
+          "Europe",
+          "Australia"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of these is a large waterbody?",
+      "choices": [
+          "Continent",
+          "Ocean",
+          "Landmass",
+          "Country"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is the largest continent?",
+      "choices": [
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which ocean is named after a country?",
+      "choices": [
+          "Atlantic",
+          "Pacific",
+          "Indian",
+          "Arctic"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many continents are there on Earth?",
+      "choices": [
+          "5",
+          "6",
+          "7",
+          "8"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which continent is known as the 'White Continent'?",
+      "choices": [
+          "Europe",
+          "Asia",
+          "Antarctica",
+          "Africa"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which ocean is the deepest?",
+      "choices": [
+          "Atlantic",
+          "Pacific",
+          "Indian",
+          "Arctic"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which continent is also a country?",
+      "choices": [
+          "Europe",
+          "Australia",
+          "Asia",
+          "Antarctica"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following continents is located entirely in the Southern Hemisphere?",
+      "choices": [
+          "Asia",
+          "Europe",
+          "Australia",
+          "North America"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following options is not an ocean?",
+      "choices": [
+          "Pacific",
+          "Atlantic",
+          "Artic",
+          "Southern"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which continent is the least populated?",
+      "choices": [
+          "Europe",
+          "Asia",
+          "Antarctica",
+          "Africa"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a large water body?",
+      "choices": [
+          "Continent",
+          "Ocean",
+          "Landmass",
+          "Country"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which continent is also known as the Old world?",
+      "choices": [
+          "Africa",
+          "Asia",
+          "Europe",
+          "Australia"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a model of the Earth?",
+      "choices": [
+          "Globe",
+          "Map",
+          "Sketch",
+          "Plan"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many continents are there on Earth?",
+      "choices": [
+          "Five",
+          "Six",
+          "Seven",
+          "Eight"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is the largest continent?",
+      "choices": [
+          "Australia",
+          "Asia",
+          "Africa",
+          "Europe"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is the smallest continent?",
+      "choices": [
+          "Australia",
+          "Asia",
+          "Africa",
+          "Europe"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many oceans are there on the Earth?",
+      "choices": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which ocean is the largest and deepest?",
+      "choices": [
+          "Arctic Ocean",
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Pacific Ocean"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which ocean is the shallowest and smallest?",
+      "choices": [
+          "Arctic Ocean",
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Pacific Ocean"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does a globe give you?",
+      "choices": [
+          "Major details of continents",
+          "Only political boundries",
+          "Correct shape, size, and location of continents and oceans",
+          "Specific and detailed information"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'scale' on a map represent?",
+      "choices": [
+          "Special features",
+          "Political divisions",
+          "Physical features",
+          "The ratio between the distance on a map and the actual distance on the ground"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does a small arrow marked as 'N' indicate on a map?",
+      "choices": [
+          "South direction",
+          "East direction",
+          "West direction",
+          "North direction"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which color is used to show oceans, seas, and rivers on a map?",
+      "choices": [
+          "Green",
+          "Yellow",
+          "Brown",
+          "Blue"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which color is used to show mountains and plateaus on a map?",
+      "choices": [
+          "Green",
+          "Yellow",
+          "Brown",
+          "Blue"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which color is used to show deserts on a map?",
+      "choices": [
+          "Green",
+          "Yellow",
+          "Brown",
+          "Blue"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which color is used to show plains on a map?",
+      "choices": [
+          "Green",
+          "Yellow",
+          "Brown",
+          "Blue"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which color is used to show snow-capped mountains on a map?",
+      "choices": [
+          "Green",
+          "Yellow",
+          "Brown",
+          "White"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which continent is the third largest?",
+      "choices": [
+          "Asia",
+          "North America",
+          "South America",
+          "Africa"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which century was North America discovered?",
+      "choices": [
+          "14th",
+          "16th",
+          "17th",
+          "15th"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which continent is the sixth largest and the most developed?",
+      "choices": [
+          "Asia",
+          "Europe",
+          "Australia",
+          "Antarctica"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What mountain range separates Asia from Europe?",
+      "choices": [
+          "Himalayas",
+          "Andes",
+          "Rocky Mountains",
+          "Ural Mountains"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which continent is the smallest?",
+      "choices": [
+          "Africa",
+          "Australia",
+          "Europe",
+          "Antarctica"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is unique about Australia as a continent?",
+      "choices": [
+          "It is the largest continent.",
+          "It is the only continent that is also a country.",
+          "It is located in Europe.",
+          "It is the only continent with mountains."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "South America is also called?",
+      "choices": [
+          "Northern America",
+          "Central America",
+          "Latin America",
+          "Eastern America"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which is the second largest continent and home to the Sahara Desert?",
+      "choices": [
+          "Asia",
+          "Africa",
+          "North America",
+          "South America"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which continent remains covered with ice throughout the year?",
+      "choices": [
+          "Asia",
+          "Europe",
+          "Antarctica",
+          "Australia"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the name of the largest and deepest ocean?",
+      "choices": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the smallest and shallowest ocean?",
+      "choices": [
+          "Atlantic Ocean",
+          "Arctic Ocean",
+          "Indian Ocean",
+          "Pacific Ocean"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which ocean is the busiest with many ships?",
+      "choices": [
+          "Atlantic Ocean",
+          "Pacific Ocean",
+          "Arctic Ocean",
+          "Indian Ocean"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which ocean is named after a country?",
+      "choices": [
+          "Atlantic Ocean",
+          "Pacific Ocean",
+          "Indian Ocean",
+          "Arctic Ocean"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which ocean is a frozen ocean?",
+      "choices": [
+          "Atlantic Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean",
+          "Antarctic or Southern Ocean"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does 'saline' mean?",
+      "choices": [
+          "Freshwater",
+          "Containing salt",
+          "Frozen",
+          "Of or in lines"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do we need a scale on a map?",
+      "choices": [
+          "To show the actual size of the Earth",
+          "Because the Earth is too big to show at its actual size",
+          "To make the map more colorful",
+          "To show the location of mountains"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a scale on a map?",
+      "choices": [
+          "A ratio between the distance on a map and the actual distance on the ground",
+          "The colors used on a map",
+          "The names of cities on a map",
+          "The symbols used to represent features"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the scale 1:100000 mean on a map?",
+      "choices": [
+          "1 cm on the map equals 100 km on the ground",
+          "1 cm on the map equals 1 km on the ground",
+          "1 mm on the map equals 1 m on the ground",
+          "1 m on the map equals 1000 km on the ground"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the symbols on a map called?",
+      "choices": [
+          "Conventional Symbols",
+          "Unconventional Symbols",
+          "Typical Symbols",
+          "Common Symbols"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What do colors on a map show?",
+      "choices": [
+          "The population of the area",
+          "The height of the land and depth of the water",
+          "The type of soil in the area",
+          "The climate of the region"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the direction between North and East?",
+      "choices": [
+          "Southeast",
+          "Northeast",
+          "Southwest",
+          "Northwest"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the direction between South and West?",
+      "choices": [
+          "Southeast",
+          "Northeast",
+          "Southwest",
+          "Northwest"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the symbol for a Railway Track?",
+      "choices": [
+          "+++++++",
+          "A road with lines on it",
+          "A tree",
+          "A bridge"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the symbol for a Post Office?",
+      "choices": [
+          "PO",
+          "PS",
+          "A bridge",
+          "A Tree"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the symbol for a Police Station?",
+      "choices": [
+          "PO",
+          "PS",
+          "A bridge",
+          "A Tree"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the symbol for a Forest?",
+      "choices": [
+          "PO",
+          "PS",
+          "A tree",
+          "A bridge"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the function of a key on a map?",
+      "choices": [
+          "To show the height of the land",
+          "To understand what each colour and symbol means",
+          "To show the depth of the water",
+          "Both (a) and (c)"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the common or conventional symbols used for?",
+      "choices": [
+          "To show different features on a map",
+          "To make the map more colorful",
+          "To show the actual size of the Earth",
+          "To show the location of mountains"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are the colours on a map used for?",
+      "choices": [
+          "To show the actual size of the Earth",
+          "To show different features",
+          "To make the map more colorful",
+          "To show the location of mountains"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the direction between North and West?",
+      "choices": [
+          "Southeast",
+          "Northeast",
+          "Southwest",
+          "Northwest"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What do political maps show?",
+      "choices": [
+          "Rainfall distribution",
+          "Roads and railways",
+          "Political divisions of the world",
+          "Mineral resources"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are some specific information that thematic maps focus on?",
+      "choices": [
+          "Continents and countries",
+          "States and districts",
+          "Rainfall, population, roads",
+          "International boundaries"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is essential to understand a map?",
+      "choices": [
+          "Knowing the population",
+          "Reading the map's language",
+          "Memorizing state boundaries",
+          "Identifying rainfall patterns"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who produced the first nearly accurate map of India between 1783 and 1793?",
+      "choices": [
+          "James Watt",
+          "James Rennell",
+          "Robert Clive",
+          "Lord Curzon"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many main directions or cardinal directions are there?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the four main directions?",
+      "choices": [
+          "North, South, Northeast, Southeast",
+          "East, West, Northwest, Southwest",
+          "North, South, East, West",
+          "Northeast, Northwest, Southeast, Southwest"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which letter marks the top of a map?",
+      "choices": [
+          "S",
+          "E",
+          "W",
+          "N"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which direction does the bottom of the map point to?",
+      "choices": [
+          "East",
+          "West",
+          "North",
+          "South"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which side of the map is the East?",
+      "choices": [
+          "Top",
+          "Bottom",
+          "Right",
+          "Left"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which side of the map is the West?",
+      "choices": [
+          "Top",
+          "Bottom",
+          "Right",
+          "Left"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What are the sub-directions that lie between the main directions?",
+      "choices": [
+          "Latitude and longitude",
+          "Continents and countries",
+          "Northeast, northwest, southeast and southwest",
+          "States and districts"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is considered to be a cardinal direction?",
+      "choices": [
+          "Northeast",
+          "Southeast",
+          "North",
+          "Southwest"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the study of the language of a map include?",
+      "choices": [
+          "Only the colors",
+          "Only the directions",
+          "Only the scale",
+          "Signs, symbols, colors, directions, and scale"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which one of these features could be included in a thematic map?",
+      "choices": [
+          "State boundaries",
+          "Country Capitals",
+          "Railways",
+          "International Boundaries"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does 'N' marked on a map represent?",
+      "choices": [
+          "Nepal",
+          "None",
+          "North",
+          "National Capital"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a map?",
+      "choices": [
+          "A 3D model of the earth.",
+          "A drawing of an area of the Earth's surface on a flat surface.",
+          "A type of globe.",
+          "A collection of satellite images."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a person who makes maps known as?",
+      "choices": [
+          "Geographer",
+          "Cartographer",
+          "Historian",
+          "Politician"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a book of maps called?",
+      "choices": [
+          "Journal",
+          "Atlas",
+          "Dictionary",
+          "Encyclopedia"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why are maps useful?",
+      "choices": [
+          "They are heavy and difficult to carry.",
+          "They are easy to carry around and give detailed geographical information.",
+          "They only show political boundaries.",
+          "They are not useful at all."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of information does a map give?",
+      "choices": [
+          "Historical information",
+          "Detailed geographical information",
+          "Biographical information",
+          "Financial information"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is not a limitation of a globe?",
+      "choices": [
+          "It cannot show a part of the Earth in detail.",
+          "It represents the whole Earth.",
+          "Only one-half of the Earth can be seen at one time.",
+          "It is easy to carry everywhere."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What cannot be shown by a map?",
+      "choices": [
+          "The correct shape of the Earth",
+          "Small area can be enlarged",
+          "Roads, airways, towns, cities",
+          "Factories"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Maps are classified into how many types?",
+      "choices": [
+          "Two",
+          "Four",
+          "Three",
+          "Five"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the three main types of maps?",
+      "choices": [
+          "Physical, Economic, and Cultural",
+          "Political, Historical, and Geographic",
+          "Physical, Political, and Thematic",
+          "Economic, Social, and Political"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which maps show physical features, such as mountains, plateaus, deserts, plains, and rivers?",
+      "choices": [
+          "Physical maps",
+          "Political maps",
+          "Thematic maps",
+          "Economic maps"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are physical maps?",
+      "choices": [
+          "Maps that show countries and cities",
+          "Maps that show physical features",
+          "Maps that show themes or topics",
+          "Maps that show historical events"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What features do physical maps show?",
+      "choices": [
+          "Political boundaries",
+          "Climate patterns",
+          "Mountains, plateaus, deserts, plains, rivers",
+          "Population density"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What features are used to show different heights on physical maps?",
+      "choices": [
+          "Different colours",
+          "Different scales",
+          "Different symbols",
+          "Different legends"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Globes only show what of the earth at once?",
+      "choices": [
+          "One-half",
+          "Full earth",
+          "Two-thirds",
+          "One-fourth"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "what where the earliest globes made with?",
+      "choices": [
+          "Plastic sheets",
+          "Printed paper maps",
+          "Clay",
+          "Wood"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which is the only planet that supports life?",
+      "choices": [
+          "Mars",
+          "Earth",
+          "Jupiter",
+          "Venus"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the Earth have?",
+      "choices": [
+          "Landmasses",
+          "Waterbodies",
+          "Both Landmasses and Waterbodies",
+          "Air"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What was the perceived shape of the Earth long ago?",
+      "choices": [
+          "Round",
+          "Flat",
+          "Spherical",
+          "Geoid"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who was the Portuguese explorer that proved the Earth is round?",
+      "choices": [
+          "Christopher Columbus",
+          "Vasco da Gama",
+          "Ferdinand Magellan",
+          "Marco Polo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In what year did Ferdinand Magellan sail from Spain?",
+      "choices": [
+          "1492",
+          "1600",
+          "1519",
+          "1776"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of shape is Earth?",
+      "choices": [
+          "Flat",
+          "Round",
+          "Geoid",
+          "Square"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the Earth do in the middle?",
+      "choices": [
+          "Flattens",
+          "Bulges",
+          "Curves Inward",
+          "Twists"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the meaning of word 'Globus'?",
+      "choices": [
+          "Round",
+          "Earth",
+          "Sphere",
+          "Shape"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "From which language does the word 'globe' comes?",
+      "choices": [
+          "Spanish",
+          "Latin",
+          "French",
+          "Greek"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does a globe give us an exact idea about?",
+      "choices": [
+          "Shape, size, and location of continents and oceans",
+          "Weather patterns",
+          "Population density",
+          "Historical events"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What are the uses of a map and a globe?",
+      "choices": [
+          "Navigation",
+          "Tell stories",
+          "Play Games",
+          "Decoration"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does conventional symbols on the map represent?",
+      "choices": [
+          "Stories",
+          "Legends",
+          "Places",
+          "Data"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Earth is Slightly flat at the:",
+      "choices": [
+          "Top",
+          "Bottom",
+          "Top and Bottom",
+          "Middle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Learning Objectives are to:",
+      "choices": [
+          "Know more about the shape of the Earth",
+          "Get knowledge of lesser known facts about maps",
+          "Use the acquired knowledge and tell the different uses of map and globe",
+          "All of the Above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Earth's shape is called:",
+      "choices": [
+          "Circle",
+          "Geoid",
+          "Flat",
+          "Square"
+      ],
+      "correctAnswer": 1
+  }
+]
