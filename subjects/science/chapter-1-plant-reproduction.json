@@ -1,0 +1,1792 @@
+[
+  {
+      "question": "Why do plants need to grow away from the parent plant?",
+      "choices": [
+          "To get more sunlight",
+          "To get a good amount of air, water, and warmth",
+          "To avoid competition with other plants",
+          "To find better soil"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the scattering of seeds away from the parent plant called?",
+      "choices": [
+          "Germination",
+          "Pollination",
+          "Dispersal of seeds",
+          "Photosynthesis"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these can carry seeds away from the parent plant?",
+      "choices": [
+          "Wind",
+          "Water",
+          "Animals",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How are light and hairy seeds dispersed?",
+      "choices": [
+          "By water",
+          "By animals",
+          "By wind",
+          "By explosion"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following seeds are dispersed by wind?",
+      "choices": [
+          "Mango",
+          "Coconut",
+          "Cotton",
+          "Pea"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How are seeds of plants growing near water dispersed?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By animals",
+          "By explosion"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which feature of lotus fruit helps the seeds float on water?",
+      "choices": [
+          "The seeds are heavy",
+          "The spongy structure",
+          "The seeds have hooks",
+          "The seed is sticky"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are mango seeds dispersed?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By animals and human beings",
+          "By explosion"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What special features do the seeds of burdock have?",
+      "choices": [
+          "Wings",
+          "Hooks",
+          "Spongy structure",
+          "Lightweight"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are burdock and cocklebur seeds dispersed?",
+      "choices": [
+          "They get stuck to the skin or fur of animals",
+          "They float on water",
+          "They are carried by wind",
+          "They explode from pods"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What happens to the seeds of fruits eaten by birds?",
+      "choices": [
+          "They dissolve in the bird's stomach",
+          "They come out unchanged in their droppings",
+          "They are carried by wind",
+          "They explode from pods"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the name of the structure in which pea seeds are placed?",
+      "choices": [
+          "Fruit",
+          "Pod",
+          "Flower",
+          "Stem"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are pea seeds dispersed?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By animals",
+          "By explosion of the pod"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What happens when the pea pod becomes dry?",
+      "choices": [
+          "It becomes sticky",
+          "It bursts open",
+          "It attracts birds",
+          "It dissolves"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why is seed dispersal important for plants?",
+      "choices": [
+          "To help the plant grow taller",
+          "To prevent overcrowding and competition for resources",
+          "To make the plant look more attractive",
+          "To help the plant reproduce faster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do plants need to disperse their seeds?",
+      "choices": [
+          "To get more sunlight",
+          "To avoid overcrowding and competition for resources",
+          "To attract more animals",
+          "To grow faster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the process of scattering seeds away from the parent plant called?",
+      "choices": [
+          "Pollination",
+          "Germination",
+          "Dispersal",
+          "Photosynthesis"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following agents can help in seed dispersal?",
+      "choices": [
+          "Wind",
+          "Water",
+          "Animals",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What characteristic helps seeds like cotton and dandelion to be dispersed by wind?",
+      "choices": [
+          "Their weight",
+          "Their color",
+          "Their light and hairy structure",
+          "Their size"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How are the seeds of plants that grow near water often dispersed?",
+      "choices": [
+          "By animals",
+          "By wind",
+          "By water",
+          "By explosion"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What special features do the seeds of lotus fruit have for water dispersal?",
+      "choices": [
+          "Spongy structure",
+          "Fibrous covering",
+          "Hooks",
+          "Strong smell"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the main role of the fibrous covering of coconut?",
+      "choices": [
+          "To attract animals",
+          "To make it light",
+          "To make it sweet",
+          "To help the seeds float on water"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following fruits seeds are dispersed through the action of animals and humans?",
+      "choices": [
+          "Mangoes",
+          "Peas",
+          "Cotton",
+          "Coconuts"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What kind of fruits are dispersed through the droppings of birds?",
+      "choices": [
+          "Peepal, fig",
+          "Mangoes, cherries",
+          "Lotus",
+          "Dandelion"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the name of the structure that contains pea seeds?",
+      "choices": [
+          "Fruit",
+          "Pod",
+          "Stem",
+          "Root"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are the seeds of Burdock or Cocklebur dispersed?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By sticking to animals or clothing",
+          "By exploding"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When a pea pod becomes dry, what happens to the seeds?",
+      "choices": [
+          "They are eaten by animals",
+          "They are carried away by wind",
+          "The pod bursts open or explodes, scattering the seeds",
+          "They sink to the ground"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What prevents the seed from getting a good amount of air, water, and warmth to germinate?",
+      "choices": [
+          "They need to grow near their parent plants",
+          "They need to grow away from their parent plants",
+          "They don't need air, water, and warmth",
+          "They need to fall in the soil"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following seeds are dispersed by wind?",
+      "choices": [
+          "Burdock",
+          "Cotton",
+          "Mango",
+          "Pea"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which characteristic helps seeds to float on the water?",
+      "choices": [
+          "Roots",
+          "Spongy Structure",
+          "Thorns",
+          "Branches"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the seeds called that have two seed leaves?",
+      "choices": [
+          "Monocot seeds",
+          "Dicot seeds",
+          "Grass seeds",
+          "Flower seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the seeds called that have one seed leaf?",
+      "choices": [
+          "Dicot seeds",
+          "Monocot seeds",
+          "Tree seeds",
+          "Vegetable seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a dicot seed?",
+      "choices": [
+          "Maize",
+          "Oat",
+          "Pea",
+          "Rice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a monocot seed?",
+      "choices": [
+          "Bean",
+          "Gram",
+          "Pea",
+          "Maize"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the process called when a baby plant comes out of a seed?",
+      "choices": [
+          "Photosynthesis",
+          "Respiration",
+          "Germination",
+          "Transpiration"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does a seed need to germinate?",
+      "choices": [
+          "Only air",
+          "Only water",
+          "Air, water and warmth",
+          "Only warmth"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to the baby root when it comes out of a seed?",
+      "choices": [
+          "Grows upwards",
+          "Grows sideways",
+          "Grows downwards",
+          "Stays the same"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the baby root called?",
+      "choices": [
+          "Plumule",
+          "Radicle",
+          "Seedling",
+          "Germ"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the baby shoot called?",
+      "choices": [
+          "Radicle",
+          "Seedling",
+          "Plumule",
+          "Rootlet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a baby plant with a small root and a small shoot called?",
+      "choices": [
+          "Radicle",
+          "Plumule",
+          "Seedling",
+          "Germ"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where do seed leaves go?",
+      "choices": [
+          "Grow bigger",
+          "Turn green",
+          "Dry up and fall off",
+          "Become roots"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why do seed leaves dry up and fall off?",
+      "choices": [
+          "The seedling uses all the food stored in them",
+          "They get too heavy",
+          "They are not needed anymore",
+          "They become new roots"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What do seedlings grow that make food for it?",
+      "choices": [
+          "Roots",
+          "Green leaves",
+          "Flowers",
+          "Seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is another name for dicot seeds?",
+      "choices": [
+          "Monocotyledonous seeds",
+          "Dicotyledonous seeds",
+          "Tree seeds",
+          "Flower seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is another name for monocot seeds?",
+      "choices": [
+          "Dicotyledonous seeds",
+          "Tree seeds",
+          "Flower seeds",
+          "Monocotyledonous seeds"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is used in the experiment?",
+      "choices": [
+          "Glass",
+          "Earthen Pots",
+          "Plastic bottles",
+          "Aluminum can"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following ingredients are used in the experiment?",
+      "choices": [
+          "Small carrot",
+          "A big tomato",
+          "Small onion",
+          "A big garlic"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many plants do you expect to grow in the experiment?",
+      "choices": [
+          "5",
+          "4",
+          "2",
+          "3"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How often should the pots be watered?",
+      "choices": [
+          "Once a week",
+          "Once a month",
+          "Every day or alternate days",
+          "Once a year"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What factor influences the watering schedule?",
+      "choices": [
+          "Temperature",
+          "Humidity",
+          "Weather",
+          "Pressure"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the duration for observing the experiment?",
+      "choices": [
+          "5 days",
+          "20 days",
+          "10 days",
+          "14 days"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of this experiment?",
+      "choices": [
+          "To grow plants",
+          "To understand plant growth",
+          "To test the water quality",
+          "To observe plant roots"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which crop is NOT mentioned in the image?",
+      "choices": [
+          "Rice",
+          "Jute",
+          "Tea",
+          "Wheat"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the main topic of the social studies integration activity?",
+      "choices": [
+          "History",
+          "Geography",
+          "Civics",
+          "Agriculture"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What type of soil are used in this experiment?",
+      "choices": [
+          "Sandy Soil",
+          "Silty Soil",
+          "Clay Soil",
+          "Earthen Pots"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the key to having a potato grow in a pot?",
+      "choices": [
+          "Its smell",
+          "Its roots",
+          "Its eye",
+          "Its color"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is being covered in each pot?",
+      "choices": [
+          "The roots",
+          "The top",
+          "The soil",
+          "The seed"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the goal of the 'HANDS-ON LEARNING' activity mentioned in the image?",
+      "choices": [
+          "Memorization",
+          "Analysing",
+          "Reading",
+          "Writing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does the image show the 'BAY OF BENGAL'?",
+      "choices": [
+          "Near Arabian Sea",
+          "Near Indian Ocean",
+          "South of India",
+          "East of India"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What should you observe during the experiment?",
+      "choices": [
+          "Leaf color",
+          "The Soil",
+          "Plant growth",
+          "Water temperature"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The practice of growing crop plants on a large-scale is called:",
+      "choices": [
+          "Plantation",
+          "Agriculture",
+          "Sowing",
+          "Reaping"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Cabbage and cauliflower are the vegetables of:",
+      "choices": [
+          "Summer",
+          "Spring",
+          "Autumn",
+          "Winter"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Rabi crops are grown in:",
+      "choices": [
+          "Summer",
+          "Spring",
+          "Autumn",
+          "Winter"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Pumpkin and gourds grow in which season?",
+      "choices": [
+          "Summer",
+          "Winter",
+          "Spring",
+          "Autumn"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Rose plant is grown by ____ cutting.",
+      "choices": [
+          "Stem",
+          "Root",
+          "Leaf",
+          "Flower"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Water, air and warmth are needed for ____.",
+      "choices": [
+          "Photosynthesis",
+          "Respiration",
+          "Seed germination",
+          "Transpiration"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The small shoot emerging from a seed is called ____.",
+      "choices": [
+          "Radicle",
+          "Cotyledon",
+          "Plumule",
+          "Seed coat"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Plants which are grown in the fields are called ____.",
+      "choices": [
+          "Herbs",
+          "Shrubs",
+          "Crops",
+          "Trees"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why does a plant produce too many seeds?",
+      "choices": [
+          "to ensure that at least some seeds survive and grow into new plants",
+          "so that some seed will not develop",
+          "so the species can exist",
+          "all of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is germination of a seed?",
+      "choices": [
+          "the growth of the seed",
+          "the development of seed into seedling",
+          "the development of seedling into seed",
+          "all of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How do animals help in the dispersal of seeds?",
+      "choices": [
+          "to eat the seeds",
+          "to take the seed elsewhere",
+          "to protect the seeds",
+          "all of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the special features of the seeds dispersed by wind?",
+      "choices": [
+          "they are heavy",
+          "they have wings or hair",
+          "they are sticky",
+          "all of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the difference between rabi and kharif crops?",
+      "choices": [
+          "they both same",
+          "they both are season crops",
+          "rabi crops are sown in the winter and harvested in the spring, while kharif crops are sown in the rainy season and harvested in the autumn",
+          "all of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why will all seeds of a plant do not grow into new plants?",
+      "choices": [
+          "the seeds are not mature",
+          "the seeds do not get enough water",
+          "the seeds do not get enough sunlight",
+          "all of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Excessive use of fertilisers is harmful to us, why?",
+      "choices": [
+          "they pollute the water",
+          "they pollute the soil",
+          "they enter food chain",
+          "all of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "A good crop adds to the wealth of a country?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Grasshoppers and caterpillars are good for our crops?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "All seeds of a plant do not grow into new plants?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Overuse of chemical fertilisers is good for the soil?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The stems of plants like the Bryophyllum can grow into new plants?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Plants grow well under which conditions?",
+      "choices": [
+          "Plenty of heat",
+          "Plenty of water",
+          "Plenty of air",
+          "Suitable conditions"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the process of growth of seed when sufficient amount of air, water and warmth provided to seed?",
+      "choices": [
+          "Agriculture",
+          "Germination",
+          "Seed dispersal",
+          "Manure"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rotted matter made of plant and animals waste is known as?",
+      "choices": [
+          "Fertilizers",
+          "Manure",
+          "Pesticides",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Practice of growing crop plants on a large scale is called?",
+      "choices": [
+          "Germination",
+          "Agriculture",
+          "Seed dispersal",
+          "Fertilizers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following crops is a Kharif crop?",
+      "choices": [
+          "Pea",
+          "Wheat",
+          "Pumpkin",
+          "Cauliflower"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following crops is a Rabi crop?",
+      "choices": [
+          "Brinjal",
+          "Pumpkin",
+          "Rice",
+          "Cauliflower"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the method of seed dispersal for cotton and madar?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By explosion",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the method of seed dispersal for lotus fruit?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By explosion",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the method of seed dispersal for pea?",
+      "choices": [
+          "By wind",
+          "By water",
+          "By explosion",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is made in factories from different chemicals?",
+      "choices": [
+          "Manure",
+          "Fertilizers",
+          "Pesticides",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the process of giving water to plants called?",
+      "choices": [
+          "Harvesting",
+          "Irrigation",
+          "Plowing",
+          "Sowing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When are crops irrigated?",
+      "choices": [
+          "Randomly",
+          "At night",
+          "At proper time",
+          "During the winter"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are pesticides used for?",
+      "choices": [
+          "To water the plants",
+          "To kill the pests",
+          "To harvest crops",
+          "To scare away birds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the organisms called that harm crops?",
+      "choices": [
+          "Weeds",
+          "Pests",
+          "Beneficial insects",
+          "Flowers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are pesticides?",
+      "choices": [
+          "Natural fertilizers",
+          "Chemicals used to kill pests",
+          "Types of crops",
+          "Tools used for farming"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Locusts, grasshoppers, and rats are examples of what?",
+      "choices": [
+          "Beneficial insects",
+          "Common crops",
+          "Common pests",
+          "Types of soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a scarecrow used for?",
+      "choices": [
+          "To attract birds",
+          "To scare birds away",
+          "To water plants",
+          "To harvest crops"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do farmers do to keep grazing animals away?",
+      "choices": [
+          "Use pesticides",
+          "Plant more crops",
+          "Fencing of agriculture farm",
+          "Use scarecrows"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a scarecrow?",
+      "choices": [
+          "Type of fertilizer",
+          "Type of insect",
+          "A device to scare birds",
+          "A type of seed"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are granaries used for?",
+      "choices": [
+          "To store water",
+          "To store grains",
+          "To store pesticides",
+          "To grow crops"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where are grains kept safe after harvesting?",
+      "choices": [
+          "In the fields",
+          "In granaries and gunny bags",
+          "In rivers",
+          "In open air"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Besides granaries and gunny bags, where else are grains kept?",
+      "choices": [
+          "In open fields",
+          "In rivers",
+          "In airtight, sealed containers called silos",
+          "In the soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why is fencing important for agriculture farms?",
+      "choices": [
+          "To attract grazing animals",
+          "To keep grazing animals away",
+          "To store grains",
+          "To scare away birds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of containers are called silos?",
+      "choices": [
+          "Open containers",
+          "Airtight, sealed containers",
+          "Water tanks",
+          "Cardboard boxes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the main purpose of farmers fencing their agriculture farms?",
+      "choices": [
+          "To make the farm look beautiful",
+          "To prevent grazing animals from entering",
+          "To attract more insects",
+          "To keep the farm warm"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the first step in preparing a field for sowing seeds?",
+      "choices": [
+          "Adding manure",
+          "Ploughing the field",
+          "Watering the field",
+          "Fertilizing the field"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How does ploughing affect the soil?",
+      "choices": [
+          "Makes it hard and compact",
+          "Makes it airy and soft",
+          "Dries it out",
+          "Pollutes it"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are used to increase crop production?",
+      "choices": [
+          "Old seeds",
+          "Small seeds",
+          "Good quality seeds",
+          "Damaged seeds"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is manure made of?",
+      "choices": [
+          "Chemicals",
+          "Rocks and minerals",
+          "Plant and animal waste",
+          "Plastic and metal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where are things like leaves and cow dung left to rot?",
+      "choices": [
+          "In a river",
+          "In a field",
+          "In a pit",
+          "In a factory"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do fertilisers help plants do?",
+      "choices": [
+          "Grow taller",
+          "Grow well",
+          "Change color",
+          "Attract insects"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a potential problem with overuse of fertilisers?",
+      "choices": [
+          "Makes soil healthier",
+          "Harms the soil and plants",
+          "Attracts more insects",
+          "Increases crop production"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where are fertilisers made?",
+      "choices": [
+          "In farms",
+          "In fields",
+          "In factories",
+          "In homes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these is an example of a fertilizer?",
+      "choices": [
+          "Cow dung",
+          "Leaves",
+          "Super phosphate",
+          "Twigs"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do crop plants get from manure and fertilisers?",
+      "choices": [
+          "Insects",
+          "Weeds",
+          "Nutrients",
+          "Diseases"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Besides water, which of these factors is needed for a seed to grow into new plant?",
+      "choices": [
+          "Air",
+          "Heat",
+          "Warmth",
+          "Both Air and Warmth"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is ammonium sulphate?",
+      "choices": [
+          "A type of seed",
+          "A type of manure",
+          "A type of fertiliser",
+          "A type of soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does ploughing do to soil?",
+      "choices": [
+          "Makes it harder",
+          "Makes it softer",
+          "Removes nutrients",
+          "Adds rocks"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why are good quality seeds important?",
+      "choices": [
+          "To attract birds",
+          "To increase crop production",
+          "To make the field look nice",
+          "To reduce water usage"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following can be used to make manure?",
+      "choices": [
+          "Plastic bags",
+          "Metal scraps",
+          "Cow dung",
+          "Glass bottles"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following crops is grown in the loamy soil of Punjab, Haryana and Uttar Pradesh?",
+      "choices": [
+          "Rice",
+          "Wheat",
+          "Tea",
+          "Cotton"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In which state are Bajra and Jowar typically grown?",
+      "choices": [
+          "Punjab",
+          "Rajasthan",
+          "Kerala",
+          "West Bengal"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Tea is grown in moist soil on the slopes of which of the following?",
+      "choices": [
+          "Himalayas",
+          "Western Ghats",
+          "Darjeeling, Assam and Nilgiri",
+          "Coastal areas"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where are coconut trees commonly grown in India?",
+      "choices": [
+          "Rajasthan",
+          "Punjab",
+          "Coastal areas of Kerala and Goa",
+          "West Bengal"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which soil type is ideal for growing rice and jute in West Bengal?",
+      "choices": [
+          "Sandy soil",
+          "Loamy soil",
+          "Clayey soil",
+          "Black soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Cotton is grown in the black soil. Where does maize grow?",
+      "choices": [
+          "Maharashtra, Gujarat and Madhya Pradesh",
+          "Punjab, Haryana and Uttar Pradesh",
+          "Rajasthan",
+          "Kerala and Goa"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What types of things do crops need to grow?",
+      "choices": [
+          "Different cars, vehicles, and roads",
+          "Different types of climates, seasons and soils",
+          "Just fertile soil",
+          "Specific types of fertilizers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the most suitable soil to grow wheat?",
+      "choices": [
+          "Clayey Soil",
+          "Sandy Soil",
+          "Loamy Soil",
+          "Black Soil"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these options are known to be great tea producers?",
+      "choices": [
+          "Rajasthan",
+          "Goa",
+          "Assam",
+          "Uttar Pradesh"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the states known for growing cotton?",
+      "choices": [
+          "Kerala and Goa",
+          "Maharashtra, Gujarat and Madhya Pradesh",
+          "Punjab and Haryana",
+          "Darjeeling and Assam"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which type of soil does not work for wheat?",
+      "choices": [
+          "Loamy",
+          "Clayey",
+          "Sandy",
+          "Black"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which crop is grown in sandy soil?",
+      "choices": [
+          "Tea",
+          "Wheat",
+          "Bajra",
+          "Rice"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these crops are grown in clayey soil?",
+      "choices": [
+          "Jute",
+          "Tea",
+          "Coconut",
+          "Cotton"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In which regions do coconut trees mostly thrive?",
+      "choices": [
+          "Hilly areas",
+          "Sandy plains",
+          "Coastal areas",
+          "Desert areas"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Where is Rice grown in India?",
+      "choices": [
+          "Rajasthan",
+          "Punjab",
+          "West Bengal",
+          "Madhya Pradesh"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the term for plants of one kind grown on a large land area during a fixed season?",
+      "choices": [
+          "Herb",
+          "Crop",
+          "Shrub",
+          "Tree"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which crops are grown in the winter season from November to April?",
+      "choices": [
+          "Kharif Crops",
+          "Summer Crops",
+          "Autumn Crops",
+          "Rabi Crops"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which crops are grown in the summer season from June to October?",
+      "choices": [
+          "Rabi Crops",
+          "Winter Crops",
+          "Spring Crops",
+          "Kharif Crops"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT a Rabi Crop?",
+      "choices": [
+          "Pea",
+          "Wheat",
+          "Rice",
+          "Cauliflower"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a Kharif Crop?",
+      "choices": [
+          "Wheat",
+          "Barley",
+          "Pea",
+          "Rice"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does the teacher arrange for the students?",
+      "choices": [
+          "A picnic in a park",
+          "A visit to a museum",
+          "A trip to an agriculture farm",
+          "A visit to a zoo"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who is the caretaker of the agriculture farm?",
+      "choices": [
+          "Mr. Ramdev",
+          "Mr. Sharma",
+          "Mr. Ramesh Sharma",
+          "Mr. Ramesh"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the farmer's name?",
+      "choices": [
+          "Mr. Sharma",
+          "Mr. Ramesh",
+          "Mr. Ramesh Sharma",
+          "Mr. Ramdev"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the practice of growing crop plants on a large scale called?",
+      "choices": [
+          "Horticulture",
+          "Agriculture",
+          "Floriculture",
+          "Sericulture"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place where crops are grown on a large scale called?",
+      "choices": [
+          "A garden",
+          "A greenhouse",
+          "An agriculture farm",
+          "A plantation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is one reason why agriculture is important?",
+      "choices": [
+          "To decorate gardens",
+          "To get food to eat",
+          "To make furniture",
+          "To build houses"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "According to the text, what does a good crop add to?",
+      "choices": [
+          "The beauty of nature",
+          "The health of people",
+          "The wealth of a country",
+          "The variety of food"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "From the hints, which of the following is visible?",
+      "choices": [
+          "Strawberry",
+          "Kiwi",
+          "Orange",
+          "Eggplant"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "From the hints, which of the following is visible?",
+      "choices": [
+          "Apple",
+          "Berries",
+          "Pumpkin",
+          "Grapes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "From the hints, which of the following is visible?",
+      "choices": [
+          "Guava",
+          "Dragonfruit",
+          "Watermelon",
+          "Corn"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the process called when plants grow from roots, stems, leaves, and buds?",
+      "choices": [
+          "Pollination",
+          "Fertilization",
+          "Vegetative propagation",
+          "Germination"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which part of the sweet potato can grow into new plants?",
+      "choices": [
+          "Stem",
+          "Leaves",
+          "Roots",
+          "Flowers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What part of the rose plant is used to grow new plants?",
+      "choices": [
+          "Roots",
+          "Stem cuttings",
+          "Leaves",
+          "Seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following grows underground?",
+      "choices": [
+          "Rose",
+          "Bryophyllum",
+          "Potato",
+          "Sweet Potato"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What plant part of Bryophyllum gives rise to new plants?",
+      "choices": [
+          "Roots",
+          "Stem",
+          "Leaves",
+          "Flowers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do plants that do not grow from seeds grow from?",
+      "choices": [
+          "Roots",
+          "Stems",
+          "Spores",
+          "Leaves"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the name for plants that do not have flowers?",
+      "choices": [
+          "Flowering plants",
+          "Nonflowering plants",
+          "Seedless plants",
+          "Spore-bearing plants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is a nonflowering plant?",
+      "choices": [
+          "Rose",
+          "Potato",
+          "Mushroom",
+          "Sweet Potato"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which environment is suitable for the growth of spores?",
+      "choices": [
+          "Dry environment",
+          "Damp environment",
+          "Sunny environment",
+          "Windy environment"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How are spores dispersed?",
+      "choices": [
+          "By water",
+          "By wind",
+          "Like seeds",
+          "All of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following plants grow from spores?",
+      "choices": [
+          "Rose Plant",
+          "Potato Plant",
+          "Mushrooms",
+          "Sweet Potato Plant"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these is a kind of stem which grows under the ground?",
+      "choices": [
+          "Rose",
+          "Bryophyllum",
+          "Potato",
+          "Sweet Potato"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Vegetative propagation means ?",
+      "choices": [
+          "Plants can also grow from seeds.",
+          "Plants can also grow from roots, stems, leaves and buds.",
+          "Plants can also grow from Spores.",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Spore is like:",
+      "choices": [
+          "Seeds",
+          "Roots",
+          "Stems",
+          "Leaves"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Spores grow in:",
+      "choices": [
+          "Dry environment",
+          "Damp environment",
+          "Windy environment",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the outer hard covering of a seed called?",
+      "choices": [
+          "Cotyledon",
+          "Seed coat",
+          "Baby plant",
+          "Root"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the two seed leaves below the seed coat called?",
+      "choices": [
+          "Seed coat",
+          "Cotyledons",
+          "Baby plant",
+          "Shoot"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do we find when we split open seed leaves?",
+      "choices": [
+          "Seed coat",
+          "Cotyledons",
+          "A baby plant with a tiny shoot and a tiny root",
+          "Nothing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the text, what is the primary function of the seed coat?",
+      "choices": [
+          "To provide food for the baby plant",
+          "To protect the seed from rough surfaces",
+          "To split open easily",
+          "To attract animals"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of seed leaves being 'fat'?",
+      "choices": [
+          "To protect the seed",
+          "To help the seed float",
+          "To store food for the baby plant",
+          "To make the seed heavy"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who is Ms. Anita Sharma?",
+      "choices": [
+          "A farmer",
+          "A caretaker",
+          "A science teacher",
+          "A student"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does Ms. Anita Sharma want her students to know?",
+      "choices": [
+          "The importance of seeds for plants",
+          "How to grow crops",
+          "The importance of fertilizers",
+          "How to analyse seeds"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who is Mr. Ramdev?",
+      "choices": [
+          "A farmer",
+          "A caretaker",
+          "A science teacher",
+          "A student"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Who is Mr. Ramesh Sharma?",
+      "choices": [
+          "A farmer",
+          "A caretaker",
+          "A science teacher",
+          "A student"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What class are the students in the picture?",
+      "choices": [
+          "Class 4",
+          "Class 5",
+          "Class 6",
+          "Class 7"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the chapter help to learn?",
+      "choices": [
+          "Structure of Seed and Parts",
+          "Methods of Seed Dispersal",
+          "Define Manures and Fertilizers",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the first lesson objective?",
+      "choices": [
+          "Define Manures and Fertilizers",
+          "Methods of Seed Dispersal",
+          "Structure of Seed and Parts",
+          "None of the above"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the next lesson objective?",
+      "choices": [
+          "Define Manures and Fertilizers",
+          "Methods of Seed Dispersal",
+          "Structure of Seed and Parts",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the last lesson objective?",
+      "choices": [
+          "Define Manures and Fertilizers",
+          "Methods of Seed Dispersal",
+          "Structure of Seed and Parts",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which skills does the chapter help to develop?",
+      "choices": [
+          "Critical Thinking",
+          "Analysing",
+          "Creativity",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  }
+]
