@@ -1760,16 +1760,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "What is the next lesson objective?",
-      "choices": [
-          "Define Manures and Fertilizers",
-          "Methods of Seed Dispersal",
-          "Structure of Seed and Parts",
-          "None of the above"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "What is the last lesson objective?",
       "choices": [
           "Define Manures and Fertilizers",
