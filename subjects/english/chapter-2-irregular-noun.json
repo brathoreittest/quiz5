@@ -1,0 +1,1052 @@
+[
+    {
+        "question": "The gender of the word 'father' in the sentence \"My father asked the maidservant to get him a cup of tea\" is changed to?",
+        "choices": [
+            "brother",
+            "mother",
+            "uncle",
+            "sister"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'maidservant' in the sentence \"My father asked the maidservant to get him a cup of tea\" is changed to?",
+        "choices": [
+            "maids",
+            "maidservant",
+            "waitress",
+            "master"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'brother' in the sentence \"My brother has brought some fruits from the market\" is changed to?",
+        "choices": [
+            "uncle",
+            "sister",
+            "aunt",
+            "cousin"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'King' in the sentence \"The King passed the law\" is changed to?",
+        "choices": [
+            "prince",
+            "queen",
+            "duke",
+            "emperor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'aunt' in the sentence \"My aunt bought me a new watch\" is changed to?",
+        "choices": [
+            "uncle",
+            "mother",
+            "sister",
+            "brother"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The gender of the word 'peahen' in the sentence \"I saw a peahen in the park\" is changed to?",
+        "choices": [
+            "duck",
+            "peacock",
+            "parrot",
+            "crow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'cow' in the sentence \"Have you seen the cow anywhere?\" is changed to?",
+        "choices": [
+            "calf",
+            "bull",
+            "ox",
+            "horse"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'boy' in the sentence \"The boy was playing outside\" is changed to?",
+        "choices": [
+            "uncle",
+            "girls",
+            "aunt",
+            "brother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'Girls' in the sentence \"Girls secured good marks in the test\" is changed to?",
+        "choices": [
+            "boys",
+            "women",
+            "uncle",
+            "brother"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The gender of the word 'uncle' in the sentence \"My uncle is a teacher\" is changed to?",
+        "choices": [
+            "mother",
+            "aunt",
+            "sister",
+            "grandmother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The gender of the word 'niece' in the sentence \"My niece will come from the USA tomorrow\" is changed to?",
+        "choices": [
+            "nephew",
+            "uncle",
+            "aunt",
+            "grandmother"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Choose the correct word for the blank. I have lost my ______ in school today.",
+        "choices": [
+            "book",
+            "pen",
+            "watch",
+            "remote"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the correct word for the blank. I saw two birds perched on the ______.",
+        "choices": [
+            "book",
+            "pen",
+            "tree",
+            "remote"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Choose the correct word for the blank. Meenu borrowed the ______ from Kajal.",
+        "choices": [
+            "book",
+            "pen",
+            "watch",
+            "remote"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Choose the correct word for the blank. Please pass the ______ . I want to change the channel.",
+        "choices": [
+            "book",
+            "pen",
+            "watch",
+            "remote"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is a masculine noun?",
+        "choices": [
+            "Queen",
+            "Actress",
+            "Nephew",
+            "Grandmother"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a feminine noun?",
+        "choices": [
+            "Box",
+            "Priest",
+            "Queen",
+            "Father"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a neuter noun?",
+        "choices": [
+            "Lake",
+            "Pencil",
+            "Father",
+            "Mare"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following word is not in masculine column?",
+        "choices": [
+            "Nephew",
+            "Father",
+            "Mother",
+            "Master"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following word is not in Feminine column?",
+        "choices": [
+            "Queen",
+            "Maid",
+            "Princess",
+            "Hero"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following word is not in Neuter column?",
+        "choices": [
+            "Computer",
+            "Ball",
+            "Fan",
+            "Manageress"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "There is no space for you in this __________.",
+        "choices": [
+            "water bottle",
+            "tree",
+            "room",
+            "watch"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Please fill my __________.",
+        "choices": [
+            "water bottle",
+            "tree",
+            "room",
+            "watch"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "It's raining heavily. Please shut the __________.",
+        "choices": [
+            "water bottle",
+            "door",
+            "room",
+            "watch"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The baby is playing with the __________.",
+        "choices": [
+            "water bottle",
+            "door",
+            "room",
+            "doll"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Mehul, throw the __________ through the window.",
+        "choices": [
+            "ball",
+            "door",
+            "room",
+            "doll"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a noun?",
+        "choices": [
+            "nephew",
+            "happy",
+            "run",
+            "quickly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a feminine noun?",
+        "choices": [
+            "hero",
+            "heroine",
+            "father",
+            "actor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a neuter noun?",
+        "choices": [
+            "heroine",
+            "pen",
+            "father",
+            "actor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a feminine noun?",
+        "choices": [
+            "Grand-uncle",
+            "Gentleman",
+            "Grandmother",
+            "Master"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which gender refers to the names of males or male animals?",
+        "choices": [
+            "Feminine gender",
+            "Masculine gender",
+            "Neuter gender",
+            "Common gender"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of a masculine noun?",
+        "choices": [
+            "Queen",
+            "Mother",
+            "Lion",
+            "Lioness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which gender refers to non-living things that are neither masculine nor feminine?",
+        "choices": [
+            "Feminine gender",
+            "Masculine gender",
+            "Neuter gender",
+            "Common gender"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of a neuter noun?",
+        "choices": [
+            "Mother",
+            "Lioness",
+            "Car",
+            "Cousin"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which gender refers to the name of things which indicate either the masculine or the feminine?",
+        "choices": [
+            "Feminine gender",
+            "Masculine gender",
+            "Neuter gender",
+            "Common gender"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is an example of a common gender noun?",
+        "choices": [
+            "Mother",
+            "Lioness",
+            "Table",
+            "Doctor"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the feminine gender of 'Tiger'?",
+        "choices": [
+            "Tigress",
+            "Tigeress",
+            "Tigger",
+            "Tigre"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Poet'?",
+        "choices": [
+            "Poetess",
+            "Poetess",
+            "Poett",
+            "Poette"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Heir'?",
+        "choices": [
+            "Heiress",
+            "Herress",
+            "Heres",
+            "Heirs"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'God'?",
+        "choices": [
+            "Goddess",
+            "Godess",
+            "Goddes",
+            "Godis"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Hero'?",
+        "choices": [
+            "Heroine",
+            "Heroiness",
+            "Heroins",
+            "Herone"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Peacock'?",
+        "choices": [
+            "Peahen",
+            "Peacocket",
+            "Peaheness",
+            "Peacocks"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Landlord'?",
+        "choices": [
+            "Landlady",
+            "Landladyess",
+            "Landlay",
+            "Landlorde"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Grandfather'?",
+        "choices": [
+            "Grandmother",
+            "Grandfatherm",
+            "Grandfatm",
+            "Grandfatheress"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine gender of 'Washerman'?",
+        "choices": [
+            "Washerwoman",
+            "Washermens",
+            "Washerswoman",
+            "Washermaness"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The speech of a minister",
+        "choices": [
+            "The minister speech",
+            "The ministers speech",
+            "The minister's speech",
+            "The ministers' speech"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The epic of the Hindus",
+        "choices": [
+            "The Hindu's epic",
+            "The Hindus epic",
+            "The Hindus's epic",
+            "The Hindu epic"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The wealth of rich men",
+        "choices": [
+            "Rich men's wealth",
+            "Rich mens wealth",
+            "Rich mens' wealth",
+            "Rich men wealth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The costumes of the children",
+        "choices": [
+            "The childrens' costumes",
+            "The children's costumes",
+            "The childrens costumes",
+            "The children costumes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The creativity of a poet",
+        "choices": [
+            "The poets creativity",
+            "The poet's creativity",
+            "The poets' creativity",
+            "The poet creativity"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The tool of a mason",
+        "choices": [
+            "The mason's tool",
+            "The masons tool",
+            "The masons' tool",
+            "The mason tool"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The kitchen of a royal family",
+        "choices": [
+            "The royal family kicthen",
+            "The royal family's kicthen",
+            "The royal family's kitchen",
+            "The royal familys kitchen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The subjects of the king",
+        "choices": [
+            "The kings subject",
+            "The king's subject",
+            "The kings' subject",
+            "The king subject"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The books of the students",
+        "choices": [
+            "Students' book",
+            "Students book",
+            "Student's book",
+            "Student book"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The voice of a singer",
+        "choices": [
+            "The singers voice",
+            "The singer's voice",
+            "The singers' voice",
+            "The singer voice"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My __________ result will be declared today.",
+        "choices": [
+            "sisters",
+            "sister",
+            "sister's",
+            "sisters'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The __________ crown is shining.",
+        "choices": [
+            "kings",
+            "king",
+            "king's",
+            "kings'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "My __________ saree is costly.",
+        "choices": [
+            "mothers",
+            "mother",
+            "mother's",
+            "mothers'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "My __________ spectacles have broken.",
+        "choices": [
+            "grandpas",
+            "grandpa",
+            "grandpa's",
+            "grandpas'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The __________ smile was very charming.",
+        "choices": [
+            "babies",
+            "baby",
+            "baby's",
+            "babies'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following sentences is an example of a possessive noun that is singular?",
+        "choices": [
+            "Girls' hostel",
+            "Teachers' day",
+            "Raman's pen",
+            "Parents' office"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which case is an apostrophe used alone to form a possessive noun?",
+        "choices": [
+            "When the noun is singular",
+            "When the noun is plural and does not end in 's'",
+            "When the noun is plural and ends in 's'",
+            "Always when making a noun possessive"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of when the letter 's' is omitted in possessive nouns?",
+        "choices": [
+            "Children's park",
+            "Teachers' day",
+            "James' house",
+            "Women's clothes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following sentence uses correct possessive noun?",
+        "choices": [
+            "The dog of our neighbor",
+            "Our neighbors dog",
+            "Our neighbour's dog",
+            "Our neighbour dog"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How do you form a possessive noun when the noun is plural but does not end in 's'?",
+        "choices": [
+            "Add only an apostrophe (')",
+            "Add 's",
+            "Add 'apostrophe s' ('s)",
+            "Omit the 's'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The house of the mason",
+        "choices": [
+            "The masons house",
+            "The mason house",
+            "The mason's house",
+            "The mason\u2019s house"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The father of the child",
+        "choices": [
+            "The childs father",
+            "The child father",
+            "The child\u2019s father",
+            "The child's father"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The watch of the gardener",
+        "choices": [
+            "The gardener watch",
+            "The gardener's watch",
+            "The gardeners watch",
+            "The gardeners\u2019 watch"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The dog of our neighbour",
+        "choices": [
+            "Our neighbour dog",
+            "Our neighbours dog",
+            "Our neighbour's dog",
+            "Our neighbour\u2019s dog"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The friend of Ravi",
+        "choices": [
+            "Ravis friend",
+            "Ravi's friend",
+            "Ravis\u2019 friend",
+            "Ravi s friend"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The money of a poor man",
+        "choices": [
+            "A poor man money",
+            "A poor man\u2019s money",
+            "A poor mans money",
+            "A poor mans\u2019 money"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The pit of a snake",
+        "choices": [
+            "The snake\u2019s pit",
+            "The snake pit",
+            "The snakes pit",
+            "The snakes\u2019 pit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The mother of a baby",
+        "choices": [
+            "The baby's mother",
+            "The babies mother",
+            "The baby mother",
+            "The babies\u2019 mother"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The notebooks of the boy",
+        "choices": [
+            "The boy\u2019s notebook",
+            "The boy notebook",
+            "The boys notebook",
+            "The boys\u2019 notebook"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The words of a Saint",
+        "choices": [
+            "The saint ward",
+            "The saint\u2019s ward",
+            "The saints ward",
+            "The saints\u2019 ward"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "While going to my uncle's house, I saw many _______ in the pond.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "I watched the _______ on television.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Sam has no vehicle. So, he went to the market on _______.",
+        "choices": [
+            "fish",
+            "syllabi",
+            "foot",
+            "children"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Jack has to complete the _______ before exams.",
+        "choices": [
+            "syllabi",
+            "foot",
+            "children",
+            "sheep"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Many _______ have participated in the marathon race.",
+        "choices": [
+            "foot",
+            "children",
+            "sheep",
+            "people"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Barry, Rahul and Shan are good _______.",
+        "choices": [
+            "children",
+            "sheep",
+            "species",
+            "deer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Not all _______ of snakes are poisonous.",
+        "choices": [
+            "sheep",
+            "species",
+            "deer",
+            "dart"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The shepherd came with a flock of _______.",
+        "choices": [
+            "species",
+            "deer",
+            "dart",
+            "sheep"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The lion sprang upon the _______.",
+        "choices": [
+            "deer",
+            "dart",
+            "news",
+            "people"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Tom and Mary are playing _______.",
+        "choices": [
+            "dart",
+            "news",
+            "people",
+            "fish"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The plural form of 'man' is:",
+        "choices": [
+            "mans",
+            "man",
+            "men",
+            "mens"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The plural form of 'woman' is:",
+        "choices": [
+            "womans",
+            "woman",
+            "women",
+            "womens"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The plural form of 'sheep' is:",
+        "choices": [
+            "sheeps",
+            "sheep",
+            "shieps",
+            "sheepes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The plural form of 'fish' is:",
+        "choices": [
+            "fishes",
+            "fish",
+            "fishs",
+            "fishies"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The plural form of 'child' is:",
+        "choices": [
+            "childs",
+            "child",
+            "children",
+            "childen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the plural form of 'Man'?",
+        "choices": [
+            "Mans",
+            "Men",
+            "Manes",
+            "Mani"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Goose'?",
+        "choices": [
+            "Gooses",
+            "Geese",
+            "Goos",
+            "Gees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Mouse'?",
+        "choices": [
+            "Mouses",
+            "Mice",
+            "Mooes",
+            "Mose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Child'?",
+        "choices": [
+            "Childs",
+            "Children",
+            "Childes",
+            "Childi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Fungus'?",
+        "choices": [
+            "Funguses",
+            "Fungi",
+            "Fungus",
+            "Funge"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Analysis'?",
+        "choices": [
+            "Analyses",
+            "Analysises",
+            "Analysi",
+            "Analysis"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the plural form of 'Oasis'?",
+        "choices": [
+            "Oasises",
+            "Oases",
+            "Oasi",
+            "Oasis"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Person'?",
+        "choices": [
+            "Persons",
+            "People",
+            "Persones",
+            "Peeson"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Woman'?",
+        "choices": [
+            "Womans",
+            "Women",
+            "Womenses",
+            "Womanii"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following nouns remains the same in its singular and plural form?",
+        "choices": [
+            "Fish",
+            "Cactus",
+            "Woman",
+            "Child"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following nouns remains the same in its singular and plural form?",
+        "choices": [
+            "Sheep",
+            "Mouse",
+            "Person",
+            "Goose"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the plural form of 'Deer'?",
+        "choices": [
+            "Deers",
+            "Deer",
+            "Deeres",
+            "Dee"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following nouns has a plural form but takes a singular verb?",
+        "choices": [
+            "Athletics",
+            "Children",
+            "People",
+            "Mice"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following nouns has a plural form but takes a singular verb?",
+        "choices": [
+            "News",
+            "Women",
+            "Fungi",
+            "Geese"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the plural of 'Aircraft'?",
+        "choices": [
+            "Aircrafts",
+            "Aircraft",
+            "Aircraftes",
+            "Aircrafti"
+        ],
+        "correctAnswer": 1
+    }
+]
