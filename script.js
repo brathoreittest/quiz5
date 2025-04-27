@@ -148,5 +148,7 @@ submitButton.addEventListener('click', () => {
     });
 
     // Display the score with the chapter name
-    scoreDisplay.textContent = `Your score for ${currentChapter} is ${score} out of ${selectedChapterQuestions.length}`;
+    const now = new Date();
+    const currentTime = now.toLocaleTimeString();
+    scoreDisplay.textContent = `Your score for ${currentChapter} is ${score} out of ${selectedChapterQuestions.length}. Time: ${currentTime}`;
 });
