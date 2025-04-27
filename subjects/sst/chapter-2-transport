@@ -1,0 +1,1432 @@
+[
+    {
+        "question": "Which of the following is a seaport?",
+        "choices": [
+            "Kochi",
+            "Pacific Ocean",
+            "Helicopter service",
+            "Super Highways"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following connects two oceans?",
+        "choices": [
+            "Suez Canal",
+            "Panama Canal",
+            "Ganga",
+            "Chennai"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following joins two seas?",
+        "choices": [
+            "Suez Canal",
+            "Panama Canal",
+            "Ganga",
+            "Chennai"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is a super highways?",
+        "choices": [
+            "Kochi",
+            "Pacific Ocean",
+            "Helicopter service",
+            "Golden Quadrilateral"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is the name of a train?",
+        "choices": [
+            "Kochi",
+            "Pawan Hans",
+            "Shatabdi Express",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a helicopter service?",
+        "choices": [
+            "Kochi",
+            "Pawan Hans",
+            "Shatabdi Express",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an international airport in India?",
+        "choices": [
+            "Chennai Airport",
+            "Indira Gandhi International Airport",
+            "Cochin International Airport",
+            "Kempegowda International Airport"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a seaport on the eastern coast of India?",
+        "choices": [
+            "Mumbai",
+            "Chennai",
+            "Kochi",
+            "Goa"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a navigable river of India?",
+        "choices": [
+            "Indus",
+            "Ganga",
+            "Brahmaputra",
+            "Yamuna"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The first important invention/discovery in the field of transport was that of",
+        "choices": [
+            "fire",
+            "wheel",
+            "agriculture",
+            "domestication of animals"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "GT Road linked _________ to Peshwar.",
+        "choices": [
+            "Kolkata",
+            "Peshawar",
+            "Delhi",
+            "Afghanistan"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Railways was introduced in India in the year _________.",
+        "choices": [
+            "1947",
+            "1950",
+            "1853",
+            "1753"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Panama Canal was opened in the year _________.",
+        "choices": [
+            "1900",
+            "1914",
+            "1939",
+            "1945"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "India's first airline was _________.",
+        "choices": [
+            "Aspy Merwan",
+            "Air India",
+            "JRD Airlines",
+            "Tata Airlines"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "__________ provides helicopter services in inaccessible areas.",
+        "choices": [
+            "Kolkata",
+            "Suwez",
+            "Pawan Hans Helicopters",
+            "Mumbai Local"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Mediterranean Sea and the Red Sea are connected by the __________ Canal.",
+        "choices": [
+            "Suez",
+            "Panama",
+            "India",
+            "Kolkata"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Panama Canal is __________ kilometres long.",
+        "choices": [
+            "193.3",
+            "93.3",
+            "100",
+            "200"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "__________ Corridor connects Swither and Porbandar.",
+        "choices": [
+            "North-South",
+            "East-West",
+            "South-East",
+            "North-East"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "__________ Metro Rail is the oldest metro service of India.",
+        "choices": [
+            "Mumbai",
+            "Delhi",
+            "Chennai",
+            "Kolkata"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Chennai is a seaport.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A state highway passes through many states.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Bullet train is common in Russia.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Brahmaputra is a navigable river.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Delhi has an international airport.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a mode of transport mentioned in the text?",
+        "choices": [
+            "Land transport",
+            "Airways",
+            "Waterways",
+            "Space Travel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What type of roads can be classified as international highways, national highways, state highways, district roads?",
+        "choices": [
+            "Urban roads",
+            "Rural roads",
+            "Kutcha roads",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In what year was Indian Railways introduced in India?",
+        "choices": [
+            "1835",
+            "1853",
+            "1900",
+            "1947"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is mentioned as the longest train route in the world?",
+        "choices": [
+            "The Silk Road",
+            "The Trans-Siberian Railway",
+            "The Orient Express",
+            "The Grand Trunk Express"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What services do airways offer?",
+        "choices": [
+            "Only domestic services",
+            "Only international services",
+            "Both domestic and international services",
+            "Cargo services only"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, how is most of the international trade carried out?",
+        "choices": [
+            "By airways",
+            "By land routes",
+            "By ships",
+            "By trains"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many major seaports does India have?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What canals have revolutionized water transport?",
+        "choices": [
+            "The Grand Canal and the Erie Canal",
+            "The Suez Canal and the Panama Canal",
+            "The Corinth Canal and the Kiel Canal",
+            "The Volga-Don Canal and the White Sea-Baltic Canal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of trains are part of Railway network?",
+        "choices": [
+            "Electric and diesel trains",
+            "Metro trains, superfast trains, bullet trains, Maglev trains",
+            "Both A and B",
+            "None of the Above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which mode of transport is considered expensive but fastest?",
+        "choices": [
+            "Roadways",
+            "Railways",
+            "Airways",
+            "Waterways"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which mode of transport is consider cheapest one?",
+        "choices": [
+            "Roadways",
+            "Railways",
+            "Airways",
+            "Waterways"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What do highways and expressways connect?",
+        "choices": [
+            "Mountains and valleys",
+            "Deserts and forests",
+            "Cities and towns",
+            "Islands and continents"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is true about Suez Canal and Panama Canal?",
+        "choices": [
+            "Revolutionised international trade.",
+            "Located in India",
+            "Cheapest mode of transport",
+            "Only used for domestic transport"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which type of airline provides transport to inaccessible areas?",
+        "choices": [
+            "Government Airlines",
+            "Private Airlines",
+            "Helicopters",
+            "Domestic Airlines"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which project connects four metropolitan cities?",
+        "choices": [
+            "East-West corridor",
+            "North-South corridor",
+            "Golden quadrilateral",
+            "International highways"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Suez Canal joins which two seas?",
+        "choices": [
+            "Atlantic and Pacific",
+            "Red Sea and Mediterranean",
+            "Indian and Arctic",
+            "Black and Caspian"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What year was the Panama Canal construction completed?",
+        "choices": [
+            "1869",
+            "1914",
+            "1900",
+            "1920"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the length of the Suez Canal?",
+        "choices": [
+            "82 km",
+            "193.3 km",
+            "100 km",
+            "200 km"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the length of the Panama Canal?",
+        "choices": [
+            "82 km",
+            "193.3 km",
+            "100 km",
+            "200 km"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Panama Canal joins which two oceans?",
+        "choices": [
+            "Atlantic and Pacific",
+            "Red Sea and Mediterranean",
+            "Indian and Arctic",
+            "Black and Caspian"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The construction of the Suez Canal reduced the journey from Mumbai to London from six months to how many weeks?",
+        "choices": [
+            "Four",
+            "Three",
+            "One",
+            "Two"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does 'efficient' mean?",
+        "choices": [
+            "Not easy to reach or explore",
+            "Having great variety",
+            "Able to work well without any problem",
+            "Fit, suitable, comfortable"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'navigable' mean?",
+        "choices": [
+            "Suitable for ships to pass through",
+            "Vessels used mainly to carry goods or items",
+            "Not easy to reach or explore",
+            "Having great variety"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'freighters' mean?",
+        "choices": [
+            "Suitable for ships to pass through",
+            "Vessels used mainly to carry goods or items",
+            "Not easy to reach or explore",
+            "Having great variety"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Panama Canal reduced the time for ships to travel between the Atlantic ocean and Pacific oceans tracing the _______ tip of South America",
+        "choices": [
+            "Southernmost",
+            "Easternmost",
+            "Westernmost",
+            "Northernmost"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the meaning of 'convenient'?",
+        "choices": [
+            "Fit, suitable, comfortable",
+            "Vessels used mainly to carry goods or items",
+            "Not easy to reach or explore",
+            "Having great variety"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Suez Canal (1869) and the Panama Canal (1914) reduced distances along sea routes by thousands of _____.",
+        "choices": [
+            "Inches",
+            "Centimeters",
+            "Kilometers",
+            "Meters"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "These canals revolutionised the water transport and have made it possible for ships from _____ bound for Europe.",
+        "choices": [
+            "Europe",
+            "Asia",
+            "South America",
+            "Africa"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Suez Canal joins the _____ to the Mediterranean Sea.",
+        "choices": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Red Sea",
+            "Black Sea"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'multifarious' mean?",
+        "choices": [
+            "Having great variety",
+            "Suitable for ships to pass through",
+            "Not easy to reach or explore",
+            "Fit, suitable, comfortable"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Pawana Hans Helicopters provide services to inaccessible areas like which states?",
+        "choices": [
+            "Maharashtra, Goa and karnataka",
+            "Rajasthan, Panjab and Haryana",
+            "Jammu and Kashmir and Himachal Pradesh",
+            "Tamilnadu and Kerala"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of vehicles people used when they were travelling by waterways in ancient times?",
+        "choices": [
+            "Rafts and Canoe",
+            "Buses and Trains",
+            "Motor Cycles and Cars",
+            "Aeroplanes and Helicopters"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the importance of waterways?",
+        "choices": [
+            "Require very little maintenance",
+            "Cheapest means of travel",
+            "Both of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do freighters carry?",
+        "choices": [
+            "Heavy loads of food supplies",
+            "Timber",
+            "Machinery",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What do Oil tankers carry?",
+        "choices": [
+            "Only goods",
+            "Only passengers",
+            "Oil to all parts of the world",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are ports needed for?",
+        "choices": [
+            "To dock and unload passengers",
+            "To dock and unload cargo",
+            "Both of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many major ports are there in India?",
+        "choices": [
+            "10",
+            "13",
+            "15",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which is the most important port city in India?",
+        "choices": [
+            "Chennai",
+            "Kochi",
+            "Mumbai",
+            "Kolkata"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following are the seaports located on the west coast of India?",
+        "choices": [
+            "Kandla",
+            "Jawaharlal Nehru Port",
+            "Marmagao",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following are the seaports located on the eastern coast of India?",
+        "choices": [
+            "Tuticorin",
+            "Chennai",
+            "Visakhapatnam",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many navigable rivers does India have?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the two navigable rivers of India?",
+        "choices": [
+            "Ganga and Brahmaputra",
+            "Indus and Godavari",
+            "Krishna and Kaveri",
+            "Narmada and Tapti"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "After the discovery of the steam engine, ships ran on ____.",
+        "choices": [
+            "Diesel",
+            "Petrol",
+            "Steam",
+            "Electricity"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Shipping along international sea routes play an important role in ____.",
+        "choices": [
+            "Trade",
+            "Fishing",
+            "Tourism",
+            "Agriculture"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Nowadays we use ____ to carry goods and passengers.",
+        "choices": [
+            "Boats",
+            "Luxury Liners",
+            "Rafts",
+            "Canoes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which mode of transport provides services to inaccessible areas?",
+        "choices": [
+            "Aeroplanes",
+            "Helicopters",
+            "Ships",
+            "Trains"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following states are mentioned as areas served by helicopters?",
+        "choices": [
+            "Kerala and Tamil Nadu",
+            "Karnataka and Andhra Pradesh",
+            "Jammu and Kashmir and Himachal Pradesh",
+            "Punjab and Haryana"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was used for travelling by waterways in ancient times?",
+        "choices": [
+            "Cars and buses",
+            "Rafts and canoes",
+            "Trains and aeroplanes",
+            "Motorcycles and bicycles"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What made ships run on steam?",
+        "choices": [
+            "Discovery of fire",
+            "Discovery of electricity",
+            "Discovery of the steam engine",
+            "Discovery of the wheel"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is one of the advantages of waterways?",
+        "choices": [
+            "High maintenance cost",
+            "Very little maintenance",
+            "Requires a lot of fuel",
+            "Very expensive means of travel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do luxury liners allow passengers to do?",
+        "choices": [
+            "Carry heavy loads of goods",
+            "Travel in comfort",
+            "Transport oil",
+            "Travel very fast"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do freighters carry?",
+        "choices": [
+            "Only passengers",
+            "Heavy loads of food supplies, timber, and machinery",
+            "Only oil",
+            "Only luxury goods"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do oil tankers carry?",
+        "choices": [
+            "Only food supplies",
+            "Oil to all parts of the world",
+            "Timber and machinery",
+            "Passengers only"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are ports needed for?",
+        "choices": [
+            "Dock and unload passengers and cargo",
+            "Only unload passengers",
+            "Only dock ships",
+            "Only unload cargo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many major port cities are there along the coast of India?",
+        "choices": [
+            "5",
+            "10",
+            "13",
+            "20"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which is the most important port city through which India's foreign trade takes place?",
+        "choices": [
+            "Chennai",
+            "Kolkata",
+            "Mumbai",
+            "Kochi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following ports is on the west coast of India?",
+        "choices": [
+            "Haldia",
+            "Tuticorin",
+            "Kochi",
+            "Paradip"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following ports is on the eastern coast of India?",
+        "choices": [
+            "Kandla",
+            "Marmagao",
+            "Kochi",
+            "Paradip"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many navigable rivers does India have?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which rivers are mentioned as navigable rivers in India?",
+        "choices": [
+            "The Ganga and the Yamuna",
+            "The Ganga and the Brahmaputra",
+            "The Indus and the Ganges",
+            "The Yamuna and the Saraswati"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is the oldest metro rail service in India?",
+        "choices": [
+            "Hyderabad Metro Rail",
+            "Lucknow Metro Rail",
+            "Kolkata Metro Rail",
+            "Delhi Metro Rail"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the speed of Shatabdi Express and Rajdhani Express?",
+        "choices": [
+            "More than 50 km/hr",
+            "More than 80 km/hr",
+            "More than 100 km/hr",
+            "More than 120 km/hr"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the TTE stand for?",
+        "choices": [
+            "Travel Ticket Examiner",
+            "Train Ticket Editor",
+            "Train Ticket Employee",
+            "Travel Tour Expert"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which mode of transport is considered one of the fastest?",
+        "choices": [
+            "Roadways",
+            "Railways",
+            "Waterways",
+            "Airways"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Flights operating within a country are known as:",
+        "choices": [
+            "International Flights",
+            "Domestic Flights",
+            "Local Flights",
+            "Regional Flights"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The first domestic flight in India began in:",
+        "choices": [
+            "1901",
+            "1911",
+            "1921",
+            "1931"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The first domestic flight carried postal mail from Allahabad to:",
+        "choices": [
+            "Kanpur",
+            "Varanasi",
+            "Naini Junction",
+            "Lucknow"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was the first Indian aircraft pilot to fly from England to Karachi?",
+        "choices": [
+            "JRD Tata",
+            "Manmohan Singh",
+            "Indira Gandhi",
+            "Subhas Chandra Bose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which year was JRD Tata awarded a license to fly as a pilot?",
+        "choices": [
+            "1922",
+            "1932",
+            "1942",
+            "1952"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "India's first airline was launched by:",
+        "choices": [
+            "Indira Gandhi",
+            "JRD Tata",
+            "Manmohan Singh",
+            "Subhas Chandra Bose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the name of India's first airline?",
+        "choices": [
+            "Air India",
+            "Tata Airlines",
+            "Indian Airlines",
+            "Jet Airways"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which year was the name of Tata Airlines changed to Air India?",
+        "choices": [
+            "1936",
+            "1946",
+            "1956",
+            "1966"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which airport is the busiest in the world?",
+        "choices": [
+            "Indira Gandhi International Airport",
+            "Chhatrapati Shivaji Maharaj International Airport",
+            "Hartsfield-Jackson Atlanta International Airport",
+            "Netaji Subhas Chandra Bose International Airport"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an important international airport in Delhi?",
+        "choices": [
+            "Chhatrapati Shivaji Maharaj International Airport",
+            "Netaji Subhas Chandra Bose International Airport",
+            "Indira Gandhi International Airport",
+            "Chennai International Airport"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which mode of transport is the fastest and most comfortable, though costly?",
+        "choices": [
+            "Railways",
+            "Roadways",
+            "Waterways",
+            "Airways"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are the East-West and North-South Corridors connecting?",
+        "choices": [
+            "Delhi to Mumbai",
+            "Silchar to Porbandar and Srinagar to Kanyakumari",
+            "Kolkata to Chennai",
+            "Bangalore to Hyderabad"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Roads that pass through many countries are known as what?",
+        "choices": [
+            "National Highways",
+            "State Highways",
+            "International Highways",
+            "Expressways"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In what year were railways first introduced in India?",
+        "choices": [
+            "1835",
+            "1853",
+            "1883",
+            "1900"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Between which two cities did the first train in India run?",
+        "choices": [
+            "Delhi and Mumbai",
+            "Chennai and Kolkata",
+            "Thane and Bombay",
+            "Delhi and Kolkata"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which country has the longest railway network?",
+        "choices": [
+            "China",
+            "Russia",
+            "India",
+            "America"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is India's ranking in terms of the largest rail network in the world?",
+        "choices": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the longest train route in the world?",
+        "choices": [
+            "Trans-American Railway",
+            "Trans-Siberian Railway",
+            "Trans-European Railway",
+            "Trans-African Railway"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "From which city does the Trans-Siberian railway run?",
+        "choices": [
+            "Tokyo",
+            "Berlin",
+            "Moscow",
+            "Vladivostok"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Approximately how long is the Trans-Siberian railway route?",
+        "choices": [
+            "4200 km",
+            "6200 km",
+            "9200 km",
+            "12200 km"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which type of train is the Shanghai Maglev Train?",
+        "choices": [
+            "Steam Train",
+            "Diesel Train",
+            "Bullet Train",
+            "Freight Train"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of trains have replaced steam engines in India?",
+        "choices": [
+            "Coal and Oil",
+            "Electric and Diesel",
+            "Gas and Petrol",
+            "Solar and Wind"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is Maglev train system based on?",
+        "choices": [
+            "Electric Motor",
+            "Diesel Engine",
+            "Steam Engine",
+            "Magnets"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which countries have introduced super fast trains that run at 400 km per hour?",
+        "choices": [
+            "China and Russia",
+            "Japan and Germany",
+            "Japan and France",
+            "India and Brazil"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Name any cities where The Metro has been introduced.",
+        "choices": [
+            "Delhi",
+            "Kolkata",
+            "Bengaluru",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Where is the TGV train located?",
+        "choices": [
+            "Japan",
+            "France",
+            "China",
+            "Germany"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What are the two main types of roads found in India?",
+        "choices": [
+            "Highways and Expressways",
+            "National Highways and State Highways",
+            "Kutcha roads and Pucca roads",
+            "Metalled and Unmetalled roads"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are kutcha roads primarily made of?",
+        "choices": [
+            "Concrete",
+            "Hardened mud",
+            "Asphalt",
+            "Gravel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do kutcha roads typically connect?",
+        "choices": [
+            "Cities",
+            "Towns",
+            "Villages",
+            "Metropolitan cities"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are broader roads that connect cities with four to six lanes for traffic called?",
+        "choices": [
+            "Village roads",
+            "Highways and expressways",
+            "National Highways",
+            "State Highways"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of roads are National Highways and State Highways?",
+        "choices": [
+            "Only link cities within a state",
+            "Exist only in northern India",
+            "Exist throughout the country",
+            "Are usually unmetalled"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the road that links Kolkata in India to Peshawar?",
+        "choices": [
+            "National Highway 1",
+            "Golden Quadrilateral",
+            "Grand Trunk Road",
+            "Super Highway"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who built the Grand Trunk Road?",
+        "choices": [
+            "Akbar",
+            "Shah Jahan",
+            "Sher Shah Suri",
+            "Aurangzeb"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which four nations were connected by the Grand Trunk Road?",
+        "choices": [
+            "India, Pakistan, Afghanistan, Nepal",
+            "India, China, Pakistan, Bangladesh",
+            "Chittagong, India, Pakistan, Kabul",
+            "Bangladesh, Myanmar, India, Pakistan"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the organization responsible for building and maintaining National Highways in India?",
+        "choices": [
+            "Indian Road Construction Company",
+            "National Highway Authority",
+            "Central Public Works Department",
+            "Ministry of Transport"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which metropolitan cities are connected by the Super Highways?",
+        "choices": [
+            "Delhi, Mumbai, Kolkata, Hyderabad",
+            "Delhi, Mumbai, Chennai, Bangalore",
+            "Delhi, Mumbai, Kolkata, Chennai",
+            "Delhi, Chennai, Kolkata, Bangalore"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the Super Highway connecting Delhi, Mumbai, Kolkata, and Chennai also known as?",
+        "choices": [
+            "Diamond Highway",
+            "Silver Quadrilateral",
+            "Golden Quadrilateral",
+            "Platinum Triangle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary reason for naming the Super Highway connecting the four metropolitan cities as Golden Quadrilateral?",
+        "choices": [
+            "The road surface is gold in color",
+            "The road network forms a quadrilateral shape",
+            "The road is very expensive to build",
+            "The road is only used by high-end vehicles"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What road numbers does the Grand Trunk Road coincide with today?",
+        "choices": [
+            "NH 2 and NH 8",
+            "NH 1 and NH 5",
+            "NH 19 and NH 44",
+            "NH 10 and NH 48"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where does NH 19 join NH 44?",
+        "choices": [
+            "Delhi",
+            "Mumbai",
+            "Agra",
+            "Kolkata"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are roads made up of hardened mud by constant use called?",
+        "choices": [
+            "Pucca Roads",
+            "Highways",
+            "Kutcha Roads",
+            "Expressways"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is defined as a system for carrying people and goods by various means?",
+        "choices": [
+            "Communication",
+            "Transport",
+            "Infrastructure",
+            "Technology"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The story of transport begins with the invention of what?",
+        "choices": [
+            "The airplane",
+            "The wheel",
+            "The car",
+            "The ship"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Before the invention of the wheel, how did humans travel?",
+        "choices": [
+            "By animal",
+            "By cart",
+            "On foot",
+            "By ship"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did humans make after the wheel was invented?",
+        "choices": [
+            "Bicycles",
+            "Cars",
+            "Carts",
+            "Airplanes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Why do we need an efficient transport system?",
+        "choices": [
+            "To travel all over the country and the world",
+            "To deliver raw materials to factories",
+            "To carry manufactured goods from factories to markets",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Where do we need transport to deliver raw materials?",
+        "choices": [
+            "Schools",
+            "Factories",
+            "Hospitals",
+            "Markets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where do we carry manufactured goods from factories?",
+        "choices": [
+            "Markets",
+            "Schools",
+            "Hospitals",
+            "Factories"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Bridge of Americas is built across which canal?",
+        "choices": [
+            "Suez Canal",
+            "Panama Canal",
+            "Erie Canal",
+            "Corinth Canal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Bridge of Americas connects which two landmasses?",
+        "choices": [
+            "Asia and Africa",
+            "North and South America",
+            "Europe and Asia",
+            "Australia and Antarctica"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Bridge of Americas connects North and South America across which Canal?",
+        "choices": [
+            "Suez",
+            "Panama",
+            "Erie",
+            "Corinth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should learners be able to do with the learning objectives listed?",
+        "choices": [
+            "Learn about the various means of transport in India and the world",
+            "Name the different roadways system of India",
+            "Understand the significance of different modes of transport",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is NOT a listed learning objective?",
+        "choices": [
+            "Learn about the various means of transport in India and the world",
+            "Name the different roadways system of India",
+            "Learn the history of the wheel",
+            "Understand the significance of different modes of transport"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of routes are we suppose to get familiar with?",
+        "choices": [
+            "Sea",
+            "Road",
+            "Air",
+            "Both Sea and Road"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In addition to Airports and Sea Routes, Which of the following routes we will get familiar with?",
+        "choices": [
+            "Mountain Routes",
+            "Road Routes",
+            "Jungle Routes",
+            "Desert Routes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one thing the learners will learn about from the learning objectives?",
+        "choices": [
+            "Famous international airports",
+            "The capital of India",
+            "The planets in the solar system",
+            "The history of the wheel"
+        ],
+        "correctAnswer": 0
+    }
+]
