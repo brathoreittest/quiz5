@@ -1,0 +1,2100 @@
+[
+  {
+      "question": "The place where a particular animal lives, eats, grows and reproduces is called:",
+      "choices": [
+          "Desert",
+          "Habitat",
+          "Forest",
+          "Mountain"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Special skills developed by animals to survive are called:",
+      "choices": [
+          "Habits",
+          "Adaptations",
+          "Needs",
+          "Instincts"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Animals that live on land as well as in water are called:",
+      "choices": [
+          "Mammals",
+          "Reptiles",
+          "Amphibians",
+          "Birds"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Breathing organs in fish are:",
+      "choices": [
+          "Lungs",
+          "Skin",
+          "Gills",
+          "Spiracles"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The fin of fish used to change direction is the:",
+      "choices": [
+          "Dorsal fin",
+          "Pectoral fin",
+          "Pelvic fin",
+          "Tail fin"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Frogs breathe in water through:",
+      "choices": [
+          "Skin",
+          "Gills",
+          "Lungs",
+          "Pores"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Snakes move on the ground with the help of:",
+      "choices": [
+          "Scales",
+          "Long limbs",
+          "Short limbs",
+          "Body segments"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Rats eat food by:",
+      "choices": [
+          "Gnawing",
+          "Chewing",
+          "Swallowing",
+          "Tearing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Insects breathe through:",
+      "choices": [
+          "Lungs",
+          "Gills",
+          "Spiracles",
+          "Nose"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A _______ curls up its body when attacked.",
+      "choices": [
+          "Cheetah",
+          "Pangolin",
+          "Butterfly",
+          "Insect"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A butterfly feeds on nectar with the help of its:",
+      "choices": [
+          "Teeth",
+          "Claws",
+          "Proboscis",
+          "Tongue"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A cheetah has a _______ sense of smell.",
+      "choices": [
+          "Weak",
+          "Average",
+          "Strong",
+          "Poor"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following features is an adaptation for survival in the desert?",
+      "choices": [
+          "Thick fur",
+          "Webbed feet",
+          "Ability to store water",
+          "Bright colors"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following describes an adaptation of some plants to survive in a very dry climate?",
+      "choices": [
+          "Broad leaves",
+          "Shallow roots",
+          "Waxy coating on leaves",
+          "Brightly colored flowers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following adaptations helps a polar bear survive in cold temperatures?",
+      "choices": [
+          "Camouflage coloring",
+          "Sharp teeth",
+          "Long neck",
+          "Thick fur"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the place where animals live, feed and reproduce called?",
+      "choices": [
+          "Home",
+          "Den",
+          "Habitat",
+          "Nest"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Animals have adaptations for which of the following?",
+      "choices": [
+          "Breathing",
+          "Movement",
+          "Feeding and Protection",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the purpose of migration for some animals?",
+      "choices": [
+          "To find mates",
+          "To explore new territories",
+          "To avoid harsh conditions and for breeding",
+          "To learn new skills"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is referred to as 'special features according to the environmental conditions of the habitat'?",
+      "choices": [
+          "Migration",
+          "Adaptations",
+          "Habitat",
+          "Hibernation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals use lungs for breathing?",
+      "choices": [
+          "Fish",
+          "Amoeba",
+          "Lizards",
+          "Bees"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following animals breathe through gills?",
+      "choices": [
+          "Fish",
+          "Frog",
+          "Lizards",
+          "Bees"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following animals uses trachea for breathing?",
+      "choices": [
+          "Fish",
+          "Amoeba",
+          "Lizards",
+          "Cockroaches"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following breathe through lungs as well as skin?",
+      "choices": [
+          "Fish",
+          "Frog",
+          "Lizards",
+          "Cockroaches"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of land animal adaptation for movement?",
+      "choices": [
+          "Locust",
+          "Cheetah",
+          "Crocodile",
+          "Grasshopper"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following is an example of reptiles adaptation for movement?",
+      "choices": [
+          "Locust",
+          "Cheetah",
+          "Crocodile",
+          "Grasshopper"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of insects adaptation for movement?",
+      "choices": [
+          "Locust",
+          "Cheetah",
+          "Crocodile",
+          "Horse"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of adaptation for feeding in herbivores?",
+      "choices": [
+          "Cow",
+          "Lion",
+          "Eagle",
+          "Butterfly"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of adaptation for feeding in carnivores?",
+      "choices": [
+          "Cow",
+          "Deer",
+          "Lion",
+          "Butterfly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is an example of adaptation for feeding in omnivores?",
+      "choices": [
+          "Cow",
+          "Deer",
+          "Lion",
+          "Hen"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the adaptation for protection known as when animals change body color?",
+      "choices": [
+          "Poisonous Stings",
+          "Fangs",
+          "Camouflage",
+          "Migration"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In which month do Spotted sandpipers visit India?",
+      "choices": [
+          "April",
+          "August",
+          "September",
+          "October"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "From where do Rosy pastors visit India?",
+      "choices": [
+          "Europe and Northern Asia",
+          "Eastern Europe and Central Western Asia",
+          "Central Asia and Tibet",
+          "South America"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "When do Brown-headed gulls return home?",
+      "choices": [
+          "August",
+          "September",
+          "October",
+          "April"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How do birds navigate like sailors?",
+      "choices": [
+          "Using maps",
+          "Using the sun, the moon, and the stars",
+          "Using GPS",
+          "By following other birds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do birds have in their brain for direction?",
+      "choices": [
+          "GPS",
+          "A map",
+          "Compass",
+          "A magnet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animals travel in search of food each winter?",
+      "choices": [
+          "Birds",
+          "Bats and whales",
+          "Fish",
+          "Insects"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does an eel spend its life till adulthood?",
+      "choices": [
+          "Sea",
+          "Freshwater",
+          "Saltwater",
+          "Ocean"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does an eel migrate to breed?",
+      "choices": [
+          "River",
+          "Sargasso Sea",
+          "Lake",
+          "Pond"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does a salmon migrate to lay eggs?",
+      "choices": [
+          "River",
+          "Ocean",
+          "Sea",
+          "Pond"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What happens to young salmons after they hatch?",
+      "choices": [
+          "They stay in the river",
+          "They return to the sea",
+          "They migrate to another river",
+          "They die"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How long does it take for young salmons to become adult?",
+      "choices": [
+          "One year",
+          "Two years",
+          "Three years",
+          "Four years"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the adult salmon do when mature?",
+      "choices": [
+          "It stays in the sea",
+          "It migrates to another ocean",
+          "It returns to its birthplace to spawn",
+          "It dies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following birds visit India in the month of September?",
+      "choices": [
+          "Rosy pastors",
+          "Spotted sandpipers",
+          "Both a and b",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animal migrates to the river to lay eggs?",
+      "choices": [
+          "Eel",
+          "Salmon",
+          "Whale",
+          "Bat"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where do salmons grow and mature?",
+      "choices": [
+          "River",
+          "Pond",
+          "Lake",
+          "Ocean"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which bird visits India in the month of September?",
+      "choices": [
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork",
+          "Brown-headed Gull"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "When do White Storks return home?",
+      "choices": [
+          "August",
+          "April",
+          "January",
+          "November"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "From where do White Storks migrate to India?",
+      "choices": [
+          "East Asia",
+          "South America",
+          "West Asia and Central Europe",
+          "Australia"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following is a migratory bird?",
+      "choices": [
+          "Pigeon",
+          "Sparrow",
+          "Rosy Pastor",
+          "Crow"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Based on the image, which bird migrates from Europe?",
+      "choices": [
+          "Brown-headed Gull",
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Based on the image, which bird has a migration route that passes through Central Asia?",
+      "choices": [
+          "Brown-headed Gull",
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Based on the image, which bird has a migration route that follows towards the west coast of India?",
+      "choices": [
+          "Brown-headed Gull",
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Based on the image, which bird has a migration route that follows towards the east coast of India?",
+      "choices": [
+          "Brown-headed Gull",
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which color is used to represent the migration route of the White Stork in the given image?",
+      "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Purple"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which color is used to represent the migration route of the Spotted Sandpiper in the given image?",
+      "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Purple"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which color is used to represent the migration route of the Rosy pastor in the given image?",
+      "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Purple"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which color is used to represent the migration route of the Brown-headed gull in the given image?",
+      "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Purple"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Based on the image, which bird follows an almost direct South East route?",
+      "choices": [
+          "Brown-headed Gull",
+          "Spotted Sandpiper",
+          "Rosy Pastor",
+          "White Stork"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Based on the image, which of these continents do some birds seem to migrate from?",
+      "choices": [
+          "Africa",
+          "South America",
+          "Europe",
+          "Australia"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the theme of the illustration?",
+      "choices": [
+          "Types of Plants",
+          "Routes of some migratory birds",
+          "Historical Monuments",
+          "Ocean Life"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do cuttlefish and octopus release when attacked?",
+      "choices": [
+          "A cloud of smoke",
+          "A cloud of black ink-like substance",
+          "A loud noise",
+          "Poison"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do cuttlefish and octopus release the black ink-like substance?",
+      "choices": [
+          "To attract other predators",
+          "To create confusion for the predator",
+          "To mark their territory",
+          "To escape into darkness"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps grasshoppers conceal themselves in their surroundings?",
+      "choices": [
+          "Their large size",
+          "Their body colour",
+          "Their loud noises",
+          "Their fast speed"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What ability helps a chameleon become unnoticeable to its enemies?",
+      "choices": [
+          "Camouflage",
+          "Hibernation",
+          "Migration",
+          "Mimicry"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the particular skill called when an animal blends into the environment?",
+      "choices": [
+          "Migration",
+          "Camouflage",
+          "Adaptation",
+          "Hibernation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Why do animals sometimes move out to places far away from their habitats?",
+      "choices": [
+          "To find food",
+          "To find water",
+          "To find favourable conditions of temperature or breeding",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the movement of animals far away from their habitats called?",
+      "choices": [
+          "Hibernation",
+          "Camouflage",
+          "Migration",
+          "Adaptation"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How do animals migrate?",
+      "choices": [
+          "Flying",
+          "Swimming",
+          "Walking",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What kind of migrants are birds?",
+      "choices": [
+          "One-way migrants",
+          "Two-way migrants",
+          "Non-migrants",
+          "Short-distance migrants"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How often do true migrant birds make a two-way journey?",
+      "choices": [
+          "Every month",
+          "Every week",
+          "Every year",
+          "Every day"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why do some birds travel in large flocks?",
+      "choices": [
+          "To take care of any member of the group",
+          "To travel faster",
+          "To scare away predators",
+          "To find more food"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which type of birds fly in noisy V-shaped groups?",
+      "choices": [
+          "Eagles",
+          "Owls",
+          "Geese",
+          "Penguins"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the word camouflage mean?",
+      "choices": [
+          "The ability to blend with the environment due to colour",
+          "Seasonal movement from one place to another",
+          "Gliding",
+          "Ability to fly faster"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the word migration mean?",
+      "choices": [
+          "Ability to blend with the environment due to colour",
+          "Seasonal movement from one place to another",
+          "Gliding",
+          "Ability to fly faster"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the word slithering mean?",
+      "choices": [
+          "Ability to blend with the environment due to colour",
+          "Seasonal movement from one place to another",
+          "Gliding",
+          "Ability to fly faster"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do frogs primarily feed on?",
+      "choices": [
+          "Leaves",
+          "Flies, beetles, and small worms",
+          "Seeds",
+          "Fish"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is unique about a frog's tongue?",
+      "choices": [
+          "It is very long",
+          "It is folded on the floor of its mouth and sticky",
+          "It is used for tasting",
+          "It is green"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the primary function of the teeth in the upper jaw of a frog?",
+      "choices": [
+          "To chew food",
+          "To bite its food",
+          "To prevent prey from escaping",
+          "To taste food"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do scorpions, bees, and wasps have that releases poison?",
+      "choices": [
+          "Fangs",
+          "Stings",
+          "Claws",
+          "Horns"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the poisonous teeth of some snakes called?",
+      "choices": [
+          "Stingers",
+          "Fangs",
+          "Claws",
+          "Antennae"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do some animals like beetles do to trick their enemies?",
+      "choices": [
+          "Play dead",
+          "Run away",
+          "Hide",
+          "Make loud noises"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What happens to a house lizard when attacked?",
+      "choices": [
+          "It hisses loudly",
+          "It breaks off its tail",
+          "It sprays poison",
+          "It runs very fast"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do millipedes and pangolins do when attacked?",
+      "choices": [
+          "Spit venom",
+          "Curl up their bodies",
+          "Fly away",
+          "Grow larger"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of frogs having a sticky tongue?",
+      "choices": [
+          "To attract mates",
+          "To defend themselves",
+          "To catch their prey",
+          "To camouflage"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What happens to the tail of a house lizard after it breaks off?",
+      "choices": [
+          "It grows into a new lizard",
+          "It turns into a venomous stinger",
+          "It continues to move itself while the lizard escapes, and the lizard grows a new tail later",
+          "It disappears"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why do animals develop skills for protection?",
+      "choices": [
+          "To attract mates",
+          "To build nests",
+          "To protect themselves from their predators",
+          "To find food"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do snakes inject into the body of their predators when attacked?",
+      "choices": [
+          "Water",
+          "Venom",
+          "Air",
+          "Blood"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where is the tongue of a frog folded?",
+      "choices": [
+          "On its back",
+          "On the floor of its mouth",
+          "Inside its stomach",
+          "On its head"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the advantage of millipedes and pangolins curling up?",
+      "choices": [
+          "To make them faster",
+          "To pretend a different body shape",
+          "To blend in with their surroundings",
+          "To make them stronger"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is adaptation for protection?",
+      "choices": [
+          "Eating habits",
+          "Hunting skills",
+          "Skills to protect from predators",
+          "Migration patterns"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the hunting strategy of a lion?",
+      "choices": [
+          "Attacking prey directly",
+          "Creeping towards prey unnoticed",
+          "Chasing prey from a distance",
+          "Using camouflage to blend in"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps a lion run fast?",
+      "choices": [
+          "Lightweight bones",
+          "Streamlined body",
+          "Strong leg muscles",
+          "Large paws"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Carnivores have sharp canines for what purpose?",
+      "choices": [
+          "Digging",
+          "Tearing flesh",
+          "Crushing bones",
+          "Grasping prey"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Besides sharp canines and claws, what other strong sense do carnivores possess?",
+      "choices": [
+          "Sense of hearing",
+          "Sense of smell",
+          "Sense of taste",
+          "Sense of touch"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals is NOT an example of a carnivore?",
+      "choices": [
+          "Cheetah",
+          "Tiger",
+          "Leopard",
+          "Hen"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What kind of bird is an eagle?",
+      "choices": [
+          "Herbivorous",
+          "Omnivorous",
+          "Carnivorous",
+          "Insectivorous"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does an eagle use to catch its prey?",
+      "choices": [
+          "Sharp teeth",
+          "Long neck",
+          "Strong feet and pointed claws",
+          "Camouflage"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of beak does an eagle have to tear off the flesh?",
+      "choices": [
+          "Short and blunt beak",
+          "Long and thin beak",
+          "Sharp and curved beak",
+          "Straight beak"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do omnivores eat?",
+      "choices": [
+          "Only plants",
+          "Only flesh of other animals",
+          "Both plants and flesh of other animals",
+          "Only insects"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Are hens omnivores?",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is a feature of jaws or beaks of omnivores?",
+      "choices": [
+          "Only swallow the animal",
+          "Swallow the whole animal",
+          "Eat seeds and worms",
+          "Have special features to tear and rip flesh or swallow the whole animal."
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What kind of mouthparts do butterflies have?",
+      "choices": [
+          "Chewing",
+          "Piercing",
+          "Sucking",
+          "Tearing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the long sucking tube of a butterfly called?",
+      "choices": [
+          "Stinger",
+          "Proboscis",
+          "Antenna",
+          "Mandible"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do butterflies use their proboscis for?",
+      "choices": [
+          "Sucking blood",
+          "Sucking nectar",
+          "Piercing skin",
+          "Tearing leaves"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Where does the proboscis of a butterfly stay when not in use?",
+      "choices": [
+          "Inside its body",
+          "Coiled below the head",
+          "Attached to a flower",
+          "Inside its wings"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do animals need food for?",
+      "choices": [
+          "To play games",
+          "To grow and get energy",
+          "To stay in one place",
+          "To stay inside always"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What are the three groups animals are classified into based on their feeding habits?",
+      "choices": [
+          "Producers, Consumers, Decomposers",
+          "Herbivores, Carnivores, Omnivores",
+          "Mammals, Birds, Reptiles",
+          "Plants, Animals, Fungi"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do herbivores eat?",
+      "choices": [
+          "Only meat",
+          "Only plants",
+          "Both plants and meat",
+          "Only fruits"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which of the following animals is NOT a herbivore?",
+      "choices": [
+          "Cow",
+          "Deer",
+          "Sheep",
+          "Lion"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What type of teeth do herbivores have to cut grass and leaves?",
+      "choices": [
+          "Molars",
+          "Canines",
+          "Incisors",
+          "Premolars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What helps herbivores to break down plant material that is eaten by them?",
+      "choices": [
+          "Small intestine",
+          "Long alimentary canal",
+          "Liver",
+          "Heart"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of beak does a parrot have?",
+      "choices": [
+          "Flat and wide",
+          "Curved, pointed and strong",
+          "Long and thin",
+          "Short and blunt"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do parrots eat?",
+      "choices": [
+          "Meat",
+          "Insects",
+          "Fruits and nuts",
+          "Grains"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are rats, mice, rabbits, and moles called?",
+      "choices": [
+          "Mammals",
+          "Rodents",
+          "Birds",
+          "Reptiles"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do rodents eat?",
+      "choices": [
+          "Only meat",
+          "Seeds and fruits",
+          "Only plants",
+          "Grass and leaves"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What type of teeth help rodents to gnaw the food?",
+      "choices": [
+          "Molars",
+          "Canines",
+          "Incisors",
+          "Premolars"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do carnivores eat?",
+      "choices": [
+          "Plants",
+          "Meat",
+          "Fruits",
+          "Seeds"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a carnivore also known as?",
+      "choices": [
+          "Prey",
+          "Producer",
+          "Predator",
+          "Herbivore"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does the word 'gnaw' mean?",
+      "choices": [
+          "Eating large bites",
+          "Having small quick bites",
+          "Swallowing food whole",
+          "Chewing slowly"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is an alimentary canal?",
+      "choices": [
+          "The body's waste removal system",
+          "A food canal",
+          "The body's main transport system",
+          "The body's breathing system"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What covers the wings of birds?",
+      "choices": [
+          "Scales",
+          "Fur",
+          "Feathers",
+          "Skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Wings of birds are modified:",
+      "choices": [
+          "Hindlimbs",
+          "Forelimbs",
+          "Flippers",
+          "Scales"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Birds move their wings in which directions to fly?",
+      "choices": [
+          "Upwards and forwards",
+          "Sideways",
+          "Downwards and backwards",
+          "Only Downwards"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What helps birds change direction in flight?",
+      "choices": [
+          "Wings",
+          "Tail",
+          "Legs",
+          "Beak"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What helps birds in landing?",
+      "choices": [
+          "Tail feathers",
+          "Hindlimbs",
+          "Tail feathers and hindlimbs",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of bones do birds have?",
+      "choices": [
+          "Solid and heavy",
+          "Hollow and light",
+          "Thick and strong",
+          "Flexible and soft"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What fills the bones of birds?",
+      "choices": [
+          "Water",
+          "Blood",
+          "Air",
+          "Marrow"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following birds is flightless?",
+      "choices": [
+          "Sparrow",
+          "Eagle",
+          "Emu",
+          "Pigeon"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why can't flightless birds fly?",
+      "choices": [
+          "They don't have wings",
+          "Their bodies are light",
+          "Their bodies are heavy and wings are weak",
+          "They don't want to fly"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How do flightless birds move fast?",
+      "choices": [
+          "Using their wings",
+          "With the help of their strong legs",
+          "By jumping",
+          "By crawling"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Amoeba breathes through:",
+      "choices": [
+          "Gills",
+          "Lungs",
+          "Body surface",
+          "Spiracles"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Insects breathe through:",
+      "choices": [
+          "Gills",
+          "Spiracles",
+          "Lungs",
+          "Body Surface"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Paramecium moves with the help of:",
+      "choices": [
+          "Legs",
+          "Wings",
+          "Cilia",
+          "Flippers"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Turtles swim with the help of:",
+      "choices": [
+          "Legs",
+          "Flippers",
+          "Cilia",
+          "Paddles"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "An Emu is a ______ bird:",
+      "choices": [
+          "Flying",
+          "Swimming",
+          "Flightless",
+          "Running"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many pairs of legs do insects have?",
+      "choices": [
+          "Two",
+          "Three",
+          "Four",
+          "Six"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which part of the body do aquatic animals like Paramecium use for movement?",
+      "choices": [
+          "Fins",
+          "Legs",
+          "Cilia",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do fishes use for movement?",
+      "choices": [
+          "Legs",
+          "Flippers",
+          "Fins",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the tail fin used for in fishes?",
+      "choices": [
+          "Maintaining balance",
+          "Changing direction while swimming",
+          "Moving forward",
+          "Catching food"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do turtles use to push the water and move forwards?",
+      "choices": [
+          "Fins",
+          "Webbed-feet",
+          "Paddle-like forelimbs and hindlimbs",
+          "Tail"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do penguins use as flippers to swim in water?",
+      "choices": [
+          "Hindlimbs",
+          "Forelimbs",
+          "Webbed-feet",
+          "Paddle-like limbs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do frogs use to swim in water?",
+      "choices": [
+          "Fins",
+          "Paddle-like limbs",
+          "Webbed-feet",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What do ducks and swans use to swim in water?",
+      "choices": [
+          "Fins",
+          "Paddle-like limbs",
+          "Webbed-feet",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What kind of limbs do Flamingo, crane and heron have to wade in water?",
+      "choices": [
+          "Short limbs",
+          "Long wading limbs",
+          "Flippers",
+          "Paddle-like limbs"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do aerial or flying animals like butterflies use to fly?",
+      "choices": [
+          "Fins",
+          "Legs",
+          "Wings",
+          "Webbed-feet"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these animals hop with strong hindlimbs?",
+      "choices": [
+          "Ant",
+          "Cockroach",
+          "Locusts",
+          "Paramecium"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which body part are used to help them in maintaining balance?",
+      "choices": [
+          "paired fins",
+          "unpaired fins",
+          "tail fin",
+          "Both b and c"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is an insect?",
+      "choices": [
+          "Fish",
+          "Paramecium",
+          "Ant",
+          "Penguin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animal uses their forelimbs as flippers?",
+      "choices": [
+          "Duck",
+          "Fish",
+          "Penguin",
+          "Turtle"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which group of animal uses wings?",
+      "choices": [
+          "Insects",
+          "Aquatic animals",
+          "Aerial animals",
+          "Locusts"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Insects like grasshoppers breathe through:",
+      "choices": [
+          "Gills",
+          "Lungs",
+          "Trachea",
+          "Skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are the small air holes on the sides of an insect's abdomen called?",
+      "choices": [
+          "Lungs",
+          "Spiracles",
+          "Trachea",
+          "Gills"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Each spiracle leads to a thin tube called:",
+      "choices": [
+          "Lungs",
+          "Abdomen",
+          "Trachea",
+          "Skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What does trachea deliver to the tissues of the body?",
+      "choices": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Water"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is released into the environment through the spiracles?",
+      "choices": [
+          "Oxygen",
+          "Water",
+          "Carbon dioxide",
+          "Nitrogen"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Animals move from one place to another in search of:",
+      "choices": [
+          "Food",
+          "Shelter",
+          "Both Food and Shelter",
+          "Water"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Animals move from one place to another in search of:",
+      "choices": [
+          "Food",
+          "Shelter",
+          "Both Food and Shelter",
+          "Water"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Most land animals have how many limbs?",
+      "choices": [
+          "Two",
+          "Four",
+          "Six",
+          "Eight"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The limbs of land animals are called:",
+      "choices": [
+          "Arms and Legs",
+          "Forelimbs and Hindlimbs",
+          "Flippers and Wings",
+          "Hands and Feet"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which animals have long legs and a flexible backbone to increase the length of their stride?",
+      "choices": [
+          "Kangaroos",
+          "Cheetah and Horse",
+          "Lizards",
+          "Snakes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which land animal moves by jumping?",
+      "choices": [
+          "Cheetah",
+          "Horse",
+          "Kangaroo",
+          "Snake"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which animals have highly developed hindlimbs with extra large muscles?",
+      "choices": [
+          "Cheetah",
+          "Horse",
+          "Kangaroos",
+          "Snakes"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Reptiles like lizards, crocodiles and tortoises crawl with the help of their:",
+      "choices": [
+          "Scales",
+          "Short legs",
+          "Long legs",
+          "Flippers"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Snakes crawl with the help of:",
+      "choices": [
+          "Legs",
+          "Flippers",
+          "Plates and scales",
+          "Wings"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Snakes crawl with the help of plates and scales attached to the:",
+      "choices": [
+          "Backside of their bodies",
+          "Sides of their bodies",
+          "Underside of their bodies",
+          "Top of their bodies"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What are special features that develop according to environmental conditions called?",
+      "choices": [
+          "Habitats",
+          "Adaptations",
+          "Breathing",
+          "Survival Skills"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What gas do all animals need to survive?",
+      "choices": [
+          "Carbon Dioxide",
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What gas do animals give out when they breathe?",
+      "choices": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of the following microbes does NOT need a special organ for breathing?",
+      "choices": [
+          "Bacteria",
+          "Amoeba",
+          "Paramecium",
+          "All of the above"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "How do microbes like bacteria, Amoeba, and Paramecium breathe?",
+      "choices": [
+          "Through lungs",
+          "Through gills",
+          "Through body surface",
+          "Through skin"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Land animals like horses, dogs, and lions use what organ for breathing?",
+      "choices": [
+          "Gills",
+          "Lungs",
+          "Skin",
+          "Body Surface"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Lizards, birds, rats and rabbits breathe through?",
+      "choices": [
+          "Gills",
+          "Skin",
+          "Lungs",
+          "Body Surface"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "The lungs are richly supplied with?",
+      "choices": [
+          "Blood vessels",
+          "Gills",
+          "Skin",
+          "Nerves"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the lungs, oxygen from the inhaled air is taken by?",
+      "choices": [
+          "Gills",
+          "Skin",
+          "Blood",
+          "Nerves"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Aquatic animals like fish breathe through?",
+      "choices": [
+          "Lungs",
+          "Gills",
+          "Skin",
+          "Body Surface"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is a typical gill consist of?",
+      "choices": [
+          "A stack of thin flaps connected to the animal's blood supply",
+          "A stack of thick flaps connected to the animal's blood supply",
+          "A stack of thin flaps connected to the animal's nerve supply",
+          "A stack of thick flaps connected to the animal's nerve supply"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Amphibians like frogs breathe through lungs when?",
+      "choices": [
+          "When on land",
+          "When in water",
+          "When underground",
+          "When flying"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Amphibians like frogs breathe through skin when?",
+      "choices": [
+          "When on land",
+          "When in water",
+          "When underground",
+          "When flying"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does Inhale mean?",
+      "choices": [
+          "Breathe in air",
+          "Breathe out air",
+          "Animals that live both on land and in water",
+          "None of the above"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does Exhale mean?",
+      "choices": [
+          "Breathe in air",
+          "Breathe out air",
+          "Animals that live both on land and in water",
+          "None of the above"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the place where an animal lives, eats, grows and reproduces called?",
+      "choices": [
+          "Home",
+          "Habitat",
+          "Den",
+          "Environment"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What do animals develop to get food, breathe, and protect themselves?",
+      "choices": [
+          "Special features and skills",
+          "Friends",
+          "Nests",
+          "Clothes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the focus of the chapter?",
+      "choices": [
+          "Plant life",
+          "Animal habitats",
+          "Animals and Their Varying Lifestyle",
+          "Human behavior"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the main topic of the chapter?",
+      "choices": [
+          "Adaptations of animals",
+          "Breathing techniques of animals",
+          "The life cycle of plants",
+          "The solar system"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is NOT mentioned as a learning outcome for this chapter?",
+      "choices": [
+          "Understand adaptations in animals",
+          "Know adaptations for breathing",
+          "Define migration",
+          "Build a birdhouse"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of the following is NOT mentioned in the learning outcomes?",
+      "choices": [
+          "Movement",
+          "Feeding",
+          "Protection",
+          "Resting"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which of these is a skill listed under '21st Century Skills'?",
+      "choices": [
+          "Cooking",
+          "Critical Thinking",
+          "Gardening",
+          "Singing"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the chapter aim to help readers understand about adaptations?",
+      "choices": [
+          "How humans use animal adaptations.",
+          "The physical adaptations of animals.",
+          "How animals adapt to their environment.",
+          "The importance of protecting animal habitats."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is a key focus of animal adaptations?",
+      "choices": [
+          "To survive in their environments.",
+          "To become domesticated.",
+          "To perform tricks for humans.",
+          "To find the easiest source of food."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is an example of an animal adaptation to obtain food?",
+      "choices": [
+          "A bird's migration patterns.",
+          "A fish's sharp teeth.",
+          "A squirrel's thick fur coat.",
+          "A chameleon's camouflage."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Adaptations help animals to protect themselves from which of the following?",
+      "choices": [
+          "Rain",
+          "Heat, cold, and predators",
+          "Sunshine",
+          "Wind"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What does the word 'habitat' refer to?",
+      "choices": [
+          "A type of bird's nest.",
+          "The place where an animal lives.",
+          "A group of animals living together.",
+          "The way animals communicate."
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What can animals develop to protect themselves?",
+      "choices": [
+          "Special toys",
+          "Special features and skills",
+          "Bigger bodies",
+          "Louder voices"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What kind of skills are developed in this chapter?",
+      "choices": [
+          "Computer skills",
+          "Musical skills",
+          "Life Skills",
+          "Driving skills"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Why is it important for animals to adapt?",
+      "choices": [
+          "To attract mates",
+          "To survive",
+          "To become smarter",
+          "To learn new languages"
+      ],
+      "correctAnswer": 1
+  },
+  {
+    "question": "What does camouflage mean?",
+    "choices": [
+        "A type of clothing",
+        "The ability to blend in with the environment",
+        "A type of paint",
+        "A type of armor"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "How do octopus and cuttlefish protect themselves against their enemies?",
+    "choices": [
+        "By building shells",
+        "By changing colors",
+        "By stinging",
+        "By shooting ink"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "Why do birds migrate?",
+    "choices": [
+        "To find a better mate",
+        "To escape cold weather and find food",
+        "To lay eggs",
+        "To visit other birds"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "Why does a cockroach die if put in the water?",
+    "choices": [
+        "It drowns",
+        "It gets too cold",
+        "It runs out of food",
+        "It gets eaten by a fish"
+    ],
+    "correctAnswer": 0
+},
+{
+    "question": "Why does a fish die when taken out of water?",
+    "choices": [
+        "It dries out",
+        "It suffocates",
+        "It explodes",
+        "It burns"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "Which of the following words is found in the word search?",
+    "choices": [
+        "SCALES",
+        "LUNGS",
+        "GILLS",
+        "SKIN"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "Which of the following words is found in the word search?",
+    "choices": [
+        "TEETH",
+        "CLAWS",
+        "FLIPPER",
+        "WING"
+    ],
+    "correctAnswer": 2
+},
+{
+    "question": "Which of the following words is found in the word search?",
+    "choices": [
+        "PROBOSCIS",
+        "ANTENNA",
+        "FEATHERS",
+        "EYES"
+    ],
+    "correctAnswer": 0
+},
+{
+    "question": "Which of the following words is found in the word search?",
+    "choices": [
+        "PADDLE",
+        "TALON",
+        "GIZZARD",
+        "HOOF"
+    ],
+    "correctAnswer": 0
+},
+{
+    "question": "Most caterpillars are what color?",
+    "choices": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "What does the green color help caterpillars do?",
+    "choices": [
+        "Attract mates",
+        "Absorb sunlight",
+        "Blend in with leaves for camouflage",
+        "Stay warm"
+    ],
+    "correctAnswer": 2
+},
+{
+    "question": "Which type of skills are mentioned in 'Creative Corner'?",
+    "choices": [
+        "Fine motor skill",
+        "Map skills",
+        "Social skills",
+        "Listening skills"
+    ],
+    "correctAnswer": 1
+},
+{
+    "question": "Which quality is mentioned in 'Creative Corner'?",
+    "choices": [
+        "Quality education",
+        "Quality environment",
+        "Quality health",
+        "Quality life"
+    ],
+    "correctAnswer": 0
+},
+{
+    "question": "Which type of awareness is mentioned in 'Creative Corner'?",
+    "choices": [
+        "Social Awareness",
+        "Environmental Awareness",
+        "Economic Awareness",
+        "Political Awareness"
+    ],
+    "correctAnswer": 0
+},
+{
+    "question": "Which birds are mentioned in 'Creative Corner'?",
+    "choices": [
+        "Bald eagle",
+        "Brown-headed gull",
+        "Cardinal",
+        "Blue Jay"
+    ],
+    "correctAnswer": 1
+}
+]
