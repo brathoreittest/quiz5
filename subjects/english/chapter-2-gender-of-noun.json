@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Change the gender of the underlined noun: My father asked the maidservant to get him a cup of tea. What is the new sentence?",
+        "choices": [
+            "My mother asked the maidservant to get her a cup of tea.",
+            "My father asked the manservant to get him a cup of tea.",
+            "My mother asked the manservant to get her a cup of tea.",
+            "My mother asked the maidservant to get him a cup of tea."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Change the gender of the underlined noun: My brother has brought some fruits from the market. What is the new sentence?",
+        "choices": [
+            "My sister has brought some fruits from the market.",
+            "My sister has brought some fruits at the market.",
+            "My sister have brought some fruits from the market.",
+            "My sister is brought some fruits from the market."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: The King passed the law. What is the new sentence?",
+        "choices": [
+            "The Queen passed the rule.",
+            "The King passed the law.",
+            "The Queen passed the law.",
+            "The Queen passed the order."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Change the gender of the underlined noun: My aunt bought me a new watch. What is the new sentence?",
+        "choices": [
+            "My uncle bought me a new watch.",
+            "My uncle bought me a new clock.",
+            "My uncle bought me a old watch.",
+            "My uncle bought me a new toy."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: I saw a peahen in the park. What is the new sentence?",
+        "choices": [
+            "I saw a peacock in the park.",
+            "I saw a peahen in the forest.",
+            "I saw a peacock in the forest.",
+            "I saw a chicken in the park."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: Have you seen the cow anywhere? What is the new sentence?",
+        "choices": [
+            "Have you seen the bull anywhere?",
+            "Have you seen the bull somewhere?",
+            "Have you seen the calf anywhere?",
+            "Have you seen the horse anywhere?"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: The boy was playing outside. What is the new sentence?",
+        "choices": [
+            "The girl was playing outside.",
+            "The girls was playing outside.",
+            "The girl were playing outside.",
+            "The girls were playing outside."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: Girls secured good marks in the test. What is the new sentence?",
+        "choices": [
+            "Boys secured good marks in the test.",
+            "Boy secured good marks in the test.",
+            "Girls secured good marks in the test.",
+            "Children secured good marks in the test."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: My uncle is a teacher. What is the new sentence?",
+        "choices": [
+            "My aunt is a teacher.",
+            "My brother is a teacher.",
+            "My aunt is a instructor.",
+            "My uncle is a lecturer."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Change the gender of the underlined noun: My niece will come from the USA tomorrow. What is the new sentence?",
+        "choices": [
+            "My nephew will come from the USA tomorrow.",
+            "My uncle will come from the USA tomorrow.",
+            "My nephew will come from the UK tomorrow.",
+            "My nephew will come from the USA today."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I have lost my _______ in school today.",
+        "choices": [
+            "pen",
+            "watch",
+            "book",
+            "bag"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "I saw two birds perched on the _______.",
+        "choices": [
+            "roof",
+            "tree",
+            "ground",
+            "sky"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Meenu borrowed the _______ from Kajal.",
+        "choices": [
+            "pen",
+            "book",
+            "watch",
+            "bag"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My _______ does not show accurate time.",
+        "choices": [
+            "pen",
+            "watch",
+            "book",
+            "bag"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Please pass the _______, I want to change the channel.",
+        "choices": [
+            "remote",
+            "pen",
+            "book",
+            "bag"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following nouns is masculine?",
+        "choices": [
+            "Queen",
+            "Nephew",
+            "Actress",
+            "Grandmother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following nouns is feminine?",
+        "choices": [
+            "Master",
+            "Tiger",
+            "Maid",
+            "Priest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following nouns is neuter?",
+        "choices": [
+            "Mare",
+            "Lioness",
+            "Box",
+            "Hero"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a feminine noun?",
+        "choices": [
+            "Brother",
+            "Father",
+            "Mother",
+            "Gentleman"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a neuter noun?",
+        "choices": [
+            "Fan",
+            "Policeman",
+            "Princess",
+            "Granduncle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is a masculine noun?",
+        "choices": [
+            "Maid",
+            "Hero",
+            "Bachelor",
+            "Peahen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word best fills the blank: There is no space for you in this ______.",
+        "choices": [
+            "Remote",
+            "Room",
+            "Window",
+            "Pen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word best fills the blank: Please fill my ______.",
+        "choices": [
+            "Tree",
+            "Water bottle",
+            "Watch",
+            "Book"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word best fills the blank: It's raining heavily. Please shut the ______.",
+        "choices": [
+            "Remote",
+            "Window",
+            "Door",
+            "Pen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word best fills the blank: The baby is playing with the ______.",
+        "choices": [
+            "Tree",
+            "Book",
+            "Doll",
+            "Water bottle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word best fills the blank: Mehul, throw the ______ through the window.",
+        "choices": [
+            "Water bottle",
+            "Book",
+            "Ball",
+            "Pen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following would be classified as masculine?",
+        "choices": [
+            "Girls",
+            "Boys",
+            "Mother",
+            "Princess"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following would be classified as feminine?",
+        "choices": [
+            "Queen",
+            "Father",
+            "Brother",
+            "Granduncle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following would be classified as neuter?",
+        "choices": [
+            "Chair",
+            "Maid",
+            "Bachelor",
+            "Hero"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following would be classified as neuter?",
+        "choices": [
+            "Vixen",
+            "Window",
+            "Lionsess",
+            "Grandmother"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which gender refers to the names of males or male animals?",
+        "choices": [
+            "Feminine",
+            "Masculine",
+            "Neuter",
+            "Common"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which gender refers to the names of females or female animals?",
+        "choices": [
+            "Masculine",
+            "Neuter",
+            "Feminine",
+            "Common"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which gender refers to non-living things that are neither masculine nor feminine?",
+        "choices": [
+            "Feminine",
+            "Masculine",
+            "Neuter",
+            "Common"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which gender refers to the name of things which indicate either the masculine or the feminine?",
+        "choices": [
+            "Feminine",
+            "Masculine",
+            "Neuter",
+            "Common"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the feminine form of 'tiger'?",
+        "choices": [
+            "tigerine",
+            "tigress",
+            "tigereen",
+            "tigerss"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feminine form of 'poet'?",
+        "choices": [
+            "poetine",
+            "poete",
+            "poetess",
+            "poeted"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the feminine form of 'manager'?",
+        "choices": [
+            "manageress",
+            "managerine",
+            "manageree",
+            "managerwoman"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine form of 'waiter'?",
+        "choices": [
+            "waiterine",
+            "waitress",
+            "waiteres",
+            "waitering"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feminine form of 'heir'?",
+        "choices": [
+            "heirs",
+            "heiren",
+            "heiress",
+            "heirine"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the feminine form of 'god'?",
+        "choices": [
+            "godine",
+            "goddess",
+            "godrine",
+            "godde"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feminine form of 'hero'?",
+        "choices": [
+            "heress",
+            "heroine",
+            "heroin",
+            "heressine"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feminine form of 'peacock'?",
+        "choices": [
+            "peackhen",
+            "peahen",
+            "peacan",
+            "peafowl"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feminine form of 'grandfather'?",
+        "choices": [
+            "grandmother",
+            "grandfatheress",
+            "grandma",
+            "grandfathereen"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine form of 'landlord'?",
+        "choices": [
+            "landlady",
+            "landmadam",
+            "landowner",
+            "landlordess"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the feminine form of 'washerman'?",
+        "choices": [
+            "washerwoman",
+            "washerlady",
+            "washergirl",
+            "washereen"
+        ],
+        "correctAnswer": 0
+    }
+]
