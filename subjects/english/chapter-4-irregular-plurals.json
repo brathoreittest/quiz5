@@ -1,0 +1,302 @@
+[
+    {
+        "question": "While going to my uncle's house, I saw many ______ in the pond.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "I watched the _______ on television.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Sam has no vehicle. So, he went to the market on _______.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "foot"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Jack has to complete the _______ before exams.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Many _________ have participated in the marathon race.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Barry, Rahul and Shan are good ________.",
+        "choices": [
+            "news",
+            "children",
+            "fish",
+            "syllabi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Not all ________ of snakes are poisonous.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "species"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The shepherd came with a flock of ________.",
+        "choices": [
+            "news",
+            "people",
+            "sheep",
+            "syllabi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The lion sprang upon the ________.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "deer"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Tom and Mary are playing ________.",
+        "choices": [
+            "news",
+            "people",
+            "fish",
+            "darts"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The plural of 'man' is:",
+        "choices": [
+            "man",
+            "mens",
+            "mans",
+            "men"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The plural of 'woman' is:",
+        "choices": [
+            "woman",
+            "womans",
+            "women",
+            "womenses"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The plural of 'sheep' is:",
+        "choices": [
+            "sheeps",
+            "sheep",
+            "ship",
+            "sheeples"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The plural of 'fish' is:",
+        "choices": [
+            "fishs",
+            "fishes",
+            "fish",
+            "fishies"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The plural of 'child' is:",
+        "choices": [
+            "childs",
+            "child",
+            "children",
+            "childes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the plural form of 'goose'?",
+        "choices": [
+            "Gooses",
+            "Goose",
+            "Geese",
+            "Geeses"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the plural form of 'child'?",
+        "choices": [
+            "Childs",
+            "Childes",
+            "Children",
+            "Childern"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the plural form of 'mouse'?",
+        "choices": [
+            "Mouses",
+            "Mice",
+            "Micees",
+            "Mooese"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'ox'?",
+        "choices": [
+            "Oxes",
+            "Oxen",
+            "Oxs",
+            "Oxenize"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'man'?",
+        "choices": [
+            "Mans",
+            "Mens",
+            "Men",
+            "Mann"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the plural form of 'analysis'?",
+        "choices": [
+            "Analyses",
+            "Analysis",
+            "Analysiss",
+            "Analysi"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the plural form of 'fungus'?",
+        "choices": [
+            "Fungus",
+            "Fungi",
+            "Funguses",
+            "Fungis"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'cactus'?",
+        "choices": [
+            "Cactuss",
+            "Cacti",
+            "Cacta",
+            "Cactee"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'foot'?",
+        "choices": [
+            "Foots",
+            "Feet",
+            "Fetus",
+            "Fets"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'woman'?",
+        "choices": [
+            "Womans",
+            "Women",
+            "Womenses",
+            "Wimins"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following nouns has the same singular and plural form?",
+        "choices": [
+            "Sheep",
+            "Child",
+            "Mouse",
+            "Woman"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following nouns has the same singular and plural form?",
+        "choices": [
+            "Deer",
+            "Fungus",
+            "Oasis",
+            "Radius"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following nouns has the same singular and plural form?",
+        "choices": [
+            "News",
+            "Cactus",
+            "Ox",
+            "Person"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, some nouns have a plural form but take a ______ verb.",
+        "choices": [
+            "Plural",
+            "Singular",
+            "Irregular",
+            "Adjective"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the plural form of 'Syllabus'?",
+        "choices": [
+            "Syllabuss",
+            "Syllabuses",
+            "Syllabi",
+            "Syllabs"
+        ],
+        "correctAnswer": 2
+    }
+]

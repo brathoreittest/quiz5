@@ -1,0 +1,302 @@
+[
+    {
+        "question": "The speech of a minister is called?",
+        "choices": [
+            "The speech of the minister",
+            "The minister speech",
+            "The minister's speech",
+            "The ministers' speech"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The epic of the Hindus is called?",
+        "choices": [
+            "The Hindus' epic",
+            "The Hindus epic",
+            "The epic of Hindus",
+            "The Hindu's epic"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The wealth of rich men is?",
+        "choices": [
+            "Rich men's wealth",
+            "The rich mens wealth",
+            "Rich mens' wealth",
+            "Rich men wealth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The costumes of the children is?",
+        "choices": [
+            "The children's costumes",
+            "The childrens' costumes",
+            "The children costumes",
+            "The child's costumes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The creativity of a poet is?",
+        "choices": [
+            "The poets' creativity",
+            "The poets creativity",
+            "The poet's creativity",
+            "The creativity of poets"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The tool of a mason is?",
+        "choices": [
+            "The mason's tool",
+            "The masons' tool",
+            "The mason tool",
+            "The tool for mason"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The kitchen of a royal family is?",
+        "choices": [
+            "The royal family's kitchen",
+            "The royals' kitchen",
+            "The royal family kitchen",
+            "The kitchen of royal family"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The subjects of the king are called?",
+        "choices": [
+            "The king's subjects",
+            "The king subjects",
+            "The subject of king",
+            "The kings' subjects"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The books of the students are?",
+        "choices": [
+            "The students' books",
+            "The student's books",
+            "The student books",
+            "The students book"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The voice of a singer is called?",
+        "choices": [
+            "The singer's voice",
+            "The singers' voice",
+            "The singer voice",
+            "The voice of singer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "My _____ result will be declared today.",
+        "choices": [
+            "sister",
+            "sister's",
+            "sisters'",
+            "sisters"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The _______ crown is shining.",
+        "choices": [
+            "king",
+            "king's",
+            "kings'",
+            "kings"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My _______ saree is costly.",
+        "choices": [
+            "mother",
+            "mother's",
+            "mothers",
+            "mothers'"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "My _______ spectacles have broken.",
+        "choices": [
+            "grandpa",
+            "grandpas",
+            "grandpa's",
+            "grandpas'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The _______ smile was very charming.",
+        "choices": [
+            "baby",
+            "babies",
+            "baby's",
+            "babies'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following shows the correct way to form a possessive noun for a singular noun?",
+        "choices": [
+            "Adding only an apostrophe (')",
+            "Adding 's",
+            "Adding 'apostrophe s' ('s)",
+            "Using the word 'of'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How do you form a possessive noun when the noun is plural and ends in 's'?",
+        "choices": [
+            "Adding 's",
+            "Adding 'apostrophe s' ('s)",
+            "Adding only an apostrophe (')",
+            "Removing the 's'"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which example demonstrates the correct usage of a possessive noun for plural nouns that don't end in 's'?",
+        "choices": [
+            "Boys' hostel",
+            "Childrens' park",
+            "Women's clothes",
+            "Teacher's note"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When is the letter 's' omitted in possessive form?",
+        "choices": [
+            "When the noun is singular",
+            "When the noun is plural",
+            "When the noun ends in a vowel",
+            "When too many hissing sounds would come together"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which sentence demonstrates the correct way to write a possessive noun?",
+        "choices": [
+            "The leg's of the table",
+            "Father's computer",
+            "The arm of the chair",
+            "Teachers day"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rewrite 'The nest of a bird' using the possessive form.",
+        "choices": [
+            "Bird nest",
+            "The bird's nest",
+            "The nest bird",
+            "A bird nest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rewrite 'The watch of the gardener' using the possessive form.",
+        "choices": [
+            "The gardener's watch",
+            "The gardener watch",
+            "Gardener watch",
+            "Watch of the gardener"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rewrite 'The dog of our neighbour' using the possessive form.",
+        "choices": [
+            "Neighbour's dog",
+            "Our neighbour's dog",
+            "The dog of the neighbour",
+            "Neighbour dog"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rewrite 'The friend of Ravi' using the possessive form.",
+        "choices": [
+            "Ravi's friend",
+            "Ravis friend",
+            "Friend of Ravi",
+            "The friend Ravis"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rewrite 'The money of a poor man' using the possessive form.",
+        "choices": [
+            "The poor man money",
+            "A poor man's money",
+            "Poor man's money",
+            "Poor's man money"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rewrite 'The pit of a snake' using the possessive form.",
+        "choices": [
+            "Snake's pit",
+            "The snake pit",
+            "A snake pit",
+            "The snakes pit"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rewrite 'The mother of a baby' using the possessive form.",
+        "choices": [
+            "Baby's mother",
+            "The baby mother",
+            "Mother of a baby",
+            "Baby mother"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rewrite 'The notebooks of the boy' using the possessive form.",
+        "choices": [
+            "The boys' notebook",
+            "Boys notebook",
+            "The boy notebooks",
+            "Boy's notebooks"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rewrite 'The words of a Saint' using the possessive form.",
+        "choices": [
+            "Saint's words",
+            "The saint's words",
+            "Saints words",
+            "The Saint words"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rewrite 'The father of the child' using the possessive form.",
+        "choices": [
+            "The childs father",
+            "The child's father",
+            "Child's father",
+            "Childs father"
+        ],
+        "correctAnswer": 1
+    }
+]
