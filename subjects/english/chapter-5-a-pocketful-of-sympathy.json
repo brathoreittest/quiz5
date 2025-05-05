@@ -1,0 +1,299 @@
+[
+    {
+        "question": "What can some sympathy do?",
+        "choices": [
+            "stop a scratch from stinging",
+            "stop you from getting hurt",
+            "help you make new friends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a pocketful of sympathy cost?",
+        "choices": [
+            "lakhs of rupees",
+            "absolutely nothing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Visual imagery is connected to which sense?",
+        "choices": [
+            "Touch",
+            "Sight",
+            "Smell",
+            "Taste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following sentences uses auditory imagery?",
+        "choices": [
+            "The thunder growled and rumbled in the dark stormy night.",
+            "She dug her fingers into a sack of grains.",
+            "Have you ever smelled a book?",
+            "It was the tangiest and hottest dish he had ever eaten."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following sentences uses tactile imagery?",
+        "choices": [
+            "The thunder growled and rumbled in the dark stormy night.",
+            "She dug her fingers into a sack of grains.",
+            "Have you ever smelled a book?",
+            "It was the tangiest and hottest dish he had ever eaten."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following sentences uses olfactory imagery?",
+        "choices": [
+            "The thunder growled and rumbled in the dark stormy night.",
+            "She dug her fingers into a sack of grains.",
+            "Have you ever smelled a book?",
+            "It was the tangiest and hottest dish he had ever eaten."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following sentences uses gustatory imagery?",
+        "choices": [
+            "The thunder growled and rumbled in the dark stormy night.",
+            "She dug her fingers into a sack of grains.",
+            "Have you ever smelled a book?",
+            "It was the tangiest and hottest dish he had ever eaten."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the sentence, 'The thunder growled and rumbled in the dark stormy night,' what is the sense that is emphasized?",
+        "choices": [
+            "Sight",
+            "Hearing",
+            "Touch",
+            "Taste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the sentence, 'She dug her fingers into a sack of grains,' what is the sense that is emphasized?",
+        "choices": [
+            "Sight",
+            "Hearing",
+            "Touch",
+            "Taste"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'Have you ever smelled a book?' what is the sense that is emphasized?",
+        "choices": [
+            "Sight",
+            "Hearing",
+            "Smell",
+            "Taste"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the sentence, 'It was the tangiest and hottest dish he had ever eaten,' what is the sense that is emphasized?",
+        "choices": [
+            "Sight",
+            "Hearing",
+            "Smell",
+            "Taste"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Besides sight, how many other senses are connected to visual imagery?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the four other kinds of imagery that are connected to our other senses?",
+        "choices": [
+            "Smell, Taste, Sight, Hearing",
+            "Hearing, Touch, Smell and Taste",
+            "Taste, Sight, Touch, Smell",
+            "Touch, Smell, Sight and Hearing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is imagery?",
+        "choices": [
+            "It's a type of song",
+            "It's a musical instrument",
+            "It's a type of tree",
+            "This poem creates rich visual images of how sympathy makes it easier for us to heal our wounds and feel better"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "This poem creates rich visual images of how sympathy makes it easier for us to heal our wounds and feel better, this is known as?",
+        "choices": [
+            "Metaphor",
+            "Imagery",
+            "Simile",
+            "Alliteration"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is the author of the poem 'A Pocketful of Sympathy'?",
+        "choices": [
+            "Norman Lindsay",
+            "Alison Cassidy",
+            "Lindsay",
+            "None"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the poem, a pocketful of sympathy is 'really rather' what?",
+        "choices": [
+            "Expensive",
+            "Wonderful",
+            "Ordinary",
+            "Necessary"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The poem says sympathy can stop a scratch from doing what?",
+        "choices": [
+            "Bleeding",
+            "Stinging",
+            "Hurting",
+            "Healing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A bruise is described as being what color?",
+        "choices": [
+            "Red and blue",
+            "Black and bluing",
+            "Yellow and green",
+            "Orange and brown"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Sympathy can catch what?",
+        "choices": [
+            "A cold",
+            "A tear",
+            "A ball",
+            "A disease"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A tear is compared to what?",
+        "choices": [
+            "A river",
+            "A raindrop",
+            "A cloud",
+            "The ocean"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A pocketful of sympathy costs how much?",
+        "choices": [
+            "A lot",
+            "A little",
+            "Absolutely nothing",
+            "A fortune"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The poem states that sympathy is the cheapest kind of what?",
+        "choices": [
+            "Medicine",
+            "Food",
+            "Plaster",
+            "Comfort"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the poem, what is sympathy like?",
+        "choices": [
+            "A disease",
+            "A burden",
+            "A joke",
+            "Lindsay's Magic Pudding"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The more sympathy you give away, the more you what?",
+        "choices": [
+            "Lose",
+            "Leave behind",
+            "Gain",
+            "Forget"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'sympathy' according to the definition box?",
+        "choices": [
+            "Temporary pain",
+            "Understanding and care for someone else's suffering",
+            "Broken skin",
+            "A magic trick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'stinging' mean according to the definition box?",
+        "choices": [
+            "Understanding and care for someone else's suffering",
+            "Causing sharp, temporary pain",
+            "Broken skin",
+            "A magic trick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'bruise' mean according to the definition box?",
+        "choices": [
+            "Understanding and care for someone else's suffering",
+            "Causing sharp, temporary pain",
+            "Injury where the skin has not been broken but is darker in colour",
+            "A magic trick"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who wrote Lindsay's Magic Pudding?",
+        "choices": [
+            "Alison Cassidy",
+            "Norman Lindsay",
+            "sympathy",
+            "bruise"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of book is Lindsay's Magic Pudding?",
+        "choices": [
+            "a horror fantasy",
+            "a comic fantasy",
+            "a sad fantasy",
+            "a love story"
+        ],
+        "correctAnswer": 1
+    }
+]
