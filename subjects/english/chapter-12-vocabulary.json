@@ -1,0 +1,1952 @@
+[
+    {
+        "question": "What is an 'acute' angle?",
+        "choices": [
+            "An angle greater than 90 degrees.",
+            "An angle equal to 90 degrees.",
+            "An angle less than 90 degrees.",
+            "An angle of exactly 180 degrees."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the 'circumference' of a circle?",
+        "choices": [
+            "The area inside the circle.",
+            "The distance around the outside of the circle.",
+            "The distance from the center to any point on the circle.",
+            "The distance across the circle through the center."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the term for the measurement of an angle, often expressed in 'degrees'?",
+        "choices": [
+            "Circumference",
+            "Diameter",
+            "Degree",
+            "Ratio"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the 'diameter' of a circle?",
+        "choices": [
+            "The distance around the circle.",
+            "The distance from the center to any point on the circle.",
+            "The distance across the circle through the center.",
+            "The area inside the circle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'dimensional' refer to?",
+        "choices": [
+            "Having to do with measurements in different directions.",
+            "Being parallel to another object",
+            "Having perfect symmetry.",
+            "Being located at the vertex."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'intersecting' describe?",
+        "choices": [
+            "Lines that never meet",
+            "Lines that cross each other",
+            "Lines that are at right angles",
+            "Lines that form a perfect square"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an 'obtuse' angle?",
+        "choices": [
+            "An angle less than 90 degrees.",
+            "An angle greater than 90 degrees but less than 180 degrees.",
+            "An angle exactly 90 degrees.",
+            "An angle exactly 180 degrees."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does it mean when lines are 'parallel'?",
+        "choices": [
+            "They cross at a right angle.",
+            "They meet at a point.",
+            "They never meet and are always the same distance apart.",
+            "They form a triangle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does it mean when lines are 'perpendicular'?",
+        "choices": [
+            "They are the same distance apart.",
+            "They intersect at a 90-degree angle.",
+            "They form a circle.",
+            "They are parallel."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'protractor' used for?",
+        "choices": [
+            "Drawing straight lines.",
+            "Measuring angles.",
+            "Constructing circles.",
+            "Calculating area."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the 'radius' of a circle?",
+        "choices": [
+            "The distance around the circle.",
+            "The distance across the circle through the center.",
+            "The distance from the center to any point on the circle.",
+            "The area of the circle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'ratio'?",
+        "choices": [
+            "A comparison of two quantities.",
+            "The measurement of an angle.",
+            "The length of a line segment.",
+            "The area of a shape."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'scale' refer to in geometry?",
+        "choices": [
+            "The actual size of an object.",
+            "The ratio of a representation to the actual object.",
+            "The weight of an object.",
+            "The degree of an angle."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'symmetry'?",
+        "choices": [
+            "Having the same shape on both sides of a dividing line.",
+            "The measurement of a circle.",
+            "Lines that intersect.",
+            "The longest side of a triangle."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'vertex'?",
+        "choices": [
+            "A straight line.",
+            "A flat surface.",
+            "A point where two or more lines meet.",
+            "The area of a shape"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these words describes a story where someone goes on a risky or exciting journey?",
+        "choices": [
+            "Autobiography",
+            "Adventure",
+            "Folklore",
+            "Magazine"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a book about a person's life written by that person called?",
+        "choices": [
+            "Encyclopedia",
+            "Autobiography",
+            "Poem",
+            "Literature"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes a place where books are sold?",
+        "choices": [
+            "Library",
+            "Bookstore",
+            "Introduction",
+            "Index"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the final part of a story or essay called?",
+        "choices": [
+            "Introduction",
+            "Conclusion",
+            "Index",
+            "Myth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means 'brought to a more advanced or elaborate state'?",
+        "choices": [
+            "Illiterate",
+            "Developed",
+            "Adventure",
+            "Folklore"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a comprehensive collection of information on various subjects called?",
+        "choices": [
+            "Magazine",
+            "Encyclopedia",
+            "Poem",
+            "Autobiography"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes the traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth?",
+        "choices": [
+            "Folklore",
+            "Literature",
+            "Myth",
+            "Index"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word means unable to read or write?",
+        "choices": [
+            "Librarian",
+            "Poet",
+            "Illiterate",
+            "Conclusion"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where can you find an alphabetical list of subjects or names mentioned in a book, usually at the end?",
+        "choices": [
+            "Introduction",
+            "Conclusion",
+            "Index",
+            "Encyclopedia"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the beginning section of a book or essay, which introduces the topic, called?",
+        "choices": [
+            "Index",
+            "Introduction",
+            "Conclusion",
+            "Folklore"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who works in a library and helps people find books?",
+        "choices": [
+            "Librarian",
+            "Poet",
+            "Author",
+            "Editor"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the general term for written works, especially those considered of superior or lasting artistic merit?",
+        "choices": [
+            "Magazine",
+            "Literature",
+            "Autobiography",
+            "Folklore"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these refers to a periodical publication containing articles, stories, and photographs?",
+        "choices": [
+            "Magazine",
+            "Encyclopedia",
+            "Poem",
+            "Autobiography"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word describes a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events?",
+        "choices": [
+            "Myth",
+            "Folklore",
+            "Adventure",
+            "Conclusion"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a literary composition, written in verse, that often uses rhythm and figurative language?",
+        "choices": [
+            "Poem",
+            "Magazine",
+            "Autobiography",
+            "Encyclopedia"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which term refers to the study of the relationships between living organisms and their surroundings?",
+        "choices": [
+            "Conservation",
+            "Ecology",
+            "Environment",
+            "Pollution"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the term for the protection of natural resources?",
+        "choices": [
+            "Disposal",
+            "Conservation",
+            "Pollution",
+            "Waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these words means to make something dirty and harmful?",
+        "choices": [
+            "Reduce",
+            "Pollute",
+            "Recycle",
+            "Dispose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Materials that can be broken down naturally by bacteria are described as?",
+        "choices": [
+            "Reusable",
+            "Recycled",
+            "Biodegradable",
+            "Disposable"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these options means to use an item again?",
+        "choices": [
+            "Reduce",
+            "Recycle",
+            "Reuse",
+            "Pollute"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the meaning of 'disposable'?",
+        "choices": [
+            "Can be used many times",
+            "Intended to be thrown away after use",
+            "Made of metal",
+            "Easy to recycle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What word describes unwanted or unusable materials?",
+        "choices": [
+            "Waste",
+            "Metal",
+            "Process",
+            "Plastic"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is the term to describe the act of decreasing the amount of something?",
+        "choices": [
+            "Process",
+            "Reduce",
+            "Pollute",
+            "Dispose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The noun form of 'pollute' is:",
+        "choices": [
+            "Recycling",
+            "Pollution",
+            "Conservation",
+            "Disposal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a naturally occurring solid material?",
+        "choices": [
+            "Plastic",
+            "Metal",
+            "Pollution",
+            "Waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What describes the series of actions or steps taken to achieve a particular end?",
+        "choices": [
+            "Ecology",
+            "Reduce",
+            "Process",
+            "Environment"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does it mean to 'recycle' something?",
+        "choices": [
+            "To throw it away",
+            "To convert waste into reusable material",
+            "To pollute the environment",
+            "To reduce its size"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes a place where living things exists?",
+        "choices": [
+            "Environment",
+            "Ecology",
+            "Process",
+            "Conservation"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If a container has nothing in it, it is:",
+        "choices": [
+            "Full",
+            "Empty",
+            "Reusable",
+            "Disposable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A synthetic material made from a wide range of organic polymers such as polyethylene or PVC is called:",
+        "choices": [
+            "Metal",
+            "Ecology",
+            "Plastic",
+            "Waste"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Someone who participates in a sport for enjoyment, not as a job, is an _________.",
+        "choices": [
+            "champion",
+            "amateur",
+            "athlete",
+            "opponent"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A _________ is the best player or team in a competition.",
+        "choices": [
+            "athlete",
+            "amateur",
+            "champion",
+            "penalty"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To move or cause to move quickly and lightly is to _________.",
+        "choices": [
+            "bounce",
+            "sprint",
+            "track",
+            "active"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A formal set of rules that must be followed is _________.",
+        "choices": [
+            "proper",
+            "opponent",
+            "penalty",
+            "protection"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The act of defending or guarding from attack, loss, or injury is _________.",
+        "choices": [
+            "track",
+            "protection",
+            "active",
+            "medal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The state of being full of energy and enthusiasm is _________.",
+        "choices": [
+            "proper",
+            "active",
+            "bounce",
+            "sprint"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The prize given in a sports competition is the _________.",
+        "choices": [
+            "medal",
+            "golf",
+            "league",
+            "track"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The feeling of having defeated all of the enemies is called _________.",
+        "choices": [
+            "victory",
+            "athlete",
+            "proper",
+            "active"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "An _________ is a person or group that is competing against another in a contest.",
+        "choices": [
+            "winning",
+            "opponent",
+            "bounce",
+            "penalty"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To hit the ground and spring back up is to _________.",
+        "choices": [
+            "track",
+            "protection",
+            "winning",
+            "bounce"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "A system of sports teams that play against each other is a _________.",
+        "choices": [
+            "champion",
+            "amateur",
+            "league",
+            "opponent"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A _________ is a person trained to compete in sports.",
+        "choices": [
+            "athlete",
+            "amateur",
+            "champion",
+            "opponent"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to standards of behavior, something that is correct or _________.",
+        "choices": [
+            "proper",
+            "winning",
+            "victory",
+            "golf"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A game that involves hitting a small ball using a club into a series of holes is _________.",
+        "choices": [
+            "penalty",
+            "winning",
+            "golf",
+            "medal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Achieving the state of being victorious is called _________.",
+        "choices": [
+            "winning",
+            "opponent",
+            "track",
+            "protection"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To postpone or suspend a meeting to a future time is to ____ it.",
+        "choices": [
+            "appear",
+            "adjourn",
+            "confess",
+            "reach"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To be present or visible, especially in a formal setting is to ____.",
+        "choices": [
+            "appear",
+            "evidence",
+            "adjourn",
+            "reach"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A formal admission of guilt is a ____.",
+        "choices": [
+            "verdict",
+            "evidence",
+            "confession",
+            "argument"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A place where legal cases are heard is a ____.",
+        "choices": [
+            "legal",
+            "court",
+            "judicial",
+            "officer"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The person accused of a crime is the ____.",
+        "choices": [
+            "judge",
+            "lawyer",
+            "officer",
+            "defendant"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Facts, objects, or signs used to prove something are ____.",
+        "choices": [
+            "evidence",
+            "confession",
+            "verdict",
+            "legal"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If you are responsible for a crime, you are ____.",
+        "choices": [
+            "innocent",
+            "legal",
+            "guilty",
+            "judicial"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If you are not responsible for a crime, you are ____.",
+        "choices": [
+            "guilty",
+            "innocent",
+            "judicial",
+            "legal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A person who presides over a court of law is a ____.",
+        "choices": [
+            "lawyer",
+            "officer",
+            "judge",
+            "defendant"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Relating to courts or the administration of justice is ____.",
+        "choices": [
+            "legal",
+            "judicial",
+            "officer",
+            "police"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A person trained in the law and authorized to advise or represent others in legal matters is a ____.",
+        "choices": [
+            "judge",
+            "lawyer",
+            "officer",
+            "defendant"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Permitted by law; lawful is ____.",
+        "choices": [
+            "innocent",
+            "guilty",
+            "legal",
+            "judicial"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A person holding a position of authority or trust is an ____.",
+        "choices": [
+            "judge",
+            "lawyer",
+            "officer",
+            "defendant"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The civil force of a state, responsible for the prevention and detection of crime is the ____.",
+        "choices": [
+            "officer",
+            "police",
+            "lawyer",
+            "judge"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A final decision or judgment on an issue is a ____.",
+        "choices": [
+            "evidence",
+            "confession",
+            "verdict",
+            "legal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a person learning a trade or profession from a skilled employer?",
+        "choices": [
+            "apprentice",
+            "architecture",
+            "audience",
+            "auditorium"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the art or practice of designing and constructing buildings?",
+        "choices": [
+            "authenticity",
+            "architecture",
+            "autograph",
+            "brilliant"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who are the people gathered to watch or listen to something?",
+        "choices": [
+            "description",
+            "dissatisfied",
+            "audience",
+            "elevator"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A large room or hall used for public gatherings is called a(n) _________.",
+        "choices": [
+            "autograph",
+            "auditorium",
+            "entered",
+            "imagination"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quality of being genuine or real?",
+        "choices": [
+            "authenticity",
+            "members",
+            "survey",
+            "signature"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a celebrity's written signature?",
+        "choices": [
+            "architecture",
+            "audience",
+            "autograph",
+            "brilliant"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word means exceptionally clever or talented?",
+        "choices": [
+            "commercial",
+            "description",
+            "dissatisfied",
+            "brilliant"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Related to or characteristic of commerce is best defined by...",
+        "choices": [
+            "commercial",
+            "authenticity",
+            "members",
+            "survey"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a spoken or written account of something?",
+        "choices": [
+            "description",
+            "elevator",
+            "entered",
+            "imagination"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "If you are not pleased or content, you are:",
+        "choices": [
+            "architecture",
+            "audience",
+            "autograph",
+            "dissatisfied"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "A machine used for carrying people or goods between floors is called a(n) _________.",
+        "choices": [
+            "signature",
+            "authenticity",
+            "elevator",
+            "brilliant"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word means to come or go into?",
+        "choices": [
+            "commercial",
+            "description",
+            "entered",
+            "imagination"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the faculty or action of forming new ideas, or images of external objects not present to the senses?",
+        "choices": [
+            "apprentice",
+            "members",
+            "survey",
+            "imagination"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "People who belong to a group or organization are called ______.",
+        "choices": [
+            "signature",
+            "authenticity",
+            "elevator",
+            "members"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "An investigation of the opinions or experience of a group of people, based on a series of questions, is called?",
+        "choices": [
+            "commercial",
+            "description",
+            "autograph",
+            "survey"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these refers to a story, often untrue, that is part of cultural tradition?",
+        "choices": [
+            "Autobiography",
+            "Folklore",
+            "Myth",
+            "Poem"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a thrilling or unusual experience called?",
+        "choices": [
+            "Adventure",
+            "Conclusion",
+            "Introduction",
+            "Literature"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a person who writes poems known as?",
+        "choices": [
+            "Librarian",
+            "Poet",
+            "Author",
+            "Magician"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a collection of knowledge, typically with articles on various topics?",
+        "choices": [
+            "Magazine",
+            "Encyclopedia",
+            "Literature",
+            "Index"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A list of topics at the end of a book, along with the page numbers where they appear is called:",
+        "choices": [
+            "Introduction",
+            "Conclusion",
+            "Index",
+            "Table of contents"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a person called who is unable to read or write?",
+        "choices": [
+            "Ignorant",
+            "Illiterate",
+            "Uneducated",
+            "Clueless"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A collection of stories passed down orally from one generation to another is known as:",
+        "choices": [
+            "Adventure",
+            "Folklore",
+            "Literature",
+            "Myth"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the term for the end or final part of something, often a book or argument?",
+        "choices": [
+            "Introduction",
+            "Conclusion",
+            "Index",
+            "Epilogue"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which term describes a place where books are sold?",
+        "choices": [
+            "Library",
+            "Bookstore",
+            "Reading room",
+            "Study"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a person who works in a library and helps people find books?",
+        "choices": [
+            "Teacher",
+            "Author",
+            "Librarian",
+            "Professor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a self-written account of a person's life?",
+        "choices": [
+            "Biography",
+            "Autobiography",
+            "Fiction",
+            "Novel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which term refers to written works, especially those considered of superior or lasting artistic merit?",
+        "choices": [
+            "Literature",
+            "Magazine",
+            "Encyclopedia",
+            "Folklore"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which term describes something that has been improved or enhanced over time?",
+        "choices": [
+            "Abandoned",
+            "Developed",
+            "Destroyed",
+            "Forgotten"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a periodical publication containing articles, stories, and photographs called?",
+        "choices": [
+            "Book",
+            "Magazine",
+            "Journal",
+            "Newspaper"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a piece of writing, often using figurative language and rhythm, intended to evoke emotion?",
+        "choices": [
+            "Essay",
+            "Poem",
+            "Article",
+            "Play"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes something that can be broken down naturally by bacteria or other living organisms?",
+        "choices": [
+            "Reusable",
+            "Biodegradable",
+            "Disposable",
+            "Recycle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the act of protecting natural resources to prevent waste and loss?",
+        "choices": [
+            "Pollution",
+            "Conservation",
+            "Disposal",
+            "Waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which term refers to something designed to be used only once and then thrown away?",
+        "choices": [
+            "Reusable",
+            "Recycle",
+            "Disposable",
+            "Biodegradable"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The act of getting rid of something is known as what?",
+        "choices": [
+            "Pollution",
+            "Disposal",
+            "Conservation",
+            "Recycling"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the study of the relationship between living organisms and their surroundings?",
+        "choices": [
+            "Environment",
+            "Ecology",
+            "Pollution",
+            "Waste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means containing nothing?",
+        "choices": [
+            "Waste",
+            "Empty",
+            "Reusable",
+            "Biodegradable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the surroundings or conditions in which a person, animal, or plant lives or operates?",
+        "choices": [
+            "Ecology",
+            "Environment",
+            "Pollution",
+            "Disposal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Aluminum, iron, and gold are examples of what type of material?",
+        "choices": [
+            "Plastic",
+            "Metal",
+            "Biodegradable",
+            "Disposable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which synthetic material is widely used in packaging and products?",
+        "choices": [
+            "Metal",
+            "Plastic",
+            "Biodegradable",
+            "Reusable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What verb describes the act of contaminating the environment with harmful substances?",
+        "choices": [
+            "Recycle",
+            "Reduce",
+            "Pollute",
+            "Conserve"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What noun describes the presence of harmful substances in the environment?",
+        "choices": [
+            "Conservation",
+            "Pollution",
+            "Ecology",
+            "Disposal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a series of actions or steps taken in order to achieve a particular end?",
+        "choices": [
+            "Process",
+            "Recycle",
+            "Reduce",
+            "Pollute"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What verb describes the process of converting waste materials into reusable objects?",
+        "choices": [
+            "Reduce",
+            "Dispose",
+            "Recycle",
+            "Pollute"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What verb means to make smaller or less in amount, degree, or size?",
+        "choices": [
+            "Recycle",
+            "Reduce",
+            "Pollute",
+            "Dispose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which adjective describes an item that can be used more than once?",
+        "choices": [
+            "Disposable",
+            "Biodegradable",
+            "Reusable",
+            "Waste"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word describes someone who competes in a sport but does not get paid?",
+        "choices": [
+            "Athlete",
+            "Champion",
+            "Amateur",
+            "Active"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do you call a small, flat piece of metal given as an award for winning a competition?",
+        "choices": [
+            "Trophy",
+            "Penalty",
+            "Medal",
+            "Banner"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a disadvantage given against a player or team for breaking a rule?",
+        "choices": [
+            "Protection",
+            "Victory",
+            "Penalty",
+            "Sprint"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the act of defeating an opponent in a competition?",
+        "choices": [
+            "Victory",
+            "Winning",
+            "Medal",
+            "Bounce"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word means energetic and involved in sports or physical activity?",
+        "choices": [
+            "Amateur",
+            "Athlete",
+            "Active",
+            "Winning"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a person or team that you compete against in a game or contest called?",
+        "choices": [
+            "Champion",
+            "Opponent",
+            "Athlete",
+            "Amateur"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a structured system or set of rules and standards, usually for a sports competition?",
+        "choices": [
+            "Sprint",
+            "Track",
+            "League",
+            "Medal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the state of having won something?",
+        "choices": [
+            "Victory",
+            "Winning",
+            "Proper",
+            "Active"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word refers to a person trained or skilled in a strength, agility, or endurance activity?",
+        "choices": [
+            "Active",
+            "Athlete",
+            "Opponent",
+            "Amateur"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means a short, fast run?",
+        "choices": [
+            "Track",
+            "League",
+            "Sprint",
+            "Bounce"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is a verb that means to spring back up after hitting a surface?",
+        "choices": [
+            "Active",
+            "Bounce",
+            "Track",
+            "Sprint"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an area or course designed for running or racing?",
+        "choices": [
+            "Track",
+            "Penalty",
+            "Protection",
+            "Proper"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a person or team who has defeated all rivals in a competition?",
+        "choices": [
+            "Amateur",
+            "Athlete",
+            "Champion",
+            "Active"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the action of keeping someone or something safe?",
+        "choices": [
+            "Proper",
+            "Protection",
+            "Penalty",
+            "Sprint"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word refers to a sport played with clubs and a small white ball?",
+        "choices": [
+            "Golf",
+            "League",
+            "Track",
+            "Bounce"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To suspend a meeting to be resumed later is to:",
+        "choices": [
+            "appear",
+            "adjourn",
+            "reached",
+            "legal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a formal statement admitting that one is guilty of a crime?",
+        "choices": [
+            "verdict",
+            "evidence",
+            "confession",
+            "judicial"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a place where legal cases are heard?",
+        "choices": [
+            "court",
+            "police",
+            "officer",
+            "lawyer"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the person accused of a crime in a court of law?",
+        "choices": [
+            "judge",
+            "lawyer",
+            "defendant",
+            "officer"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the available body of facts or information indicating whether a belief or proposition is true or valid?",
+        "choices": [
+            "evidence",
+            "confession",
+            "verdict",
+            "legal"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does it mean to be found responsible for committing a crime?",
+        "choices": [
+            "innocent",
+            "guilty",
+            "legal",
+            "judicial"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the state of being free from criminal responsibility?",
+        "choices": [
+            "guilty",
+            "legal",
+            "judicial",
+            "innocent"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is the public official appointed to decide cases in a court of law?",
+        "choices": [
+            "officer",
+            "lawyer",
+            "police",
+            "judge"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following relates to the administration of justice or the judiciary?",
+        "choices": [
+            "legal",
+            "judicial",
+            "police",
+            "court"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is a person who practices or studies law; an attorney or counselor?",
+        "choices": [
+            "police",
+            "officer",
+            "lawyer",
+            "judge"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is something that is permitted by law?",
+        "choices": [
+            "judicial",
+            "verdict",
+            "legal",
+            "evidence"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a person with official duties in an organization or government, especially someone in the armed forces or the police?",
+        "choices": [
+            "defendant",
+            "lawyer",
+            "officer",
+            "judge"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the civil force of a state, responsible for the prevention and detection of crime and the maintenance of public order?",
+        "choices": [
+            "officer",
+            "police",
+            "lawyer",
+            "court"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word means to come to a decision?",
+        "choices": [
+            "adjourn",
+            "reached",
+            "appear",
+            "evidence"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a formal finding of fact made by a jury on matters or questions submitted to the jury by a judge?",
+        "choices": [
+            "confession",
+            "evidence",
+            "verdict",
+            "judicial"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these words describes a collection of stories passed down through generations?",
+        "choices": [
+            "Autobiography",
+            "Folklore",
+            "Encyclopedia",
+            "Adventure"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The final part of a story or argument is called the ____.",
+        "choices": [
+            "Introduction",
+            "Adventure",
+            "Conclusion",
+            "Index"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A person who writes poems is called a ____.",
+        "choices": [
+            "Librarian",
+            "Poet",
+            "Author",
+            "Editor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A thrilling and exciting experience is known as an ____.",
+        "choices": [
+            "Adventure",
+            "Encyclopedia",
+            "Magazine",
+            "Autobiography"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word describes someone who is unable to read or write?",
+        "choices": [
+            "Literate",
+            "Developed",
+            "Illiterate",
+            "Academic"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word refers to a store that sells books?",
+        "choices": [
+            "Library",
+            "Bookstore",
+            "Magazine",
+            "Archive"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A self-written life story is known as a(n) ____.",
+        "choices": [
+            "Biography",
+            "Autobiography",
+            "Fiction",
+            "Essay"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name for a professional who manages a library?",
+        "choices": [
+            "Author",
+            "Poet",
+            "Librarian",
+            "Historian"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which is a collection of knowledge, often arranged alphabetically?",
+        "choices": [
+            "Magazine",
+            "Folklore",
+            "Encyclopedia",
+            "Introduction"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The first part of a book, introducing the content, is the ____.",
+        "choices": [
+            "Conclusion",
+            "Index",
+            "Introduction",
+            "Poem"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What word describes the process of being improved or expanded?",
+        "choices": [
+            "Concluded",
+            "Developed",
+            "Invented",
+            "Decreased"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A traditional story, often explaining natural events, is a ____.",
+        "choices": [
+            "Index",
+            "Myth",
+            "Introduction",
+            "Adventure"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the word for written works, especially those considered of superior or lasting artistic merit?",
+        "choices": [
+            "Literature",
+            "Folklore",
+            "Poem",
+            "Magazine"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where would you typically find a list of topics and page numbers?",
+        "choices": [
+            "Index",
+            "Introduction",
+            "Conclusion",
+            "Autobiography"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a piece of writing that expresses feelings and ideas in a musical style?",
+        "choices": [
+            "Autobiography",
+            "Poem",
+            "Adventure",
+            "Magazine"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes someone learning a trade by working with a skilled worker?",
+        "choices": [
+            "architecture",
+            "apprentice",
+            "audience",
+            "autograph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the design and plan of a building or structure?",
+        "choices": [
+            "Audience",
+            "Commercial",
+            "Architecture",
+            "Description"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a group of people gathered to watch or listen to something?",
+        "choices": [
+            "Audience",
+            "Members",
+            "Signature",
+            "Survey"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a large room or hall used for public gatherings or performances?",
+        "choices": [
+            "Elevator",
+            "Auditorium",
+            "Apprentice",
+            "Autograph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the quality of being genuine or real?",
+        "choices": [
+            "Authenticity",
+            "Brilliant",
+            "Imagination",
+            "Description"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a signature, especially of a famous person?",
+        "choices": [
+            "Elevator",
+            "Autograph",
+            "Survey",
+            "Signature"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word describes something that is exceptionally clever or talented?",
+        "choices": [
+            "Brilliant",
+            "Commercial",
+            "Dissatisfied",
+            "Entered"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an advertisement that is broadcast on television or radio?",
+        "choices": [
+            "Survey",
+            "Description",
+            "Commercial",
+            "Architecture"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a spoken or written account of a person, object, or event?",
+        "choices": [
+            "Description",
+            "Authenticity",
+            "Members",
+            "Imagination"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word describes feeling or expressing discontent?",
+        "choices": [
+            "Brilliant",
+            "Dissatisfied",
+            "Entered",
+            "Apprentice"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a device that carries people or goods between floors?",
+        "choices": [
+            "Elevator",
+            "Auditorium",
+            "Description",
+            "Autograph"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word means to go or come into (a place)?",
+        "choices": [
+            "Entered",
+            "Authenticity",
+            "Architecture",
+            "Signature"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses?",
+        "choices": [
+            "Imagination",
+            "Members",
+            "Survey",
+            "Commercial"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who are people who belong to a group or organization?",
+        "choices": [
+            "Apprentice",
+            "Members",
+            "Audience",
+            "Architecture"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an investigation about the characteristics of a given population by means of collecting data from a sample of that population?",
+        "choices": [
+            "Signature",
+            "Survey",
+            "Elevator",
+            "Autograph"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an 'acute' angle?",
+        "choices": [
+            "An angle greater than 90 degrees",
+            "An angle equal to 90 degrees",
+            "An angle less than 90 degrees",
+            "A straight line"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which term describes the distance around a circle?",
+        "choices": [
+            "Diameter",
+            "Radius",
+            "Circumference",
+            "Area"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'diameter'?",
+        "choices": [
+            "The distance from the center to a point on a circle",
+            "The distance around a circle",
+            "The distance across a circle through the center",
+            "A straight line that does not touch the circle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If two lines are 'intersecting', what does that mean?",
+        "choices": [
+            "They are parallel.",
+            "They never meet.",
+            "They cross each other.",
+            "They form a perfect circle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "An 'obtuse' angle is:",
+        "choices": [
+            "Less than 90 degrees",
+            "Equal to 90 degrees",
+            "Greater than 90 degrees but less than 180 degrees",
+            "Equal to 180 degrees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does it mean for lines to be 'parallel'?",
+        "choices": [
+            "They intersect at a right angle.",
+            "They intersect at any angle.",
+            "They never intersect and maintain the same distance apart.",
+            "They form a triangle."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the relationship between 'perpendicular' lines?",
+        "choices": [
+            "They are parallel.",
+            "They are the same line.",
+            "They intersect at a 90-degree angle.",
+            "They are curved."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which tool is used to measure angles?",
+        "choices": [
+            "Ruler",
+            "Compass",
+            "Protractor",
+            "Scale"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'radius'?",
+        "choices": [
+            "The distance around a circle",
+            "The distance across a circle through the center",
+            "The distance from the center of a circle to any point on the circle",
+            "An angle less than 90 degrees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'ratio' mean?",
+        "choices": [
+            "A comparison of two quantities.",
+            "The sum of two numbers.",
+            "The product of two numbers.",
+            "The difference between two numbers."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the context of maps or drawings, what is a 'scale'?",
+        "choices": [
+            "A measuring device for angles",
+            "The comparison of a measurement on a drawing to the actual measurement",
+            "The edge of a shape",
+            "A type of angle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'symmetry' describe?",
+        "choices": [
+            "An object that has equal sides.",
+            "A correspondence in size, form, or arrangement on opposite sides of a plane, line, or point.",
+            "The distance around a shape.",
+            "An object with no sides."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the 'vertex' of an angle?",
+        "choices": [
+            "The straight lines which form the angle",
+            "The point where two lines meet to form an angle",
+            "The region inside the angle",
+            "The degree of the angle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'degree' represent?",
+        "choices": [
+            "A unit of measurement for angles",
+            "The distance around a circle",
+            "The area of a circle",
+            "The radius of a circle"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'dimensional' mean?",
+        "choices": [
+            "Having volume",
+            "Having height",
+            "Having breadth",
+            "Having size in a particular direction"
+        ],
+        "correctAnswer": 3
+    }
+]
